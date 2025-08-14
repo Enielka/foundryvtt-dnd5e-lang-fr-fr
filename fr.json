@@ -1615,7 +1615,7 @@
                 "hint": "Restrictions sur le type d’objet auquel cet enchantement peut être appliqué.",
                 "allowMagical": {
                     "label": "Permettre les objets magiques",
-                    "hint": "Permettre aux objets déjà magiques d'être enchantés."
+                    "hint": "Permettre d'enchanter des objets physiques qui sont déjà magiques."
                 },
                 "categories": {
                     "label": "Catégories valides",
@@ -1718,7 +1718,7 @@
             "Override": "Cette valeur a été modifiée par un Enchantement et ne peut pas être éditée. Effacer l'enchantement de l'onglet Effets pour l'éditer."
         },
         "Period": {
-            "AtWill": "À Volonté",
+            "AtWill": "À volonté",
             "LongRest": "Repos long",
             "Never": "Jamais",
             "ShortRest": "Repos court"
@@ -1756,7 +1756,7 @@
             "Ki": "Capacité de Ki",
             "Maneuver": "Manœuvre",
             "Metamagic": "Option de métamagie",
-            "Multiattack": "Attaque multiple",
+            "Multiattack": "Attaques multiples",
             "PactBoon": "Pacte",
             "PsionicPower": "Pouvoir psionique",
             "Rune": "Rune",
@@ -1916,6 +1916,12 @@
         "Distribute": {
             "noxp": "Distribuer la monnaie mise en commun",
             "xp": "Distribuer les PX et la monnaie mis en commun"
+        },
+        "Config": {
+            "Art": {
+                "tokens": "Tokens",
+                "portraits": "Portraits"
+            }
         }
     },
     "DND5E.Hair": "Cheveux",
@@ -4472,7 +4478,8 @@
             "Lair": "PX {value}, ou {lair} dans son antre"
         },
         "Value": "Valeur en PX",
-        "Label": "Points d'expérience"
+        "Label": "Points d'expérience",
+        "Pool": "Réserve PX"
     },
     "DND5E.FORWARD": {
         "Title": "Transférer",
@@ -4549,7 +4556,8 @@
         "Remaining": "Actions légendaires restantes",
         "Description": "Utilisations des actions légendaires : {uses}.",
         "DescriptionLegacy": "Le {name} peut entreprendre {usesNamed}, à choisir parmi les options ci-après. Une seule option légendaire peut être utilisée à la fois, et uniquement à la fin du tour d'une autre créature. Le {name} récupère les actions légendaires dépensées au début de son tour.",
-        "LairUses": "{normal} ({lair} dans l'antre)"
+        "LairUses": "{normal} ({lair} dans l'antre)",
+        "LabelPl": "Actions légendaires"
     },
     "DND5E.Loyalty": "Dévouement",
     "DND5E.ProficiencyOther": "Autre",
@@ -4796,7 +4804,7 @@
                     "hint": "Définit comment les créatures sources de la transformation sont sélectionnées.",
                     "Appearance": "Apparence uniquement",
                     "Default": "Navigateur de compendium",
-                    "Direct": "Lien direct"
+                    "Direct": "Par lien direct"
                 },
                 "preset": {
                     "label": "Préréglage"
@@ -4846,6 +4854,12 @@
                 },
                 "Vision": {
                     "Label": "Vision"
+                },
+                "Resistances": {
+                    "Label": "Résistance aux dégâts"
+                },
+                "Languages": {
+                    "Label": "Langues"
                 }
             },
             "Effects": {
@@ -4944,7 +4958,8 @@
             },
             "ChallengeRatingLabel": "Facteur de puissance de {cr} ou inférieur",
             "Empty": "Cliquez sur le bouton <i class=\"fas fa-plus\"></i> ci-dessus pour créer un profil.",
-            "Label": "Profil de transformation"
+            "Label": "Profil de transformation",
+            "DropHint": "Déposer la créature ici"
         },
         "SECTIONS": {
             "Profiles": "Profils",
@@ -5102,8 +5117,106 @@
                 "ignoredDispositions": {
                     "hint": "Les tokens ayant ces dispositions ne seront pas affectés par ce terrain difficile.",
                     "label": "Dispositions ignorées"
+                },
+                "magical": {
+                    "label": "Magique"
+                },
+                "types": {
+                    "label": "Types"
                 }
+            },
+            "Type": {
+                "Magical": "Magique"
             }
         }
-    }
+    },
+    "DND5E.SheetClass": {
+        "SpellList": "Feuille de liste de sorts 5e par défaut",
+        "Token": "Feuille de token 5e par défaut",
+        "Vehicle": "Feuille de véhicule 5e par défaut",
+        "Character": "Fiche de personnage 5e par défaut",
+        "ClassSummary": "Feuille de résumé des classes 5e par défaut",
+        "Container": "Feuille de conteneur 5e par défaut",
+        "DifficultTerrain": "Feuille de Terrain difficile 5e par défaut",
+        "Encounter": "Feuille de rencontre 5e par défaut",
+        "Group": "Feuille de groupe 5e par défaut",
+        "Item": "Feuille d'objet 5e par défaut",
+        "JournalEntryLegacy": "Feuille de journal 5e historique",
+        "MapLocation": "Feuille de carte 5e par défaut",
+        "NPC": "Feuille de PNJ 5e par défaut",
+        "JournalEntry": "Feuille de journal 5e par défaut",
+        "Rule": "Feuille de règles 5e par défaut"
+    },
+    "DND5E.SpellLevelSpell": "{level} ({n} Emplacements)",
+    "DND5E.ENCOUNTER": {
+        "Action": {
+            "Award": "Récompense PX et monnaie"
+        },
+        "DropCreature": "Déposer une créature",
+        "Tab": {
+            "Description": "Description",
+            "Loot": "Butin",
+            "Members": "Membres"
+        }
+    },
+    "DND5E.SPELLCASTING": {
+        "METHODS": {
+            "Spell": {
+                "Third": {
+                    "label": "1/3 lanceur ('Third Caster' : Chevalier Occulte, Arnaqueur Arcanique)"
+                },
+                "label": "Sorts",
+                "Full": {
+                    "label": "Lanceur complet ('full caster' : magicien,druide,clerc,barde,ensorceleur.)"
+                },
+                "Half": {
+                    "label": "1/2 lanceur ('Half Caster' : paladin, rôdeur)"
+                },
+                "Artificer": {
+                    "label": "Artificier"
+                }
+            },
+            "Ritual": {
+                "label": "Rituel uniquement"
+            },
+            "Pact": {
+                "label": "Magie de pacte",
+                "Full": {
+                    "label": "Magie de pacte"
+                }
+            },
+            "AtWill": {
+                "label": "À volonté"
+            },
+            "Innate": {
+                "label": "Sorts innés"
+            }
+        },
+        "SLOTS": {
+            "spell0": "Sorts mineurs",
+            "spell1": "1er niveau",
+            "spell2": "2e niveau",
+            "spell3": "3e niveau",
+            "spell4": "4e niveau",
+            "spell5": "5e niveau",
+            "spell6": "6e niveau",
+            "spell7": "7e niveau",
+            "spell8": "8e niveau",
+            "spell9": "9e niveau"
+        },
+        "STATES": {
+            "Prepared": "Préparé",
+            "AlwaysPrepared": "Toujours préparé"
+        }
+    },
+    "DND5E.Travel": {
+        "Pace": {
+            "Normal": "Normale",
+            "Slow": "Lente",
+            "Fast": "Rapide"
+        },
+        "Label": "Allure de voyage"
+    },
+    "DND5E.FlagsToolExpertise": "Expertise de l'outillage",
+    "DND5E.FlagsHalflingNimbleness": "Agilité halfeline"
 }
