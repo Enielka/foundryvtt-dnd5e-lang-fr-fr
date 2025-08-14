@@ -280,6 +280,14 @@
                     "hint": "Nombre de points qui peuvent être assignés à n'importe quelle valeur de caractéristique débloquée.",
                     "decrease": "Diminuer les points",
                     "increase": "Augmenter les points"
+                },
+                "recommendation": {
+                    "hint": "Faveur épique recommandée par cette classe.",
+                    "label": "Recommandation"
+                },
+                "max": {
+                    "hint": "Augmenter la valeur maximale autorisée pour l'acteur.",
+                    "label": "Maximum"
                 }
             },
             "LockedHint": "Les valeurs ne peuvent pas être modifiés avec un don sélectionné.",
@@ -299,7 +307,8 @@
             },
             "Action": {
                 "Select": "Sélectionner un don"
-            }
+            },
+            "TitleEpic": "Faveur épique"
         },
         "SPELLCONFIG": {
             "FreeCasting": "Incantation gratuite",
@@ -439,6 +448,10 @@
                     },
                     "subtype": {
                         "label": "Sous-type"
+                    },
+                    "list": {
+                        "hint": "Seuls les sorts figurant dans ces listes sont autorisés.",
+                        "label": "Listes de sorts"
                     }
                 },
                 "type": {
@@ -459,9 +472,14 @@
                 "NoOriginal": "Le choix précédemment sélectionné n'est plus disponible pour le remplacement.",
                 "PreviouslyChosen": "Cet objet a déjà été choisi à un niveau précédent.",
                 "SpellLevelAvailable": "Seuls les sorts de niveau {level} ou inférieur peuvent être choisis pour cette progression.",
-                "SpellLevelSpecific": "Seuls les sorts de niveau {level} peuvent être choisis pour cette progression."
+                "SpellLevelSpecific": "Seuls les sorts de niveau {level} peuvent être choisis pour cette progression.",
+                "MaxSelected": "Aucun autre objet ne peut être sélectionné. Décochez les objets avant d'en sélectionner d'autres."
             },
-            "DropHint": "Déposez des objets ici pour les ajouter à la liste pouvant être sélectionnée avec cette progression."
+            "DropHint": "Déposez des objets ici pour les ajouter à la liste pouvant être sélectionnée avec cette progression.",
+            "Action": {
+                "SelectGeneric": "Sélectionner un objet",
+                "SelectSpecific": "Sélectionner {type}"
+            }
         },
         "ScaleValue": {
             "FIELDS": {
@@ -614,6 +632,12 @@
             "Hint": "Sélectionnez les Progressions suivantes qui seront ajoutées à {name}.",
             "Selection": "Sélection de Progression",
             "Title": "Migrer la Progression"
+        },
+        "Defaults": {
+            "BackgroundFeat": "Don d'historique",
+            "BackgroundFeature": "Aptitude d'historique",
+            "BackgroundProficiencies": "Maîtrises d'historique",
+            "ChooseLanguages": "Choix des langues"
         }
     },
     "DND5E.AdvancementChoices": "choix",
@@ -4604,7 +4628,8 @@
                 "label": "États",
                 "hint": "Lorsqu'elle est affectée par cet effet actif, la cible est traitée comme ayant ces états supplémentaires."
             }
-        }
+        },
+        "AttributeKeyTooltip": "Pour obtenir la liste des clés courantes, consultez <a href=\"{url}\">le wiki</a>."
     },
     "DND5E.BONUSES": {
         "FIELDS": {
@@ -4949,5 +4974,18 @@
             "Description": "Description"
         }
     },
-    "DND5E.Remaining": "Restant"
+    "DND5E.Remaining": "Restant",
+    "TYPES.Actor.encounter": "Rencontre",
+    "TYPES.RegionBehavior": {
+        "dnd5e.difficultTerrain": "Terrain difficile"
+    },
+    "DND5E.ACTOR": {
+        "Warning": {
+            "CreateActor": "Vous devez avoir le droit 'Créer de nouveaux acteurs' pour invoquer directement depuis un compendium.",
+            "InvalidItem": "Les objets de type {itemType} ne peuvent être ajoutés à un {actorType}.",
+            "NoActor": "Impossible de trouver l'acteur avec l'UUID '{uuid}' à invoquer.",
+            "Singleton": "Seul un objet de type {itemType} peut être ajouté à un {actorType}."
+        }
+    },
+    "TYPES.Actor.encounterPl": "Rencontres"
 }
