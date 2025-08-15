@@ -938,6 +938,9 @@
                 "spent": {
                     "label": "Dés de vie utilisés"
                 }
+            },
+            "properties": {
+                "label": "Propriétés de classe"
             }
         }
     },
@@ -1895,7 +1898,7 @@
     "DND5E.GroupSummaryEmpty": "Groupe vide",
     "DND5E.GroupControls": "Contrôles",
     "DND5E.Group": {
-        "Challenge": "Défi",
+        "Challenge": "Facteur de puissance",
         "Member": {
             "one": "Membre",
             "other": "Membres"
@@ -1922,6 +1925,9 @@
                 "tokens": "Tokens",
                 "portraits": "Portraits"
             }
+        },
+        "Action": {
+            "Remove": "Retirer le membre"
         }
     },
     "DND5E.Hair": "Cheveux",
@@ -3212,11 +3218,11 @@
                 },
                 "prompt": {
                     "label": "Invite de jet",
-                    "hint": "La boîte de dialogue de configuration du jet doit-elle s'afficher lors du jet de dés ?"
+                    "hint": "Afficher la boîte de dialogue de configuration du jet lors d'un lancer de dé."
                 },
                 "visible": {
                     "label": "Visible pour tous",
-                    "hint": "Le bouton de jet doit-il être visible par tous les joueurs ?"
+                    "hint": "Afficher le bouton de lancer dans le tchat pour tous les joueurs."
                 }
             }
         }
@@ -4187,8 +4193,13 @@
         },
         "Request": {
             "AutoRest": {
-                "Hint": "Effectuer automatiquement le repos pour les acteurs sélectionnés, plutôt que d'envoyer une demande de repos aux joueurs."
-            }
+                "Hint": "Effectuer automatiquement le repos pour les acteurs sélectionnés, plutôt que d'envoyer une demande de repos aux joueurs.",
+                "Label": "Repos automatique"
+            },
+            "Label": "Demande de repos"
+        },
+        "Warning": {
+            "OnlyByRequest": "Les repos ne peuvent être effectuées qu'à la demande du MJ."
         }
     },
     "DND5E.UNITS": {
@@ -4419,7 +4430,8 @@
         },
         "Activities": "Activités",
         "REQUEST": {
-            "PartyMembers": "Membres du groupe"
+            "PartyMembers": "Membres du groupe",
+            "Complete": "Demande satisfaite"
         }
     },
     "DND5E.CreatureTag": "{size} {type}, {alignment}",
@@ -5015,7 +5027,8 @@
             "Trait": "Trait passif",
             "WeightlessContents": "Contenu sans poids",
             "Special": "Spécial",
-            "StealthDisadvantage": "Désavantage de Discrétion"
+            "StealthDisadvantage": "Désavantage de Discrétion",
+            "Sidekick": "Comparses"
         },
         "SECTIONS": {
             "Activities": "Activités",
@@ -5218,5 +5231,9 @@
         "Label": "Allure de voyage"
     },
     "DND5E.FlagsToolExpertise": "Expertise de l'outillage",
-    "DND5E.FlagsHalflingNimbleness": "Agilité halfeline"
+    "DND5E.FlagsHalflingNimbleness": "Agilité halfeline",
+    "DND5E.SkillRoll": "Test de {ability} ({skill})",
+    "DND5E.Challenge": "Facteur de puissance",
+    "DND5E.LevelAvg": "Niveau moyen",
+    "DND5E.Summary": "Résumé"
 }
