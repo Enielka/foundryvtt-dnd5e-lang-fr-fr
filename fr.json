@@ -332,6 +332,9 @@
                             "label": "Nécessite un emplacement",
                             "hint": "Nécessite un emplacement de sort à utiliser lorsque vous utilisez les utilisations limitées. Si non coché, les utilisations seront des utilisations supplémentaires gratuites qui ne consomment pas d'emplacement."
                         }
+                    },
+                    "prepared": {
+                        "label": "Préparation"
                     }
                 }
             }
@@ -473,7 +476,8 @@
                 "PreviouslyChosen": "Cet objet a déjà été choisi à un niveau précédent.",
                 "SpellLevelAvailable": "Seuls les sorts de niveau {level} ou inférieur peuvent être choisis pour cette progression.",
                 "SpellLevelSpecific": "Seuls les sorts de niveau {level} peuvent être choisis pour cette progression.",
-                "MaxSelected": "Aucun autre objet ne peut être sélectionné. Décochez les objets avant d'en sélectionner d'autres."
+                "MaxSelected": "Aucun autre objet ne peut être sélectionné. Décochez les objets avant d'en sélectionner d'autres.",
+                "SpellList": "Seuls les sorts disponibles dans la liste des sorts {lists} peuvent être choisis pour cette Progression."
             },
             "DropHint": "Déposez des objets ici pour les ajouter à la liste pouvant être sélectionnée avec cette progression.",
             "Action": {
@@ -839,7 +843,7 @@
         "NoDestinations": "Aucune destination disponible",
         "NoPrimaryParty": "Aucun groupe principal n'est défini, afficher les acteurs assignés aux joueurs à la place.",
         "NotGMError": "La commande /award n'est disponible que pour les MJs.",
-        "UnrecognizedWarning": "Impossible d'analyser {commands}. La commande /award doit être utilisée avec des valeurs d'XP et de devises comme '/award 10gp 50xp'."
+        "UnrecognizedWarning": "Impossible d'analyser {commands}. La commande /award doit être utilisée avec des valeurs d'XP et de monnaies comme '/award 10gp 50xp'."
     },
     "DND5E.Background": "Historique",
     "DND5E.BackgroundAdd": "Ajouter l'Historique",
@@ -1355,11 +1359,11 @@
     "DND5E.CurrencyPP": "Platine",
     "DND5E.CurrencySP": "Argent",
     "DND5E.CurrencyManager": {
-        "Title": "Gérer les devises",
+        "Title": "Gérer les monnaies",
         "Convert": {
             "Label": "Convertir",
-            "Action": "Convertir toutes les devises",
-            "Hint": "Convertir toutes les devises transportées en la plus haute dénomination possible pour réduire la quantité de monnaie transportée par le personnage. Attention, cette action ne peut pas être annulée."
+            "Action": "Convertir toutes les monnaies",
+            "Hint": "Convertir toutes les monnaies transportées en la plus haute dénomination possible pour réduire la quantité de monnaie transportée par le personnage. Attention, cette action ne peut pas être annulée."
         },
         "Transfer": {
             "Label": "Transférer",
@@ -1908,6 +1912,10 @@
         "Vehicle": {
             "one": "Véhicule",
             "other": "Véhicules"
+        },
+        "Distribute": {
+            "noxp": "Distribuer la monnaie mise en commun",
+            "xp": "Distribuer les PX et la monnaie mis en commun"
         }
     },
     "DND5E.Hair": "Cheveux",
@@ -3511,7 +3519,8 @@
             "Hint": "Réduire automatiquement les sections de dégâts, de touches et d'effets qui apparaissent dans les cartes de tchat.",
             "Always": "Tout réduire",
             "Older": "Réduire les sections plus anciennes",
-            "Never": "Tout développer"
+            "Never": "Réduire après utilisation",
+            "Manual": "Jamais réduire"
         },
         "DEFAULTSKILLS": {
             "Name": "Compétences par défaut",
@@ -3669,6 +3678,16 @@
             "AllowTransformation": {
                 "Hint": "Autoriser les joueurs à transformer leurs propres acteurs. Les joueurs doivent également avoir la permission principale 'Créer un Acteur' pour que cela fonctionne.",
                 "Name": "Autoriser la transformation"
+            },
+            "AllowRests": {
+                "Hint": "Permet aux joueurs de se reposer directement depuis la feuille de leur personnage. Lorsque cette option est désactivée, les joueurs ne peuvent se reposer que lorsque le MJ en fait la demande depuis la feuille de groupe.",
+                "Name": "Autoriser les repos individuels"
+            }
+        },
+        "AUTOMATION": {
+            "Movement": {
+                "Hint": "Ne pas appliquer de pénalités de mouvement sur terrain difficile et ne pas empêcher les créatures de se déplacer les unes à travers les autres, conformément à la version des règles.",
+                "Name": "Désactiver l'automatisation des mouvements"
             }
         }
     },
@@ -4027,7 +4046,9 @@
             }
         },
         "Configure": {
-            "Title": "Configurer {ability}"
+            "Title": "Configurer {ability}",
+            "CheckLabel": "{ability} - Test",
+            "SaveLabel": "{ability} - Sauvegarde"
         }
     },
     "DND5E.AbilityScoreMaxShort": "Maximum",
@@ -4157,6 +4178,11 @@
         "NewDay": {
             "Hint": "Récupère les aptitudes à usage limité qui se rechargent au crépuscule, à l’aube ou au début d’une nouvelle journée.",
             "Label": "Nouvelle journée"
+        },
+        "Request": {
+            "AutoRest": {
+                "Hint": "Effectuer automatiquement le repos pour les acteurs sélectionnés, plutôt que d'envoyer une demande de repos aux joueurs."
+            }
         }
     },
     "DND5E.UNITS": {
@@ -4385,7 +4411,10 @@
         "Deltas": {
             "Recovery": "Récupération"
         },
-        "Activities": "Activités"
+        "Activities": "Activités",
+        "REQUEST": {
+            "PartyMembers": "Membres du groupe"
+        }
     },
     "DND5E.CreatureTag": "{size} {type}, {alignment}",
     "DND5E.Habitat": {
@@ -4869,6 +4898,14 @@
                 },
                 "transformTokens": {
                     "label": "Transformer les tokens"
+                },
+                "minimumAC": {
+                    "hint": "Formule définissant la classe d'armure de la créature transformée, si la CA de l'acteur n'est pas déjà supérieure.",
+                    "label": "Classe d'armure minimum"
+                },
+                "spellLists": {
+                    "label": "Listes des sorts conservés",
+                    "hint": "Les sorts figurant sur ces listes de sorts seront conservés si l'acteur possède un objet correspondant."
                 }
             },
             "Merge": {
@@ -4977,7 +5014,8 @@
     "DND5E.Remaining": "Restant",
     "TYPES.Actor.encounter": "Rencontre",
     "TYPES.RegionBehavior": {
-        "dnd5e.difficultTerrain": "Terrain difficile"
+        "dnd5e.difficultTerrain": "Terrain difficile",
+        "dnd5e.rotateArea": "Rotation de zone"
     },
     "DND5E.ACTOR": {
         "Warning": {
@@ -4987,5 +5025,85 @@
             "Singleton": "Seul un objet de type {itemType} peut être ajouté à un {actorType}."
         }
     },
-    "TYPES.Actor.encounterPl": "Rencontres"
+    "TYPES.Actor.encounterPl": "Rencontres",
+    "DND5E.REGIONBEHAVIORS": {
+        "ROTATEAREA": {
+            "FIELDS": {
+                "time": {
+                    "mode": {
+                        "hint": "Comment la vitesse de rotation est déterminée à partir du temps de rotation, soit la même quelle que soit la distance parcourue (fixe), soit en fonction de la distance parcourue (variable).",
+                        "label": "Mode de vitesse"
+                    },
+                    "value": {
+                        "hint": "Le temps en millisecondes pour faire pivoter vers la position suivante (en mode fixe) ou pour pivoter de 90° (en mode variable).",
+                        "label": "Temps de rotation"
+                    }
+                },
+                "directionMode": {
+                    "hint": "Détermine comment la direction de la rotation est choisie lors du passage à la position suivante.",
+                    "label": "Mode de direction"
+                },
+                "tiles": {
+                    "ids": {
+                        "label": "Tuiles"
+                    }
+                },
+                "walls": {
+                    "ids": {
+                        "label": "Murs"
+                    },
+                    "link": {
+                        "label": "Lier les murs",
+                        "hint": "Faites pivoter tous les segments de mur attachés à ceux spécifiés."
+                    }
+                },
+                "lights": {
+                    "ids": {
+                        "label": "Lumière"
+                    }
+                },
+                "regions": {
+                    "ids": {
+                        "label": "Régions"
+                    }
+                },
+                "sounds": {
+                    "ids": {
+                        "label": "Sons d'ambiance"
+                    }
+                },
+                "positions": {
+                    "element": {
+                        "angle": {
+                            "label": "Angle"
+                        }
+                    },
+                    "label": "Positions"
+                }
+            },
+            "SpeedMode": {
+                "Fixed": "Fixe (temps de rotation total)",
+                "Variable": "Variable (temps nécessaire pour effectuer une rotation de 90˚)"
+            },
+            "DirectionMode": {
+                "Clockwise": "Sens des aiguilles d'une montre",
+                "Longest": "Chemin le plus long",
+                "Shortest": "Chemin le plus court",
+                "CounterClockwise": "Sens inverse des aiguilles d'une montre"
+            },
+            "Action": {
+                "AddPosition": "Ajouter une position",
+                "DeletePosition": "Supprimer une position",
+                "RotateToPosition": "Faire pivoter vers la position"
+            }
+        },
+        "DIFFICULTTERRAIN": {
+            "FIELDS": {
+                "ignoredDispositions": {
+                    "hint": "Les tokens ayant ces dispositions ne seront pas affectés par ce terrain difficile.",
+                    "label": "Dispositions ignorées"
+                }
+            }
+        }
+    }
 }
