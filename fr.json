@@ -4568,6 +4568,9 @@
         "Counted": {
             "other": "{number} points de vie",
             "one": "{number} point de vie"
+        },
+        "DT": {
+            "Abbr": "SD"
         }
     },
     "DND5E.HitPointsTempMaxHint": "Modification temporaire des PV maximum.",
