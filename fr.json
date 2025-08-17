@@ -85,7 +85,7 @@
     "DND5E.AbilityConfigure": "Configurer {ability}",
     "DND5E.AbilityConfigureTitle": "Configurer les jets de sauvegarde et les jets de caractéristique de {ability}",
     "DND5E.AbilitySaveConfigure": "Jets de sauvegarde de {ability}",
-    "DND5E.AbilityCheckConfigure": "Jets de caractéristique de {ability}",
+    "DND5E.AbilityCheckConfigure": "Tests de caractéristique de {ability}",
     "DND5E.AbilityCheckConfigurationHint": "Configurer les jets bonus.",
     "DND5E.AbilityConfigurationHint": "Configurer le bonus de Maîtrise sur les jets de sauvegarde de caractéristique, le bonus des jets de sauvegarde et les jets bonus.",
     "DND5E.AbilityCheckBonus": "Tests de caractéristique",
@@ -4737,7 +4737,7 @@
                         "label": "Jets de sauvegarde"
                     },
                     "skill": {
-                        "label": "Jets de compétences"
+                        "label": "Tests de compétences"
                     }
                 },
                 "msak": {
