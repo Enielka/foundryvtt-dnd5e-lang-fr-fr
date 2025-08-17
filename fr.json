@@ -1934,7 +1934,7 @@
                 "portraits": "Portraits",
                 "Label": "Illustration des membres"
             },
-            "Legend": "Options de la fiche de groupe"
+            "Legend": "Options de la feuille de groupe"
         },
         "Action": {
             "Remove": "Retirer le membre",
@@ -3341,7 +3341,7 @@
         "ApplyStatus": "Appliquer l'état aux tokens sélectionnés",
         "AwardEach": "{award} chacun",
         "CheckShort": "{check}",
-        "CheckLong": "Jet de {check}",
+        "CheckLong": "Test de {check}",
         "DamageShort": "{formula} {type}",
         "DamageLong": "{average} ({formula}) {type}",
         "DC": "{check} DD {dc}",
@@ -3364,7 +3364,8 @@
         "AttackExtended": "<em>{type}</em> : {parts}",
         "DamageExtended": "<em>Touché :</em> {damage} dégâts",
         "DamageDouble": "{first} plus {second}",
-        "PassiveShort": "passif {check}"
+        "PassiveShort": "passif {check}",
+        "CheckUsing": "{check} utilisant {tool}"
     },
     "EFFECT.DND5E": {
         "StatusBleeding": "Saignement",
@@ -5202,7 +5203,7 @@
         "SpellList": "Feuille de liste de sorts 5e par défaut",
         "Token": "Feuille de token 5e par défaut",
         "Vehicle": "Feuille de véhicule 5e par défaut",
-        "Character": "Fiche de personnage 5e par défaut",
+        "Character": "Feuille de personnage 5e par défaut",
         "ClassSummary": "Feuille de résumé des classes 5e par défaut",
         "Container": "Feuille de conteneur 5e par défaut",
         "DifficultTerrain": "Feuille de Terrain difficile 5e par défaut",
