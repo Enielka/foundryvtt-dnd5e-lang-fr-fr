@@ -973,7 +973,8 @@
             "Label": "Filtres",
             "HasDarkvision": "Possède une Vision dans le noir",
             "HasSpellcasting": "Possède la capacité de lancer des sorts",
-            "SearchResults": "Résultats de la recherche"
+            "SearchResults": "Résultats de la recherche",
+            "Grouped": "{type} ({group})"
         },
         "Selection": {
             "Label": "Sélectionné : {summary}",
@@ -1682,7 +1683,8 @@
                 "Create": "Créer un enchantement",
                 "Delete": "Supprimer l'enchantement"
             },
-            "Empty": "Aucun enchantement associé. Utilisez le bouton <i class=\"fas fa-plus\"></i> ci-dessus pour en créer un, ou sélectionnez un enchantement existant dans la liste déroulante."
+            "Empty": "Aucun enchantement associé. Utilisez le bouton <i class=\"fas fa-plus\"></i> ci-dessus pour en créer un, ou sélectionnez un enchantement existant dans la liste déroulante.",
+            "Active": "{name} (actif)"
         },
         "Warning": {
             "ConcentrationEnded": "Impossible d'appliquer cet enchantement car la concentration est terminée.",
@@ -2189,7 +2191,8 @@
         "Warning": {
             "InvalidLevel": "doit être au moins de niveau {level}",
             "MissingItem": "doit avoir déjà pris {items}",
-            "NotRepeatable": "n'a pas dû prendre cela auparavant"
+            "NotRepeatable": "n'a pas dû prendre cela auparavant",
+            "Message": "{actor} {requirements} afin de prendre cela {type}."
         }
     },
     "DND5E.Price": "Prix",
@@ -4089,7 +4092,8 @@
     "DND5E.AbilityScoreShort": "Valeur",
     "TYPES.ChatMessage": {
         "turn": "Message de tour de combat",
-        "rest": "Message de repos"
+        "rest": "Message de repos",
+        "request": "Demande de message"
     },
     "DND5E.Language": {
         "Language": {
@@ -4462,7 +4466,10 @@
         "Activities": "Activités",
         "REQUEST": {
             "PartyMembers": "Membres du groupe",
-            "Complete": "Demande satisfaite"
+            "Complete": "Demande satisfaite",
+            "Action": {
+                "Handle": "Gérer la demande"
+            }
         }
     },
     "DND5E.CreatureTag": "{size} {type}, {alignment}",
