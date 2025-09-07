@@ -1,0 +1,699 @@
+{
+  "label": "" ,
+  "folders": {
+    "Backgrounds": "" ,
+    "Dragonborn": "" ,
+    "Dwarf": "" ,
+    "Elf": "" ,
+    "Gnome": "" ,
+    "Goliath": "" ,
+    "Halfling": "" ,
+    "Human": "" ,
+    "Orc": "" ,
+    "Species": "" ,
+    "Tiefling": "" ,
+    "Traits": "" 
+  },
+  "entries": {
+    "Acolyte": {
+      "name": "" ,
+      "description": "" ,
+      "advancement": {
+        "Background Ability Score Improvement": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Background Proficiencies": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Background Feat": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Choose Languages": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Adrenaline Rush": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "activities": {
+        "Adrenaline Rush: Dash": {
+          "name": "" 
+        }
+      }
+    },
+    "Brave": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Breath Weapon": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "activities": {
+        "Breath Weapon (Cone)": {
+          "name": "" 
+        },
+        "Breath Weapon (Line)": {
+          "name": "" 
+        }
+      }
+    },
+    "Cloud's Jaunt": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "activities": {
+        "Cloud's Jaunt": {
+          "name": "" ,
+          "target": "" 
+        }
+      }
+    },
+    "Criminal": {
+      "name": "" ,
+      "description": "" ,
+      "advancement": {
+        "Background Ability Score Improvement": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Background Feat": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Background Proficiencies": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Choose Languages": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Draconic Flight": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "activities": {
+        "Draconic Flight": {
+          "name": "" 
+        }
+      },
+      "effects": {
+        "Draconic Flight": {
+          "name": "" 
+        }
+      }
+    },
+    "Dragonborn": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "65BqBxGcj6z4S803": {
+          "hint": "" 
+        },
+        "Breath Weapon": {
+          "title": "" 
+        },
+        "Draconic Ancestry": {
+          "title": "" 
+        },
+        "Damage Resistance": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Draconic Flight": {
+          "title": "" 
+        }
+      }
+    },
+    "Dwarf": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "6HdONjMD4UozXSfC": {
+          "hint": "" 
+        },
+        "Dwarf Traits": {
+          "title": "" 
+        },
+        "Dwarven Resilience": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Dwarven Resilience": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Dwarven Toughness": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "effects": {
+        "Dwarven Toughness": {
+          "name": "" 
+        }
+      }
+    },
+    "Elf, Drow": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "5w2FaHXRKiN7v1rE": {
+          "hint": "" 
+        },
+        "Elf Traits": {
+          "title": "" 
+        },
+        "Keen Senses": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Drow Traits": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Elf, High": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "5w2FaHXRKiN7v1rE": {
+          "hint": "" 
+        },
+        "Elf Traits": {
+          "title": "" 
+        },
+        "Keen Senses": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "High Elf Traits": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Elf, Wood": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "5w2FaHXRKiN7v1rE": {
+          "hint": "" 
+        },
+        "Elf Traits": {
+          "title": "" 
+        },
+        "Wood Elf Traits": {
+          "title": "" 
+        },
+        "FRJszO7cYchbaGzt": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "zFsEPXauTgmYxqiJ": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Keen Senses": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Elven Lineage, Drow": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Elven Lineage, High Elf": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Elven Lineage, Wood Elf": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Fey Ancestry": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Fiendish Legacy, Abyssal": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Fiendish Legacy, Chthonic": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Fiendish Legacy, Infernal": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Fire's Burn": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "activities": {
+        "Burn": {
+          "name": "" ,
+          "condition": "" 
+        }
+      }
+    },
+    "Frost's Chill": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "activities": {
+        "Chill": {
+          "name": "" ,
+          "condition": "" 
+        }
+      },
+      "effects": {
+        "Chilled": {
+          "name": "" 
+        }
+      }
+    },
+    "Giant Ancestry": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Gnome, Forest": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "O7gYRGMSW3atQ2Yc": {
+          "hint": "" 
+        },
+        "Gnome Traits": {
+          "title": "" 
+        },
+        "Forest Gnome Lineage Spell": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Forest Gnome Lineage Cantrip": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Gnome, Rock": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "O7gYRGMSW3atQ2Yc": {
+          "hint": "" 
+        },
+        "Gnome Traits": {
+          "title": "" 
+        },
+        "Rock Gnome Traits": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Gnomish Cunning": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Gnomish Lineage, Forest": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Gnomish Lineage, Rock": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Goliath": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "LETPMtBLvmzWUUb0": {
+          "hint": "" 
+        },
+        "Goliath Traits": {
+          "title": "" 
+        },
+        "Giant Ancestry": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Halfling": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "GYp1vi82hSEoe3mO": {
+          "hint": "" 
+        },
+        "Halfling Traits": {
+          "title": "" 
+        }
+      }
+    },
+    "Halfling Nimbleness": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Hill's Tumble": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "activities": {
+        "Hill's Tumble": {
+          "name": "" ,
+          "condition": "" 
+        }
+      }
+    },
+    "Human": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "dLxv96vt2B2KOEe2": {
+          "hint": "" 
+        },
+        "Human Traits": {
+          "title": "" 
+        },
+        "Skillful": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Versatile": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Keen Senses": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Large Form": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "activities": {
+        "Enlarge": {
+          "name": "" 
+        }
+      },
+      "effects": {
+        "Large Form": {
+          "name": "" 
+        }
+      }
+    },
+    "Luck": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "effects": {
+        "Luck": {
+          "name": "" 
+        }
+      }
+    },
+    "Naturally Stealthy": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Orc": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "B2sUOuY0KhoULqlX": {
+          "hint": "" 
+        },
+        "Orc Traits": {
+          "title": "" 
+        }
+      }
+    },
+    "Otherworldly Presence": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Powerful Build": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "effects": {
+        "Powerful Build": {
+          "name": "" 
+        }
+      }
+    },
+    "Relentless Endurance": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "activities": {
+        "Relentlessly Endure": {
+          "name": "" ,
+          "condition": "" 
+        }
+      }
+    },
+    "Resourceful": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Sage": {
+      "name": "" ,
+      "description": "" ,
+      "advancement": {
+        "Background Ability Score Improvement": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Background Proficiencies": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Background Feat": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Choose Languages": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Skillful": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Soldier": {
+      "name": "" ,
+      "description": "" ,
+      "advancement": {
+        "Background Ability Score Improvement": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Background Proficiencies": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Background Feat": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Choose Languages": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Stone's Endurance": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "activities": {
+        "heal": {
+          "condition": "" 
+        }
+      }
+    },
+    "Stonecunning": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "activities": {
+        "Stonecunning": {
+          "name": "" 
+        }
+      },
+      "effects": {
+        "Stonecunning": {
+          "name": "" 
+        }
+      }
+    },
+    "Storm's Thunder": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" ,
+      "activities": {
+        "Storm's Thunder": {
+          "name": "" ,
+          "condition": "" 
+        }
+      }
+    },
+    "Tiefling, Abyssal": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "lskxIeib6rIreZ1h": {
+          "hint": "" 
+        },
+        "Tiefling Traits": {
+          "title": "" 
+        },
+        "Abyssal Tiefling Traits": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "VhCiGFOLtG8H93jy": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "KwcwntR3Ai0R5iPN": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "9iZufhdzY3XN7Em3": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "Otherworldly Presence": {
+          "title": "" 
+        }
+      }
+    },
+    "Tiefling, Chthonic": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "lskxIeib6rIreZ1h": {
+          "hint": "" 
+        },
+        "Tiefling Traits": {
+          "title": "" 
+        },
+        "Otherworldly Presence": {
+          "title": "" 
+        },
+        "Chthonic Tiefling Traits": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "pIi692Cevlw7qZRe": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "DU7Y6D1IJSSgObJK": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "R0k1RmQximNOQw1R": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Tiefling, Infernal": {
+      "name": "" ,
+      "description": "" ,
+      "subtype": "" ,
+      "advancement": {
+        "lskxIeib6rIreZ1h": {
+          "hint": "" 
+        },
+        "Tiefling Traits": {
+          "title": "" 
+        },
+        "Otherworldly Presence": {
+          "title": "" 
+        },
+        "Infernal Tiefling Traits": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "gMovXMwHeD9cCL99": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "ol3SWLw2FTNEiXrb": {
+          "title": "" ,
+          "hint": "" 
+        },
+        "cj8h25IH0Zvdy3Bm": {
+          "title": "" ,
+          "hint": "" 
+        }
+      }
+    },
+    "Trance": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Versatile": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    }
+  }
+}

@@ -1,0 +1,4633 @@
+{
+  "label": "" ,
+  "folders": {
+    "Appendices": "" ,
+    "Chapter 1": "" ,
+    "Chapter 2": "" ,
+    "Chapter 3": "" ,
+    "Chapter 4": "" ,
+    "Chapter 5": "" ,
+    "Chapter 6": "" ,
+    "Chapter 7": "" ,
+    "DM's Toolbox": "" ,
+    "Gameplay Toolbox": "" ,
+    "Magic Items": "" ,
+    "Monsters": "" 
+  },
+  "entries": {
+    "Actions": {
+      "name": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "One Thing at a Time": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Reactions": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bonus Actions": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Animals": {
+      "name": "" ,
+      "pages": {
+        "Allosaurus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ankylosaurus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ape": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Baboon": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Archelon": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Badger": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Black Bear": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Camel": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Blood Hawk": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Boar": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Brown Bear": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Constrictor Snake": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Crocodile": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Crab": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Deer": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Eagle": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dire Wolf": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Elk": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Draft Horse": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Elephant": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Frog": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Flying Snake": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Ape": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Badger": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Bat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Boar": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Centipede": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Crab": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Constrictor Snake": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Elk": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Crocodile": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Eagle": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Fire Beetle": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Frog": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Hyena": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Goat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Lizard": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Octopus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Rat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Seahorse": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Scorpion": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Owl": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Shark": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Spider": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Venomous Snake": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Toad": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Vulture": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Weasel": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Wasp": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giant Wolf Spider": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Goat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hunter Shark": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hawk": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hyena": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hippopotamus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Jackal": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Killer Whale": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Lizard": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mule": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Lion": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mammoth": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mastiff": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Octopus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Plesiosaurus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Owl": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Piranha": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Panther": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Polar Bear": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Pony": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Pteranodon": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Rat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Raven": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Reef Shark": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Riding Horse": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Rhinoceros": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Saber-Toothed Tiger": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Scorpion": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Swarm of Insects": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Seahorse": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Swarm of Bats": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spider": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Swarm of Rats": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tiger": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Swarm of Ravens": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Swarm of Piranhas": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Triceratops": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Swarm of Venomous Snakes": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Vulture": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tyrannosaurus Rex": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Venomous Snake": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Warhorse": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Weasel": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wolf": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Appendix D: Rule References": {
+      "name": "" ,
+      "pages": {
+        "Heroic Inspiration": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Time (2014)": {
+          "name": "" ,
+          "text": "" ,
+          "tooltip": "" 
+        },
+        "Speed": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Travel Pace": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Difficult Terrain": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Climbing, Swimming, and Crawling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Long Jump": {
+          "name": "" ,
+          "text": "" 
+        },
+        "High Jump": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Falling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Suffocating": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Vision and Light (Revisit)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Lightly Obscured": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Heavily Obscured": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bright Light": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dim Light": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Darkness": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Blindsight": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Darkvision": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Truesight": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Food": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Water": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Short Rest": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Long Rest": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Resting": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Food and Water": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Strength Checks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Strength": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Lifting and Carrying": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Carrying Capacity": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Push, Drag, or Lift": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Size and Strength": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Athletics": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Encumbered (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Heavily Encumbered (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dexterity": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dexterity Checks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Acrobatics": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sleight of Hand": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Stealth": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Attack Rolls and Damage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Armor Class": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Initiative": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hiding": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Passive Perception": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Constitution": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hit Points": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Constitution Checks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Intelligence": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Intelligence Checks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Arcana": {
+          "name": "" ,
+          "text": "" 
+        },
+        "History": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Investigation": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Nature": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Religion": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spellcasting Ability": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wisdom": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wisdom Checks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "va0sfLfuz2kDP78g": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Animal Handling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Insight": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Medicine": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Perception": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Survival": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Charisma": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Charisma Checks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "KUQjsYx3HISWxjO2": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Deception": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Intimidation": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Performance": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Persuasion": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Surprise": {
+          "name": "" ,
+          "text": "" 
+        },
+        "RcwElV4GAcVXKWxo": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Your Turn": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bonus Actions": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Other Activity on Your Turn (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Reactions": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Breaking Up Your Move": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Moving Between Attacks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Using Different Speeds": {
+          "name": "" ,
+          "text": "" 
+        },
+        "6tqz947qO8vPyxvD": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Being Prone": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Crawling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dropping Prone": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Interacting with Objects Around You": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Moving Around Other Creatures": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Flying Movement": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Creature Size": {
+          "name": "" ,
+          "text": "" ,
+          "tooltip": "" 
+        },
+        "Space (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Squeezing into a Smaller Space": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Attack": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Magic": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dash": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Disengage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dodge": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Help": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hide": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ready": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Search": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Use an Object": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Attack Rolls": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Modifiers to the Roll (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Rolling 1 or 20 (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Unseen Attackers and Targets": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ranged Attacks": {
+          "name": "" ,
+          "text": "" ,
+          "tooltip": "" 
+        },
+        "Range": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ranged Attacks in Close Combat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Melee Attacks": {
+          "name": "" ,
+          "text": "" ,
+          "tooltip": "" 
+        },
+        "Opportunity Attacks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Two-Weapon Fighting (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Grappling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Shoving a Creature": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ending a Grapple": {
+          "name": "" ,
+          "text": "" ,
+          "tooltip": "" 
+        },
+        "Moving a Grappled Creature": {
+          "name": "" ,
+          "text": "" ,
+          "tooltip": "" 
+        },
+        "Reach": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Unarmed Strike": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cover": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Half Cover": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Three-Quarters Cover": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Total Cover": {
+          "name": "" ,
+          "text": "" 
+        },
+        "PFbzoMBviI2DD9QP": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Damage Rolls": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Critical Hits": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Damage Types": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Acid": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bludgeoning": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cold": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Fire": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Force": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Lightning": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Necrotic": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Piercing": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Psychic": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Radiant": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Slashing": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Thunder": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Damage Resistance and Vulnerability": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Healing": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dropping to 0 Hit Points": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Instant Death": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Falling Unconscious": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Death Saving Throws": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Rolling 1 or 20": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Damage at 0 Hit Points": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Stabilizing a Creature": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Monsters and Death": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Knocking a Creature Out": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Temporary Hit Points": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Poison": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mounting and Dismounting": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Controlling a Mount": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Underwater Combat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Forced March (2014)": {
+          "name": "" ,
+          "text": "" ,
+          "tooltip": "" 
+        },
+        "Mounts and Vehicles": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spell Level": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Known and Prepared Spells": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spell Slots": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Casting a Spell at a Highler Level": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Casting in Armor": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cantrips": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Rituals": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Casting Time": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Reaction and Bonus Action Triggers": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Longer Casting Times": {
+          "name": "" ,
+          "text": "" 
+        },
+        "RBYPyE5z5hAZSbH6": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Components": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Verbal (V)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Somatic (S)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Material (M)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Duration": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Instantaneous": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Concentration": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Targets": {
+          "name": "" ,
+          "text": "" 
+        },
+        "A Clear Path to the Target": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Targeting Yourself": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Areas of Effect": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cone": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cube": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cylinder": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Line": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sphere": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Saving Throws": {
+          "name": "" ,
+          "text": "" 
+        },
+        "qAFzmGZKhVvAEUF3": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Combining Spell Effects": {
+          "name": "" ,
+          "text": "" 
+        },
+        "The Schools of Magic": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Abjuration": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Conjuration": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Divination": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Enchantment": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Evocation": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Illusion": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Necromancy": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Transmutation": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Point of Origin": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Traps in Play (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Triggering a Trap (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Detecting and Disabling a Trap (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Trap Effects (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Complex Traps (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Going Mad (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Madness Effects (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Curing Madness (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Short-Term Madness (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Long-Term Madness (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Indefinite Madness (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Statistics for Objects": {
+          "name": "" ,
+          "text": "" 
+        },
+        "KWmHLFi39glwuXQ7": {
+          "name": "" ,
+          "text": "" 
+        },
+        "243xmBDKcM1W2QEm": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Huge and Gargantuan Objects": {
+          "name": "" ,
+          "text": "" ,
+          "tooltip": "" 
+        },
+        "Objects and Damage Types": {
+          "name": "" ,
+          "text": "" ,
+          "tooltip": "" 
+        },
+        "Damage Threshold": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Poison Types (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Contact": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ingested": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Inhaled": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Injury": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Attunement": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wearing and Wielding Items": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Multiple Items of the Same Kind": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Paired Items": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Activating an Item (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Command Word (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Consumables (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spells (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Charges (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Abilities (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Creating Sentient Magic Items (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Communication (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Senses (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Alignment (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Special Purpose (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Conflict (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Size": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Modifying Creatures (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Type": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Aberrations (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Beasts (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Celestials (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Constructs (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dragons (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Elementals (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Fey (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Fiends (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Giants (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Humanoids (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Monstrosities (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Oozes (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Plants (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Undead (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tags (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Alignment": {
+          "name": "" ,
+          "text": "" 
+        },
+        "0Dgs9HZmRIFKVeca": {
+          "name": "" ,
+          "text": "" 
+        },
+        "DOKv3OuN2jzjOnX8": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ability Scores": {
+          "name": "" ,
+          "text": "" 
+        },
+        "AoykthgwEP3T0XsL": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Skills": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Vulnerabilities, Resistances, and Immunities": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Senses": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Armor, Weapon, and Tool Proficiencies (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Languages": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Telepathy": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Challenge": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Experience Points": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Special Traits (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Innate Spellcasting (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spellcasting (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Psionics (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Actions": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Melee and Ranged Attacks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Multiattack (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ammunition (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ms00uWg0w77sWI4C": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Limited Usage (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "X/Day (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Recharge X–Y (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Recharge after a Short or Long Rest (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Grapple Rules for Monsters (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Legendary Actions (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "A Legendary Creature's Lair (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Lair Actions (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Regional Effects (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Equipment": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spell Scroll": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Diseases (2014)": {
+          "name": "" ,
+          "text": "" ,
+          "tooltip": "" 
+        },
+        "Strength Saving Throw": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Variant: Encumbrance (2014)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Charisma Saving Throw": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wisdom Saving Throw": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Intelligence Saving Throw": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Constitution Saving Throw": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dexterity Saving Throw": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Attacks Rolls and Damage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Fast Travel Pace": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Normal Travel Pace": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Slow Travel Pace": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tremorsense": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Weapon Masteries": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Graze": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Nick": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Push": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sap": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Slow": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Topple": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Vex": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cleave": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Life Domain Spells": {
+          "name": "" 
+        },
+        "Circle of the Land, Arid Spells": {
+          "name": "" 
+        },
+        "Circle of the Land, Polar Spells": {
+          "name": "" 
+        },
+        "Circle of the Land, Temperate Spells": {
+          "name": "" 
+        },
+        "Circle of the Land, Tropical Spells": {
+          "name": "" 
+        },
+        "Oath of Devotion Spells": {
+          "name": "" 
+        },
+        "Draconic Spells": {
+          "name": "" 
+        },
+        "Fiend Spells": {
+          "name": "" 
+        }
+      }
+    },
+    "Appendix: Background Details": {
+      "name": "" ,
+      "pages": {
+        "Acolyte": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Criminal": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Soldier": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Appendix: Class Details": {
+      "name": "" ,
+      "pages": {
+        "Barbarian": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bard": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cleric": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Druid": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Fighter": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Monk": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Paladin": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ranger": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Rogue": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sorcerer": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Warlock": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wizard": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Appendix: Monster Details": {
+      "name": "" ,
+      "pages": {
+        "Animated Objects": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Animated Flying Sword": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bandits": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bandit": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Berserkers": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Berserker": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Black Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Black Dragon Wyrmling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Blink Dog": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bugbears": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bugbear Stalker": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bugbear Warrior": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bullywugs": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bullywug Bog Sage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bullywug Warrior": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Carrion Crawler": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Commoner": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Copper Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Copper Dragon Wyrmling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cultists": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cult Members": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Occult Symbols": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cultist": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cultist Fanatic": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Darkmantle": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Doppelganger": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Fire Elemental": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gelatinous Cube": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gnolls": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gnoll Warrior": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Goblins": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Goblin Minion": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Goblin Warrior": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Goblin Boss": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gray Oozes": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gray Ooze": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Guards": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Guard": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Guard Captain": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hobgoblins": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hobgoblin Warrior": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hobgoblin Captain": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Imp": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Incubus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Knights": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Knight": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Kobolds": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Kobold Warrior": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mages": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mephits": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Steam Mephit": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mimic": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Minotaur of Baphomet": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Nobles": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Noble": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Nothic": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ogres": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ogre": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Owlbears": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Owlbear": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Pirates": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Pirate": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Pirate Captain": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Pseudodragon": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Quasit": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Red Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Red Dragon Wyrmling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Scouts": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Scout": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Shadow": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Silver Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Silver Dragon Wyrmling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Skeletons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Skeleton": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Slaadi": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Slaad Tadpole": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sphinxes": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sphinx of Wonder": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sprite": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Stirges": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Stirge": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Stone Golem": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Succubus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Toughs": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tough": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tough Boss": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Vampires": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Vampire Familiar": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Warriors": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Warrior Infantry": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Worgs": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Worg": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wraith": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Zombies": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Zombie": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ogre Zombie": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Appendix: Species Details": {
+      "name": "" ,
+      "pages": {
+        "Dragonborn": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dwarf": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Elf": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Elf, Drow": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Elf, High": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Elf, Wood": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gnome": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Goliath": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Halfling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Human": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Orc": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tiefling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tiefling, Abyssal": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tiefling, Chthonic": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tiefling, Infernal": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Barbarian": {
+      "name": "" ,
+      "pages": {
+        "Path of the Berserker": {
+          "name": "" ,
+          "description": "" 
+        },
+        "Barbarian": {
+          "name": "" ,
+          "subclassHeader": "" ,
+          "description": "" ,
+          "subclass": "" 
+        }
+      }
+    },
+    "Bard": {
+      "name": "" ,
+      "pages": {
+        "Bard": {
+          "name": "" ,
+          "description": "" ,
+          "subclass": "" 
+        },
+        "College of Lore": {
+          "name": "" ,
+          "description": "" 
+        }
+      }
+    },
+    "Character Backgrounds": {
+      "name": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Acolyte": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Criminal": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Soldier": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Character Creation": {
+      "name": "" ,
+      "pages": {
+        "Choose a Character Sheet": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Create Your Character": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Step 1: Choose a Class": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Step 2: Character Origin": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Step 3: Ability Scores": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Step 4: Alignment": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Step 5: Character Creation Details": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Level Advancement": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gaining a Level": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tiers of Play": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Starting at Higher Levels": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Multiclassing": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Trinkets": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Character Origins": {
+      "name": "" ,
+      "pages": {
+        "Character Backgrounds": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Character Species": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Character Species": {
+      "name": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dragonborn": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dwarf": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Elf": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gnome": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Goliath": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Halfling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Human": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Orc": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tiefling": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Classes": {
+      "name": "" ,
+      "flagsTitle": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Cleric": {
+      "name": "" ,
+      "pages": {
+        "Cleric": {
+          "name": "" ,
+          "description": "" ,
+          "subclass": "" 
+        },
+        "Life Domain": {
+          "name": "" ,
+          "description": "" 
+        }
+      }
+    },
+    "Combat": {
+      "name": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "The Order of Combat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Initiative": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Your Turn": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ending Combat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Movement and Position": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Making an Attack": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cover": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ranged Attacks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Melee Attacks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mounted Combat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Underwater Combat": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Conditions": {
+      "name": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Crafting Nonmagical Items": {
+      "name": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Brewing Potions of Healing": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Scribing Spell Scrolls": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "D20 Tests": {
+      "name": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ability Checks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Saving Throws": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Attack Rolls": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Advantage/Disadvantage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Proficiency": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Damage and Healing": {
+      "name": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hit Points": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Damage Rolls": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Critical Hits": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Saving Throws and Damage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Damage Types": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Resistance and Vulnerability": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Immunity": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Healing": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dropping to 0 Hit Points": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Temporary Hit Points": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Disclaimer": {
+      "name": "" ,
+      "pages": {
+        "Disclaimer": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Druid": {
+      "name": "" ,
+      "pages": {
+        "Druid": {
+          "name": "" ,
+          "description": "" ,
+          "subclass": "" 
+        },
+        "Circle of Land": {
+          "name": "" ,
+          "description": "" 
+        }
+      }
+    },
+    "Ensuring Fun for All": {
+      "name": "" ,
+      "pages": {
+        "Mutual Respect": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Respect for the Players": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Respect for the DM": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Rules for the Virtual Table": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Introduction": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Equipment": {
+      "name": "" ,
+      "flagsTitle": "" ,
+      "pages": {
+        "Coins": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Weapons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Weapons Table": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Armor": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Armor Table": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tools": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Artisan Tools": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Other Tools": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Properties": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mastery Properties": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Adventuring Gear List": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Adventuring Gear": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Adventuring Gear Table": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Exploration": {
+      "name": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Adventuring Equipment": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Vision and Light": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hiding": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Interacting with Objects": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hazards": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Travel": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Travel Pace": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Vehicles": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Feats": {
+      "name": "" ,
+      "flagsTitle": "" ,
+      "pages": {
+        "Feat Descriptions": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Origin Feats": {
+          "name": "" ,
+          "text": "" 
+        },
+        "General Feats": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Fighting Style Feats": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Epic Boon Feats": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Fighter": {
+      "name": "" ,
+      "pages": {
+        "Fighter": {
+          "name": "" ,
+          "description": "" ,
+          "subclass": "" 
+        },
+        "Champion": {
+          "name": "" ,
+          "description": "" 
+        }
+      }
+    },
+    "Foundry References": {
+      "name": "" ,
+      "pages": {
+        "How to Use Template Items": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Gameplay Toolbox": {
+      "name": "" ,
+      "pages": {
+        "Poison": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Traps": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Travel Pace": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Creating a Background": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Curses and Magical Contagions": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Environmental Effects": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Fear and Mental Stress": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Combat Encounters": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "How to Use a Monster": {
+      "name": "" ,
+      "pages": {
+        "Introduction": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Monster Entries": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Monster Conversions": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Introduction": {
+      "name": "" ,
+      "pages": {
+        "Player or DM?": {
+          "name": "" ,
+          "text": "" 
+        },
+        "An Ongoing Game": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dice": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Legal Information": {
+      "name": "" ,
+      "pages": {
+        "Legal Information": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Art": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Lifestyle Expenses": {
+      "name": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Food, Drink, and Lodging": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hirelings": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spellcasting": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Magic Item Lists": {
+      "name": "" ,
+      "pages": {
+        "Magic Items A-Z": {
+          "name": "" ,
+          "text": "" 
+        },
+        "A-B": {
+          "name": "" ,
+          "text": "" 
+        },
+        "C": {
+          "name": "" ,
+          "text": "" 
+        },
+        "D-E": {
+          "name": "" ,
+          "text": "" 
+        },
+        "F-J": {
+          "name": "" ,
+          "text": "" 
+        },
+        "K-O": {
+          "name": "" ,
+          "text": "" 
+        },
+        "P-Q": {
+          "name": "" ,
+          "text": "" 
+        },
+        "R": {
+          "name": "" ,
+          "text": "" 
+        },
+        "S": {
+          "name": "" ,
+          "text": "" 
+        },
+        "T-W": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Magic Items": {
+      "name": "" ,
+      "flagsTitle": "" ,
+      "pages": {
+        "Magic Item Categories": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Magic Item Rarity": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Activating a Magic Item": {
+          "name": "" ,
+          "text": "" 
+        },
+        "\"The Next Dawn\"": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cursed Items": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Magic Item Resilience": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Crafting Magic Items": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sentient Magic Items": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Monk": {
+      "name": "" ,
+      "pages": {
+        "Monk": {
+          "name": "" ,
+          "description": "" ,
+          "subclass": "" 
+        },
+        "Warrior of the Open Hand": {
+          "name": "" ,
+          "description": "" 
+        }
+      }
+    },
+    "Monsters": {
+      "name": "" ,
+      "pages": {
+        "Stat Block Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Parts of a Stat Block": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Monsters A to Z": {
+      "name": "" ,
+      "pages": {
+        "Berserkers": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Blink Dog": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Black Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bugbears": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cultists": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Commoner": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Darkmantle": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Copper Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Doppelganger": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Fire Elemental": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gelatinous Cube": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Goblins": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gnoll": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gray Ooze": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Guards": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hobgoblins": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Imp": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Incubus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Kobolds": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Knights": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mages": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mephits": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mimic": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Minotaur of Baphomet": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Noble": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ogre": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Owlbear": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Pirates": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Quasit": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Red Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Pseudodragon": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Shadow": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Scout": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Skeletons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Silver Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sprite": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Stirge": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Stone Golem": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Succubus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sphinxes": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Toughs": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Warriors": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Vampires": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Worg": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wraith": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Zombies": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Aboleth": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Air Elemental": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Animated Objects": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ankheg": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Assassin": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Awakened Plants": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Axe Beak": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Azer Sentinel": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Balor": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bandits": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Barbed Devil": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Basilisk": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bearded Devil": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Behir": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Black Pudding": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Blue Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bone Devil": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Brass Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bronze Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bulette": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Centaur": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Chain Devil": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Chimera": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Chuul": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Clay Golem": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cloaker": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cloud Giant": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cockatrice": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Couatl": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Crawling Claws": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Death Dog": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Deva": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Djinni": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dragon Turtle": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dretch": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Drider": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Druid": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dryad": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Earth Elemental": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Efreeti": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Erinyes": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ettercap": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ettin": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Fire Giant": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Flesh Golem": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Frost Giant": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Fungi": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gargoyle": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ghast": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ghost": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ghoul": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gibbering Mouther": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Glabrezu": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gladiator": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gold Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Gorgon": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Green Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Green Hag": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Grick": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Griffon": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Grimlock": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Guardian Naga": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Half-Dragon": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Harpy": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hell Hound": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hezrou": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hill Giant": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hippogriff": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Homunculus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Horned Devil": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hydra": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ice Devil": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Invisible Stalker": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Iron Golem": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Kraken": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Lamia": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Lemure": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Lich": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Magmin": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Manticore": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Marilith": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Medusa": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Merfolk": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Merrow": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mummies": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Nalfeshnee": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Night Hag": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Nightmare": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ochre Jelly": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Oni": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Otyugh": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Pegasus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Phase Spider": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Pit Fiend": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Planetar": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Priests": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Purple Worm": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Rakshasa": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Remorhaz": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Roc": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Roper": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Rust Monster": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sahuagin": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Salamanders": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Satyrs": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sea Hag": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Shambling Mound": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Shield Guardian": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Solar": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Specter": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spirit Naga": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spy": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Stone Giant": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Storm Giant": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tarrasque": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Treant": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Troll": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Unicorn": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Water Elemental": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Werebear": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wereboar": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wererat": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Weretiger": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Werewolf": {
+          "name": "" ,
+          "text": "" 
+        },
+        "White Dragons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wight": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Will-o'-Wisp": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Winter Wolf": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wyvern": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Xorn": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Vrock": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Mounts and Vehicles": {
+      "name": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Mounts and Cargo": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Large Vehicles": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Paladin": {
+      "name": "" ,
+      "pages": {
+        "Paladin": {
+          "name": "" ,
+          "description": "" ,
+          "subclass": "" 
+        },
+        "Oath of Devotion": {
+          "name": "" ,
+          "description": "" 
+        }
+      }
+    },
+    "Playing the Game": {
+      "name": "" ,
+      "flagsTitle": "" ,
+      "pages": {
+        "Rhythm of Play": {
+          "name": "" ,
+          "text": "" 
+        },
+        "The Six Abilities": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Ranger": {
+      "name": "" ,
+      "pages": {
+        "Ranger": {
+          "name": "" ,
+          "description": "" ,
+          "subclass": "" 
+        },
+        "Hunter": {
+          "name": "" ,
+          "description": "" 
+        }
+      }
+    },
+    "Rogue": {
+      "name": "" ,
+      "pages": {
+        "Rogue": {
+          "name": "" ,
+          "description": "" ,
+          "subclass": "" 
+        },
+        "Thief": {
+          "name": "" ,
+          "description": "" 
+        }
+      }
+    },
+    "Rules Glossary": {
+      "name": "" ,
+      "flagsTitle": "" ,
+      "pages": {
+        "Lightly Obscured": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Heavily Obscured": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bright Light": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dim Light": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Darkness": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Blindsight": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Darkvision": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tremorsense": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Truesight": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Reaction": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bonus Action": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Action": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Attack": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dash": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Disengage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dodge": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Help": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Influence": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Magic": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ready": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Search": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Study": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Utilize": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Concentration": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hide": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Condition": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Blinded": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Charmed": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Deafened": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Exhaustion": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Frightened": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Grappled": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Incapacitated": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Invisible": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Paralyzed": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Petrified": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Poisoned": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Prone": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Restrained": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Stunned": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Unconscious": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hazard": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Burning": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dehydration": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Falling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Malnutrition": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Suffocation": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Area of Effect": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cone": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cube": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cylinder": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Emanation": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Line": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Sphere": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Attitude": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Friendly": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hostile": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Indifferent": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Speed": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Difficult Terrain": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Crawling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Climbing": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Flying": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Jumping": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Swimming": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hover": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ability Check": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ability Score and Modifier": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Advantage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "D20 Test": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Disadvantage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Adventure": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Encounter": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Alignment": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ally": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cover": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Creature": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Creature Type": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Critical Hit": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Curses": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Damage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Damage Roll": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Damage Threshold": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Damage Types": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Death Saving Throw": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Dead": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Difficulty Class": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Enemy": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Experience Points": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Expertise": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Fly Speed": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Burrow Speed": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Climb Speed": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Swim Speed": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Grappling": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Unarmed Strike": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Healing": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Heroic Inspiration": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hit Points": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Hit Point Dice": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Short Rest": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Long Rest": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Illusions": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Immunity": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Improvised Weapons": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Initiative": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Knocking Out a Creature": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Magical Effect": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Monster": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Nonplayer Character (NPC)": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Object": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Occupied Space": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Opportunity Attacks": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Passive Perception": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Per Day": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Player Character": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Possession": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Proficiency": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Resistance": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ritual": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Round Down": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Save": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Saving Throw": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Shape-Shifting": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Simultaneous Effects": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Size": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Skill": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spell": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spell Attack": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spellcasting Focus": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Stable": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Stat Block": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Surprise": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Target": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Telepathy": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Teleportation": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Temporary Hit Points": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Unoccupied Space": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Vulnerability": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Weapon": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Weapon Attack": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Glossary Conventions": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Carrying Capacity": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Long Jump": {
+          "name": "" ,
+          "text": "" 
+        },
+        "High Jump": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Cantrip": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Attack Roll": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Armor Training": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Armor Class": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Attunement": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bloodied": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Breaking Objects": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Campaign": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Challenge Rating": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Character Sheet": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Running Combat": {
+      "name": "" ,
+      "pages": {
+        "Introduction": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Rolling Initiative": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tracking Initiative": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Tracking Monsters' Hit Points": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Using and Tracking Conditions": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Social Interaction": {
+      "name": "" ,
+      "pages": {
+        "Overview": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Roleplaying": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Ability Checks": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Sorcerer": {
+      "name": "" ,
+      "pages": {
+        "Sorcerer": {
+          "name": "" ,
+          "description": "" ,
+          "subclass": "" 
+        },
+        "Draconic Sorcery": {
+          "name": "" ,
+          "description": "" 
+        },
+        "Metamagic Options": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Spells": {
+      "name": "" ,
+      "flagsTitle": "" ,
+      "pages": {
+        "Spell Descriptions": {
+          "name": "" 
+        },
+        "Gaining Spells": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Casting Spells": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Spell Level": {
+          "name": "" ,
+          "text": "" 
+        },
+        "School of Magic": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Class Spell Lists": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Casting Time": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Range": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Components": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Duration": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Effects": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Bard Spell List": {
+          "name": "" 
+        },
+        "Cleric Spell List": {
+          "name": "" 
+        },
+        "Druid Spell List": {
+          "name": "" 
+        },
+        "Paladin Spell List": {
+          "name": "" 
+        },
+        "Ranger Spell List": {
+          "name": "" 
+        },
+        "Sorcerer Spell List": {
+          "name": "" 
+        },
+        "Warlock Spell List": {
+          "name": "" 
+        },
+        "Wizard Spell List": {
+          "name": "" 
+        }
+      }
+    },
+    "The Basics": {
+      "name": "" ,
+      "pages": {
+        "What Does a DM Do?": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Things You Need": {
+          "name": "" ,
+          "text": "" 
+        },
+        "The Basics": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Preparing a Session": {
+          "name": "" ,
+          "text": "" 
+        },
+        "How to Run a Session": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Every DM is Unique": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Tracking Sheets": {
+      "name": "" ,
+      "pages": {
+        "Settlement Tracker": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Game Expectations": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Travel Stage": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Campaign Journal": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Campaign Conflicts": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Magic Item Tracker": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Warlock": {
+      "name": "" ,
+      "pages": {
+        "Warlock": {
+          "name": "" ,
+          "description": "" ,
+          "subclass": "" 
+        },
+        "Fiend Patron": {
+          "name": "" ,
+          "description": "" 
+        },
+        "Eldritch Invocation Options": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    },
+    "Wizard": {
+      "name": "" ,
+      "pages": {
+        "Wizard": {
+          "name": "" ,
+          "description": "" ,
+          "subclass": "" 
+        },
+        "Evoker": {
+          "name": "" ,
+          "description": "" 
+        }
+      }
+    },
+    "phbMagicItems000": {
+      "name": "" ,
+      "pages": {
+        "Introduction": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Identifying a Magic Item": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Attunement": {
+          "name": "" ,
+          "text": "" 
+        },
+        "Wearing and Wielding Items": {
+          "name": "" ,
+          "text": "" 
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "label": "" ,
+  "folders": {
+    "Epic Boon Feats": "" ,
+    "Fighting Style Feats": "" ,
+    "General Feats": "" ,
+    "Origin Feats": "" 
+  },
+  "entries": {
+    "Ability Score Improvement": {
+      "name": "" ,
+      "description": "" 
+    },
+    "Alert": {
+      "name": "" ,
+      "description": "" ,
+      "effects": {
+        "Alert": {
+          "name": "" 
+        }
+      }
+    },
+    "Archery": {
+      "name": "" ,
+      "description": "" ,
+      "effects": {
+        "Archery Style": {
+          "name": "" 
+        }
+      }
+    },
+    "Boon of Combat Prowess": {
+      "name": "" ,
+      "description": "" 
+    },
+    "Boon of Dimensional Travel": {
+      "name": "" ,
+      "description": "" ,
+      "activities": {
+        "Teleport": {
+          "name": "" ,
+          "condition": "" ,
+          "target": "" 
+        }
+      }
+    },
+    "Boon of Fate": {
+      "name": "" ,
+      "description": "" ,
+      "activities": {
+        "Improve Fate": {
+          "name": "" ,
+          "roll": "" ,
+          "condition": "" 
+        }
+      }
+    },
+    "Boon of Irresistible Offense": {
+      "name": "" ,
+      "description": "" 
+    },
+    "Boon of Spell Recall": {
+      "name": "" ,
+      "description": "" ,
+      "activities": {
+        "Free Cast Roll": {
+          "name": "" ,
+          "roll": "" ,
+          "condition": "" 
+        }
+      }
+    },
+    "Boon of Truesight": {
+      "name": "" ,
+      "description": "" ,
+      "effects": {
+        "Boon of Truesight": {
+          "name": "" 
+        }
+      }
+    },
+    "Boon of the Night Spirit": {
+      "name": "" ,
+      "description": "" ,
+      "activities": {
+        "Merge with the Shadows": {
+          "name": "" 
+        }
+      },
+      "effects": {
+        "Boon of the Night Spirit": {
+          "name": "" 
+        },
+        "Merged with Shadows": {
+          "name": "" 
+        }
+      }
+    },
+    "Defense": {
+      "name": "" ,
+      "description": "" ,
+      "effects": {
+        "Defense": {
+          "name": "" 
+        }
+      }
+    },
+    "Grappler": {
+      "name": "" ,
+      "description": "" ,
+      "requirements": "" 
+    },
+    "Great Weapon Fighting": {
+      "name": "" ,
+      "description": "" 
+    },
+    "Magic Initiate": {
+      "name": "" ,
+      "description": "" ,
+      "advancement": {
+        "Two Cantrips": {
+          "title": "" 
+        },
+        "Level 1 Spell": {
+          "title": "" 
+        }
+      }
+    },
+    "Savage Attacker": {
+      "name": "" ,
+      "description": "" 
+    },
+    "Skilled": {
+      "name": "" ,
+      "description": "" 
+    },
+    "Two-Weapon Fighting": {
+      "name": "" ,
+      "description": "" 
+    }
+  }
+}
