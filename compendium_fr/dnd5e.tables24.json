@@ -1,922 +1,922 @@
 {
-  "label": "" ,
-  "folders": {
-    "Bag of Tricks": "" ,
-    "Creating a Character": "" ,
-    "Item-Specific Tables": "" ,
-    "Magic Items": "" ,
-    "Monster Details": "" ,
-    "Mysterious Deck": "" ,
-    "Random Magic Item Rarity by Level": "" ,
-    "Reincarnated Lineages": "" ,
-    "Sentient Item Attributes": "" ,
-    "Spells": "" 
-  },
-  "entries": {
-    "Alignment": {
-      "name": "" ,
-      "results": {
-        "1-15": "" ,
-        "16-35": "" ,
-        "36-50": "" ,
-        "51-63": "" ,
-        "64-73": "" ,
-        "74-85": "" ,
-        "86-89": "" ,
-        "90-96": "" ,
-        "97-100": "" 
-      }
-    },
-    "Ammunition of Slaying: Creature Type": {
-      "name": "" ,
-      "results": {
-        "1-10": "" ,
-        "11-15": "" ,
-        "16-20": "" ,
-        "21-25": "" ,
-        "26-35": "" ,
-        "36-45": "" ,
-        "46-50": "" ,
-        "51-60": "" ,
-        "61-70": "" ,
-        "71-75": "" ,
-        "76-80": "" ,
-        "81-85": "" ,
-        "86-90": "" ,
-        "91-100": "" 
-      }
-    },
-    "Amulet of the Planes Destination": {
-      "name": "" ,
-      "results": {
-        "1-60": "" ,
-        "61-70": "" ,
-        "71-80": "" ,
-        "81-90": "" ,
-        "91-100": "" 
-      }
-    },
-    "Animated Object Catalysts": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" ,
-        "9-9": "" ,
-        "10-10": "" 
-      }
-    },
-    "Armor of Resistance Type": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "6-6": "" ,
-        "2-2": "" ,
-        "7-7": "" ,
-        "3-3": "" ,
-        "8-8": "" ,
-        "4-4": "" ,
-        "9-9": "" ,
-        "5-5": "" ,
-        "10-10": "" 
-      }
-    },
-    "Bag of Beans Effect": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-10": "" ,
-        "11-20": "" ,
-        "21-30": "" ,
-        "31-40": "" ,
-        "41-50": "" ,
-        "51-60": "" ,
-        "61-70": "" ,
-        "71-80": "" ,
-        "81-90": "" ,
-        "91-95": "" ,
-        "96-100": "" 
-      }
-    },
-    "Bandit Motivations": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" 
-      }
-    },
-    "Candle of Invocation: Outer Plane Destination": {
-      "name": "" ,
-      "results": {
-        "1-5": "" ,
-        "55-59": "" ,
-        "6-10": "" ,
-        "60-64": "" ,
-        "11-17": "" ,
-        "65-69": "" ,
-        "18-25": "" ,
-        "70-77": "" ,
-        "26-33": "" ,
-        "78-85": "" ,
-        "34-41": "" ,
-        "86-90": "" ,
-        "42-46": "" ,
-        "91-95": "" ,
-        "47-54": "" ,
-        "96-100": "" 
-      }
-    },
-    "Cardinal Directions": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" 
-      }
-    },
-    "Carpet of Flying: Size, Capacity, and Speed": {
-      "name": "" ,
-      "results": {
-        "1-20": "" ,
-        "21-55": "" ,
-        "56-80": "" ,
-        "81-100": "" 
-      }
-    },
-    "Communication": {
-      "name": "" ,
-      "results": {
-        "1-6": "" ,
-        "7-9": "" ,
-        "10-10": "" 
-      }
-    },
-    "Confusion Behavior": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "wOokSBLpTsUWBccD": "" ,
-        "2-6": "" ,
-        "7-8": "" ,
-        "9-10": "" 
-      }
-    },
-    "Cult Symbols": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" ,
-        "9-9": "" ,
-        "10-10": "" 
-      }
-    },
-    "Cult Symbols - Depictions": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" ,
-        "9-9": "" ,
-        "10-10": "" 
-      }
-    },
-    "Cultist Agendas": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" 
-      }
-    },
-    "Deck of Illusions": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-3": "" ,
-        "4-6": "" ,
-        "7-9": "" ,
-        "10-12": "" ,
-        "13-15": "" ,
-        "16-18": "" ,
-        "19-21": "" ,
-        "22-24": "" ,
-        "25-27": "" ,
-        "28-30": "" ,
-        "31-33": "" ,
-        "34-36": "" ,
-        "37-39": "" ,
-        "40-42": "" ,
-        "43-45": "" ,
-        "46-48": "" ,
-        "49-51": "" ,
-        "52-54": "" ,
-        "55-57": "" ,
-        "58-60": "" ,
-        "61-63": "" ,
-        "64-66": "" ,
-        "67-69": "" ,
-        "70-72": "" ,
-        "73-75": "" ,
-        "76-78": "" ,
-        "79-81": "" ,
-        "82-84": "" ,
-        "85-87": "" ,
-        "88-90": "" ,
-        "91-93": "" ,
-        "94-96": "" ,
-        "97-100": "" 
-      }
-    },
-    "Doppelganger Deceptions": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" 
-      }
-    },
-    "Efreeti Bottle": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-9": "" ,
-        "10-10": "" 
-      }
-    },
-    "Elven Lineage": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Feather Tokens": {
-      "name": "" ,
-      "results": {
-        "1-20": "" ,
-        "21-35": "" ,
-        "36-50": "" ,
-        "51-65": "" ,
-        "66-90": "" ,
-        "91-100": "" 
-      }
-    },
-    "Fiendish Legacy": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Fire Elemental Compositions": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" 
-      }
-    },
-    "Gelatinous Cube Debris": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" 
-      }
-    },
-    "Gnomish Lineage": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Gray Bag of Tricks": {
-      "name": "" 
-    },
-    "Hat of Many Spells": {
-      "name": "" ,
-      "results": {
-        "1-50": "" ,
-        "51-55": "" ,
-        "56-60": "" ,
-        "61-65": "" ,
-        "66-70": "" ,
-        "71-75": "" ,
-        "76-80": "" ,
-        "81-85": "" ,
-        "86-90": "" ,
-        "91-95": "" ,
-        "96-100": "" 
-      }
-    },
-    "Horn of Valhalla: Type and Requirement": {
-      "name": "" ,
-      "results": {
-        "1-40": "" ,
-        "41-75": "" ,
-        "76-90": "" ,
-        "91-100": "" 
-      }
-    },
-    "Incubus Nightmares": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" 
-      }
-    },
-    "Iron Flask Contents": {
-      "name": "" ,
-      "results": {
-        "1-50": "" ,
-        "51-51": "" ,
-        "52-54": "" ,
-        "55-56": "" ,
-        "57-58": "" ,
-        "59-59": "" ,
-        "60-61": "" ,
-        "62-63": "" ,
-        "64-65": "" ,
-        "66-67": "" ,
-        "68-68": "" ,
-        "69-69": "" ,
-        "70-71": "" ,
-        "72-74": "" ,
-        "75-75": "" ,
-        "76-77": "" ,
-        "78-79": "" ,
-        "80-80": "" ,
-        "81-82": "" ,
-        "83-84": "" ,
-        "85-86": "" ,
-        "87-88": "" ,
-        "89-89": "" ,
-        "90-91": "" ,
-        "92-93": "" ,
-        "94-94": "" ,
-        "95-95": "" ,
-        "96-96": "" ,
-        "97-99": "" ,
-        "100-100": "" 
-      }
-    },
-    "Level 1-4": {
-      "name": "" ,
-      "results": {
-        "1-54": "" ,
-        "55-91": "" ,
-        "92-100": "" 
-      }
-    },
-    "Level 11-16": {
-      "name": "" ,
-      "results": {
-        "1-11": "" ,
-        "12-34": "" ,
-        "35-70": "" ,
-        "71-93": "" ,
-        "94-100": "" 
-      }
-    },
-    "Level 17-20": {
-      "name": "" ,
-      "results": {
-        "1-20": "" ,
-        "21-64": "" ,
-        "65-100": "" 
-      }
-    },
-    "Level 5-10": {
-      "name": "" ,
-      "results": {
-        "1-30": "" ,
-        "31-81": "" ,
-        "82-98": "" ,
-        "99-100": "" 
-      }
-    },
-    "Mage Roles": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" ,
-        "9-9": "" ,
-        "10-10": "" 
-      }
-    },
-    "Manual of Golems: Type, Time, and Cost": {
-      "name": "" ,
-      "results": {
-        "1-5": "" ,
-        "6-17": "" ,
-        "18-18": "" ,
-        "19-20": "" 
-      }
-    },
-    "Minotaur Mazes": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" 
-      }
-    },
-    "Mysterious Deck: 13 Cards": {
-      "name": "" 
-    },
-    "Mysterious Deck: 22 Cards": {
-      "name": "" 
-    },
-    "Necklace of Prayer Beads Type": {
-      "name": "" ,
-      "results": {
-        "1-6": "" ,
-        "7-12": "" ,
-        "13-16": "" ,
-        "17-18": "" ,
-        "19-19": "" ,
-        "20-20": "" 
-      }
-    },
-    "Owlbear Den Features": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" 
-      }
-    },
-    "Potion Miscibility": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-8": "" ,
-        "9-15": "" ,
-        "16-25": "" ,
-        "26-35": "" ,
-        "36-90": "" ,
-        "91-99": "" ,
-        "100-100": "" 
-      }
-    },
-    "Potion of Resistance Type": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" ,
-        "9-9": "" ,
-        "10-10": "" 
-      }
-    },
-    "Prismatic Layers": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" 
-      }
-    },
-    "Prismatic Rays": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" 
-      }
-    },
-    "Pseudodragon Treats": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" ,
-        "9-9": "" ,
-        "10-10": "" 
-      }
-    },
-    "Reincarnated Species": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" 
-      }
-    },
-    "Ring of Resistance: Damage Type and Gemstone": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" ,
-        "9-9": "" ,
-        "10-10": "" 
-      }
-    },
-    "Robe of Useful Items": {
-      "name": "" ,
-      "results": {
-        "1-8": "" ,
-        "9-15": "" ,
-        "16-22": "" ,
-        "23-30": "" ,
-        "31-44": "" ,
-        "45-51": "" ,
-        "52-59": "" ,
-        "60-68": "" ,
-        "69-75": "" ,
-        "76-83": "" ,
-        "84-90": "" ,
-        "91-96": "" ,
-        "97-100": "" 
-      }
-    },
-    "Rust Bag of Tricks": {
-      "name": "" 
-    },
-    "Senses": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" 
-      }
-    },
-    "Shadow Shapes": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" 
-      }
-    },
-    "Skeleton Pantomimes": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" 
-      }
-    },
-    "Special Purpose": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" ,
-        "9-9": "" ,
-        "10-10": "" 
-      }
-    },
-    "Sphere of Annihilation Interaction Results": {
-      "name": "" ,
-      "results": {
-        "1-50": "" ,
-        "51-85": "" ,
-        "86-100": "" 
-      }
-    },
-    "Standard Languages": {
-      "name": "" ,
-      "results": {
-        "rViHFEn5WjhRbElK": "" 
-      }
-    },
-    "Stirge Roosts": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" 
-      }
-    },
-    "Stone Golem Orders": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" 
-      }
-    },
-    "Sub-Languages Table": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-4": "" ,
-        "5-6": "" ,
-        "7-7": "" ,
-        "8-8": "" ,
-        "9-9": "" ,
-        "10-11": "" ,
-        "12-12": "" 
-      }
-    },
-    "Succubus Temptations": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" 
-      }
-    },
-    "Tan Bag of Tricks": {
-      "name": "" 
-    },
-    "Teleport Mishap": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "RaCnOnLRcJPv11Vf": "" ,
-        "4W9YPHqIIDyt3WbV": "" ,
-        "1-5": "" ,
-        "6-13": "" ,
-        "14-24": "" ,
-        "25-100": "" ,
-        "1-33": "" ,
-        "34-43": "" ,
-        "5hV5vL7SYu53EPvb": "" ,
-        "KShVQqILsbEKwNQ1": "" ,
-        "1-43": "" ,
-        "S3FXuqVgRazP23RK": "" ,
-        "LWWefv3FEwkukueE": "" ,
-        "74-100": "" ,
-        "1-50": "" ,
-        "51-100": "" 
-      }
-    },
-    "Trinkets": {
-      "name": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" ,
-        "9-9": "" ,
-        "10-10": "" ,
-        "11-11": "" ,
-        "12-12": "" ,
-        "13-13": "" ,
-        "14-14": "" ,
-        "15-15": "" ,
-        "16-16": "" ,
-        "17-17": "" ,
-        "18-18": "" ,
-        "19-19": "" ,
-        "20-20": "" ,
-        "21-21": "" ,
-        "22-22": "" ,
-        "23-23": "" ,
-        "24-24": "" ,
-        "25-25": "" ,
-        "26-26": "" ,
-        "27-27": "" ,
-        "28-28": "" ,
-        "29-29": "" ,
-        "30-30": "" ,
-        "31-31": "" ,
-        "32-32": "" ,
-        "33-33": "" ,
-        "34-34": "" ,
-        "35-35": "" ,
-        "36-36": "" ,
-        "37-37": "" ,
-        "38-38": "" ,
-        "39-39": "" ,
-        "40-40": "" ,
-        "41-41": "" ,
-        "42-42": "" ,
-        "43-43": "" ,
-        "44-44": "" ,
-        "45-45": "" ,
-        "46-46": "" ,
-        "47-47": "" ,
-        "48-48": "" ,
-        "49-49": "" ,
-        "50-50": "" ,
-        "51-51": "" ,
-        "52-52": "" ,
-        "53-53": "" ,
-        "54-54": "" ,
-        "55-55": "" ,
-        "56-56": "" ,
-        "57-57": "" ,
-        "58-58": "" ,
-        "59-59": "" ,
-        "60-60": "" ,
-        "61-61": "" ,
-        "62-62": "" ,
-        "63-63": "" ,
-        "64-64": "" ,
-        "65-65": "" ,
-        "66-66": "" ,
-        "67-67": "" ,
-        "68-68": "" ,
-        "69-69": "" ,
-        "70-70": "" ,
-        "71-71": "" ,
-        "72-72": "" ,
-        "73-73": "" ,
-        "74-74": "" ,
-        "75-75": "" ,
-        "76-76": "" ,
-        "77-77": "" ,
-        "78-78": "" ,
-        "79-79": "" ,
-        "80-80": "" ,
-        "81-81": "" ,
-        "82-82": "" ,
-        "83-83": "" ,
-        "84-84": "" ,
-        "85-85": "" ,
-        "86-86": "" ,
-        "87-87": "" ,
-        "88-88": "" ,
-        "89-89": "" ,
-        "90-90": "" ,
-        "91-91": "" ,
-        "92-92": "" ,
-        "93-93": "" ,
-        "94-94": "" ,
-        "95-95": "" ,
-        "96-96": "" ,
-        "97-97": "" ,
-        "98-98": "" ,
-        "99-99": "" ,
-        "100-100": "" 
-      }
-    },
-    "Vampire Resting Places": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" 
-      }
-    },
-    "Wand of Wonder Effects": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-20": "" ,
-        "21-25": "" ,
-        "26-30": "" ,
-        "31-35": "" ,
-        "36-40": "" ,
-        "41-45": "" ,
-        "46-50": "" ,
-        "51-55": "" ,
-        "56-60": "" ,
-        "61-64": "" ,
-        "65-68": "" ,
-        "69-72": "" ,
-        "73-77": "" ,
-        "78-82": "" ,
-        "83-87": "" ,
-        "88-92": "" ,
-        "93-97": "" ,
-        "98-100": "" 
-      }
-    },
-    "Warrior Roles": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" ,
-        "9-9": "" ,
-        "10-10": "" 
-      }
-    },
-    "Wraith Manifestations": {
-      "name": "" ,
-      "description": "" ,
-      "results": {
-        "1-1": "" ,
-        "2-2": "" ,
-        "3-3": "" ,
-        "4-4": "" ,
-        "5-5": "" ,
-        "6-6": "" ,
-        "7-7": "" ,
-        "8-8": "" ,
-        "9-9": "" ,
-        "10-10": "" 
-      }
+    "label": "Tables aléatoires",
+    "folders": {
+        "Bag of Tricks": "Sac à malices",
+        "Creating a Character": "Création de personnage",
+        "Item-Specific Tables": "Tables spécifiques aux objets",
+        "Magic Items": "Objets magiques",
+        "Monster Details": "",
+        "Mysterious Deck": "",
+        "Random Magic Item Rarity by Level": "Rareté aléatoire d'objet magique par niveau",
+        "Reincarnated Lineages": "Lignages réincarnés",
+        "Sentient Item Attributes": "Attributs des objets intelligents",
+        "Spells": "Sorts"
+    },
+    "entries": {
+        "Alignment": {
+            "name": "Alignement",
+            "results": {
+                "1-15": "Loyal Bon",
+                "16-35": "Neutre Bon",
+                "36-50": "Chaotique Bon",
+                "51-63": "Loyal Neutre",
+                "64-73": "Neutre",
+                "74-85": "Chaotique Neutre",
+                "86-89": "Loyal Mauvais",
+                "90-96": "Neutre Mauvais",
+                "97-100": "Chaotique Mauvais"
+            }
+        },
+        "Ammunition of Slaying: Creature Type": {
+            "name": "Projectile tueur : Type de créature",
+            "results": {
+                "1-10": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.4GIkMFeZQHZnfjvq]",
+                "11-15": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.70bFeuTndNorjLBe]",
+                "16-20": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.o4aDyFCK0ekd9w8j]",
+                "21-25": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.AvExH8PizzJN0jSM]",
+                "26-35": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.VRMET3XgPTjBG91L]",
+                "36-45": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.ku2JX8rDga8GUBul]",
+                "46-50": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.ZssaQ07jWS7jFiej]",
+                "51-60": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.3JnW3nSByOVKu1LW]",
+                "61-70": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.ulADMO3yope7gn5R]",
+                "71-75": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.MKSR9zEe2s3qVILa]",
+                "76-80": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.cFNisqoGRSTHYDI4]",
+                "81-85": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.3mSYXVx987sezjuS]",
+                "86-90": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.BsXM9mDyGJ1R754S]",
+                "91-100": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSlayingAmmuni.ActiveEffect.4NXhqKrNtDQjBcc8]"
+            }
+        },
+        "Amulet of the Planes Destination": {
+            "name": "Amulette des plans : Destination",
+            "results": {
+                "1-60": "Emplacement aléatoire sur le plan que vous aviez nommé",
+                "61-70": "Emplacement aléatoire sur un Plan Intérieur déterminé par le résultat de [[/r 1d6]] : 1, le Plan de l'Air ; 2, le Plan de la Terre ; 3, le Plan du Feu ; 4, le Plan de l'Eau ; 5, la Féerie ; et 6, la Gisombre",
+                "71-80": "Emplacement aléatoire sur un Plan Extérieur déterminé par le résultat de [[/r 1d8]] : 1, l'Arborée ; 2, l'Arcadie ; 3, les Terres des Bêtes ; 4, la Bytopie ; 5, l'Élysée ; 6, Méchanus ; 7, le Mont Céleste ; et 8, Ysgard",
+                "81-90": "Emplacement aléatoire sur un Plan Extérieur déterminé par le résultat de [[/r 1d8]] : 1, les Abysses ; 2 , l'Achéron ; 3, les Carcères ; 4, la Géhenne ; 5, Hadès ; 6, les Limbes ; 7, les Neuf Enfers ; et 8, le Pandémonium",
+                "91-100": "Emplacement aléatoire sur le Plan Astral"
+            }
+        },
+        "Animated Object Catalysts": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": "",
+                "9-9": "",
+                "10-10": ""
+            }
+        },
+        "Armor of Resistance Type": {
+            "name": "Armure de résistance : Type",
+            "results": {
+                "1-1": "@UUID[Compendium.dnd5e.equipment24.Item.dmgArmorOfResist.ActiveEffect.YreDFSu9z9mGCWt1]",
+                "6-6": "@UUID[Compendium.dnd5e.equipment24.Item.dmgArmorOfResist.ActiveEffect.CfxFdUSiXkOUXym6]",
+                "2-2": "@UUID[Compendium.dnd5e.equipment24.Item.dmgArmorOfResist.ActiveEffect.LTByr2rsRPBLLOA0]",
+                "7-7": "@UUID[Compendium.dnd5e.equipment24.Item.dmgArmorOfResist.ActiveEffect.VST1qNRu1dHDzkD2]",
+                "3-3": "@UUID[Compendium.dnd5e.equipment24.Item.dmgArmorOfResist.ActiveEffect.MqubvD3XEwB7DRST]",
+                "8-8": "@UUID[Compendium.dnd5e.equipment24.Item.dmgArmorOfResist.ActiveEffect.mmp5O2pZOxJUc2vq]",
+                "4-4": "@UUID[Compendium.dnd5e.equipment24.Item.dmgArmorOfResist.ActiveEffect.lsPKUk288Jkvahsp]",
+                "9-9": "@UUID[Compendium.dnd5e.equipment24.Item.dmgArmorOfResist.ActiveEffect.jyWNVNHLYdxvCOQz]",
+                "5-5": "@UUID[Compendium.dnd5e.equipment24.Item.dmgArmorOfResist.ActiveEffect.18IZ8X8zpDXyN33T]",
+                "10-10": "@UUID[Compendium.dnd5e.equipment24.Item.dmgArmorOfResist.ActiveEffect.cbsuJ2tdbBuT5e8U]"
+            }
+        },
+        "Bag of Beans Effect": {
+            "name": "Sac de haricots magiques : Effet",
+            "results": {
+                "1-1": "[[/r 5d4#Champignons]] champignons poussent. Si une créature mange un champignon, lancez [[/r 1d2#Effet secondaire du champignon]]{n'importe quel dé}. En cas de résultat impair, la créature doit réussir un jet de sauvegarde de [[/save ability=con dc=15]] sous peine de subir [[/damage 5d6 type=poison]]{5d6} dégâts de poison et l'état &Reference[Poisoned] pendant 1 heure. En cas de résultat pair, la créature reçoit [[/healing 5d6 type=temphp]]{5d6} points de vie temporaires qui persistent pendant 1 heure.",
+                "2-10": "Un geyser jaillit sur 9 m de haut en déversant de l'eau, de la bière, de la mayonnaise, du thé, du vinaigre, du vin ou de l'huile (au choix du MD) pendant [[/r 1d4#Durée du geyser (minutes)]] minutes.",
+                "11-20": "Un @UUID[Compendium.dnd5e.actors24.Actor.mmTreant00000000]{sylvanien} pousse. Lancez [[/r 1d2#Alignement du sylvanien]]{n'importe quel dé}. En cas de résultat impair, ce sylvanien est Chaotique Mauvais. En cas de résultat pair, il est Chaotique Bon.",
+                "21-30": "Une statue de pierre à votre effigie, animée, mais immobile, se dresse et profère des menaces verbales à votre encontre. Si vous partez et que d'autres s'en approchent, elle vous décrit comme le plus odieux des scélérats et intime aux nouveaux arrivants de vous pourchasser. Si vous êtes sur le même plan d'existence que la statue, elle sait exactement où vous êtes. La statue devient inanimée au bout de 24 heures.",
+                "31-40": "Un feu de camp aux flammes vertes s'allume ; il brûle pendant 24 heures (sauf si quelqu'un l'éteint).",
+                "41-50": "Trois @UUID[Compendium.dnd5e.actors24.Actor.mmShriekerFungus]{criards} poussent.",
+                "51-60": "[[/r 1d4 + 4#Crapauds rose vif]] @UUID[Compendium.dnd5e.actors24.Actor.mmFrog0000000000]{crapauds} rose vif émergent en rampant. Chaque fois qu'un crapaud est touché, il se transforme en un monstre de taille G ou inférieure au choix du MD, qui agit selon son alignement et sa nature. Le monstre persiste pendant 1 minute puis disparaît dans une bouffée de fumée rose vif.",
+                "61-70": "Une @UUID[Compendium.dnd5e.actors24.Actor.mmBulette0000000]{bulette} affamée surgit du sol et passe à l'attaque.",
+                "71-80": "Un arbre fruitier émerge. Il porte [[/r 1d10 + 20#Nombre de fruits]] fruits, dont [[/gmr 1d8#Fruits agissant comme potions]] agissent comme autant de potions déterminées aléatoirement. L'arbre disparaît au bout de 1 heure. Les fruits cueillis persistent et conservent leurs propriétés magiques pendant 30 jours.",
+                "81-90": "Un nid contenant [[/r 1d4 + 3#Œufs aux couleurs de l'arc-en-ciel]] œufs aux couleurs de l'arc-en-ciel apparaît. Toute créature qui mange un œuf effectue un jet de sauvegarde de [[/save ability=con dc=20]]. En cas de réussite, cette créature augmente sa valeur de caractéristique la plus basse de 1, de manière permanente, le hasard décidant de laquelle en cas d'égalité. En cas d'échec, la créature subit [[/damage 10d6 type=force]]{10d6} dégâts de force, provoqués par une explosion interne.",
+                "91-95": "Une pyramide à base carrée de 18 m de côté surgit du sol. À l'intérieur, une chambre funéraire abrite une @UUID[Compendium.dnd5e.actors24.Actor.mmMummy000000000]{momie}, une @UUID[Compendium.dnd5e.actors24.Actor.mmMummyLord00000]{momie auguste} ou quelque autre Mort-vivant choisi par le MD. Son sarcophage contient un trésor choisi par le MD.",
+                "96-100": "Un plant de haricot géant surgit, poussant jusqu'à une hauteur choisie par le MD. Le sommet mène là où le MD le décide : panorama superbe, château d'une géante des nuages, autre plan d'existence, etc."
+            }
+        },
+        "Bandit Motivations": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": ""
+            }
+        },
+        "Candle of Invocation: Outer Plane Destination": {
+            "name": "Cierge d'invocation : Destination Plan extérieur",
+            "results": {
+                "1-5": "Abysses",
+                "55-59": "Géhenne",
+                "6-10": "Achéron",
+                "60-64": "Hadès",
+                "11-17": "Arborée",
+                "65-69": "Limbes",
+                "18-25": "Arcadie",
+                "70-77": "Mont Céleste",
+                "26-33": "Bytopie",
+                "78-85": "Terres des Bêtes",
+                "34-41": "Élysée",
+                "86-90": "Neuf Enfers",
+                "42-46": "Carcères",
+                "91-95": "Pandémonium",
+                "47-54": "Méchanus",
+                "96-100": "Ysgard"
+            }
+        },
+        "Cardinal Directions": {
+            "name": "Directions cardinales",
+            "results": {
+                "1-1": "Nord",
+                "2-2": "Est",
+                "3-3": "Sud",
+                "4-4": "Ouest"
+            }
+        },
+        "Carpet of Flying: Size, Capacity, and Speed": {
+            "name": "Tapis volant : Taille, Capacité et Vitesse",
+            "results": {
+                "1-20": "90 cm x 1,50 m | Capacité 100 kg | Vitesse de vol 24 m",
+                "21-55": "1,20 m x 1,80 m | Capacité 200 kg | Vitesse de vol 18 m",
+                "56-80": "1,50 m x 2,10 m | Capacité 300 kg | Vitesse de vol 12 m",
+                "81-100": "1,80 m x 2,70 m | Capacité 400 kg | Vitesse de vol 9 m"
+            }
+        },
+        "Communication": {
+            "name": "Modes de communication",
+            "results": {
+                "1-6": "L'objet communique en transmettant ses émotions à la créature qui le porte ou le manie.",
+                "7-9": "L'objet parle une ou plusieurs langues.",
+                "10-10": "L'objet parle une ou plusieurs langues. Il peut en outre communiquer par télépathie avec la créature qui le porte ou le manie."
+            }
+        },
+        "Confusion Behavior": {
+            "name": "Comportement de Confusion",
+            "description": "<p>Comportement du tour</p>",
+            "results": {
+                "wOokSBLpTsUWBccD": "La cible n'entreprend aucune action et consacre tout son déplacement à se déplacer. Lancez [[/r 1d4]] pour la direction : 1, nord ; 2, est ; 3, sud ; 4, ouest.",
+                "2-6": "La cible ne se déplace pas et n'entreprend aucune action.",
+                "7-8": "La cible ne se déplace pas et entreprend l'action Attaque pour effectuer une attaque de corps à corps contre une créature aléatoire à portée d'allonge. Si aucune créature n'est à portée d'allonge, la cible n'entreprend aucune action.",
+                "9-10": "La cible agit et se déplace à sa guise."
+            }
+        },
+        "Cult Symbols": {
+            "name": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": "",
+                "9-9": "",
+                "10-10": ""
+            }
+        },
+        "Cult Symbols - Depictions": {
+            "name": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": "",
+                "9-9": "",
+                "10-10": ""
+            }
+        },
+        "Cultist Agendas": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": ""
+            }
+        },
+        "Deck of Illusions": {
+            "name": "Tarot fantasmagorique",
+            "description": "<p>Les profils de ces créatures (hormis celui de la personne qui a tiré la carte) figurent dans les Monstres.</p>",
+            "results": {
+                "1-3": "@UUID[Compendium.dnd5e.actors24.Actor.mmArchmage000000]{Archimage}",
+                "4-6": "@UUID[Compendium.dnd5e.actors24.Actor.mmAssassin000000]{Assassin}",
+                "7-9": "@UUID[Compendium.dnd5e.actors24.Actor.mmBerserker00000]{Berserker}",
+                "10-12": "@UUID[Compendium.dnd5e.actors24.Actor.mmBanditCaptain0]{Chef de bande}",
+                "13-15": "",
+                "16-18": "",
+                "19-21": "",
+                "22-24": "",
+                "25-27": "",
+                "28-30": "",
+                "31-33": "",
+                "34-36": "",
+                "37-39": "",
+                "40-42": "",
+                "43-45": "",
+                "46-48": "",
+                "49-51": "",
+                "52-54": "",
+                "55-57": "",
+                "58-60": "",
+                "61-63": "",
+                "64-66": "",
+                "67-69": "",
+                "70-72": "",
+                "73-75": "",
+                "76-78": "",
+                "79-81": "",
+                "82-84": "",
+                "85-87": "",
+                "88-90": "",
+                "91-93": "",
+                "94-96": "",
+                "97-100": "La personne qui a tiré la carte"
+            }
+        },
+        "Doppelganger Deceptions": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": ""
+            }
+        },
+        "Efreeti Bottle": {
+            "name": "Bouteille du mauvais génie",
+            "description": "<p>La première fois que la @UUID[Compendium.dnd5e.equipment24.Item.dmgEfreetiBottle]{bouteille} est ouverte, le MD jette le dé et consulte la table ci -après pour déterminer ce qui se produit.</p>",
+            "results": {
+                "1-1": "L'éfrit vous attaque. Après 5 rounds de combat, l'éfrit disparaît et la bouteille perd sa magie.",
+                "2-9": "L'éfrit comprend les mêmes langues que vous et obéit à vos ordres pendant 1 heure, après quoi il retourne dans la bouteille, scellée par un nouveau bouchon. La bouteille ne peut pas être débouchée pendant 24 heures. Lors des deux prochains débouchages de la bouteille, le même effet se produit. Si l'on ouvre la bouteille une quatrième fois, l'éfrit s'enfuit, disparaît et la bouteille perd sa magie.",
+                "10-10": "L'éfrit comprend les mêmes langues que vous et peut lancer <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplWish000000]{souhait}</em> une fois pour vous. Il disparaît après avoir exaucé le souhait (au bout de 1 heure sans cela) et la bouteille perd sa magie."
+            }
+        },
+        "Elven Lineage": {
+            "name": "Lignage elfique",
+            "description": "<p>Vous appartenez à un lignage qui vous octroie des aptitudes surnaturelles.</p>"
+        },
+        "Feather Tokens": {
+            "name": "",
+            "results": {
+                "1-20": "",
+                "21-35": "",
+                "36-50": "",
+                "51-65": "",
+                "66-90": "",
+                "91-100": ""
+            }
+        },
+        "Fiendish Legacy": {
+            "name": "",
+            "description": ""
+        },
+        "Fire Elemental Compositions": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": ""
+            }
+        },
+        "Gelatinous Cube Debris": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": ""
+            }
+        },
+        "Gnomish Lineage": {
+            "name": "",
+            "description": ""
+        },
+        "Gray Bag of Tricks": {
+            "name": ""
+        },
+        "Hat of Many Spells": {
+            "name": "",
+            "results": {
+                "1-50": "",
+                "51-55": "",
+                "56-60": "",
+                "61-65": "",
+                "66-70": "",
+                "71-75": "",
+                "76-80": "",
+                "81-85": "",
+                "86-90": "",
+                "91-95": "",
+                "96-100": ""
+            }
+        },
+        "Horn of Valhalla: Type and Requirement": {
+            "name": "",
+            "results": {
+                "1-40": "",
+                "41-75": "",
+                "76-90": "",
+                "91-100": ""
+            }
+        },
+        "Incubus Nightmares": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": ""
+            }
+        },
+        "Iron Flask Contents": {
+            "name": "",
+            "results": {
+                "1-50": "",
+                "51-51": "",
+                "52-54": "",
+                "55-56": "",
+                "57-58": "",
+                "59-59": "",
+                "60-61": "",
+                "62-63": "",
+                "64-65": "",
+                "66-67": "",
+                "68-68": "",
+                "69-69": "",
+                "70-71": "",
+                "72-74": "",
+                "75-75": "",
+                "76-77": "",
+                "78-79": "",
+                "80-80": "",
+                "81-82": "",
+                "83-84": "",
+                "85-86": "",
+                "87-88": "",
+                "89-89": "",
+                "90-91": "",
+                "92-93": "",
+                "94-94": "",
+                "95-95": "",
+                "96-96": "",
+                "97-99": "",
+                "100-100": ""
+            }
+        },
+        "Level 1-4": {
+            "name": "",
+            "results": {
+                "1-54": "",
+                "55-91": "",
+                "92-100": ""
+            }
+        },
+        "Level 11-16": {
+            "name": "",
+            "results": {
+                "1-11": "",
+                "12-34": "",
+                "35-70": "",
+                "71-93": "",
+                "94-100": ""
+            }
+        },
+        "Level 17-20": {
+            "name": "",
+            "results": {
+                "1-20": "",
+                "21-64": "",
+                "65-100": ""
+            }
+        },
+        "Level 5-10": {
+            "name": "",
+            "results": {
+                "1-30": "",
+                "31-81": "",
+                "82-98": "",
+                "99-100": ""
+            }
+        },
+        "Mage Roles": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": "",
+                "9-9": "",
+                "10-10": ""
+            }
+        },
+        "Manual of Golems: Type, Time, and Cost": {
+            "name": "",
+            "results": {
+                "1-5": "",
+                "6-17": "",
+                "18-18": "",
+                "19-20": ""
+            }
+        },
+        "Minotaur Mazes": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": ""
+            }
+        },
+        "Mysterious Deck: 13 Cards": {
+            "name": ""
+        },
+        "Mysterious Deck: 22 Cards": {
+            "name": ""
+        },
+        "Necklace of Prayer Beads Type": {
+            "name": "",
+            "results": {
+                "1-6": "",
+                "7-12": "",
+                "13-16": "",
+                "17-18": "",
+                "19-19": "",
+                "20-20": ""
+            }
+        },
+        "Owlbear Den Features": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": ""
+            }
+        },
+        "Potion Miscibility": {
+            "name": "",
+            "results": {
+                "1-1": "",
+                "2-8": "",
+                "9-15": "",
+                "16-25": "",
+                "26-35": "",
+                "36-90": "",
+                "91-99": "",
+                "100-100": ""
+            }
+        },
+        "Potion of Resistance Type": {
+            "name": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": "",
+                "9-9": "",
+                "10-10": ""
+            }
+        },
+        "Prismatic Layers": {
+            "name": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": ""
+            }
+        },
+        "Prismatic Rays": {
+            "name": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": ""
+            }
+        },
+        "Pseudodragon Treats": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": "",
+                "9-9": "",
+                "10-10": ""
+            }
+        },
+        "Reincarnated Species": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": ""
+            }
+        },
+        "Ring of Resistance: Damage Type and Gemstone": {
+            "name": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": "",
+                "9-9": "",
+                "10-10": ""
+            }
+        },
+        "Robe of Useful Items": {
+            "name": "",
+            "results": {
+                "1-8": "",
+                "9-15": "",
+                "16-22": "",
+                "23-30": "",
+                "31-44": "",
+                "45-51": "",
+                "52-59": "",
+                "60-68": "",
+                "69-75": "",
+                "76-83": "",
+                "84-90": "",
+                "91-96": "",
+                "97-100": ""
+            }
+        },
+        "Rust Bag of Tricks": {
+            "name": ""
+        },
+        "Senses": {
+            "name": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": ""
+            }
+        },
+        "Shadow Shapes": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": ""
+            }
+        },
+        "Skeleton Pantomimes": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": ""
+            }
+        },
+        "Special Purpose": {
+            "name": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": "",
+                "9-9": "",
+                "10-10": ""
+            }
+        },
+        "Sphere of Annihilation Interaction Results": {
+            "name": "",
+            "results": {
+                "1-50": "",
+                "51-85": "",
+                "86-100": ""
+            }
+        },
+        "Standard Languages": {
+            "name": "",
+            "results": {
+                "rViHFEn5WjhRbElK": ""
+            }
+        },
+        "Stirge Roosts": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": ""
+            }
+        },
+        "Stone Golem Orders": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": ""
+            }
+        },
+        "Sub-Languages Table": {
+            "name": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-4": "",
+                "5-6": "",
+                "7-7": "",
+                "8-8": "",
+                "9-9": "",
+                "10-11": "",
+                "12-12": ""
+            }
+        },
+        "Succubus Temptations": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": ""
+            }
+        },
+        "Tan Bag of Tricks": {
+            "name": ""
+        },
+        "Teleport Mishap": {
+            "name": "",
+            "description": "",
+            "results": {
+                "RaCnOnLRcJPv11Vf": "",
+                "4W9YPHqIIDyt3WbV": "",
+                "1-5": "",
+                "6-13": "",
+                "14-24": "",
+                "25-100": "",
+                "1-33": "",
+                "34-43": "",
+                "5hV5vL7SYu53EPvb": "",
+                "KShVQqILsbEKwNQ1": "",
+                "1-43": "",
+                "S3FXuqVgRazP23RK": "",
+                "LWWefv3FEwkukueE": "",
+                "74-100": "",
+                "1-50": "",
+                "51-100": ""
+            }
+        },
+        "Trinkets": {
+            "name": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": "",
+                "9-9": "",
+                "10-10": "",
+                "11-11": "",
+                "12-12": "",
+                "13-13": "",
+                "14-14": "",
+                "15-15": "",
+                "16-16": "",
+                "17-17": "",
+                "18-18": "",
+                "19-19": "",
+                "20-20": "",
+                "21-21": "",
+                "22-22": "",
+                "23-23": "",
+                "24-24": "",
+                "25-25": "",
+                "26-26": "",
+                "27-27": "",
+                "28-28": "",
+                "29-29": "",
+                "30-30": "",
+                "31-31": "",
+                "32-32": "",
+                "33-33": "",
+                "34-34": "",
+                "35-35": "",
+                "36-36": "",
+                "37-37": "",
+                "38-38": "",
+                "39-39": "",
+                "40-40": "",
+                "41-41": "",
+                "42-42": "",
+                "43-43": "",
+                "44-44": "",
+                "45-45": "",
+                "46-46": "",
+                "47-47": "",
+                "48-48": "",
+                "49-49": "",
+                "50-50": "",
+                "51-51": "",
+                "52-52": "",
+                "53-53": "",
+                "54-54": "",
+                "55-55": "",
+                "56-56": "",
+                "57-57": "",
+                "58-58": "",
+                "59-59": "",
+                "60-60": "",
+                "61-61": "",
+                "62-62": "",
+                "63-63": "",
+                "64-64": "",
+                "65-65": "",
+                "66-66": "",
+                "67-67": "",
+                "68-68": "",
+                "69-69": "",
+                "70-70": "",
+                "71-71": "",
+                "72-72": "",
+                "73-73": "",
+                "74-74": "",
+                "75-75": "",
+                "76-76": "",
+                "77-77": "",
+                "78-78": "",
+                "79-79": "",
+                "80-80": "",
+                "81-81": "",
+                "82-82": "",
+                "83-83": "",
+                "84-84": "",
+                "85-85": "",
+                "86-86": "",
+                "87-87": "",
+                "88-88": "",
+                "89-89": "",
+                "90-90": "",
+                "91-91": "",
+                "92-92": "",
+                "93-93": "",
+                "94-94": "",
+                "95-95": "",
+                "96-96": "",
+                "97-97": "",
+                "98-98": "",
+                "99-99": "",
+                "100-100": ""
+            }
+        },
+        "Vampire Resting Places": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": ""
+            }
+        },
+        "Wand of Wonder Effects": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-20": "",
+                "21-25": "",
+                "26-30": "",
+                "31-35": "",
+                "36-40": "",
+                "41-45": "",
+                "46-50": "",
+                "51-55": "",
+                "56-60": "",
+                "61-64": "",
+                "65-68": "",
+                "69-72": "",
+                "73-77": "",
+                "78-82": "",
+                "83-87": "",
+                "88-92": "",
+                "93-97": "",
+                "98-100": ""
+            }
+        },
+        "Warrior Roles": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": "",
+                "9-9": "",
+                "10-10": ""
+            }
+        },
+        "Wraith Manifestations": {
+            "name": "",
+            "description": "",
+            "results": {
+                "1-1": "",
+                "2-2": "",
+                "3-3": "",
+                "4-4": "",
+                "5-5": "",
+                "6-6": "",
+                "7-7": "",
+                "8-8": "",
+                "9-9": "",
+                "10-10": ""
+            }
+        }
     }
-  }
 }
