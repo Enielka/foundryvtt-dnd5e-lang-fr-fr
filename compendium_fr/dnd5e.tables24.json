@@ -291,8 +291,8 @@
             }
         },
         "Fiendish Legacy": {
-            "name": "",
-            "description": ""
+            "name": "Héritage fiélon",
+            "description": "<p>Votre héritage vous octroie des aptitudes surnaturelles.</p>"
         },
         "Fire Elemental Compositions": {
             "name": "",
@@ -321,35 +321,35 @@
             }
         },
         "Gnomish Lineage": {
-            "name": "",
-            "description": ""
+            "name": "Lignage gnome",
+            "description": "<p>Vous appartenez à un lignage qui vous octroie des aptitudes surnaturelles.</p>"
         },
         "Gray Bag of Tricks": {
-            "name": ""
+            "name": "Sac à malices gris"
         },
         "Hat of Many Spells": {
-            "name": "",
+            "name": "Chapeau mille-sorts",
             "results": {
-                "1-50": "",
-                "51-55": "",
-                "56-60": "",
-                "61-65": "",
-                "66-70": "",
-                "71-75": "",
-                "76-80": "",
-                "81-85": "",
-                "86-90": "",
-                "91-95": "",
-                "96-100": ""
+                "1-50": "Vous lancez un sort déterminé aléatoirement en jetant [[/r 1d10]] : 1, @UUID[Compendium.dnd5e.spells24.Item.phbsplEnlargeRed]{agrandissement/rapetissement} (effet agrandissement) ; 2, agrandissement/rapetissement (effet rapetissement) ; 3, @UUID[Compendium.dnd5e.spells24.Item.phbsplFireball00]{boule de feu} ; 4, @UUID[Compendium.dnd5e.spells24.Item.phbsplGustofWind]{bourrasque} ; 5, @UUID[Compendium.dnd5e.spells24.Item.phbsplLightningB]{éclair} ; 6, @UUID[Compendium.dnd5e.spells24.Item.phbPhantasmalFor]{force fantasmagorique} ; 7, @UUID[Compendium.dnd5e.spells24.Item.phbsplInvisibili]{invisibilité} (lancé sur vous) ; 8, @UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{lueurs féeriques} ; 9, @UUID[Compendium.dnd5e.spells24.Item.phbsplPolymorph0]{métamorphose} ; 10, @UUID[Compendium.dnd5e.spells24.Item.phbsplStinkingCl]{nuage nauséabond}.",
+                "51-55": "Vous subissez l'état &Reference[Stunned] jusqu'à la fin de votre tour suivant, convaincu qu'un événement extraordinaire vient de se produire.",
+                "56-60": "Une nuée de papillons inoffensifs remplit un Cube de 3 m dans un rayon de 9 m de vous. La nuée se disperse au bout de 1 minute.",
+                "61-65": "Vous sortez un objet non magique du chapeau. Lancez [[/r 1d4]] pour déterminer de quel objet il s'agit : 1, une fiole d'@UUID[Compendium.dnd5e.equipment24.Item.phbagAcid0000000]{acide} ; 2, une @UUID[Compendium.dnd5e.equipment24.Item.phbagAlchemistsF]{flasque de feu grégeois} ; 3, un @UUID[Compendium.dnd5e.equipment24.Item.phbagCrowbar0000]{pied-de-biche} ; 4, une @UUID[Compendium.dnd5e.equipment24.Item.phbagTorch000000]{torche allumée}.",
+                "66-70": "En proie à une poussée de « maladie magique », vous subissez l'état &Reference[Poisoned] pendant 1 heure.",
+                "71-75": "Vous subissez l'état &Reference[Petrified] jusqu'à la fin de votre tour suivant.",
+                "76-80": "Vous sortez un objet non magique du chapeau. Lancez [[/r 1d4]] pour déterminer de quel objet il s'agit : 1, une @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{dague} ; 2, un @UUID[Compendium.dnd5e.equipment24.Item.phbagGrapplingHo]{grappin} attaché à une @UUID[Compendium.dnd5e.equipment24.Item.phbagRope0000000]{corde} ; 3, un sac de @UUID[Compendium.dnd5e.equipment24.Item.phbagCaltrops000]{chausse-trappes} ; 4, une gemme d'une valeur de 50 po.",
+                "81-85": "Une créature apparaît dans un espace inoccupé, le plus près possible de vous. La créature n'est pas sous votre contrôle, agit normalement et disparaît après 1 heure ou lorsqu'elle tombe à 0 point de vie. Lancez [[/r 1d4]] pour déterminer la créature : 1, un @UUID[Compendium.dnd5e.actors24.Actor.mmCamel000000000]{chameau} ; 2, un @UUID[Compendium.dnd5e.actors24.Actor.mmElephant000000]{éléphant} ; 3, une @UUID[Compendium.dnd5e.actors24.Actor.mmMule0000000000]{mule} ; 4, un @UUID[Compendium.dnd5e.actors24.Actor.mmConstrictorSna]{serpent constricteur}.",
+                "86-90": "Une @UUID[Compendium.dnd5e.actors24.Actor.mmSwarmOfBats000]{nuée de chauve-souris} Hostile sort du chapeau, occupe votre espace et vous attaque.",
+                "91-95": "Un portail vertical bidirectionnel de 3 m, donnant sur un autre plan d'existence, s'ouvre en un espace inoccupé dans un rayon de 9 m de vous et reste ouvert jusqu'à la fin de votre tour suivant. Le MD détermine sur quel plan il mène.",
+                "96-100": "Vous sortez un objet magique du chapeau. Lancez [[/r 1d6]] pour déterminer la rareté de l'objet : 1 à 3, courant ; 4 ou 5, peu courant ; 6, rare. Le MD choisit l'objet, qui disparaît au bout de 1 heure s'il n'est pas consommé ou détruit avant cela."
             }
         },
         "Horn of Valhalla: Type and Requirement": {
-            "name": "",
+            "name": "Cor du Valhalla : Type et Prérequis",
             "results": {
-                "1-40": "",
-                "41-75": "",
-                "76-90": "",
-                "91-100": ""
+                "1-40": "@UUID[Compendium.dnd5e.equipment24.Item.dmgSilverHornOfV]{Argent} (2 esprits) ; Aucun",
+                "41-75": "@UUID[Compendium.dnd5e.equipment24.Item.dmgBrassHornOfVa]{Airain} (3 esprits) ; Maîtrise de toutes les armes courantes",
+                "76-90": "@UUID[Compendium.dnd5e.equipment24.Item.dmgBronzeHornOfV]{Bronze} (4 esprits) ; Formation au port de toutes les armures intermédiaires",
+                "91-100": "@UUID[Compendium.dnd5e.equipment24.Item.dmgIronHornOfVal]{Fer} (5 esprits) ; Maîtrise de toutes les armes de guerre"
             }
         },
         "Incubus Nightmares": {
@@ -367,73 +367,73 @@
             }
         },
         "Iron Flask Contents": {
-            "name": "",
+            "name": "Flasque de fer : Contenu",
             "results": {
-                "1-50": "",
-                "51-51": "",
-                "52-54": "",
-                "55-56": "",
-                "57-58": "",
-                "59-59": "",
-                "60-61": "",
-                "62-63": "",
-                "64-65": "",
-                "66-67": "",
-                "68-68": "",
-                "69-69": "",
-                "70-71": "",
-                "72-74": "",
-                "75-75": "",
-                "76-77": "",
-                "78-79": "",
-                "80-80": "",
-                "81-82": "",
-                "83-84": "",
-                "85-86": "",
-                "87-88": "",
-                "89-89": "",
-                "90-91": "",
-                "92-93": "",
-                "94-94": "",
-                "95-95": "",
-                "96-96": "",
-                "97-99": "",
-                "100-100": ""
+                "1-50": "Pas de créature",
+                "51-51": "Arcanaloth",
+                "52-54": "@UUID[Compendium.dnd5e.actors24.Actor.mmBoneDevil00000]{Diable osseux}",
+                "55-56": "Cambion",
+                "57-58": "Dao",
+                "59-59": "Chevalier githyanki",
+                "60-61": "@UUID[Compendium.dnd5e.actors24.Actor.mmDjinni00000000]{Djinn}",
+                "62-63": "@UUID[Compendium.dnd5e.actors24.Actor.mmEfreeti0000000]{Éfrit}",
+                "64-65": "@UUID[Compendium.dnd5e.actors24.Actor.mmErinyes0000000]{Érinye}",
+                "66-67": "Fomoire",
+                "68-68": "@UUID[Compendium.dnd5e.actors24.Actor.mmDeva0000000000]{Déva}",
+                "69-69": "@UUID[Compendium.dnd5e.actors24.Actor.mmIncubus0000000]{Incube}",
+                "70-71": "@UUID[Compendium.dnd5e.actors24.Actor.mmGlabrezu000000]{Glabrezu}",
+                "72-74": "@UUID[Compendium.dnd5e.actors24.Actor.mmHezrou00000000]{Hezrou}",
+                "75-75": "@UUID[Compendium.dnd5e.actors24.Actor.mmMarilith000000]{Marilith}",
+                "76-77": "@UUID[Compendium.dnd5e.actors24.Actor.mmNightHag000000]{Guenaude nocturne}",
+                "78-79": "Maride",
+                "80-80": "@UUID[Compendium.dnd5e.actors24.Actor.mmPlanetar000000]{Planétar}",
+                "81-82": "Mezzoloth",
+                "83-84": "@UUID[Compendium.dnd5e.actors24.Actor.mmNalfeshnee0000]{Nalfeshnie}",
+                "85-86": "Nycaloth",
+                "87-88": "@UUID[Compendium.dnd5e.actors24.Actor.mmSalamander0000]{Salamandre}",
+                "89-89": "@UUID[Compendium.dnd5e.actors24.Actor.mmSolar000000000]{Solar}",
+                "90-91": "Slaad rouge",
+                "92-93": "@UUID[Compendium.dnd5e.actors24.Actor.mmInvisibleStalk]{Traqueur invisible}",
+                "94-94": "@UUID[Compendium.dnd5e.actors24.Actor.mmSuccubus000000]{Succube}",
+                "95-95": "Ultroloth",
+                "96-96": "@UUID[Compendium.dnd5e.actors24.Actor.mmXorn0000000000]{Xorn}",
+                "97-99": "@UUID[Compendium.dnd5e.actors24.Actor.mmVrock000000000]{Vrock}",
+                "100-100": "Zerth githzeraï"
             }
         },
         "Level 1-4": {
-            "name": "",
+            "name": "Niveaux 1 à 4",
             "results": {
-                "1-54": "",
-                "55-91": "",
-                "92-100": ""
+                "1-54": "Courant",
+                "55-91": "Peu courant",
+                "92-100": "Rare"
             }
         },
         "Level 11-16": {
-            "name": "",
+            "name": "Niveaux 11 à 16",
             "results": {
-                "1-11": "",
-                "12-34": "",
-                "35-70": "",
-                "71-93": "",
-                "94-100": ""
+                "1-11": "Courant",
+                "12-34": "Peu courant",
+                "35-70": "Rare",
+                "71-93": "Très rare",
+                "94-100": "Légendaire"
             }
         },
         "Level 17-20": {
-            "name": "",
+            "name": "Niveaux 17 à 20",
             "results": {
-                "1-20": "",
-                "21-64": "",
-                "65-100": ""
+                "1-20": "Rare",
+                "21-64": "Très rare",
+                "65-100": "Légendaire"
             }
         },
         "Level 5-10": {
-            "name": "",
+            "name": "Niveaux 5 à 10",
             "results": {
-                "1-30": "",
-                "31-81": "",
-                "82-98": "",
-                "99-100": ""
+                "1-30": "Courant",
+                "31-81": "Peu courant",
+                "82-98": "Rare",
+                "99-100": "Très rare"
             }
         },
         "Mage Roles": {
@@ -453,12 +453,12 @@
             }
         },
         "Manual of Golems: Type, Time, and Cost": {
-            "name": "",
+            "name": "Manuel des golems : Type, Temps et Prix",
             "results": {
-                "1-5": "",
-                "6-17": "",
-                "18-18": "",
-                "19-20": ""
+                "1-5": "<strong>Golem :</strong> Golem d'argile<br /><strong>Temps :</strong> 30 jours<br /><strong>Prix :</strong> 65 000 po",
+                "6-17": "<strong>Golem :</strong> Golem de chair<br /><strong>Temps :</strong> 60 jours<br /><strong>Prix :</strong> 50 000 po",
+                "18-18": "<strong>Golem :</strong> Golem de fer<br /><strong>Temps :</strong> 120 jours<br /><strong>Prix :</strong> 100 000 po",
+                "19-20": "<strong>Golem :</strong> Golem de pierre<br /><strong>Temps :</strong> 90 jours<br /><strong>Prix :</strong> 80 000 po"
             }
         },
         "Minotaur Mazes": {
@@ -478,14 +478,14 @@
             "name": ""
         },
         "Necklace of Prayer Beads Type": {
-            "name": "",
+            "name": "Chapelet mystique : Type",
             "results": {
-                "1-6": "",
-                "7-12": "",
-                "13-16": "",
-                "17-18": "",
-                "19-19": "",
-                "20-20": ""
+                "1-6": "Perle de bénédiction : @UUID[Compendium.dnd5e.spells24.Item.phbsplBless00000]{bénédiction}",
+                "7-12": "Perle de guérison : @UUID[Compendium.dnd5e.spells24.Item.phbsplCureWounds]{soins} (au 2<sup>e</sup> niveau)",
+                "13-16": "Perle de rétablissement : @UUID[Compendium.dnd5e.spells24.Item.phbsplGreaterRes]{restauration suprême}",
+                "17-18": "Perle de châtiment : @UUID[Compendium.dnd5e.spells24.Item.phbsplShiningSmi]{châtiment de révélation}",
+                "19-19": "Perle de convocation : @UUID[Compendium.dnd5e.spells24.Item.phbsplGuardianof]{gardien de la foi}",
+                "20-20": "Perle d'envolée divine : @UUID[Compendium.dnd5e.spells24.Item.phbsplWindWalk00]{vent divin}"
             }
         },
         "Owlbear Den Features": {
@@ -499,35 +499,35 @@
             }
         },
         "Potion Miscibility": {
-            "name": "",
+            "name": "Miscibilité des potions",
             "results": {
-                "1-1": "",
-                "2-8": "",
-                "9-15": "",
-                "16-25": "",
-                "26-35": "",
-                "36-90": "",
-                "91-99": "",
-                "100-100": ""
+                "1-1": "Les deux potions perdent leurs effets, et le mélange crée une explosion magique dans une Sphère de 1,50 m de rayon centrée sur lui-même. Chaque créature prise dans la zone subit [[/damage 4d10 type=force]]{4d10} dégâts de force.",
+                "2-8": "Les deux potions perdent leurs effets et le mélange devient le poison par ingestion de votre choix (cf. « @UUID[Compendium.dnd5e.content24.JournalEntry.dmgDmsToolbox000.JournalEntryPage.UfAEdm3LbTzvQHC5]{Poisons} »).",
+                "9-15": "Les deux potions perdent leurs effets.",
+                "16-25": "Une potion perd son effet.",
+                "26-35": "Les deux potions agissent, mais leurs effets numériques et leur durée sont réduits de moitié. Si une potion n'a ni effet numérique ni durée, elle perd son effet.",
+                "36-90": "Les deux potions agissent normalement.",
+                "91-99": "Les deux potions agissent, et les effets numériques ainsi que la durée de l'une d'entre elles sont doublés. Si aucune des deux potions n'a de variable à doubler de cette manière, elles agissent toutes deux normalement.",
+                "100-100": "Une seule potion agit, mais ses effets sont permanents. Choisissez l'effet le plus simple à rendre permanent ou celui qui vous paraît le plus amusant. Une potion de guérison, par exemple, augmente le maximum de points de vie du buveur de [[/roll 2d4 + 2]], tandis qu'une potion d'invisibilité octroie au buveur l'état Invisible indéfiniment. À votre discrétion, le sort dissipation de la magie ou toute autre magie comparable peut dissiper l'effet persistant."
             }
         },
         "Potion of Resistance Type": {
-            "name": "",
+            "name": "Potion de résistance : Type",
             "results": {
-                "1-1": "",
-                "2-2": "",
-                "3-3": "",
-                "4-4": "",
-                "5-5": "",
-                "6-6": "",
-                "7-7": "",
-                "8-8": "",
-                "9-9": "",
-                "10-10": ""
+                "1-1": "Acide",
+                "2-2": "Feu",
+                "3-3": "Force",
+                "4-4": "Foudre",
+                "5-5": "Froid",
+                "6-6": "Nécrotiques",
+                "7-7": "Poison",
+                "8-8": "Psychiques",
+                "9-9": "Radiants",
+                "10-10": "Tonnerre"
             }
         },
         "Prismatic Layers": {
-            "name": "",
+            "name": "Couches prismatiques",
             "results": {
                 "1-1": "",
                 "2-2": "",
@@ -568,55 +568,55 @@
             }
         },
         "Reincarnated Species": {
-            "name": "",
-            "description": "",
+            "name": "Espèces réincarnées",
+            "description": "<p>Lancez [[/r 1d10]] en consultant la table suivante pour déterminer l'espèce du nouveau corps ou laissez le MD choisir directement une espèce jouable.</p>",
             "results": {
-                "1-1": ""
+                "1-1": "Aasimar"
             }
         },
         "Ring of Resistance: Damage Type and Gemstone": {
-            "name": "",
+            "name": "Anneau de résistance : Type de dégâts et Gemme",
             "results": {
-                "1-1": "",
-                "2-2": "",
-                "3-3": "",
-                "4-4": "",
-                "5-5": "",
-                "6-6": "",
-                "7-7": "",
-                "8-8": "",
-                "9-9": "",
-                "10-10": ""
+                "1-1": "@UUID[Compendium.dnd5e.equipment24.Item.dmgRingOfResista.ActiveEffect.dBl3gfYXWn7YguDb]{Acide (Perle)}",
+                "2-2": "@UUID[Compendium.dnd5e.equipment24.Item.dmgRingOfResista.ActiveEffect.8IIAYzI3gqAJIBYo]{Feu (Grenat)}",
+                "3-3": "@UUID[Compendium.dnd5e.equipment24.Item.dmgRingOfResista.ActiveEffect.ivnRnslXhD6UZH0L]{Force (Saphir)}",
+                "4-4": "@UUID[Compendium.dnd5e.equipment24.Item.dmgRingOfResista.ActiveEffect.96wcenml9tk62g37]{Foudre (Citrine)}",
+                "5-5": "@UUID[Compendium.dnd5e.equipment24.Item.dmgRingOfResista.ActiveEffect.P5fYc9OEg5GKGgkR]{Froid (Tourmaline)}",
+                "6-6": "@UUID[Compendium.dnd5e.equipment24.Item.dmgRingOfResista.ActiveEffect.9r8SX6QYbeLa780J]{Nécrotiques (Jais)}",
+                "7-7": "@UUID[Compendium.dnd5e.equipment24.Item.dmgRingOfResista.ActiveEffect.msSwrsX2i4sCvhLa]{Poison (Améthyste)}",
+                "8-8": "@UUID[Compendium.dnd5e.equipment24.Item.dmgRingOfResista.ActiveEffect.ls5HwdyGS36zGNsf]{Psychiques (Jade)}",
+                "9-9": "@UUID[Compendium.dnd5e.equipment24.Item.dmgRingOfResista.ActiveEffect.zgCVJEc1e9dCj7Ut]{Radiants (Topaze)}",
+                "10-10": "@UUID[Compendium.dnd5e.equipment24.Item.dmgRingOfResista.ActiveEffect.JA9aLSXZ6W3O0W9l]{Tonnerre (Spinelle)}"
             }
         },
         "Robe of Useful Items": {
-            "name": "",
+            "name": "Robe du camelot",
             "results": {
-                "1-8": "",
-                "9-15": "",
-                "16-22": "",
-                "23-30": "",
-                "31-44": "",
-                "45-51": "",
-                "52-59": "",
-                "60-68": "",
-                "69-75": "",
-                "76-83": "",
-                "84-90": "",
-                "91-96": "",
-                "97-100": ""
+                "1-8": "Sac de [[/award 100GP]]",
+                "9-15": "Coffre en argent (30 cm de long, 15 de large et de profondeur) d'une valeur de 500 po",
+                "16-22": "Porte en fer (jusqu'à 3 m de large et 3 m de haut, barrée du côté de votre choix) que vous pouvez encastrer dans une ouverture à votre portée ; elle s'adapte à l'ouverture, se fixe et pivote sur ses gonds",
+                "23-30": "10 gemmes d'une valeur unitaire de 100 po",
+                "31-44": "Échelle en bois (7,20 m de long)",
+                "45-51": "@UUID[Compendium.dnd5e.actors24.Actor.mmRidingHorse000]{Cheval de selle} équipé d'une selle d'équitation",
+                "52-59": "Fossé (un Cube de 3 m) que vous pouvez disposer au sol dans un rayon de 3 m de vous",
+                "60-68": "4 @UUID[Compendium.dnd5e.equipment24.Item.phbagPotionofHea]{potions de guérison}",
+                "69-75": "@UUID[Compendium.dnd5e.actors24.Actor.phbmobRowboat000]{Barque} (3,60 m de long)",
+                "76-83": "parchemin de sort contenant un sort du 1<sup>er</sup>, 2<sup>e</sup> ou 3<sup>e</sup> niveau (choisissez)",
+                "84-90": "2 @UUID[Compendium.dnd5e.actors24.Actor.mmMastiff0000000]{molosses}",
+                "91-96": "Fenêtre (60 cm sur 1,20 m, profondeur jusqu'à 60 cm), que vous pouvez placer sur une surface verticale à portée",
+                "97-100": "@UUID[Compendium.dnd5e.equipment24.Item.phbagRamPortable]"
             }
         },
         "Rust Bag of Tricks": {
-            "name": ""
+            "name": "Sac à malices rouille"
         },
         "Senses": {
-            "name": "",
+            "name": "Sens",
             "results": {
-                "1-1": "",
-                "2-2": "",
-                "3-3": "",
-                "4-4": ""
+                "1-1": "Ouïe et vision normales sur 9 m",
+                "2-2": "Ouïe et vision normales sur 18 m",
+                "3-3": "Ouïe et vision normales sur 36 m",
+                "4-4": "Ouïe et Vision dans le noir sur 36 m"
             }
         },
         "Shadow Shapes": {
@@ -644,32 +644,32 @@
             }
         },
         "Special Purpose": {
-            "name": "",
+            "name": "Grand dessein",
             "results": {
-                "1-1": "",
-                "2-2": "",
-                "3-3": "",
-                "4-4": "",
-                "5-5": "",
-                "6-6": "",
-                "7-7": "",
-                "8-8": "",
-                "9-9": "",
-                "10-10": ""
+                "1-1": "<strong>Aligné.</strong> L'objet est voué à la défaite ou à la destruction des entités d'un alignement diamétralement opposé au sien. Un tel objet n'est jamais Neutre.",
+                "2-2": "<strong>Destructeur.</strong> L'objet aspire à la destruction et pousse son utilisateur à combattre tous azimuts.",
+                "3-3": "<strong>En quête de l'âme sœur.</strong> L'objet est à la recherche d'un autre objet magique intelligent, peut-être semblable à lui-même.",
+                "4-4": "<strong>En quête de gloire.</strong> L'objet cherche à se faire connaître comme le plus grand objet magique du monde, et incite à cette fin son porteur à devenir une personnalité de premier plan.",
+                "5-5": "<strong>En quête de savoir.</strong> L'objet, avide de savoir, compte ardemment résoudre un mystère, exhumer un secret ou décrypter une prophétie obscure.",
+                "6-6": "<strong>En quête de son créateur.</strong> L'objet cherche la trace de son créateur pour comprendre dans quel but il a été créé.",
+                "7-7": "<strong>En quête de son destin.</strong> L'objet est convaincu que lui-même et son porteur ont un rôle clé à jouer dans des événements à venir.",
+                "8-8": "<strong>Fléau.</strong> L'objet cherche à contrecarrer ou à détruire les créatures d'un type particulier, comme les Artificiels, les Fiélons ou les Morts-vivants.",
+                "9-9": "<strong>Protecteur.</strong> L'objet cherche à défendre un type particulier de créature, comme les elfes ou les loups-garous.",
+                "10-10": "<strong>Templier.</strong> L'objet cherche à défendre les serviteurs ou les intérêts d'une divinité donnée."
             }
         },
         "Sphere of Annihilation Interaction Results": {
-            "name": "",
+            "name": "Sphère d'annihilation : Résultats",
             "results": {
-                "1-50": "",
-                "51-85": "",
-                "86-100": ""
+                "1-50": "La sphère est détruite.",
+                "51-85": "La sphère franchit le portail ou entre dans l'espace extradimensionnel.",
+                "86-100": "Une faille planaire propulse chaque créature et objet dans un rayon de 54 m de la sphère, cette dernière comprise, vers un plan d'existence aléatoire."
             }
         },
         "Standard Languages": {
-            "name": "",
+            "name": "Langues courantes",
             "results": {
-                "rViHFEn5WjhRbElK": ""
+                "rViHFEn5WjhRbElK": "<strong>Langue :</strong> Commun. <strong>Origine :</strong> Sigil."
             }
         },
         "Stirge Roosts": {
@@ -695,17 +695,17 @@
             }
         },
         "Sub-Languages Table": {
-            "name": "",
+            "name": "Table des langues secondaires",
             "results": {
-                "1-1": "",
-                "2-2": "",
-                "3-4": "",
-                "5-6": "",
-                "7-7": "",
-                "8-8": "",
-                "9-9": "",
-                "10-11": "",
-                "12-12": ""
+                "1-1": "<strong>Langue :</strong> Langue multiverselle des signes. <strong>Origine :</strong> Sigil.",
+                "2-2": "<strong>Langue :</strong> Draconique. <strong>Origine :</strong> Dragons.",
+                "3-4": "<strong>Langue :</strong> Nain. <strong>Origine :</strong> Nains.",
+                "5-6": "<strong>Langue :</strong> Elfique. <strong>Origine :</strong> Elfes.",
+                "7-7": "<strong>Langue :</strong> Gigant. <strong>Origine :</strong> Géants.",
+                "8-8": "<strong>Langue :</strong> Gnome. <strong>Origine :</strong> Gnomes.",
+                "9-9": "<strong>Langue :</strong> Gobelin. <strong>Origine :</strong> Gobelinoïdes.",
+                "10-11": "<strong>Langue :</strong> Halfelin. <strong>Origine :</strong> Halfelins.",
+                "12-12": "<strong>Langue :</strong> Orc. <strong>Origine :</strong> Orcs."
             }
         },
         "Succubus Temptations": {
@@ -721,133 +721,133 @@
             }
         },
         "Tan Bag of Tricks": {
-            "name": ""
+            "name": "Sac à malices brun"
         },
         "Teleport Mishap": {
-            "name": "",
-            "description": "",
+            "name": "Incident de téléportation",
+            "description": "<p><strong>Dégâts d'incident :</strong> [[/damage 3d10 type=force]]{3d10} dégâts de force</p><p><strong>Distance de déviation :</strong> [[/r 2d12#km]]{2d12} x 1,5 km [[/r 1d8#Direction]]{Direction}</p>",
             "results": {
-                "RaCnOnLRcJPv11Vf": "",
-                "4W9YPHqIIDyt3WbV": "",
-                "1-5": "",
-                "6-13": "",
-                "14-24": "",
-                "25-100": "",
-                "1-33": "",
-                "34-43": "",
-                "5hV5vL7SYu53EPvb": "",
-                "KShVQqILsbEKwNQ1": "",
-                "1-43": "",
-                "S3FXuqVgRazP23RK": "",
-                "LWWefv3FEwkukueE": "",
-                "74-100": "",
-                "1-50": "",
-                "51-100": ""
+                "RaCnOnLRcJPv11Vf": "<strong>Cercle permanent :</strong> Sur place",
+                "4W9YPHqIIDyt3WbV": "<strong>Objet lié :</strong> Sur place",
+                "1-5": "<strong>Grande familiarité :</strong> Incident",
+                "6-13": "<strong>Grande familiarité :</strong> Zone comparable",
+                "14-24": "<strong>Grande familiarité :</strong> Déviation",
+                "25-100": "<strong>Grande familiarité :</strong> Sur place",
+                "1-33": "<strong>Vu plusieurs fois :</strong> Incident",
+                "34-43": "<strong>Vu plusieurs fois :</strong> Zone comparable",
+                "5hV5vL7SYu53EPvb": "<strong>Vu plusieurs fois :</strong> Déviation",
+                "KShVQqILsbEKwNQ1": "<strong>Vu plusieurs fois :</strong> Sur place",
+                "1-43": "<strong>Vu une fois ou décrit :</strong> Incident",
+                "S3FXuqVgRazP23RK": "<strong>Vu une fois ou décrit :</strong> Zone comparable",
+                "LWWefv3FEwkukueE": "<strong>Vu une fois ou décrit :</strong> Déviation",
+                "74-100": "<strong>Vu une fois ou décrit :</strong> Sur place",
+                "1-50": "<strong>Destination factice :</strong> Incident",
+                "51-100": "<strong>Destination factice :</strong> Zone comparable"
             }
         },
         "Trinkets": {
-            "name": "",
+            "name": "Babioles",
             "results": {
-                "1-1": "",
-                "2-2": "",
-                "3-3": "",
-                "4-4": "",
-                "5-5": "",
-                "6-6": "",
-                "7-7": "",
-                "8-8": "",
-                "9-9": "",
-                "10-10": "",
-                "11-11": "",
-                "12-12": "",
-                "13-13": "",
-                "14-14": "",
-                "15-15": "",
-                "16-16": "",
-                "17-17": "",
-                "18-18": "",
-                "19-19": "",
-                "20-20": "",
-                "21-21": "",
-                "22-22": "",
-                "23-23": "",
-                "24-24": "",
-                "25-25": "",
-                "26-26": "",
-                "27-27": "",
-                "28-28": "",
-                "29-29": "",
-                "30-30": "",
-                "31-31": "",
-                "32-32": "",
-                "33-33": "",
-                "34-34": "",
-                "35-35": "",
-                "36-36": "",
-                "37-37": "",
-                "38-38": "",
-                "39-39": "",
-                "40-40": "",
-                "41-41": "",
-                "42-42": "",
-                "43-43": "",
-                "44-44": "",
-                "45-45": "",
-                "46-46": "",
-                "47-47": "",
-                "48-48": "",
-                "49-49": "",
-                "50-50": "",
-                "51-51": "",
-                "52-52": "",
-                "53-53": "",
-                "54-54": "",
-                "55-55": "",
-                "56-56": "",
-                "57-57": "",
-                "58-58": "",
-                "59-59": "",
-                "60-60": "",
-                "61-61": "",
-                "62-62": "",
-                "63-63": "",
-                "64-64": "",
-                "65-65": "",
-                "66-66": "",
-                "67-67": "",
-                "68-68": "",
-                "69-69": "",
-                "70-70": "",
-                "71-71": "",
-                "72-72": "",
-                "73-73": "",
-                "74-74": "",
-                "75-75": "",
-                "76-76": "",
-                "77-77": "",
-                "78-78": "",
-                "79-79": "",
-                "80-80": "",
-                "81-81": "",
-                "82-82": "",
-                "83-83": "",
-                "84-84": "",
-                "85-85": "",
-                "86-86": "",
-                "87-87": "",
-                "88-88": "",
-                "89-89": "",
-                "90-90": "",
-                "91-91": "",
-                "92-92": "",
-                "93-93": "",
-                "94-94": "",
-                "95-95": "",
-                "96-96": "",
-                "97-97": "",
-                "98-98": "",
-                "99-99": "",
-                "100-100": ""
+                "1-1": "Main momifiée de gobelin",
+                "2-2": "Cristal qui luit faiblement au clair de lune",
+                "3-3": "Pièce d'or frappée dans une contrée inconnue",
+                "4-4": "Journal intime dans une langue que vous ignorez",
+                "5-5": "Bague en laiton qui ne ternit pas",
+                "6-6": "Vieille pièce d'échecs en verre",
+                "7-7": "Deux osselets qui servent de dés, avec un crâne à la place des six points",
+                "8-8": "Petite idole de créature effroyable, qui provoque des cauchemars quand vous dormez à côté",
+                "9-9": "Mèche de cheveux",
+                "10-10": "Titre de propriété terrestre dans un royaume qui vous est inconnu",
+                "11-11": "Bloc de 30 g d'un matériau inconnu",
+                "12-12": "Poupée de chiffon hérissée d'aiguilles",
+                "13-13": "Dent issue d'une bête inconnue",
+                "14-14": "Énorme écaille, peut-être issue d'un dragon",
+                "15-15": "Plume d'un vert très vif",
+                "16-16": "Vieille carte divinatoire à votre effigie",
+                "17-17": "Globe de verre empli de fumée mouvante",
+                "18-18": "Œuf de 500 g à la coquille rouge vif",
+                "19-19": "Pipe qui fait des bulles",
+                "20-20": "Bocal de verre renfermant un morceau de chair flottant dans la saumure",
+                "21-21": "Boîte à musique de facture gnome qui produit une mélodie évoquant votre enfance",
+                "22-22": "Statuette en bois représentant un halfelin arrogant",
+                "23-23": "Globe en laiton gravé d'étranges runes",
+                "24-24": "Disque de pierre multicolore",
+                "25-25": "Symbole en argent représentant un corbeau",
+                "26-26": "Bourse contenant quarante-sept dents, dont l'une est pourrie",
+                "27-27": "Fragment d'obsidienne au contact toujours chaud",
+                "28-28": "Griffe de dragon enfilée sur un collier de cuir",
+                "29-29": "Paire de vieilles chaussettes",
+                "30-30": "Livre vierge dont les pages refusent toute inscription, à l'encre, à la craie, au fusain ou autre",
+                "31-31": "Insigne en argent représentant une étoile à cinq branches",
+                "32-32": "Couteau ayant appartenu à un parent",
+                "33-33": "Fiole de verre remplie de rognures d'ongles",
+                "34-34": "Dispositif métallique rectangulaire avec deux minuscules coupelles métalliques à une extrémité, qui projette des étincelles lorsqu'on le mouille",
+                "35-35": "Gant blanc à paillettes taillé pour un humain",
+                "36-36": "Gilet pourvu de cent poches minuscules",
+                "37-37": "Pierre qui ne pèse rien",
+                "38-38": "Ébauche de portrait de gobelin",
+                "39-39": "Fiole de verre vide qui sent le parfum",
+                "40-40": "Gemme qui apparaît comme un simple morceau de charbon, pour tous hormis vous",
+                "41-41": "Lambeau de vieille bannière",
+                "42-42": "Insigne militaire d'un légionnaire disparu",
+                "43-43": "Cloche en argent sans battant",
+                "44-44": "Canari mécanique dans une lampe",
+                "45-45": "Coffre miniature dont la base est sculptée à l'image de nombreuses pattes",
+                "46-46": "Esprit follet mort dans une bouteille en verre translucide",
+                "47-47": "Boîte métallique sans ouverture qui sonne comme si elle était remplie de liquide, de sable, d'araignées ou de verre brisé (choisissez)",
+                "48-48": "Globe de verre rempli d'eau dans lequel nage un poisson rouge mécanique",
+                "49-49": "Cuillère en argent dont le manche est gravé d'un M",
+                "50-50": "Un sifflet en bois doré",
+                "51-51": "Scarabée mort de la taille de la main",
+                "52-52": "Deux petits soldats dont l'un n'a plus de tête",
+                "53-53": "Petite boîte remplie de boutons de tailles diverses",
+                "54-54": "Bougie qui ne s'allume pas",
+                "55-55": "Cage miniature dépourvue de porte",
+                "56-56": "Vieille clef",
+                "57-57": "Carte au trésor indéchiffrable",
+                "58-58": "Poignée d'une épée brisée",
+                "59-59": "Patte de lapin",
+                "60-60": "Œil de verre",
+                "61-61": "Camée représentant un individu hideux",
+                "62-62": "Crâne en argent de la taille d'une pièce",
+                "63-63": "Masque en albâtre",
+                "64-64": "Cône d'encens noir et poisseux qui empeste",
+                "65-65": "Bonnet de nuit qui fait faire de beaux rêves",
+                "66-66": "Chausse-trappe en os",
+                "67-67": "Monture de monocle en or sans verre",
+                "68-68": "Cube de 2,5 cm, une couleur par face",
+                "69-69": "Poignée de porte en cristal",
+                "70-70": "Sachet rempli de poussière rose",
+                "71-71": "Passage d'une superbe mélodie, sous forme de partition sur deux bouts de parchemin",
+                "72-72": "Boucle d'oreille en goutte contenant une vraie larme",
+                "73-73": "Coquille d'œuf peinte de scènes de misère aussi détaillées que dérangeantes",
+                "74-74": "Éventail qui figure un chat endormi quand on le déplie",
+                "75-75": "Assortiment de pipeaux en os",
+                "76-76": "Trèfle à quatre feuilles glissé dans un ouvrage sur les bonnes manières",
+                "77-77": "Feuille de parchemin sur laquelle est dessiné un engin mécanique",
+                "78-78": "Fourreau ouvragé adapté à aucune des lames essayées",
+                "79-79": "Invitation à une fête où un meurtre a eu lieu",
+                "80-80": "Pentacle de bronze dont le centre est gravé d'une tête de rat",
+                "81-81": "Mouchoir violet brodé du nom d'un archimage",
+                "82-82": "Moitié du plan d'un temple, château ou autre structure",
+                "83-83": "Morceau d'étoffe plié qui fait un élégant couvre-chef une fois déplié",
+                "84-84": "Récépissé de dépôt dans une banque d'une ville lointaine",
+                "85-85": "Journal intime dont il manque sept pages",
+                "86-86": "Tabatière vide en argent portant l'inscription « songes »",
+                "87-87": "Symbole sacré en fer honorant un dieu inconnu",
+                "88-88": "Ouvrage sur un héros de légende, son ascension et sa chute, sans le dernier chapitre",
+                "89-89": "Fiole de sang de dragon",
+                "90-90": "Flèche ancestrale de facture elfique",
+                "91-91": "Aiguille impliable",
+                "92-92": "Broche ouvragée de facture naine",
+                "93-93": "Bouteille de vin vide portant l'étiquette « Cuvée du Magicien des vins, Béguin du dragon rouge, 331422-O »",
+                "94-94": "Carreau de mosaïque à la surface émaillée multicolore",
+                "95-95": "Souris pétrifiée",
+                "96-96": "Drapeau de pirate noir orné d'une tête de mort draconique",
+                "97-97": "Minuscule crabe ou araignée mécanique qui se déplace quand on ne l'observe pas",
+                "98-98": "Bocal en verre renfermant du lard, avec l'étiquette « Graisse de griffon »",
+                "99-99": "Boîte en bois au fond en céramique contenant un ver vivant dont chaque extrémité présente une tête",
+                "100-100": "Urne métallique renfermant les cendres d'un héros"
             }
         },
         "Vampire Resting Places": {
@@ -863,27 +863,27 @@
             }
         },
         "Wand of Wonder Effects": {
-            "name": "",
-            "description": "",
+            "name": "Effets de baguette des merveilles",
+            "description": "<p>Une table des effets de la @UUID[Compendium.dnd5e.equipment24.Item.dmgWandOfWonder0]{baguette des merveilles} qui met en œuvre les effets sous forme d'activités dans la mesure du possible.</p>",
             "results": {
-                "1-20": "",
-                "21-25": "",
-                "26-30": "",
-                "31-35": "",
-                "36-40": "",
-                "41-45": "",
-                "46-50": "",
-                "51-55": "",
-                "56-60": "",
-                "61-64": "",
-                "65-68": "",
-                "69-72": "",
-                "73-77": "",
-                "78-82": "",
-                "83-87": "",
-                "88-92": "",
-                "93-97": "",
-                "98-100": ""
+                "1-20": "Vous lancez un sort émanant du point d'origine choisi. Lancez 1d10 pour déterminer le sort : 1–2. @UUID[Compendium.dnd5e.spells24.Item.phbsplFireball00]{boule de feu} ; 3–4, @UUID[Compendium.dnd5e.spells24.Item.phbsplSlow000000]{lenteur} ; 5–6. @UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{lueurs féeriques} ; 7–8, @UUID[Compendium.dnd5e.spells24.Item.phbsplStinkingCl]{nuage nauséabond} ; 9–10, @UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{ténèbres}.",
+                "21-25": "Rien ne se passe au point d'origine. Au lieu de cela. vous subissez l'état &Reference[Stunned] jusqu'au début de votre tour suivant, convaincu qu'un événement extraordinaire se produit sous vos yeux.",
+                "26-30": "Vous lancez @UUID[Compendium.dnd5e.spells24.Item.phbsplGustofWind]{bourrasque}. La Ligne créée par le sort s'étend de vous jusqu'au point d'origine.",
+                "31-35": "Rien ne se passe au point d'origine. Au lieu de cela , vous subissez [[/damage 1d6 type=psychic]]{1d6} dégâts psychiques.",
+                "36-40": "Une pluie torrentielle s'abat pendant 1 minute dans un Cylindre de 36 m de haut et 18 m de rayon centré sur le point d'origine. Pendant cette durée, la zone d'effet est à &Reference[Lightly Obscured].",
+                "41-45": "Une nuée de 600 papillons surdimensionnés emplit un Cylindre de 18 m de haut et 9 m de rayon centré sur le point d'origine. Les papillons restent pendant 10 minutes, durant lesquelles la zone d'effet est à &Reference[Heavily Obscured].",
+                "46-50": "Vous lancez @UUID[Compendium.dnd5e.spells24.Item.phbsplLightningB]{éclair}. La Ligne créée par le sort s'étend de vous jusqu'au point d'origine.",
+                "51-55": "La créature la plus proche du point d'origine est agrandie comme si vous aviez lancé sur elle @UUID[Compendium.dnd5e.spells24.Item.phbsplEnlargeRed]{agrandissement/rapetissement}. Si vous n'êtes pas cette cible et que celle-ci ne peut pas être affectée par ce sort, c'est vous qui en devenez la cible.",
+                "56-60": "Une créature formée magiquement apparaît dans un espace inoccupé aussi près que possible du point d'origine. Elle n'est pas sous votre contrôle, agit normalement et disparaît après 1 heure ou lorsqu'elle tombe à 0 point de vie. Lancez [[/r 1d4]] pour déterminer quelle créature apparaît. Sur un 1, un rhinocéros se présente ; 2, un éléphant ; 3–4, un rat.",
+                "61-64": "De l'herbe recouvre un cercle de 18 m de rayon au sol, le centre de ce cercle étant aussi proche que possible du point d'origine. Si de l'herbe était déjà présente, elle grandit jusqu'à atteindre dix fois sa taille normale et demeure ainsi pendant 1 minute.",
+                "65-68": "Un objet au choix du MD disparaît dans le Plan Éthéré. L'objet ne doit être porté par personne, doit se trouver dans un rayon de 36 m du point d'origine et ne doit pas mesurer plus de 3 m de long, de large ou de haut. S'il n'y a aucun objet de la sorte à portée, rien ne se passe.",
+                "69-72": "Rien ne se passe au point d'origine. À la place, vous rapetissez comme si vous aviez lancé @UUID[Compendium.dnd5e.spells24.Item.phbsplEnlargeRed]{agrandissement/rapetissement} sur vous-même et restez dans cet état pendant 1 minute.",
+                "73-77": "Des feuilles poussent sur la créature la plus proche du point d'origine. À moins d'être arrachées avant, ces feuilles brunissent et tombent au bout de 24 heures.",
+                "78-82": "Rien ne se passe au point d'origine. Au lieu de cela, une explosion de lumière colorée et scintillante s'étend depuis vous dans une Émanation de 9 m. Chaque créature prise dans la zone doit réussir un jet de sauvegarde de [[/save con 15]] sous peine de subir l'état &Reference[Blinded] pendant 1 minute. Une créature affectée réitère le JS à la fin de chacun de ses tours, et met un terme à l'effet sur elle-même en cas de réussite.",
+                "83-87": "Rien ne se passe au point d'origine. Au lieu de cela, vous lancez @UUID[Compendium.dnd5e.spells24.Item.phbsplInvisibili]{invisibilité} sur vous-même.",
+                "88-92": "Rien ne se passe au point d'origine. Au lieu de cela, un torrent de [[/r 1d4*10 #Gemmes]] gemmes, chacune d'une valeur de 1 po, jaillit de la pointe de la baguette vers le point d'origine en formant une Ligne de 9 m de long sur 1,50 m de large. Chaque gemme inflige [[/damage 1 type=bludgeoning]]{1} dégât contondant ; les dégâts totaux infliges par les gemmes se divisent équitablement entre toutes les créatures présentes sur cette Ligne.",
+                "93-97": "Vous lancez @UUID[Compendium.dnd5e.spells24.Item.phbsplPolymorph0]{métamorphose}, en ciblant la créature la plus proche du point d'origine. Lancez [[/r 1d4]] pour déterminer la nouvelle forme de la cible. 1, la nouvel le forme est un ours noir ; 2 , une guêpe géante ; 3–4, une grenouille.",
+                "98-100": "La créature la plus proche du point d'origine effectue un jet de sauvegarde de [[/save con 15]]. En cas d'échec, elle subit l'état &Reference[Restrained] et commence à se pétrifier. Tant qu'elle est ainsi Entravée, la créature réitère le JS à la fin de son tour suivant. En cas de réussite, l'effet prend fin. En cas d'échec, la créature subit l'état &Reference[Petrified] qui remplace l'état Entravé. La pétrification persiste jusqu'à ce que la créature en soit affranchie par le sort @UUID[Compendium.dnd5e.spells24.Item.phbsplGreaterRes]{restauration suprême} ou une magie équivalente."
             }
         },
         "Warrior Roles": {
