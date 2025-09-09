@@ -1,3136 +1,3136 @@
 {
-  "label": "" ,
-  "folders": {
-    "Barbarian": "" ,
-    "Bard": "" ,
-    "Champion": "" ,
-    "Circle of Land": "" ,
-    "Class Features": "" ,
-    "Cleric": "" ,
-    "Draconic Sorcery": "" ,
-    "Druid": "" ,
-    "Eldritch Invocation Options": "" ,
-    "Evoker": "" ,
-    "Fiend Patron": "" ,
-    "Fighter": "" ,
-    "Hunter": "" ,
-    "Life Domain": "" ,
-    "Lore": "" ,
-    "Metamagic Options": "" ,
-    "Monk": "" ,
-    "Oath of Devotion": "" ,
-    "Paladin": "" ,
-    "Path of the Berserker": "" ,
-    "Ranger": "" ,
-    "Rogue": "" ,
-    "Sorcerer": "" ,
-    "Subclass Features": "" ,
-    "Thief": "" ,
-    "Warlock": "" ,
-    "Warrior of the Open Hand": "" ,
-    "Wizard": "" 
-  },
-  "entries": {
-    "Abjure Foes": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "save": {
-          "target": "" 
-        }
-      },
-      "effects": {
-        "Abjured": {
-          "name": "" 
-        }
-      }
-    },
-    "Acrobatic Movement": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Action Surge": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Additional Fighting Style": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Agonizing Blast": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Arcane Apotheosis": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Arcane Recovery": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Archdruid": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Nature Magician": {
-          "name": "" 
-        },
-        "Recharge on Initiative": {
-          "name": "" 
-        }
-      }
-    },
-    "Armor of Shadows": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Mage Armor": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Mage Armor": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Ascendant Step": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Levitating": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Aura Expansion": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Aura of Courage": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Aura of Courage": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Courageous": {
-          "name": "" 
-        }
-      }
-    },
-    "Aura of Devotion": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Devoted": {
-          "name": "" 
-        }
-      }
-    },
-    "Aura of Protection": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Aura of Protection": {
-          "name": "" ,
-          "roll": "" 
-        }
-      },
-      "effects": {
-        "Protected": {
-          "name": "" 
-        }
-      }
-    },
-    "Barbarian": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Rage Damage": {
-          "title": "" 
-        },
-        "Weapon Masteries Known": {
-          "title": "" 
-        },
-        "Class Features": {
-          "title": "" 
-        },
-        "Primal Knowledge": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "Brutal Strike": {
-          "title": "" 
-        },
-        "Saving Throws Proficiencies": {
-          "title": "" 
-        },
-        "Skill Proficiencies": {
-          "title": "" 
-        },
-        "Weapon Proficiencies": {
-          "title": "" 
-        },
-        "Armor Training": {
-          "title": "" 
-        },
-        "Weapon Mastery": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "Rages": {
-          "title": "" 
-        }
-      }
-    },
-    "Bard": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Class Features": {
-          "title": "" 
-        },
-        "Max Prepared Spells": {
-          "title": "" 
-        },
-        "Cantrips Known": {
-          "title": "" 
-        },
-        "Inspiration Die": {
-          "title": "" 
-        },
-        "Expertise": {
-          "title": "" 
-        },
-        "Words of Creation": {
-          "title": "" 
-        },
-        "Saving Throw Proficiencies": {
-          "title": "" 
-        },
-        "Skill Proficiencies": {
-          "title": "" 
-        },
-        "Weapon Proficiencies": {
-          "title": "" 
-        },
-        "Tool Proficiencies": {
-          "title": "" 
-        },
-        "Armor Training": {
-          "title": "" 
-        }
-      }
-    },
-    "Bardic Inspiration": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Inspire": {
-          "name": "" ,
-          "roll": "" 
-        }
-      },
-      "effects": {
-        "Inspired": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Beast Spells": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Blessed Healer": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Blessed Strikes": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Blessed Strikes: Divine Strike": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Necrotic Divine Strike": {
-          "name": "" ,
-          "target": "" 
-        },
-        "Radiant Divine Strike": {
-          "name": "" ,
-          "target": "" 
-        }
-      }
-    },
-    "Blessed Strikes: Potent Spellcasting": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "damage": {
-          "condition": "" 
-        }
-      }
-    },
-    "Blessed Warrior": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Body and Mind": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Bonus Proficiencies": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Book of Shadows": {
-      "name": "" 
-    },
-    "Brutal Strike": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Brutal Strike": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Hamstrung": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Careful Spell": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Careful Spell": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Champion": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Subclass Features": {
-          "title": "" 
-        },
-        "Fighting Style": {
-          "title": "" 
-        }
-      }
-    },
-    "Channel Divinity": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Divine Spark: Heal": {
-          "name": "" 
-        },
-        "Divine Spark: Save": {
-          "name": "" 
-        },
-        "Turn Undead": {
-          "name": "" ,
-          "target": "" 
-        }
-      },
-      "effects": {
-        "Turned": {
-          "name": "" 
-        }
-      }
-    },
-    "Circle of the Land": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Subclass Features": {
-          "title": "" 
-        },
-        "Lands Aid Damage": {
-          "title": "" 
-        }
-      }
-    },
-    "Circle of the Land Spells": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Cleric": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Class Features": {
-          "title": "" 
-        },
-        "Channel Divinity Uses": {
-          "title": "" 
-        },
-        "Max Prepared Spells": {
-          "title": "" 
-        },
-        "Cantrips Known": {
-          "title": "" 
-        },
-        "Blessed Strikes": {
-          "title": "" 
-        },
-        "Divine Order Choice": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "Blessed Strikes Choice": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "Divine Strike": {
-          "title": "" 
-        },
-        "Saving Throw Proficiencies": {
-          "title": "" 
-        },
-        "Skill Proficiencies": {
-          "title": "" 
-        },
-        "Weapon Proficiencies": {
-          "title": "" 
-        },
-        "Armor Training": {
-          "title": "" 
-        }
-      }
-    },
-    "College of Lore": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Subclass Features": {
-          "title": "" 
-        },
-        "Bonus Proficiencies": {
-          "title": "" 
-        }
-      }
-    },
-    "Contact Patron": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Countercharm": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "utility": {
-          "condition": "" 
-        }
-      }
-    },
-    "Cunning Action": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Dash": {
-          "name": "" 
-        },
-        "Disengage": {
-          "name": "" 
-        },
-        "Hide": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Hiding": {
-          "name": "" 
-        }
-      }
-    },
-    "Cunning Strike": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Poison": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Trip": {
-          "name": "" ,
-          "condition": "" ,
-          "target": "" 
-        },
-        "Cunning Sneak Attack": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Withdraw": {
-          "name": "" ,
-          "condition": "" 
-        }
-      },
-      "effects": {
-        "Cunning Strike: Poisoned": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Cunning Strike: Tripped": {
-          "name": "" 
-        }
-      }
-    },
-    "Cutting Words": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Cut with Words": {
-          "name": "" ,
-          "roll": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Danger Sense": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Dark One's Blessing": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "heal": {
-          "condition": "" 
-        }
-      }
-    },
-    "Dark One's Own Luck": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Luck": {
-          "name": "" ,
-          "roll": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Defensive Tactics": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Multiattack Defense": {
-          "name": "" ,
-          "condition": "" 
-        }
-      },
-      "effects": {
-        "Multiattack Defense": {
-          "name": "" 
-        }
-      }
-    },
-    "Deflect Attacks": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Reduce": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Redirect": {
-          "name": "" ,
-          "condition": "" ,
-          "range": "" ,
-          "target": "" 
-        }
-      }
-    },
-    "Deflect Energy": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Reduce": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Redirect": {
-          "name": "" ,
-          "condition": "" ,
-          "range": "" ,
-          "target": "" 
-        }
-      }
-    },
-    "Deft Explorer": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Devil's Sight": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Devil's Sight": {
-          "name": "" 
-        }
-      }
-    },
-    "Devious Strikes": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Daze": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Knock Out": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Obscure": {
-          "name": "" ,
-          "condition": "" 
-        }
-      },
-      "effects": {
-        "Devious Strikes: Dazed": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Devious Strikes: Knocked Out": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Devious Strikes: Blinded": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Devouring Blade": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Disciple of Life": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "heal": {
-          "target": "" 
-        }
-      }
-    },
-    "Disciplined Survivor": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Consume Focus Point": {
-          "name": "" 
-        }
-      }
-    },
-    "Distant Spell": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Distant Spell": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Divine Intervention": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Divine Order": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Divine Order: Protector": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "effects": {
-        "Divine Order: Protector": {
-          "name": "" 
-        }
-      }
-    },
-    "Divine Order: Thaumaturge": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Thaumaturge": {
-          "name": "" 
-        }
-      }
-    },
-    "Draconic Resilience": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Draconic Resilience: Armor": {
-          "name": "" 
-        },
-        "Draconic Resilience: HP": {
-          "name": "" 
-        }
-      }
-    },
-    "Draconic Sorcery": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Subclass Features": {
-          "title": "" 
-        },
-        "Draconic Spells": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "8UnvG3X4TR3MpCGe": {
-          "hint": "" 
-        }
-      }
-    },
-    "Draconic Spells": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Dragon Companion": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Expend Use": {
-          "name": "" 
-        }
-      }
-    },
-    "Dragon Wings": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Dragon Wings": {
-          "name": "" 
-        },
-        "Restore Use": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Winged": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Druid": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Class Features": {
-          "title": "" 
-        },
-        "Cantrips Known": {
-          "title": "" 
-        },
-        "Max Prepared Spells": {
-          "title": "" 
-        },
-        "Wild Shape CR": {
-          "title": "" 
-        },
-        "Wild Shape Uses": {
-          "title": "" 
-        },
-        "Known Forms": {
-          "title": "" 
-        },
-        "Druidic Spells": {
-          "title": "" 
-        },
-        "Primal Order": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "Elemental Fury": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "W0d3c6X31SgnFFYM": {
-          "title": "" 
-        },
-        "Saving Throw Proficiencies": {
-          "title": "" 
-        },
-        "Skill Proficiencies": {
-          "title": "" 
-        },
-        "Weapon Proficiencies": {
-          "title": "" 
-        },
-        "Tool Proficiencies": {
-          "title": "" 
-        },
-        "Armor Training": {
-          "title": "" 
-        },
-        "Druidic": {
-          "title": "" ,
-          "hint": "" 
-        }
-      }
-    },
-    "Druidic": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Druidic Warrior": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Eldritch Invocations": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Eldritch Master": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Eldritch Master": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Eldritch Mind": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Eldritch Smite": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Smite": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Eldritch Spear": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Increase Range": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Eldritch Spear": {
-          "name": "" ,
-          "changes": {
-            "name": "" 
-          }
-        }
-      }
-    },
-    "Elemental Affinity": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Acid": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Cold": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Fire": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Lightning": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Poison": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Elemental Fury": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Elemental Fury: Potent Spellcasting": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Elemental Fury: Primal Strike": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Primal Strike": {
-          "name": "" ,
-          "target": "" 
-        }
-      }
-    },
-    "Elusive": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Empowered Evocation": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "damage": {
-          "condition": "" 
-        }
-      }
-    },
-    "Empowered Spell": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Empowered Spell": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Empowered Strikes": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Empowered Strike": {
-          "name": "" 
-        }
-      }
-    },
-    "Epic Boon": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Evasion": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Evocation Savant": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Evoker": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Subclass Features": {
-          "title": "" 
-        }
-      }
-    },
-    "Expertise": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Extended Spell": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Extended Spell": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Extra Attack": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Faithful Steed": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Fast Hands": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Sleight of Hand": {
-          "name": "" 
-        },
-        "Thieves' Tools": {
-          "name": "" 
-        },
-        "Use an Object": {
-          "name": "" 
-        }
-      }
-    },
-    "Fast Movement": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "effects": {
-        "Fast Movement": {
-          "name": "" 
-        }
-      }
-    },
-    "Favored Enemy": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Feral Instinct": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "effects": {
-        "Feral Instinct": {
-          "name": "" 
-        }
-      }
-    },
-    "Feral Senses": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Feral Senses": {
-          "name": "" 
-        }
-      }
-    },
-    "Fiend Patron": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Subclass Features": {
-          "title": "" 
-        },
-        "Fiend Spells": {
-          "title": "" ,
-          "hint": "" 
-        }
-      }
-    },
-    "Fiend Spells": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Fiendish Resilience": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Fiendish Resilience: Acid": {
-          "name": "" 
-        },
-        "Fiendish Resilience: Bludgeoning": {
-          "name": "" 
-        },
-        "Fiendish Resilience: Cold": {
-          "name": "" 
-        },
-        "Fiendish Resilience: Fire": {
-          "name": "" 
-        },
-        "Fiendish Resilience: Lightning": {
-          "name": "" 
-        },
-        "Fiendish Resilience: Necrotic": {
-          "name": "" 
-        },
-        "Fiendish Resilience: Piercing": {
-          "name": "" 
-        },
-        "Fiendish Resilience: Poison": {
-          "name": "" 
-        },
-        "Fiendish Resilience: Psychic": {
-          "name": "" 
-        },
-        "Fiendish Resilience: Radiant": {
-          "name": "" 
-        },
-        "Fiendish Resilience: Slashing": {
-          "name": "" 
-        },
-        "Fiendish Resilience: Thunder": {
-          "name": "" 
-        }
-      }
-    },
-    "Fiendish Vigor": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "False Life": {
-          "name": "" 
-        }
-      }
-    },
-    "Fighter": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Class Features": {
-          "title": "" 
+    "label": "Classes de personnage",
+    "folders": {
+        "Barbarian": "Barbare",
+        "Bard": "Barde",
+        "Champion": "Champion",
+        "Circle of Land": "Cercle de la Terre",
+        "Class Features": "Aptitudes de classe",
+        "Cleric": "Clerc",
+        "Draconic Sorcery": "Sorcellerie draconique",
+        "Druid": "Druide",
+        "Eldritch Invocation Options": "Options de Manifestation occulte",
+        "Evoker": "Évocateur",
+        "Fiend Patron": "Protecteur Fiélon",
+        "Fighter": "Guerrier",
+        "Hunter": "Chasseur",
+        "Life Domain": "Domaine de la Vie",
+        "Lore": "Savoir",
+        "Metamagic Options": "Options de Métamagie",
+        "Monk": "Moine",
+        "Oath of Devotion": "Serment de Dévotion",
+        "Paladin": "Paladin",
+        "Path of the Berserker": "Voie du Berserker",
+        "Ranger": "Rôdeur",
+        "Rogue": "Roublard",
+        "Sorcerer": "Ensorceleur",
+        "Subclass Features": "Aptitudes de sous-classe",
+        "Thief": "Voleur",
+        "Warlock": "Occultiste",
+        "Warrior of the Open Hand": "Credo de la Paume",
+        "Wizard": "Magicien"
+    },
+    "entries": {
+        "Abjure Foes": {
+            "name": "Abjuration d'ennemis",
+            "description": "<p>Au prix de l'action Magie, vous pouvez dépenser une utilisation de Conduit divin de cette classe afin de vous faire craindre de vos ennemis. Tout en brandissant votre symbole sacré ou votre arme, vous pouvez cibler un nombre de créatures égal à votre modificateur de Charisme (minimum d'une créature) que vous voyez dans un rayon de 18 m. Chaque cible doit réussir un jet de sauvegarde de Sagesse sous peine de subir l'état &Reference[Frightened] pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts. Tant qu'elle subit cet état Effrayé, la cible ne peut faire qu'une seule des choses suivantes à son tour : se déplacer, entreprendre une action ou une action Bonus.</p><section class=\"secret\" id=\"secret-lu2BuwFj2pnJ367b\"><p><strong>Note Foundry</strong></p><p>Cette aptitude comprend un effet actif qui applique l'état Effrayé.</p></section>",
+            "activities": {
+                "save": {
+                    "target": "Que vous voyez"
+                }
+            },
+            "effects": {
+                "Abjured": {
+                    "name": "Abjuré"
+                }
+            }
+        },
+        "Acrobatic Movement": {
+            "name": "Déplacement acrobatique",
+            "description": "<p>Tant que vous ne portez pas d'armure ni de bouclier, vous recevez la capacité de vous déplacer à votre tour le long de surfaces verticales et à travers des liquides sans tomber.</p>"
         },
         "Action Surge": {
-          "title": "" 
+            "name": "Fougue",
+            "description": "<p>Vous pouvez vous surpasser pendant quelques instants. À votre tour, vous pouvez entreprendre une action supplémentaire, hormis l'action Magie.</p><p>Une fois cette aptitude utilisée, vous devez terminer un Repos court ou long pour pouvoir y recourir de nouveau. À partir du niveau 17, vous pouvez y recourir deux fois avant un repos, mais seulement une fois par tour.</p><section id=\"secret-nYOY8k3V38g8mZIS\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Cette aptitude comprend une utilisation limitée qui augmente automatiquement au niveau 17.</p></section>"
         },
-        "Indomitable": {
-          "title": "" 
+        "Additional Fighting Style": {
+            "name": "Style de combat supplémentaire",
+            "description": "<p>Vous recevez un autre don de @UUID[Compendium.dnd5e.content24.JournalEntry.phbFeats00000000.JournalEntryPage.sbHImaCB8ZMEHYkb]{Style de combat} de votre choix.</p>"
         },
-        "Second Wind": {
-          "title": "" 
+        "Agonizing Blast": {
+            "name": "Décharge déchirante",
+            "description": "<blockquote><p>Prérequis : niveau d'Occultiste 2+, un sort mineur d'Occultiste infligeant des dégâts</p></blockquote><p>Choisissez l'un de vos sorts mineurs d'Occultiste connus qui inflige des dégâts. Vous pouvez ajouter votre modificateur de Charisme aux jets de dégâts de ce sort.</p><p><strong>Répétable.</strong> Vous pouvez recevoir cette manifestation plus d'une fois. Chaque fois, choisissez un sort mineur conforme différent.</p><section class=\"secret\" id=\"secret-e2JfbLoZ7SLiWlcU\"><p><strong>Note Foundry</strong></p><p>La modification de votre sort mineur devra être effectuée manuellement en ajoutant « @abilities.cha.mod » au champ « Bonus » des dégâts de votre sort.</p></section>",
+            "requirements": "Sort mineur d'Occultiste infligeant des dégâts"
         },
-        "Saving Throw Proficiencies": {
-          "title": "" 
+        "Arcane Apotheosis": {
+            "name": "Apothéose arcanique",
+            "description": "<p>Tant que votre aptitude Sorcellerie innée est active, vous pouvez recourir à une option de Métamagie à chacun de vos tours sans dépenser de points de Sorcellerie.</p><section class=\"secret\" id=\"secret-iZWf2qqSDxd9o6eN\"><p><strong>Note Foundry</strong></p><p>Décochez l'option Consommation lorsque vous utilisez l'option Métamagie que vous souhaitez utiliser gratuitement.</p></section>"
         },
-        "Skill Proficiencies": {
-          "title": "" 
+        "Arcane Recovery": {
+            "name": "Restauration magique",
+            "description": "<p>Vous pouvez récupérer une partie de votre énergie magique en étudiant votre grimoire. En terminant un Repos court, désignez si vous le souhaitez les emplacements de sort dépensés que vous souhaitez récupérer. La somme des niveaux de ces emplacements ne doit pas excéder la moitié de votre niveau de Magicien (arrondie au supérieur), et aucun de ces emplacements de sort ne doit être du 6<sup>e</sup> niveau ou plus. En tant que Magicien de niveau 4, par exemple, vous pouvez récupérer jusqu'à deux niveaux d'emplacements de sort, soit un emplacement de sort du 2<sup>e</sup> niveau ou deux emplacements de sort du 1<sup>er</sup> niveau.</p><p>Une fois cette aptitude utilisée, vous devez terminer un Repos long pour pouvoir y recourir de nouveau.</p><p><strong>Nombre de niveau d'emplacement récupérable :</strong> [[(@classes.wizard.levels / 2)]]</p><section id=\"secret-cO6X083GFJ1W4071\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Comme vous pouvez sélectionner les emplacements, vous devrez ajuster manuellement vos emplacements disponibles. Cette aptitude peut toutefois être utilisée pour suivre l'utilisation unique.</p></section>"
         },
-        "Weapon Proficiencies": {
-          "title": "" 
-        },
-        "Armor Training": {
-          "title": "" 
-        },
-        "Weapon Mastery": {
-          "title": "" 
-        },
-        "Fighting Style": {
-          "title": "" 
-        },
-        "Weapon Masteries Known": {
-          "title": "" 
-        }
-      }
-    },
-    "Fighting Style": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Fleet Step": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Foe Slayer": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Improved Hunter's Mark Damage": {
-          "name": "" 
-        }
-      }
-    },
-    "Font of Inspiration": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Recharge with Spell Slot": {
-          "name": "" 
-        }
-      }
-    },
-    "Font of Magic": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Regain Spell Slot": {
-          "name": "" 
-        },
-        "Regain Sorcery Points": {
-          "name": "" 
-        }
-      }
-    },
-    "Frenzy": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Gaze of Two Minds": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Gaze of Two Minds": {
-          "name": "" ,
-          "target": "" 
-        }
-      }
-    },
-    "Gift of the Depths": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Gift Water Breathing": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Water Breathing": {
-          "name": "" 
-        }
-      }
-    },
-    "Gift of the Protectors": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Protect": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Write Name": {
-          "name": "" 
-        },
-        "Erase Name": {
-          "name": "" 
-        }
-      }
-    },
-    "Greater Divine Intervention": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Heightened Focus": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Flurry of Blows": {
-          "name": "" 
-        },
-        "Patient Defense": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Heightened Spell": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Heightened Spell": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Heroic Warrior": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Holy Nimbus": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Holy Nimbus": {
-          "name": "" 
-        },
-        "Regain Use": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Holy Nimbus": {
-          "name": "" 
-        }
-      }
-    },
-    "Hunter": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Subclass Features": {
-          "title": "" 
-        }
-      }
-    },
-    "Hunter's Lore": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Hunter's Prey": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "damage": {
-          "condition": "" 
-        }
-      }
-    },
-    "Hurl Through Hell": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Hurl Through Hell": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Regain Use": {
-          "name": "" 
-        }
-      }
-    },
-    "Improved Blessed Strikes": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Potent Spellcasting: Heal": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Improved Brutal Strike": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Sundering Blow": {
-          "name": "" 
-        },
-        "Staggering Blow": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Staggered": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Sundered": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Improved Brutal Strike (2)": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Improved Critical": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Improved Critical": {
-          "name": "" 
-        }
-      }
-    },
-    "Improved Cunning Strike": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Improved Elemental Fury": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Indomitable": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "utility": {
-          "roll": "" 
-        }
-      }
-    },
-    "Indomitable Might": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Innate Sorcery": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Innate Sorcery": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Innate Sorcery": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Instinctive Pounce": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Intimidating Presence": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Recharge with Rage": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Intimidated": {
-          "name": "" 
-        }
-      }
-    },
-    "Investment of the Chain Master": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Find Familiar with Flight": {
-          "name": "" ,
-          "profiles": {
-            "CR 0 Beast": {
-              "name": "" 
+        "Archdruid": {
+            "name": "Archidruide",
+            "description": "<p>La vitalité de la nature s'épanouit en vous, ce qui vous octroie les bénéfices suivants.</p><p><strong>Forme sauvage immarcescible.</strong> Chaque fois que vous jouez l'Initiative alors que vous n'avez plus d'utilisation de Forme sauvage, vous en récupérez une utilisation.</p><p><strong>Mage de dame Nature.</strong> Vous pouvez convertir des utilisations de Forme sauvage en emplacement de sort unique (pas d'action requise). Convertissez un certain nombre d'utilisations non dépensées de Forme sauvage en un seul emplacement de sort, chaque utilisation contribuant à 2 niveaux d'emplacement. Exemple : si vous convertissez deux utilisations de Forme sauvage, vous produisez un emplacement du 4<sup>e</sup> niveau. Une fois que vous avez utilisé ce bénéfice, vous devez terminer un Repos long pour pouvoir y recourir de nouveau.</p><p><strong>Longévité.</strong> La magie primitive que vous pratiquez ralentit votre vieillissement. Votre corps ne vieillit que d'un an par décennie.</p><section class=\"secret\" id=\"secret-qKoW7fFZUwKC0IOG\"><p><strong>Note Foundry</strong></p><p>Cette aptitude n'automatise pas la récupération d'une utilisation de Forme sauvage lors d'un jet d'Initiative, mais elle inclut une activité qui rétablit une utilisation lorsqu'elle est activée.</p><p>L'activité <strong>Mage de dame Nature</strong> peut être utilisée pour convertir les utilisations de Forme sauvage en emplacements de sorts.</p></section>",
+            "requirements": "Druide",
+            "activities": {
+                "Nature Magician": {
+                    "name": "Mage de dame Nature"
+                },
+                "Recharge on Initiative": {
+                    "name": "Recharger sur l'Initiative"
+                }
             }
-          }
         },
-        "Find Familiar with Swimming": {
-          "name": "" ,
-          "profiles": {
-            "CR 0 Beast": {
-              "name": "" 
+        "Armor of Shadows": {
+            "name": "Armure d'ombres",
+            "description": "<p>Vous pouvez lancer @UUID[Compendium.dnd5e.spells24.Item.phbsplMageArmor0]{armure du mage} sur vous-même sans dépenser d'emplacement de sort.</p><section id=\"secret-G6Bmiw5YEqEfBh2e\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>L'activité <strong>Armure du mage</strong> est configurée avec l'effet et la durée du sort, y compris un effet actif pour définir la formule de CA fournie par le sort.</p></section>",
+            "activities": {
+                "Mage Armor": {
+                    "name": "Armure du mage"
+                }
+            },
+            "effects": {
+                "Mage Armor": {
+                    "name": "Armure du mage",
+                    "description": "<p>La CA de base de la cible est de 13 plus son modificateur de Dextérité.</p>"
+                }
             }
-          }
         },
-        "Invest with Resistance": {
-          "name": "" ,
-          "target": "" 
-        }
-      },
-      "effects": {
-        "Investment of Flight": {
-          "name": "" 
+        "Ascendant Step": {
+            "name": "Pas aérien",
+            "description": "<blockquote><p>Prérequis : niveau d'Occultiste 5+</p></blockquote><p>Vous pouvez lancer @UUID[Compendium.dnd5e.spells24.Item.phbsplLevitate00]{lévitation} sur vous-même sans dépenser d'emplacement de sort.</p>",
+            "effects": {
+                "Levitating": {
+                    "name": "En lévitation",
+                    "description": "<p>La cible ne peut se déplacer qu'en prenant appui sur des objets et surfaces fixes à portée (murs, plafonds, etc.), comme si elle escaladait.</p>"
+                }
+            }
         },
-        "Investment of Swimming": {
-          "name": "" 
+        "Aura Expansion": {
+            "name": "Aura étendue",
+            "description": "<p>Votre Aura de protection est désormais une Émanation de 9 m.</p><section id=\"secret-gH6lYObbkvAgLL2q\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>La portée de vos auras est automatiquement mise à jour au fur et à mesure que vous montez en niveau.</p></section>"
         },
-        "Resist Acid": {
-          "name": "" 
+        "Aura of Courage": {
+            "name": "Aura de courage",
+            "description": "<p>Vous-même et vos alliés jouissez de l'Immunité contre l'état Effrayé au sein de votre Aura de protection. Si un allié Effrayé pénètre dans l'aura, cet état est réprimé sur cet allié tant qu'il s'y trouve.</p><section id=\"secret-equ8xnC2DFxkcJAn\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Cette aptitude comprend un effet actif qui permet de repérer les personnes qui se trouvent dans votre aura, mais elle n'est pas automatiquement ajoutée/supprimée et ne supprime pas non plus l'état Effrayé.</p></section>",
+            "activities": {
+                "Aura of Courage": {
+                    "name": "Aura de courage"
+                }
+            },
+            "effects": {
+                "Courageous": {
+                    "name": "Courageux"
+                }
+            }
         },
-        "Resist Bludgeoning": {
-          "name": "" 
+        "Aura of Devotion": {
+            "name": "Aura de dévotion",
+            "description": "<p>Vous-même et vos alliés jouissez de l'Immunité contre l'état Charmé au sein de votre Aura de protection. Si un allié Charmé pénètre dans l'aura, cet état est réprimé sur cet allié tant qu'il s'y trouve.</p><section id=\"secret-FUisOAkgNW9r118u\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Cette aptitude inclut un effet actif permettant de suivre les personnages impactés par votre aura, mais n'en automatise pas les effets.</p></section>",
+            "effects": {
+                "Devoted": {
+                    "name": "Dévoué"
+                }
+            }
         },
-        "Resist Cold": {
-          "name": "" 
+        "Aura of Protection": {
+            "name": "Aura de protection",
+            "description": "<p>Vous diffusez une aura protectrice indiscernable sous forme d'Émanation dans un rayon de 3 m. Cette aura est inactive tant que vous subissez l'état &Reference[Incapacitated apply=false].</p><p>Vous-même et vos alliés dans l'aura recevez un bonus aux jets de sauvegarde égal à votre modificateur de Charisme (bonus minimum de +1, actuellement [[lookup @abilities.cha.mod]]).</p><p>Si un autre Paladin est présent, une créature ne peut bénéficier que d'une seule Aura de protection à la fois ; la créature choisit l'aura dont elle bénéficie.</p><section class=\"secret\" id=\"secret-PEdASVYFq26DP4Fq\"><p><strong>Note Foundry</strong></p><p>Cette aptitude comprend un effet actif qui améliore automatiquement vos jets de sauvegarde, mais elle ne doit pas être utilisée pour d'autres personnages impactés, car elle ajoutera leur modificateur de Charisme et non celui du Paladin. Ils doivent ajouter votre modificateur manuellement.</p></section>",
+            "activities": {
+                "Aura of Protection": {
+                    "name": "Aura de protection",
+                    "roll": "Bonus"
+                }
+            },
+            "effects": {
+                "Protected": {
+                    "name": "Protégé"
+                }
+            }
         },
-        "Resist Fire": {
-          "name": "" 
+        "Barbarian": {
+            "name": "Barbare",
+            "description": "<h3>Traits de base du Barbare</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>Caractéristique principale</p></th><td><p>Force</p></td></tr><tr><th><p><strong>Dé de vie</strong></p></th><td><p>d12 par niveau de Barbare</p></td></tr><tr><th><p><strong>Maîtrise des jets de sauvegarde</strong></p></th><td><p>Force et Constitution</p></td></tr><tr><th><p><strong>Maîtrise de coméptence</strong></p></th><td><p><em>2 au choix parmi :</em> Athlétisme, Dressage, Intimidation, Nature, Perception et Survie</p></td></tr><tr><th><p><strong>Maîtrise d'arme</strong></p></th><td><p>Armes courantes et armes de guerre</p></td></tr><tr><th><p><strong>Formation aux armures</strong></p></th><td><p>Armures légères et intermédiaires, et boucliers</p></td></tr><tr><th><p><strong>Équipement de départ</strong></p></th><td><p><em>Choisissez A ou B :</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreataxe00]{Hache à deux mains}, 4 @UUID[Compendium.dnd5e.equipment24.Item.phbwepHandaxe000]{hachettes}, @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{paquetage d'explorateur} et [[/award 15GP]] ; ou (B) [[/award 75GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbbrbBarbarian0 inline classes=\"free-rules-embed\"]</p><h2>Devenir Barbare…</h2><h3>En tant que personnage de niveau 1</h3><ul><li>Recevez tous les traits de l'encadré Traits de base du Barbare.</li><li>Recevez les aptitudes de niveau 1 du Barbare, qui figurent dans la table Aptitudes du Barbare.</li></ul><h3>En tant que personnage multiclassé</h3><ul><li>Recevez les traits suivants de l'encadré Traits de base du Barbare : Dé de vie, maîtrise des armes de guerre et port des boucliers.</li><li>Recevez les aptitudes de niveau 1 du Barbare, qui figurent dans la table Aptitudes du Barbare.</li></ul>",
+            "advancement": {
+                "Rage Damage": {
+                    "title": "Dégâts de Rage"
+                },
+                "Weapon Masteries Known": {
+                    "title": "Bottes d'arme connues"
+                },
+                "Class Features": {
+                    "title": "Aptitudes de classe"
+                },
+                "Primal Knowledge": {
+                    "title": "Savoir primal",
+                    "hint": "Vous recevez la maîtrise d'une autre compétence de votre choix dans la liste des compétences disponibles aux Barbares de niveau 1."
+                },
+                "Brutal Strike": {
+                    "title": "Coup brutal"
+                },
+                "Saving Throws Proficiencies": {
+                    "title": "Maîtrise des jets de sauvegarde"
+                },
+                "Skill Proficiencies": {
+                    "title": "Maîtrises de compétence"
+                },
+                "Weapon Proficiencies": {
+                    "title": "Maîtrises d'arme"
+                },
+                "Armor Training": {
+                    "title": "Formation aux armures"
+                },
+                "Weapon Mastery": {
+                    "title": "Bottes d'arme",
+                    "hint": "Votre entraînement martial vous permet de recourir à la botte d'armes supplémentaires."
+                },
+                "Rages": {
+                    "title": "Rages"
+                }
+            }
         },
-        "Resist Force": {
-          "name": "" 
+        "Bard": {
+            "name": "Barde",
+            "description": "<h3>Traits de base du Barde</h3><table class=\"core-class-traits\"><tbody><tr><th><p><strong>Caractéristique principale</strong></p></th><td><p>Charisme</p></td></tr><tr><th><p><strong>Dé de vie</strong></p></th><td><p>d8 par niveau de Barde</p></td></tr><tr><th><p><strong>Maîtrise des jets de sauvegarde</strong></p></th><td><p>Dextérité et Charisme</p></td></tr><tr><th><p><strong>Maîtrise de compétence</strong></p></th><td><p><em>3 compétences au choix</em></p></td></tr><tr><th><p><strong>Maîtrises d'arme</strong></p></th><td><p>Armes courantes</p></td></tr><tr><th><p><strong>Maîtrises d'outils</strong></p></th><td><p><em>3 instruments de musique au choix</em></p></td></tr><tr><th><p><strong>Formation aux armures</strong></p></th><td><p>Armures légères</p></td></tr><tr><th><p><strong>Équipement de départ</strong></p></th><td><p><em>Choisissez A ou B :</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{Armure de cuir}, 2 @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{dagues}, instrument de musique de votre choix, @UUID[Compendium.dnd5e.equipment24.Item.phbagEntertainer]{paquetage d'artiste} et [[/award 19gp]] ; ou (B) [[/award 90GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbbrdBard000000 inline classes=\"free-rules-embed\"]</p><h2>Devenir Barde…</h2><h3>En tant que personnage de niveau 1</h3><ul><li>Recevez tous les traits de l'encadré Traits de base du Barde.</li><li>Recevez les aptitudes de niveau 1 du Barde, qui figurent dans la table Aptitudes du Barde.</li></ul><h3>En tant que personnage multiclassé</h3><ul><li>Recevez les traits suivants de l'encadré Traits de base du Barde : Dé de vie, maîtrise d'une compétence au choix, maîtrise d'un instrument de musique au choix et formation aux armures légères.</li><li>Recevez les aptitudes de niveau 1 du Barde, qui figurent dans la table Aptitudes du Barde. Référez-vous aux règles du multiclassage, au chapitre 2, pour déterminer vos emplacements de sort disponibles.</li></ul>",
+            "advancement": {
+                "Class Features": {
+                    "title": "Aptitudes de classe"
+                },
+                "Max Prepared Spells": {
+                    "title": "Sorts préparés max."
+                },
+                "Cantrips Known": {
+                    "title": "Sorts mineurs connus"
+                },
+                "Inspiration Die": {
+                    "title": "Dé bardique"
+                },
+                "Expertise": {
+                    "title": "Expertise"
+                },
+                "Words of Creation": {
+                    "title": "Verbe de la création"
+                },
+                "Saving Throw Proficiencies": {
+                    "title": "Maîtrise des jets de sauvegarde"
+                },
+                "Skill Proficiencies": {
+                    "title": "Maîtrises de compétence"
+                },
+                "Weapon Proficiencies": {
+                    "title": "Maîtrises d'arme"
+                },
+                "Tool Proficiencies": {
+                    "title": "Maîtrise d'outils"
+                },
+                "Armor Training": {
+                    "title": "Formation aux armures"
+                }
+            }
         },
-        "Resist Lightning": {
-          "name": "" 
+        "Bardic Inspiration": {
+            "name": "Inspiration bardique",
+            "description": "<p>Vous pouvez inspirer autrui, surnaturellement, par vos paroles, votre musique ou vos danses, Cette inspiration est représentée par votre dé d'Inspiration bardique, un d6. (actuellement, [[lookup @scale.bard.inspiration.die]]).</p><p><strong>Utilisation de l'Inspiration bardique.</strong> Par une action Bonus, vous pouvez inspirer une autre créature qui vous voit ou vous entend dans un rayon de 18 m. Cette créature reçoit l'un de vos dés d'Inspiration bardique. Une même créature ne peut pas disposer de plus d'un dé d'Inspiration bardique à la fois.</p><p>Une fois au cours de l'heure à venir, lorsque la créature rate un Test d20, elle peut lancer le dé d'Inspiration bardique pour en ajouter le résultat au Test d20, ce qui peut convertir l'échec en réussite. Le dé d'Inspiration bardique est dépensé dès qu'il est lancé.</p><p><strong>Nombre d'utilisations.</strong> Vous pouvez conférer l'Inspiration bardique autant de fois que votre modificateur de Charisme (minimum d'une fois) et vous récupérez ce quota en terminant un Repos long.</p><p><strong>À plus haut niveau.</strong> Votre dé d'Inspiration bardique change lorsque vous atteignez certains niveaux de Barde, comme indiqué à la colonne Dé d'inspiration de la table Aptitudes du Barde. Le dé devient un d8 au niveau 5, un d10 au niveau 10 et un d12 au niveau 15.</p><section class=\"secret\" id=\"secret-PtUXhUXS84HSdaew\"><p><strong>Note Foundry</strong></p><p>Cette aptitude inclut un effet actif permettant de suivre le moment où un personnage dispose de l'Inspiration bardique à utiliser.</p><p>La récupération est réglée sur un Repos long (pour les niveaux avant l'obtention de @UUID[Compendium.dnd5e.classes24.Item.phbbrdFontOfInsp]{Source d'inspiration}). Veuillez ajuster manuellement si nécessaire.</p></section>",
+            "requirements": "Barde",
+            "activities": {
+                "Inspire": {
+                    "name": "Inspirer",
+                    "roll": "Inspiration bardique"
+                }
+            },
+            "effects": {
+                "Inspired": {
+                    "name": "Inspiré",
+                    "description": "<p>Vous avez reçu Inspiration Bardique. Une fois au cours de l'heure à venir, lorsque vous ratez un Test d20, vous pouvez lancer le dé d'Inspiration bardique pour en ajouter le résultat au Test d20, ce qui peut convertir l'échec en réussite. Le dé d'Inspiration bardique est dépensé dès qu'il est lancé.</p>"
+                }
+            }
         },
-        "Resist Necrotic": {
-          "name": "" 
+        "Beast Spells": {
+            "name": "Incantation animale",
+            "description": "<p>Tant que vous êtes sous Forme sauvage, vous pouvez lancer des sorts bien que sous forme de Bête, à l'exception des sorts assortis d'une composante matérielle dont le coût est spécifié ou qui est détruite par l'incantation.</p>",
+            "requirements": "Druide"
         },
-        "Resist Piercing": {
-          "name": "" 
+        "Blessed Healer": {
+            "name": "Guérisseur béni",
+            "description": "<p>Les sorts de guérison que vous lancez sur autrui vous soignent également. Aussitôt après avoir lancé par un emplacement un sort qui restitue des points de vie à une ou plusieurs créatures autres que vous, vous récupérez un nombre de points de vie égal à 2 plus le niveau de l'emplacement.</p><section class=\"secret\" id=\"secret-B3oOPhBUFT9dOwUQ\"><p><strong>Note Foundry</strong></p><p>Cette aptitude inclut une activité de soin. Réglez l'évolution sur le niveau de l'emplacement de sort que vous lancez et elle vous fournira un jet de soin.</p></section>",
+            "requirements": "Domaine de la Vie"
         },
-        "Resist Poison": {
-          "name": "" 
+        "Blessed Strikes": {
+            "name": "Impacts bénis",
+            "description": "<p>La puissance divine vous anime au combat. Vous recevez l'une des options suivantes de votre choix (si vous avez obtenu une de ces options par une sous-classe de Clerc issue d'un ouvrage plus ancien, ne retenez que l'option choisie par la présente aptitude).</p><p><strong>Impact divin.</strong> Une fois à chacun de vos tours, lorsque vous touchez une créature par un jet d'attaque avec une arme, vous pouvez lui infliger 1d8 dégâts supplémentaires du type que vous choisissez entre nécrotiques et radiants.</p><p><strong>Incantation puissante.</strong> Ajoutez votre modificateur de Sagesse aux dégâts que vous infligez par tout sort mineur de Clerc.</p><section id=\"secret-1YTjpzZamslVlTTM\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Lors de la progression, vous pourrez choisir l'option que vous préférez.</p></section>",
+            "requirements": "Clerc"
         },
-        "Resist Psychic": {
-          "name": "" 
+        "Blessed Strikes: Divine Strike": {
+            "name": "Impacts bénis : Impact divin",
+            "description": "<p>Une fois à chacun de vos tours, lorsque vous touchez une créature par un jet d'attaque avec une arme, vous pouvez lui infliger 1d8 dégâts supplémentaires du type que vous choisissez entre nécrotiques et radiants.</p><section id=\"secret-iZHQe1DZBrtcFZCk\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Les dégâts de cette aptitude augmentent automatiquement lorsque vous obtenez @UUID[Compendium.dnd5e.classes24.Item.phbclcImprovedBl]{Impacts bénis améliorés}.</p></section>",
+            "requirements": "Clerc",
+            "activities": {
+                "Necrotic Divine Strike": {
+                    "name": "Impact divin nécrotiques",
+                    "target": "Lorsque vous touchez une créature par un jet d'attaque avec une arme une fois par tour"
+                },
+                "Radiant Divine Strike": {
+                    "name": "Impact divin radiants",
+                    "target": "Lorsque vous touchez une créature par un jet d'attaque avec une arme une fois par tour"
+                }
+            }
         },
-        "Resist Radiant": {
-          "name": "" 
+        "Blessed Strikes: Potent Spellcasting": {
+            "name": "Impacts bénis : Incantation puissante",
+            "description": "<p>Ajoutez votre modificateur de Sagesse aux dégâts que vous infligez par tout sort mineur de Clerc.</p><section class=\"secret\" id=\"secret-bDHa7ClHZ3YPWKvs\"><p><strong>Note Foundry</strong></p><p>Ces dégâts supplémentaires ne sont pas automatiquement inclus dans vos sorts mineurs.</p><p>Vous pouvez ajouter [[lookup @abilities.wis.mod]] au champ Bonus situationnel de vos jets de dégâts de sort mineur ou vous pouvez l'ajouter de manière permanente à vos sorts mineurs en ajoutant \"@abilities.wis.mod\" (sans les guillemets) dans le champ Bonus. </p><p>Sinon, l'activité <strong>Dégâts</strong> de cette aptitude inclut votre modificateur de Sagesse et vous permet de choisir le type de dégâts dans la boîte de dialogue du jet.</p></section>",
+            "requirements": "Clerc",
+            "activities": {
+                "damage": {
+                    "condition": "Infliger des dégâts avec n'importe quel sort mineur de Clerc"
+                }
+            }
         },
-        "Resist Slashing": {
-          "name": "" 
-        },
-        "Resist Thunder": {
-          "name": "" 
-        }
-      }
-    },
-    "Jack of All Trades": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "effects": {
-        "Jack of All Trades": {
-          "name": "" 
-        }
-      }
-    },
-    "Land's Aid": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Lay on Hands": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Remove Poison": {
-          "name": "" 
-        }
-      }
-    },
-    "Lessons of the First Ones": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Life Domain": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Subclass Features": {
-          "title": "" 
-        },
-        "Life Domain Spells": {
-          "title": "" 
-        }
-      }
-    },
-    "Life Domain Spells": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Lifedrinker": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "damage": {
-          "condition": "" 
-        },
-        "Heal (Largest Hit Die)": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Heal (Smallest Hit Die)": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Magical Cunning": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Regain Pact Spell Slots": {
-          "name": "" 
-        }
-      }
-    },
-    "Magical Discoveries": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Magical Secrets": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Martial Arts": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Master Simple Weapon": {
-          "name": "" 
-        },
-        "Master Light Martial Weapon": {
-          "name": "" 
-        },
-        "Monk Attack": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Martial Arts": {
-          "name": "" 
-        }
-      }
-    },
-    "Mask of Many Faces": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Disguised": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Master of Myriad Forms": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Aquatic Adaptation": {
-          "name": "" 
-        },
-        "Change Appearance": {
-          "name": "" 
-        },
-        "Natural Weapons": {
-          "name": "" 
-        },
-        "Attack: Claws": {
-          "name": "" 
-        },
-        "Attack: Fangs/Horns": {
-          "name": "" 
-        },
-        "Attack: Hooves": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Aquatic Adaptation": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Altered Appearance": {
-          "name": "" 
-        },
-        "Natural Weapon": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Memorize Spell": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Metamagic": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Mindless Rage": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "effects": {
-        "Mindless Rage": {
-          "name": "" 
-        }
-      }
-    },
-    "Misty Visions": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Monk": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Class Features": {
-          "title": "" 
+        "Blessed Warrior": {
+            "name": "Combattant béni",
+            "description": "<p>Vous apprenez deux @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj#sorts-mineurs]{sorts mineurs de Clerc} de votre choix. <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplGuidance00]{Assistance}</em> et <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplSacredFlam]{flamme sacrée}</em> sont recommandés. Les sorts mineurs choisis sont considérés pour vous comme des sorts de Paladin, et le Charisme est la caractéristique d'incantation associée. Chaque fois que vous gagnez un niveau de Paladin, vous pouvez remplacer l'un de ces sorts mineurs par un autre sort mineur de Clerc.</p>",
+            "requirements": "Paladin"
         },
         "Body and Mind": {
-          "title": "" 
+            "name": "Esprit et corps",
+            "description": "<p>Le développement de votre corps et de votre esprit atteint de nouveaux sommets. Vos valeurs de Dextérité et Sagesse augmentent de 4, jusqu'à un maximum de 25.</p>"
         },
-        "Martial Arts Die": {
-          "title": "" 
+        "Bonus Proficiencies": {
+            "name": "Maîtrises supplémentaires",
+            "description": "<p>Vous recevez la maîtrise de 3 compétences, au choix.</p>",
+            "requirements": "Collège du Savoir"
         },
-        "Unarmored Movement": {
-          "title": "" 
+        "Book of Shadows": {
+            "name": "Codex des Ombres"
         },
-        "Disciplined Survivor": {
-          "title": "" 
-        },
-        "Saving Throw Proficiencies": {
-          "title": "" 
-        },
-        "Skill Proficiencies": {
-          "title": "" 
-        },
-        "Weapon Proficiencies": {
-          "title": "" 
-        },
-        "Tool Proficiencies": {
-          "title": "" 
-        },
-        "Focus Points": {
-          "title": "" 
-        }
-      }
-    },
-    "Monk's Focus": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Flurry of Blows": {
-          "name": "" 
-        },
-        "Patient Defense (Focus Point)": {
-          "name": "" 
-        },
-        "Patient Defense": {
-          "name": "" 
-        },
-        "Step of the Wind": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Patient Defense (Focus Point)": {
-          "name": "" 
-        },
-        "Disengaged": {
-          "name": "" 
-        }
-      }
-    },
-    "Mystic Arcanum": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Mystic Arcanum (6th level)": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "Mystic Arcanum (7th level)": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "Mystic Arcanum (8th level)": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "Mystic Arcanum (9th level)": {
-          "title": "" ,
-          "hint": "" 
-        }
-      }
-    },
-    "Natural Recovery": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Cast Spell": {
-          "name": "" 
-        },
-        "Recover Spell Slots": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Nature's Sanctuary": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Spectral Trees and Vines": {
-          "name": "" 
-        },
-        "Move": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Nature's Ward: Arid": {
-          "name": "" 
-        },
-        "Nature's Ward: Polar": {
-          "name": "" 
-        },
-        "Nature's Ward: Temperate": {
-          "name": "" 
-        },
-        "Nature's Ward: Tropical": {
-          "name": "" 
-        }
-      }
-    },
-    "Nature's Veil": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Veil": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Veiled": {
-          "name": "" 
-        }
-      }
-    },
-    "Nature's Ward": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "effects": {
-        "Nature's Ward": {
-          "name": "" 
-        },
-        "Nature's Ward: Arid": {
-          "name": "" 
-        },
-        "Nature's Ward: Polar": {
-          "name": "" 
-        },
-        "Nature's Ward: Temperate": {
-          "name": "" 
-        },
-        "Nature's Ward: Tropical": {
-          "name": "" 
-        }
-      }
-    },
-    "Oath of Devotion": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Subclass Features": {
-          "title": "" 
-        },
-        "Oath of Devotion Spells": {
-          "title": "" 
-        }
-      }
-    },
-    "Oath of Devotion Spells": {
-      "name": "" ,
-      "description": "" 
-    },
-    "One with Shadows": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Invisible": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Open Hand Technique": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Addle": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Push": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Topple": {
-          "name": "" ,
-          "condition": "" 
-        }
-      },
-      "effects": {
-        "Addled": {
-          "name": "" 
-        },
-        "Toppled": {
-          "name": "" 
-        }
-      }
-    },
-    "Otherworldly Leap": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Jump": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Overchannel": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Second+ Use": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "First Use": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Pact Magic": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Pact of the Blade": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Forge Pact Weapon": {
-          "name": "" 
-        },
-        "Spellcasting Attack": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Pact Weapon": {
-          "name": "" ,
-          "changes": {
-            "name": "" 
-          }
-        }
-      }
-    },
-    "Pact of the Chain": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Find Familiar": {
-          "name": "" ,
-          "profiles": {
-            "CR 0 Beast": {
-              "name": "" 
+        "Brutal Strike": {
+            "name": "Coup brutal",
+            "description": "<p>Si vous recourez à [[/item Témérité]], vous pouvez renoncer a l'Avantage pour un jet d'attaque basé sur la Force, de votre choix et à votre tour. Le jet d'attaque retenu ne doit pas avoir le Désavantage, Si ce jet d'attaque touche, la cible subit [[lookup @scale.barbarian.brutal-strike]] dégâts supplémentaires du même type qu'infligé par l'arme ou à mains nues, et vous pouvez lui imposer l'effet de Coup brutal de votre choix. Vous disposez des options d'effet suivantes.</p><p><strong>Coup appuyé.</strong> La cible est repoussée de vous de 4,50 m, en ligne droite. Vous pouvez alors vous déplacer à concurrence de la moitié de votre Vitesse sans provoquer d'&Reference[Opportunity Attacks]{attaques d'Opportunité}.</p><p><strong>Coup au jarret.</strong> La Vitesse de la cible est réduite de 4,50 m jusqu'au début de votre tour suivant. Une même cible ne peut être affectée que par un seul Coup au jarret à la fois ; le plus récent.</p><section class=\"secret\" id=\"secret-vLb1SoKHWW2796Ko\"><p><strong>Note Foundry</strong></p><p>Cette aptitude inclut un effet actif pour le Coup aux jarret qui peut être appliqué à une cible.</p><p>L'activité de <strong>dégâts</strong> s'adapte automatiquement lorsque vous obtenez Coup brutal amélioré (2).</p></section>",
+            "requirements": "Barbare",
+            "activities": {
+                "Brutal Strike": {
+                    "name": "Coup brutal"
+                }
+            },
+            "effects": {
+                "Hamstrung": {
+                    "name": "Jarret",
+                    "description": "<p>Touché par un coup au jarret, la Vitesse de ce personnage a été réduite de 4,50 m jusqu'au début du prochain tour de l'attaquant.</p>"
+                }
             }
-          }
         },
-        "Find Familiar (Expanded Options)": {
-          "name": "" 
-        }
-      }
-    },
-    "Pact of the Tome": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Paladin": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Class Features": {
-          "title": "" 
-        },
-        "Aura Distance": {
-          "title": "" 
-        },
-        "Max Prepared Spells": {
-          "title": "" 
-        },
-        "Channel Divinity Uses": {
-          "title": "" 
-        },
-        "Saving Throw Proficiencies": {
-          "title": "" 
-        },
-        "Skill Proficiencies": {
-          "title": "" 
-        },
-        "Weapon Proficiencies": {
-          "title": "" 
-        },
-        "Armor Training": {
-          "title": "" 
-        },
-        "Fighting Style": {
-          "title": "" 
-        },
-        "Weapon Mastery": {
-          "title": "" 
-        }
-      }
-    },
-    "Paladin's Smite": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Path of the Berserker": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Subclass Features": {
-          "title": "" 
-        }
-      }
-    },
-    "Peerless Skill": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "utility": {
-          "roll": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Perfect Focus": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Persistent Rage": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Recharge Rage on Initiative": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Potent Cantrip": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Precise Hunter": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Preserve Life": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "heal": {
-          "target": "" 
-        }
-      }
-    },
-    "Primal Champion": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "advancement": {
-        "Primal Champion": {
-          "title": "" ,
-          "hint": "" 
-        }
-      }
-    },
-    "Primal Knowledge": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "effects": {
-        "Primal Knowledge": {
-          "name": "" 
-        }
-      }
-    },
-    "Primal Order": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Primal Order: Magician": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "effects": {
-        "Magician": {
-          "name": "" 
-        }
-      }
-    },
-    "Primal Order: Warden": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "effects": {
-        "Primal Order: Warden": {
-          "name": "" 
-        }
-      }
-    },
-    "Quickened Spell": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Quickened Spell": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Quivering Palm": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "End Vibrations": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Instill Vibrations": {
-          "name": "" ,
-          "condition": "" 
-        }
-      },
-      "effects": {
-        "Lethal Vibrations": {
-          "name": "" 
-        }
-      }
-    },
-    "Radiant Strikes": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Radiant Strikes": {
-          "name": "" 
-        }
-      }
-    },
-    "Rage": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Expend Rage": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Rage": {
-          "name": "" 
-        }
-      }
-    },
-    "Ranger": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Class Features": {
-          "title": "" 
-        },
-        "Expertise": {
-          "title": "" 
-        },
-        "Favored Enemy": {
-          "title": "" 
-        },
-        "Deft Explorer": {
-          "title": "" 
-        },
-        "Hunter's Mark Damage": {
-          "title": "" 
-        },
-        "Max Prepared Spells": {
-          "title": "" 
-        },
-        "Saving Throw Proficiencies": {
-          "title": "" 
-        },
-        "Skill Proficiencies": {
-          "title": "" 
-        },
-        "Weapon Proficiencies": {
-          "title": "" 
-        },
-        "Armor Training": {
-          "title": "" 
-        },
-        "Fighting Style": {
-          "title": "" 
-        },
-        "Weapon Mastery": {
-          "title": "" 
-        }
-      }
-    },
-    "Reckless Attack": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "effects": {
-        "Reckless": {
-          "name": "" 
-        }
-      }
-    },
-    "Relentless Hunter": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Relentless Rage": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Reliable Talent": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Reliable Talent": {
-          "name": "" 
-        }
-      }
-    },
-    "Remarkable Athlete": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Remarkable Athlete": {
-          "name": "" 
-        }
-      }
-    },
-    "Repelling Blast": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Make Repelling": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Repelling Blast": {
-          "name": "" ,
-          "description": "" ,
-          "changes": {
-            "name": "" 
-          }
-        }
-      }
-    },
-    "Restoring Touch": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Retaliation": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Retaliate": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Ritual Adept": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Rogue": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Class Features": {
-          "title": "" 
-        },
-        "Expertise": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "sqWH6tnUg7jiGaEj": {
-          "title": "" 
-        },
-        "Sneak Attack": {
-          "title": "" 
-        },
-        "Thieves' Cant": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "FiaNLovfP6tnY4tD": {
-          "hint": "" 
-        },
-        "Weapon Mastery": {
-          "title": "" 
-        },
-        "Saving Throw Proficiencies": {
-          "title": "" 
-        },
-        "Skill Proficiencies": {
-          "title": "" 
-        },
-        "Weapon Proficiencies": {
-          "title": "" 
-        },
-        "Tool Proficiencies": {
-          "title": "" 
-        },
-        "Armor Training": {
-          "title": "" 
-        }
-      }
-    },
-    "Roving": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Roving": {
-          "name": "" 
-        }
-      }
-    },
-    "Sacred Weapon": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Sacred Weapon": {
-          "name": "" ,
-          "changes": {
-            "name": "" 
-          }
-        }
-      }
-    },
-    "Scholar": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Sculpt Spells": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Sear Undead": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Channel Divinity: Turn Undead": {
-          "name": "" ,
-          "target": "" 
-        }
-      },
-      "effects": {
-        "Turn Undead": {
-          "name": "" 
-        }
-      }
-    },
-    "Second Wind": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Second-Story Work": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Seeking Spell": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Seeking Spell": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Signature Spells": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Make Signature": {
-          "name": "" 
-        },
-        "Expend First Spell": {
-          "name": "" 
-        },
-        "Expend Second Spell": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Signature": {
-          "name": "" ,
-          "description": "" ,
-          "changes": {
-            "name": "" 
-          }
-        }
-      }
-    },
-    "Slippery Mind": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Slow Fall": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Reduce": {
-          "name": "" 
-        }
-      }
-    },
-    "Smite of Protection": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Smite of Protection": {
-          "name": "" 
-        }
-      }
-    },
-    "Sneak Attack": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Sorcerer": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Class Features": {
-          "title": "" 
-        },
-        "Max Prepared Spells": {
-          "title": "" 
-        },
-        "Cantrips Known": {
-          "title": "" 
-        },
-        "Metamagic": {
-          "title": "" ,
-          "hint": "" 
-        },
-        "Saving Throw Proficiencies": {
-          "title": "" 
-        },
-        "Skill Proficiencies": {
-          "title": "" 
-        },
-        "Weapon Proficiencies": {
-          "title": "" 
-        },
-        "Sorcery Points": {
-          "title": "" 
-        }
-      }
-    },
-    "Sorcerous Restoration": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Restore Sorcery Points": {
-          "name": "" 
-        }
-      }
-    },
-    "Sorcery Incarnate": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Restore Innate Sorcery": {
-          "name": "" 
-        }
-      }
-    },
-    "Spell Mastery": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Master Spell": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Mastered": {
-          "name": "" ,
-          "changes": {
-            "name": "" 
-          }
-        }
-      }
-    },
-    "Spellcasting": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Steady Aim": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Steady Aim": {
-          "name": "" 
-        }
-      }
-    },
-    "Stroke of Luck": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Stroke of Luck": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Studied Attacks": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Stunning Strike": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "save": {
-          "condition": "" 
-        }
-      },
-      "effects": {
-        "Stunned": {
-          "name": "" 
-        },
-        "Slowed": {
-          "name": "" 
-        }
-      }
-    },
-    "Subtle Spell": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Subtle Spell": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Superior Critical": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Superior Critical": {
-          "name": "" 
-        }
-      }
-    },
-    "Superior Defense": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "utility": {
-          "condition": "" 
-        }
-      },
-      "effects": {
-        "Superior Defense": {
-          "name": "" 
-        }
-      }
-    },
-    "Superior Hunter's Defense": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Resistances": {
-          "name": "" ,
-          "condition": "" 
-        }
-      },
-      "effects": {
-        "Hunter's Defense: Acid": {
-          "name": "" 
-        },
-        "Hunter's Defense: Bludgeoning": {
-          "name": "" 
-        },
-        "Hunter's Defense: Cold": {
-          "name": "" 
-        },
-        "Hunter's Defense: Fire": {
-          "name": "" 
-        },
-        "Hunter's Defense: Force": {
-          "name": "" 
-        },
-        "Hunter's Defense: Lightning": {
-          "name": "" 
-        },
-        "Hunter's Defense: Necrotic": {
-          "name": "" 
-        },
-        "Hunter's Defense: Piercing": {
-          "name": "" 
-        },
-        "Hunter's Defense: Poison": {
-          "name": "" 
-        },
-        "Hunter's Defense: Psychic": {
-          "name": "" 
-        },
-        "Hunter's Defense: Radiant": {
-          "name": "" 
-        },
-        "Hunter's Defense: Slashing": {
-          "name": "" 
-        },
-        "Hunter's Defense: Thunder": {
-          "name": "" 
-        }
-      }
-    },
-    "Superior Hunter's Prey": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "damage": {
-          "range": "" 
-        }
-      }
-    },
-    "Superior Inspiration": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Supreme Healing": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Supreme Sneak": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Survivor": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "heal": {
-          "condition": "" 
-        }
-      }
-    },
-    "Tactical Master": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "effects": {
-        "Tactial Master": {
-          "name": "" 
-        }
-      }
-    },
-    "Tactical Mind": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Expend Second Wind": {
-          "name": "" ,
-          "roll": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Tactical Shift": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Thief": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Subclass Features": {
-          "title": "" 
-        }
-      }
-    },
-    "Thief's Reflexes": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Thieves' Cant": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Thirsting Blade": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Three Extra Attacks": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Tireless": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Temporary Hit Points": {
-          "name": "" 
-        },
-        "Decrease Exhaustion": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Transmuted Spell": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Transmuted Spell": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Twinned Spell": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Twinned Spell": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Two Extra Attacks": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Unarmed Strike": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Grapple/Shove": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Grappled": {
-          "name": "" 
-        },
-        "Prone": {
-          "name": "" 
-        }
-      }
-    },
-    "Unarmored Defense": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "effects": {
-        "Unarmored Defense": {
-          "name": "" 
-        }
-      }
-    },
-    "Unarmored Movement": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Unarmored Movement": {
-          "name": "" 
-        }
-      }
-    },
-    "Uncanny Dodge": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Uncanny Dodge": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Uncanny Metabolism": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Uncanny Metabolism": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Use Magic Device": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Attunement Bonus": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Visions of Distant Realms": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Warlock": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Class Features": {
-          "title": "" 
-        },
-        "bwCLOdauuzoHofil": {
-          "hint": "" 
-        },
-        "mRSh9oUVjLU33e7p": {
-          "hint": "" 
-        },
-        "mhZh3LfLMa15tXee": {
-          "hint": "" 
-        },
-        "FOf5CkGnSs0OlppY": {
-          "hint": "" 
-        },
-        "Eldritch Invocations Known": {
-          "title": "" 
-        },
-        "Cantrips Known": {
-          "title": "" 
-        },
-        "KTLPtUpPuGbXWiap": {
-          "hint": "" 
-        },
-        "Max Pact Magic Spells": {
-          "title": "" 
-        },
-        "Eldritch Invocations": {
-          "title": "" ,
-          "hint": "" 
+        "Careful Spell": {
+            "name": "Sort prévenant",
+            "description": "<blockquote><p>Coût : 1 point de Sorcellerie</p></blockquote><p>Lorsque vous lancez un sort qui contraint d'autres créatures à effectuer un jet de sauvegarde, vous pouvez protéger certaines de ces créatures des pleins effets du sort. À cette fin, dépensez 1 point de Sorcellerie et désignez des créatures dont le nombre n'excède pas votre modificateur de Charisme (minimum d'une créature). Les créatures choisies réussissent automatiquement leur jet de sauvegarde contre le sort et ne subissent aucun dégât si elles étaient censées les réduire de moitié en cas de réussite.</p><p><strong>Créatures que vous pouvez protéger :</strong> [[lookup @abilities.cha.mod]]</p>",
+            "activities": {
+                "Careful Spell": {
+                    "name": "Sort prévenant",
+                    "condition": "Lorsque vous lancez un sort qui contraint d'autres créatures à effectuer un jet de sauvegarde"
+                }
+            }
+        },
+        "Champion": {
+            "name": "Champion",
+            "description": "<blockquote><p>Visez l'excellence physique au combat</p></blockquote><p>Un Champion cherche à tirer le meilleur parti de ses qualités martiales au service obstiné de la victoire. Les Champions conjuguent entraînement draconien et condition physique d'exception pour asséner des coups dévastateurs et endurer les périls, et enfin en récolter les lauriers. Qu'ils s'engagent dans une épreuve purement physique ou une bataille sanguinaire, ils n'ont qu'un objectif : le triomphe.</p>",
+            "advancement": {
+                "Subclass Features": {
+                    "title": "Aptitudes de sous-classe"
+                },
+                "Fighting Style": {
+                    "title": "Style de combat"
+                }
+            }
+        },
+        "Channel Divinity": {
+            "name": "Conduit divin",
+            "description": "<p>Vous pouvez canaliser l'énergie divine directement depuis les Plans Extérieurs afin de produire des effets magiques. Vous débutez avec deux effets de ce type : Étincelle divine et Renvoi des morts-vivants, décrits ci-après. Chaque fois que vous recourez au Conduit divin de cette classe, vous choisissez l'effet associé que vous souhaitez générer. Vous recevez de nouvelles options à plus haut niveau de Clerc.</p><p>Vous pouvez utiliser deux fois le Conduit divin de cette classe. Vous en regagnez une utilisation lorsque vous terminez un Repos court, et récupérez tout le quota en terminant un Repos long. Vous recevrez des utilisations supplémentaires en atteignant certains niveaux de Clerc, comme indiqué en colonne Conduit divin de la table Aptitudes du Clerc.</p><p>Si un effet de Conduit divin entraîne un jet de sauvegarde, le DD est égal au DD de sauvegarde des sorts de l'aptitude Sorts de cette classe.</p><p><strong>Étincelle divine.</strong> Au prix de l'action Magie, vous pointez votre symbole sacré vers une autre créature que vous voyez dans un rayon de 9 m pour concentrer vers elle les énergies divines. Lancez 1d8 et ajoutez-y votre modificateur de Sagesse. Soit vous restituez à la créature autant de points de vie que le total obtenu, soit vous la contraignez à effectuer un jet de sauvegarde de Constitution. Si elle rate ce JS, la créature subit autant de dégâts nécrotiques ou radiants (vous choisissez) que le total obtenu par votre jet. En cas de réussite, la créature subit la moitié de ces dégâts.</p><p>Vous ajoutez un d8 lorsque vous atteignez les niveaux 7 (2d8), 13 (3d8) et 18 (4d8) de Clerc.</p><p><strong>Renvoi des morts-vivants.</strong> Au prix de l'action Magie, vous brandissez votre symbole sacré pour condamner les Morts-vivants. Chaque Mort-vivant de votre choix dans un rayon de 9 m effectue un jet de sauvegarde de Sagesse. En cas d'échec, la créature subit les états Effrayé et Neutralisé pendant 1 minute. Pour toute la durée, elle s'efforce de s'éloigner de vous autant que possible à chacun de ses tours. Cet effet prend fin prématurément si la créature subit des dégâts, si vous subissez l'état Neutralisé ou si vous mourez.</p><section class=\"secret\" id=\"secret-1ECtJAnUinEegKtL\"><p><strong>Note Foundry</strong></p><p>Cette aptitude restaurera automatiquement 1 utilisation lors d'un Repos court et toutes les utilisations lors d'un Repos long. Les utilisations s'adaptent automatiquement à mesure que vous gagnez des niveaux. L'activité <strong>Étincelle divine : Soigner</strong> inclut l'effet de soin. L'activité <strong>Étincelle divine : Sauvegarde</strong> inclut le jet de sauvegarde. L'activité <strong>Renvoi des morts-vivants</strong> inclut un effet actif qui applique les états Effrayé et Neutralisé.</p></section>",
+            "requirements": "Clerc",
+            "activities": {
+                "Divine Spark: Heal": {
+                    "name": "Étincelle divine : Soigner"
+                },
+                "Divine Spark: Save": {
+                    "name": "Étincelle divine : Sauvegarde"
+                },
+                "Turn Undead": {
+                    "name": "Renvoi des morts-vivants",
+                    "target": "Mort-vivant de votre choix"
+                }
+            },
+            "effects": {
+                "Turned": {
+                    "name": "Renvoyé"
+                }
+            }
+        },
+        "Circle of the Land": {
+            "name": "Cercle de la Terre",
+            "description": "<blockquote><p>Glorifiez le lien avec le monde naturel</p></blockquote><p>Le Cercle de la Terre accueille les mystes et les sages qui veillent sur les rites et savoirs ancestraux. Ces Druides se rassemblent dans des cercles sacrés faits d'arbres ou de menhirs pour se murmurer des secrets primitifs en langue druidique. Les membres les plus sagaces du cercle officient comme grands prêtres de leur communauté.</p>",
+            "advancement": {
+                "Subclass Features": {
+                    "title": "Aptitudes de sous-classe"
+                },
+                "Lands Aid Damage": {
+                    "title": "Dégâts Aval de la Terre"
+                }
+            }
+        },
+        "Circle of the Land Spells": {
+            "name": "Sorts du Cercle de la Terre",
+            "description": "<p>Chaque fois que vous terminez un Repos long, choisissez un type d'environnement entre : aride, polaire, tempéré et tropical. Consultez parmi les tables ci-après celle qui correspond au type retenu ; les sorts énumérés pour votre niveau de Druide et les niveaux inférieurs sont préparés en ce qui vous concerne.</p><table><caption>Terres arides</caption><thead><tr><td>Niveau de Druide</td><td>Sorts de cercle</td></tr></thead><tbody><tr><td>3</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplBlur000000]{flou}, @UUID[Compendium.dnd5e.spells24.Item.phbsplBurningHan]{mains brûlantes}, @UUID[Compendium.dnd5e.spells24.Item.phbsplFireBolt00]{trait de feu}</td></tr><tr><td>5</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFireball00]{boule de feu}</td></tr><tr><td>7</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplBlight0000]{flétrissement}</td></tr><tr><td>9</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplWallofSton]{mur de pierre}</td></tr></tbody></table><table><caption>Terres polaires</caption><thead><tr><td>Niveau de Druide</td><td>Sorts de cercle</td></tr></thead><tbody><tr><td>3</td><td> @UUID[Compendium.dnd5e.spells24.Item.phbsplHoldPerson]{immobilisation de personne}, @UUID[Compendium.dnd5e.spells24.Item.phbsplFogCloud00]{nappe de brouillard}, @UUID[Compendium.dnd5e.spells24.Item.phbsplRayofFrost]{rayon de givre}</td></tr><tr><td>5</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplSleetStorm]{tempête de neige}</td></tr><tr><td>7</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplIceStorm00]{tempête de grêle}</td></tr><tr><td>9</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplConeofCold]{cône de froid}</td></tr></tbody></table><table><caption>Terres tempérées</caption><thead><tr><td>Niveau de Druide</td><td>Sorts de cercle</td></tr></thead><tbody><tr><td>3</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{foulée brumeuse}, @UUID[Compendium.dnd5e.spells24.Item.phbsplShockingGr]{poigne électrique}, @UUID[Compendium.dnd5e.spells24.Item.phbsplSleep00000]{sommeil}</td></tr><tr><td>5</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLightningB]{éclair}</td></tr><tr><td>7</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFreedomofM]{liberté de mouvement}</td></tr><tr><td>9</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplTreeStride]{passage par les arbres}</td></tr></tbody></table><table><caption>Terres tropicales</caption><thead><tr><td>Niveau de Druide</td><td>Sorts de cercle</td></tr></thead><tbody><tr><td>3</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplAcidSplash]{aspersion acide}, @UUID[Compendium.dnd5e.spells24.Item.phbsplRayofSickn]{rayon empoisonné}, @UUID[Compendium.dnd5e.spells24.Item.phbsplWeb0000000]{toile d'araignée}</td></tr><tr><td>5</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplStinkingCl]{nuage nauséabond}</td></tr><tr><td>7</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPolymorph0]{métamorphose}</td></tr><tr><td>9</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplInsectPlag]{fléau d'insectes}</td></tr></tbody></table><section class=\"secret\" id=\"secret-0B8V69GLRm5swkth\"><p><strong>Note Foundry</strong></p><p>Cette aptitude n'automatise pas la permutation entre les options de sorts préparés.</p></section>",
+            "requirements": "Cercle de la Terre"
+        },
+        "Cleric": {
+            "name": "Clerc",
+            "description": "<h3>Traits de base du Clerc</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>Caractéristique principale</p></th><td><p>Sagesse</p></td></tr><tr><th scope=\"row\"><p>Dé de vie</p></th><td><p>d8 par niveau de Clerc</p></td></tr><tr><th scope=\"row\"><p>Maîtrise des jets de sauvegarde</p></th><td><p>Sagesse et Charisme</p></td></tr><tr><th scope=\"row\"><p>Maîtrises de compétence</p></th><td><p><em>2 au choix parmi :</em> Histoire, Intuition, Médecine, Persuasion et Religion</p></td></tr><tr><th scope=\"row\"><p>Maîtrises d'arme</p></th><td><p>Armes courantes</p></td></tr><tr><th scope=\"row\"><p>Formation aux armures</p></th><td><p>Armures légères et intermédiaires, et boucliers</p></td></tr><tr><th scope=\"row\"><p>Équipement de départ</p></th><td><p><em>Choisissez A ou B :</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainShirt]{Chemise de mailles}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{bouclier}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepMace000000]{masse d'armes}, @UUID[Compendium.dnd5e.equipment24.Item.phbagHolySymbolV]{symbole sacré}, @UUID[Compendium.dnd5e.equipment24.Item.phbagPriestsPack]{paquetage d'ecclésiastique} et [[/award 7GP]] ; ou (B) [[/award 110GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbclcCleric0000 inline classes=\"free-rules-embed\"]</p><h2>Devenir Clerc…</h2><h3>En tant que personnage de niveau 1</h3><ul><li>Recevez tous les traits de l'encadré Traits de base du Clerc.</li><li>Recevez les aptitudes de niveau 1 du Clerc, qui figurent dans la table Aptitudes du Clerc.</li></ul><h3>En tant que personnage multiclassé</h3><ul><li>Recevez les traits suivants de l'encadré Traits de base du Clerc : Dé de vie, formation aux armures légères et intermédiaires, et port des boucliers.</li><li>Recevez les aptitudes de niveau 1 du Clerc, qui figurent dans la table Aptitudes du Clerc. Référez-vous aux règles du multiclassage, au chapitre 2, pour déterminer vos emplacements de sort disponibles.</li></ul>",
+            "advancement": {
+                "Class Features": {
+                    "title": "Aptitudes de classe"
+                },
+                "Channel Divinity Uses": {
+                    "title": "Utilisations de Conduit divin"
+                },
+                "Max Prepared Spells": {
+                    "title": "Sorts préparés max."
+                },
+                "Cantrips Known": {
+                    "title": "Sorts mineurs connus"
+                },
+                "Blessed Strikes": {
+                    "title": "Impacts bénis"
+                },
+                "Divine Order Choice": {
+                    "title": "Choix de l'Ordre divin",
+                    "hint": "Vous consacrez votre existence à l'un des rôles sacrés suivants, au choix."
+                },
+                "Blessed Strikes Choice": {
+                    "title": "Choix d'Impacts bénis",
+                    "hint": "La puissance divine vous anime au combat. Vous recevez l'une des options suivantes de votre choix (si vous avez obtenu une de ces options par une sous-classe de Clerc issue d'un ouvrage plus ancien, ne retenez que l'option choisie par la présente aptitude)."
+                },
+                "Divine Strike": {
+                    "title": "Impact divin"
+                },
+                "Saving Throw Proficiencies": {
+                    "title": "Maîtrise des jets de sauvegarde"
+                },
+                "Skill Proficiencies": {
+                    "title": "Maîtrises de compétence"
+                },
+                "Weapon Proficiencies": {
+                    "title": "Maîtrises d'arme"
+                },
+                "Armor Training": {
+                    "title": "Formation aux armures"
+                }
+            }
+        },
+        "College of Lore": {
+            "name": "Collège du Savoir",
+            "description": "<blockquote><p>Sondez les profondeurs du savoir magique</p></blockquote><p>Les Bardes du Collège du Savoir récoltent leurs sorts et secrets de sources aussi diverses que les tomes académiques, les rites mystiques et les contes paysans. Les membres du collège se réunissent au sein de bibliothèques et universités pour s'échanger leurs trésors de sapience. Ils se rencontrent aussi à l'occasion de festivals ou lors d'une réunion entre gens de pouvoir, où il leur est loisible de dénoncer la corruption, de démêler les mensonges et de railler ces figures d'autorité gonflées d'importance.</p>",
+            "advancement": {
+                "Subclass Features": {
+                    "title": "Aptitudes de sous-classe"
+                },
+                "Bonus Proficiencies": {
+                    "title": "Maîtrises supplémentaires"
+                }
+            }
         },
         "Contact Patron": {
-          "title": "" ,
-          "hint": "" 
+            "name": "Communication avec le protecteur",
+            "description": "<p>Dans le passé, vous contactiez généralement votre protecteur par le biais d'intermédiaires. Vous pouvez désormais communiquer directement avec lui ; le sort @UUID[Compendium.dnd5e.spells24.Item.phbsplContactOth]{contact avec les plans} est considéré comme toujours préparé pour vous. Cette aptitude vous permet de lancer le sort sans dépenser d'emplacement de sort pour contacter votre protecteur, et vous réussissez automatiquement le jet de sauvegarde du sort.</p><p>Une fois un sort lancé par ce biais, vous devez terminer un Repos long avant de pouvoir refaire ainsi.</p><section class=\"secret\" id=\"secret-ZobRIiK6iB3SlCis\"><p><strong>Note Foundry</strong></p><p>Ce sort vous est accordé automatiquement à ce niveau avec une utilisation gratuite.</p></section>"
         },
-        "Saving Throw Proficiencies": {
-          "title": "" 
-        },
-        "Skill Proficiencies": {
-          "title": "" 
-        },
-        "Weapon Proficiencies": {
-          "title": "" 
-        },
-        "Armor Training": {
-          "title": "" 
-        }
-      }
-    },
-    "Warrior of the Open Hand": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Subclass Features": {
-          "title": "" 
-        }
-      }
-    },
-    "Weapon Mastery": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "Whispers of the Grave": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Whisper": {
-          "name": "" ,
-          "target": "" 
-        }
-      }
-    },
-    "Wholeness of Body": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Wild Companion": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Summon with Spell Slot": {
-          "name": "" 
-        },
-        "Summon with Wild Shape": {
-          "name": "" 
-        }
-      }
-    },
-    "Wild Resurgence": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "Regain Spell Slot": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Regain Wild Shape": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Wild Shape": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" ,
-      "activities": {
-        "transform": {
-          "profiles": {
-            "CR ¼": {
-              "name": "" 
-            },
-            "CR ½": {
-              "name": "" 
-            },
-            "CR 1": {
-              "name": "" 
+        "Countercharm": {
+            "name": "Contre-charme",
+            "description": "<p>Vous pouvez recourir à des notes de musique ou des mots de pouvoir pour contrer les effets qui influent sur l'esprit. Si vous ou une créature dans un rayon de 9 m rate un jet de sauvegarde contre un effet qui impose l'état Charmé ou Effrayé, vous pouvez jouer une Réaction pour que le JS soit rejoué, le nouveau jet se faisant avec l'Avantage.</p>",
+            "requirements": "Barde",
+            "activities": {
+                "utility": {
+                    "condition": "Vous ou une créature dans un rayon de 9 m rate un jet de sauvegarde contre un effet qui impose l'état Charmé ou Effrayé"
+                }
             }
-          }
-        }
-      }
-    },
-    "Witch Sight": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Witch Sight": {
-          "name": "" 
-        }
-      }
-    },
-    "Wizard": {
-      "name": "" ,
-      "description": "" ,
-      "advancement": {
-        "Class Features": {
-          "title": "" 
         },
-        "Max Prepared Spells": {
-          "title": "" 
+        "Cunning Action": {
+            "name": "Ruse",
+            "description": "<p>Votre esprit vif et votre agilité vous permettent d'agir et de filer promptement. À votre tour, vous pouvez effectuer l'une des actions suivantes par une action Bonus : &Reference[Disengage], &Reference[Hide] ou &Reference[Dash].</p>",
+            "activities": {
+                "Dash": {
+                    "name": "Pointe"
+                },
+                "Disengage": {
+                    "name": "Désengagement"
+                },
+                "Hide": {
+                    "name": "Furtivité"
+                }
+            },
+            "effects": {
+                "Hiding": {
+                    "name": "Se cacher"
+                }
+            }
         },
-        "Cantrips Known": {
-          "title": "" 
+        "Cunning Strike": {
+            "name": "Frappe malicieuse",
+            "description": "<p>Vous avez mis au point des façons astucieuses d'utiliser votre Attaque sournoise. Lorsque vous infligez des dégâts d'Attaque sournoise, vous pouvez ajouter l'un des effets de Frappe malicieuse ci-après. Chaque effet présente un coût exprimé en dé, qui correspond au nombre de dés d'Attaque sournoise auquel vous renoncez pour ajouter cet effet. Vous retirez le ou les dés avant le lancer, et l'effet se produit immédiatement après que les dégâts de l'attaque ont été infligés. Si, par exemple, vous ajoutez l'effet Poison, retirez 1d6 aux dégâts d'Attaque sournoise avant le lancer.</p><p>Si un effet de Frappe malicieuse entraîne un jet de sauvegarde, le DD est égal à 8 + votre modificateur de Dextérité + votre bonus de maîtrise.</p><p><strong>Croc-en-jambe (coût : 1d6).</strong> Si la cible est une taille G ou inférieure, elle doit réussir un jet de sauvegarde de Dextérité ou sous peine de subir l'état &Reference[Prone].</p><p><strong>Poison (coût : 1d6).</strong> Vous ajoutez une toxine à votre coup contraignant la cible à effectuer un jet de sauvegarde de Constitution. En cas d'échec, la cible subit l'état &Reference[Poisoned] pendant 1 minute. La cible réitère le JS à la fin de chacun de ses tours et met un terme à l'effet Empoisonné sur elle-même en cas de réussite.</p><p>Pour recourir à cet effet, vous devez avoir un matériel d'empoisonneur sur vous.</p><p><strong>Repli (coût : 1d6).</strong> Immédiatement après l'attaque, vous vous déplacez à concurrence de la moitié de votre Vitesse sans provoquer d'attaque d'Opportunité.</p><section class=\"secret\" id=\"secret-kCs7nMVrTvJRlkCy\"><p><strong>Note Foundry</strong></p><p>Après avoir utilisé les effets de Frappe malicieuse, utilisez l'activité <strong>Attaque sournoise malicieuse</strong> sur cette aptitude. Il vous demandera de sélectionner le nombre de dés que vous avez dépensés pour les effets et les déduira automatiquement de votre jet d'Attaque sournoise.</p><p>Vous pouvez sélectionner le type de dégâts dans la boîte de dialogue du jet de dégâts.</p><p>L'activité <strong>Croc-en-jambe</strong> inclut un effet actif qui applique l'état À terre ou vous pouvez utiliser la condition en ligne ci-dessus.</p><p>L'activité <strong>Poison</strong> inclut un effet actif qui applique l'état Empoisonné.</p></section>",
+            "activities": {
+                "Poison": {
+                    "name": "Poison",
+                    "condition": "Lorsque vous infligez des dégâts d'Attaque sournoise"
+                },
+                "Trip": {
+                    "name": "Croc-en-jambe",
+                    "condition": "Lorsque vous infligez des dégâts d'Attaque sournoise",
+                    "target": "Taille G ou inférieure"
+                },
+                "Cunning Sneak Attack": {
+                    "name": "Attaque sournoise malicieuse",
+                    "condition": "Lorsque vous infligez des dégâts d'Attaque sournoise"
+                },
+                "Withdraw": {
+                    "name": "Repli",
+                    "condition": "Lorsque vous infligez des dégâts d'Attaque sournoise"
+                }
+            },
+            "effects": {
+                "Cunning Strike: Poisoned": {
+                    "name": "Frappe malicieuse : Empoisonné",
+                    "description": "<p>En cas d'échec, la cible subit l'état Empoisonné pendant 1 minute.</p>"
+                },
+                "Cunning Strike: Tripped": {
+                    "name": "Frappe malicieuse : Croc-en-jambe"
+                }
+            }
+        },
+        "Cutting Words": {
+            "name": "Mots cinglants",
+            "description": "<p>Vous apprenez à déconcentrer, perturber et décourager autrui par votre sens surnaturel de la répartie. Lorsqu'une créature que vous voyez dans un rayon de 18 m effectue un jet de dégâts, ou bien réussit un test de caractéristique ou un jet d'attaque, vous pouvez jouer une Réaction pour dépenser une utilisation de votre Inspiration bardique ; lancez votre dé d'Inspiration bardique que vous soustrayez au jet de la créature, afin de réduire les dégâts ou, éventuellement, de convertir sa réussite en échec.</p>",
+            "requirements": "Collège du Savoir",
+            "activities": {
+                "Cut with Words": {
+                    "name": "Déconcentrer avec les mots",
+                    "roll": "Inspiration bardique",
+                    "condition": "Une créature que vous voyez dans un rayon de 18 m effectue un jet de dégâts, ou bien réussit un test de caractéristique ou un jet d'attaque"
+                }
+            }
+        },
+        "Danger Sense": {
+            "name": "Sens du danger",
+            "description": "<p>Vous acquérez un talent surnaturel qui vous permet d'esquiver plus aisément les dangers que d'autres remarqueraient trop tard. Vous avez l'Avantage aux jets de sauvegarde de Dextérité, sauf si vous subissez l'état &Reference[Incapacitated].</p>",
+            "requirements": "Barbare"
+        },
+        "Dark One's Blessing": {
+            "name": "Bénédiction du ténébreux",
+            "description": "<p>Lorsque vous réduisez un adversaire à 0 point de vie, vous recevez autant de points de vie temporaires que le total de votre modificateur de Charisme + votre niveau d'Occultiste (1 point de vie temporaire au minimum). Vous bénéficiez aussi de cette aptitude chaque fois qu'autrui réduit à 0 point de vie un adversaire dans un rayon de 3 m.</p>",
+            "activities": {
+                "heal": {
+                    "condition": "Lorsque vous réduisez un adversaire à 0 point de vie ou réduit à 0 point de vie un adversaire dans un rayon de 3 m"
+                }
+            }
+        },
+        "Dark One's Own Luck": {
+            "name": "Chance du ténébreux",
+            "description": "<p>Vous pouvez demander à votre protecteur fiélon qu'il modifie le destin en votre faveur. Lorsque vous effectuez un test de caractéristique ou un jet de sauvegarde, vous pouvez recourir à cette aptitude pour ajouter 1d10 à ce jet. Vous pouvez faire ainsi après avoir effectué le jet, mais avant qu'interviennent ses effets.</p><p>Vous pouvez recourir à cette aptitude un nombre de fois égal à votre modificateur de Charisme (une fois au minimum), mais vous ne pouvez pas l'utiliser plus d'une fois par jet. Vous récupérez ce quota en terminant un Repos long.</p>",
+            "activities": {
+                "Luck": {
+                    "name": "Chance",
+                    "roll": "Bonus",
+                    "condition": "Lorsque vous effectuez un test de caractéristique ou un jet de sauvegarde"
+                }
+            }
+        },
+        "Defensive Tactics": {
+            "name": "Tactiques défensives",
+            "description": "<p>Vous recevez l'une des aptitudes suivantes au choix. Chaque fois que vous terminez un Repos court ou long, vous pouvez remplacer l'option choisie par l'autre.</p><p><strong>Cauchemar de la horde.</strong> Les attaques d'Opportunité contre vous subissent le Désavantage.</p><p><strong>Défense contre les attaques multiples.</strong> Lorsqu'une créature vous touche avec un jet d'attaque, cette créature subit le Désavantage à tous ses autres jets d'attaque contre vous pendant ce tour.</p><section class=\"secret\" id=\"secret-5BXeADNIjwRdwzBf\"><p><strong>Note Foundry</strong></p><p>Cette aptitude comprend une activité <strong>Défense contre les attaques multiples</strong> avec un effet actif qui peut être utilisé pour suivre une créature qui a le Désavantage contre vous mais qui n'automatise pas l'effet.</p></section>",
+            "activities": {
+                "Multiattack Defense": {
+                    "name": "Défense contre les attaques multiples",
+                    "condition": "Lorsqu'une créature vous touche avec un jet d'attaque"
+                }
+            },
+            "effects": {
+                "Multiattack Defense": {
+                    "name": "Défense contre les attaques multiples"
+                }
+            }
+        },
+        "Deflect Attacks": {
+            "name": "Déviation d'assaut",
+            "description": "<p>Lorsqu'un jet d'attaque vous touche et que ses dégâts incluent des dégâts contondants, perforants ou tranchants, vous pouvez jouer une Réaction pour réduire contre vous les dégâts totaux de l'attaque. La réduction est égale à 1d10 plus votre modificateur de Dextérité et votre niveau de Moine.</p><p>Si vous réduisez ainsi les dégâts à 0, vous pouvez dépenser 1 point de Credo pour dévier une partie de l'impact à votre guise. Dans ce cas, choisissez une créature que vous voyez dans un rayon de 1,50 m si l'attaque était de corps à corps, ou une créature que vous voyez dans un rayon de 18 m et qui ne bénéficie pas d'un Abri total si l'attaque était à distance. Cette créature doit réussir un jet de sauvegarde de Dextérité sous peine de subir des dégâts égaux à deux jets de votre dé d'Arts martiaux plus votre modificateur de Dextérité. Les dégâts sont du même type que ceux infligés par l'attaque.</p><section class=\"secret\" id=\"secret-zWGu1AEB09UqQ21D\"><p><strong>Note Foundry</strong></p><p>L'activité <strong>Réduire</strong> peut être utilisée pour se soigner afin de réduire le total des dégâts si ce n'est pas suffisant pour les réduire à 0.</p><p>L'activité <strong>Dévier</strong> peut être utilisée pour lancer des dégâts et consommer une utilisation de vos points de Credo si vous pouvez les réduire à 0. Vous pouvez sélectionner le type de dégâts dans la boîte de dialogue du jet. Les dés augmentent automatiquement au fur et à mesure que vous montez en niveau.</p></section>",
+            "activities": {
+                "Reduce": {
+                    "name": "Réduire",
+                    "condition": "Lorsqu'un jet d'attaque vous touche et que ses dégâts incluent des dégâts contondants, perforants ou tranchants"
+                },
+                "Redirect": {
+                    "name": "Dévier",
+                    "condition": "Si vous réduisez ainsi les dégâts à 0",
+                    "range": "1,50 m pour les attaques de corps à corps ou 18 m pour les attaques à distance",
+                    "target": "Ne bénéficie pas d'un Abri total"
+                }
+            }
+        },
+        "Deflect Energy": {
+            "name": "Parade énergétique",
+            "description": "<p>Vous pouvez désormais recourir à l'aptitude Déviation d'assaut contre les attaques qui infligent tout type de dégâts, et non plus seulement contondants, perforants ou tranchants.</p><section class=\"secret\" id=\"secret-XAQmFmc4TpSF2Oh1\"><p>L'activité <strong>Réduire</strong> peut être utilisée pour se soigner afin de réduire le total des dégâts si ce n'est pas suffisant pour les réduire à 0.</p><p>L'activité <strong>Dévier</strong> peut être utilisée pour lancer des dégâts et consommer une utilisation de vos points de Credo si vous pouvez les réduire à 0. Vous pouvez sélectionner le type de dégâts dans la boîte de dialogue du jet. Les dés augmentent automatiquement au fur et à mesure que vous montez en niveau.</p></section>",
+            "activities": {
+                "Reduce": {
+                    "name": "Réduire",
+                    "condition": "Lorsqu'un jet d'attaque vous touche et que ses dégâts incluent des dégâts contondants, perforants ou tranchants"
+                },
+                "Redirect": {
+                    "name": "Dévier",
+                    "condition": "Si vous réduisez ainsi les dégâts à 0",
+                    "range": "1,50 m pour les attaques de corps à corps ou 18 m pour les attaques à distance",
+                    "target": "Ne bénéficie pas d'un Abri total"
+                }
+            }
+        },
+        "Deft Explorer": {
+            "name": "Fin explorateur",
+            "description": "<p>Vos voyages incessants vous ont permis de recevoir les bénéfices suivants.</p><p><strong>Expertise.</strong> Choisissez l'une de vos maîtrises de compétence ne bénéficiant pas de l'Expertise. Vous recevez l'Expertise dans cette compétence.</p><p><strong>Langues.</strong> Vous connaissez deux langues de votre choix dans les tables des langues du chapitre 2.</p><section class=\"secret\" id=\"secret-MKYXod5Sdpyj2x7V\"><p><strong>Note Foundry</strong></p><p>Vous serez invité à faire des choix lorsque vous ajouterez la classe Rôdeur à votre feuille de personnage.</p></section>"
+        },
+        "Devil's Sight": {
+            "name": "Vision du diable",
+            "description": "<blockquote><p>Prérequis : niveau d'Occultiste 2+</p></blockquote><p>Vous voyez normalement en conditions de Lumière faible et de Ténèbres, que celles-ci soient magiques ou non, dans un rayon de 36 m.</p><section class=\"secret\" id=\"secret-RVsijULbRFU2b9ZU\"><p><strong>Note Foundry</strong></p><p>Cette aptitude comprend un effet actif qui vous confère la Vision dans le noir jusqu'à 36 m.</p></section>",
+            "effects": {
+                "Devil's Sight": {
+                    "name": "Vision du diable"
+                }
+            }
+        },
+        "Devious Strikes": {
+            "name": "Coups vicieux",
+            "description": "<p>Vous avez appris de nouveaux coups bas pour « agrémenter » votre Attaque sournoise. Les effets ci-après figurent désormais dans vos options de Frappe malicieuse.</p><p><strong>Assommer (coût : 6d6).</strong> La cible doit réussir un jet de sauvegarde de Constitution, faute de quoi elle subit l'état &Reference[Unconscious] pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts. La cible réitère le JS à la fin de chacun de ses tours et met un terme à l'état Inconscient sur elle-même en cas de réussite.</p><p><strong>Aveugler (coût : 3d6).</strong> La cible doit réussir un jet de sauvegarde de Dextérité, faute de quoi elle subit l'état &Reference[Blinded] jusqu'à la fin de son tour suivant.</p><p><strong>Hébéter (coût : 2d6).</strong> La cible doit réussir un jet de sauvegarde de Constitution faute de quoi, à son tour suivant, elle ne pourra entreprendre que l'une des actions ci-après : déplacement ou action ou une action Bonus.</p><section class=\"secret\" id=\"secret-1jUuw8B9GvVx5ctH\"><p><strong>Note Foundry</strong></p><p>Après avoir utilisé les effets de Frappe malicieuse, utilisez l'activité [[/item Frappe malicieuse Activity=Attaque sournoise malicieuse]]{Attaque sournoise malicieuse}.</p><p>Vous pouvez contrôler le type de dégâts dans la boîte de dialogue du jet de dégâts.</p><p>L'activité <strong>Assommer</strong> comprend un effet actif qui applique l'état Inconscient.</p><p>L'activité <strong>Aveugler</strong> comprend un effet actif qui applique l'état Aveuglé.</p><p> L'activité <strong>Hébéter</strong> inclut un effet actif pour suivre la cible hébétée mais elle n'automatise pas l'effet.</p></section>",
+            "activities": {
+                "Daze": {
+                    "name": "Hébéter",
+                    "condition": "Lorsque vous infligez des dégâts d'Attaque sournoise"
+                },
+                "Knock Out": {
+                    "name": "Assommer",
+                    "condition": "Lorsque vous infligez des dégâts d'Attaque sournoise"
+                },
+                "Obscure": {
+                    "name": "Aveugler",
+                    "condition": "Lorsque vous infligez des dégâts d'Attaque sournoise"
+                }
+            },
+            "effects": {
+                "Devious Strikes: Dazed": {
+                    "name": "Coups vicieux : Hébété",
+                    "description": "<p>À son tour suivant, la cible ne pourra entreprendre que l'une des actions ci-après : déplacement ou action ou une action Bonus.</p>"
+                },
+                "Devious Strikes: Knocked Out": {
+                    "name": "Coups vicieux : Assommé",
+                    "description": "<p>La cible subit l'état Inconscient pendant 1 minute ou jusqu'à ce qu'elle subisse des dégâts. La cible réitère le JS à la fin de chacun de ses tours et met un terme à l'état Inconscient sur elle-même en cas de réussite.</p>"
+                },
+                "Devious Strikes: Blinded": {
+                    "name": "Coups vicieux : Aveuglé",
+                    "description": "<p>La cible subit l'état Aveuglé jusqu'à la fin de son tour suivant.</p>"
+                }
+            }
+        },
+        "Devouring Blade": {
+            "name": "Lame dévorante",
+            "description": "<blockquote><p>Prérequis : niveau d'Occultiste 12+, manifestation @UUID[Compendium.dnd5e.classes24.Item.phbinvThirstingB]{Lame assoiffée}</p></blockquote><p>L'attaque supplémentaire de votre manifestation Lame assoiffée octroie deux attaques supplémentaires au lieu d'une.</p>"
+        },
+        "Disciple of Life": {
+            "name": "Disciple de la Vie",
+            "description": "<p>Lorsqu'un sort que vous lancez par un emplacement restitue des points de vie à une créature, celle-ci récupère des points de vie supplémentaires au tour où vous lancez le sort. Ces points de vie supplémentaires sont égaux à 2 plus le niveau de l'emplacement de sort.</p><section class=\"secret\" id=\"secret-Gy6bYP3AKuabnUlQ\"><p><strong>Note Foundry</strong></p><p>Cette aptitude inclut une activité de soin. Réglez l'évolution sur le niveau de l'emplacement de sort que vous lancez et elle vous fournira un jet de soin.</p></section>",
+            "requirements": "Domaine de la Vie",
+            "activities": {
+                "heal": {
+                    "target": "Créer un sort de guérison sur"
+                }
+            }
+        },
+        "Disciplined Survivor": {
+            "name": "Survivant discipliné",
+            "description": "<p>Votre discipline physique et mentale vous octroie la maîtrise de tous les jets de sauvegarde.</p><p>De plus, chaque fois que vous effectuez un jet de sauvegarde et ratez, vous pouvez dépenser 1 point de Credo pour le rejouer et conserver le nouveau jet.</p><section class=\"secret\" id=\"secret-VLGTfBDBcfExjSXG\"><p><strong>Note Foundry</strong></p><p>Vous obtiendrez automatiquement la Maîtrise des jets de sauvegarde supplémentaires en montant de niveau.</p><p>Utilisez cette aptitude pour dépenser 1 point de Credo.</p></section>",
+            "activities": {
+                "Consume Focus Point": {
+                    "name": "Dépenser point de Credo"
+                }
+            }
+        },
+        "Distant Spell": {
+            "name": "Sort ample",
+            "description": "<blockquote><p>Coût : 1 point de Sorcellerie</p></blockquote><p>Lorsque vous lancez un sort dont la portée est supérieure ou égale à 1,50 m, vous pouvez dépenser 1 point de Sorcellerie pour doubler la portée de ce sort. Si vous lancez un sort dont la portée est « contact » et dépensez 1 point de Sorcellerie sa portée devient 9 m.</p>",
+            "activities": {
+                "Distant Spell": {
+                    "name": "Sort ample",
+                    "condition": "Lorsque vous lancez un sort dont la portée est supérieure ou égale à 1,50 m ou si vous lancez un sort dont la portée est « contact »"
+                }
+            }
+        },
+        "Divine Intervention": {
+            "name": "Intervention divine",
+            "description": "",
+            "requirements": ""
+        },
+        "Divine Order": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Divine Order: Protector": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Divine Order: Protector": {
+                    "name": ""
+                }
+            }
+        },
+        "Divine Order: Thaumaturge": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Thaumaturge": {
+                    "name": ""
+                }
+            }
+        },
+        "Draconic Resilience": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Draconic Resilience: Armor": {
+                    "name": ""
+                },
+                "Draconic Resilience: HP": {
+                    "name": ""
+                }
+            }
+        },
+        "Draconic Sorcery": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Subclass Features": {
+                    "title": ""
+                },
+                "Draconic Spells": {
+                    "title": "",
+                    "hint": ""
+                },
+                "8UnvG3X4TR3MpCGe": {
+                    "hint": ""
+                }
+            }
+        },
+        "Draconic Spells": {
+            "name": "",
+            "description": ""
+        },
+        "Dragon Companion": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Dragon Wings": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Dragon Wings": {
+                    "name": ""
+                },
+                "Restore Use": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Winged": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Druid": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Class Features": {
+                    "title": ""
+                },
+                "Cantrips Known": {
+                    "title": ""
+                },
+                "Max Prepared Spells": {
+                    "title": ""
+                },
+                "Wild Shape CR": {
+                    "title": ""
+                },
+                "Wild Shape Uses": {
+                    "title": ""
+                },
+                "Known Forms": {
+                    "title": ""
+                },
+                "Druidic Spells": {
+                    "title": ""
+                },
+                "Primal Order": {
+                    "title": "",
+                    "hint": ""
+                },
+                "Elemental Fury": {
+                    "title": "",
+                    "hint": ""
+                },
+                "W0d3c6X31SgnFFYM": {
+                    "title": ""
+                },
+                "Saving Throw Proficiencies": {
+                    "title": ""
+                },
+                "Skill Proficiencies": {
+                    "title": ""
+                },
+                "Weapon Proficiencies": {
+                    "title": ""
+                },
+                "Tool Proficiencies": {
+                    "title": ""
+                },
+                "Armor Training": {
+                    "title": ""
+                },
+                "Druidic": {
+                    "title": "",
+                    "hint": ""
+                }
+            }
+        },
+        "Druidic": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Druidic Warrior": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Eldritch Invocations": {
+            "name": "",
+            "description": ""
+        },
+        "Eldritch Master": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Eldritch Master": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Eldritch Mind": {
+            "name": "",
+            "description": ""
+        },
+        "Eldritch Smite": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Smite": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Eldritch Spear": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Increase Range": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Eldritch Spear": {
+                    "name": "",
+                    "changes": {
+                        "name": ""
+                    }
+                }
+            }
+        },
+        "Elemental Affinity": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Acid": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Cold": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Fire": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Lightning": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Poison": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Elemental Fury": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Elemental Fury: Potent Spellcasting": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Elemental Fury: Primal Strike": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Primal Strike": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Elusive": {
+            "name": "",
+            "description": ""
+        },
+        "Empowered Evocation": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "damage": {
+                    "condition": ""
+                }
+            }
+        },
+        "Empowered Spell": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Empowered Spell": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Empowered Strikes": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Empowered Strike": {
+                    "name": ""
+                }
+            }
+        },
+        "Epic Boon": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Evasion": {
+            "name": "",
+            "description": ""
+        },
+        "Evocation Savant": {
+            "name": "",
+            "description": ""
+        },
+        "Evoker": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Subclass Features": {
+                    "title": ""
+                }
+            }
+        },
+        "Expertise": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Extended Spell": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Extended Spell": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Extra Attack": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Faithful Steed": {
+            "name": "",
+            "description": ""
+        },
+        "Fast Hands": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Sleight of Hand": {
+                    "name": ""
+                },
+                "Thieves' Tools": {
+                    "name": ""
+                },
+                "Use an Object": {
+                    "name": ""
+                }
+            }
+        },
+        "Fast Movement": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Fast Movement": {
+                    "name": ""
+                }
+            }
+        },
+        "Favored Enemy": {
+            "name": "",
+            "description": ""
+        },
+        "Feral Instinct": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Feral Instinct": {
+                    "name": ""
+                }
+            }
+        },
+        "Feral Senses": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Feral Senses": {
+                    "name": ""
+                }
+            }
+        },
+        "Fiend Patron": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Subclass Features": {
+                    "title": ""
+                },
+                "Fiend Spells": {
+                    "title": "",
+                    "hint": ""
+                }
+            }
+        },
+        "Fiend Spells": {
+            "name": "",
+            "description": ""
+        },
+        "Fiendish Resilience": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Fiendish Resilience: Acid": {
+                    "name": ""
+                },
+                "Fiendish Resilience: Bludgeoning": {
+                    "name": ""
+                },
+                "Fiendish Resilience: Cold": {
+                    "name": ""
+                },
+                "Fiendish Resilience: Fire": {
+                    "name": ""
+                },
+                "Fiendish Resilience: Lightning": {
+                    "name": ""
+                },
+                "Fiendish Resilience: Necrotic": {
+                    "name": ""
+                },
+                "Fiendish Resilience: Piercing": {
+                    "name": ""
+                },
+                "Fiendish Resilience: Poison": {
+                    "name": ""
+                },
+                "Fiendish Resilience: Psychic": {
+                    "name": ""
+                },
+                "Fiendish Resilience: Radiant": {
+                    "name": ""
+                },
+                "Fiendish Resilience: Slashing": {
+                    "name": ""
+                },
+                "Fiendish Resilience: Thunder": {
+                    "name": ""
+                }
+            }
+        },
+        "Fiendish Vigor": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "False Life": {
+                    "name": ""
+                }
+            }
+        },
+        "Fighter": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Class Features": {
+                    "title": ""
+                },
+                "Action Surge": {
+                    "title": ""
+                },
+                "Indomitable": {
+                    "title": ""
+                },
+                "Second Wind": {
+                    "title": ""
+                },
+                "Saving Throw Proficiencies": {
+                    "title": ""
+                },
+                "Skill Proficiencies": {
+                    "title": ""
+                },
+                "Weapon Proficiencies": {
+                    "title": ""
+                },
+                "Armor Training": {
+                    "title": ""
+                },
+                "Weapon Mastery": {
+                    "title": ""
+                },
+                "Fighting Style": {
+                    "title": ""
+                },
+                "Weapon Masteries Known": {
+                    "title": ""
+                }
+            }
+        },
+        "Fighting Style": {
+            "name": "",
+            "description": ""
+        },
+        "Fleet Step": {
+            "name": "",
+            "description": ""
+        },
+        "Foe Slayer": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Improved Hunter's Mark Damage": {
+                    "name": ""
+                }
+            }
+        },
+        "Font of Inspiration": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Recharge with Spell Slot": {
+                    "name": ""
+                }
+            }
+        },
+        "Font of Magic": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Regain Spell Slot": {
+                    "name": ""
+                },
+                "Regain Sorcery Points": {
+                    "name": ""
+                }
+            }
+        },
+        "Frenzy": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Gaze of Two Minds": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Gaze of Two Minds": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Gift of the Depths": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Gift Water Breathing": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Water Breathing": {
+                    "name": ""
+                }
+            }
+        },
+        "Gift of the Protectors": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Protect": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Write Name": {
+                    "name": ""
+                },
+                "Erase Name": {
+                    "name": ""
+                }
+            }
+        },
+        "Greater Divine Intervention": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Heightened Focus": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Flurry of Blows": {
+                    "name": ""
+                },
+                "Patient Defense": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Heightened Spell": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Heightened Spell": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Heroic Warrior": {
+            "name": "",
+            "description": ""
+        },
+        "Holy Nimbus": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Holy Nimbus": {
+                    "name": ""
+                },
+                "Regain Use": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Holy Nimbus": {
+                    "name": ""
+                }
+            }
+        },
+        "Hunter": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Subclass Features": {
+                    "title": ""
+                }
+            }
+        },
+        "Hunter's Lore": {
+            "name": "",
+            "description": ""
+        },
+        "Hunter's Prey": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "damage": {
+                    "condition": ""
+                }
+            }
+        },
+        "Hurl Through Hell": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Hurl Through Hell": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Regain Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Improved Blessed Strikes": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Potent Spellcasting: Heal": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Improved Brutal Strike": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Sundering Blow": {
+                    "name": ""
+                },
+                "Staggering Blow": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Staggered": {
+                    "name": "",
+                    "description": ""
+                },
+                "Sundered": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Improved Brutal Strike (2)": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Improved Critical": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Improved Critical": {
+                    "name": ""
+                }
+            }
+        },
+        "Improved Cunning Strike": {
+            "name": "",
+            "description": ""
+        },
+        "Improved Elemental Fury": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Indomitable": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "utility": {
+                    "roll": ""
+                }
+            }
+        },
+        "Indomitable Might": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Innate Sorcery": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Innate Sorcery": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Innate Sorcery": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Instinctive Pounce": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Intimidating Presence": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Recharge with Rage": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Intimidated": {
+                    "name": ""
+                }
+            }
+        },
+        "Investment of the Chain Master": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Find Familiar with Flight": {
+                    "name": "",
+                    "profiles": {
+                        "CR 0 Beast": {
+                            "name": ""
+                        }
+                    }
+                },
+                "Find Familiar with Swimming": {
+                    "name": "",
+                    "profiles": {
+                        "CR 0 Beast": {
+                            "name": ""
+                        }
+                    }
+                },
+                "Invest with Resistance": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Investment of Flight": {
+                    "name": ""
+                },
+                "Investment of Swimming": {
+                    "name": ""
+                },
+                "Resist Acid": {
+                    "name": ""
+                },
+                "Resist Bludgeoning": {
+                    "name": ""
+                },
+                "Resist Cold": {
+                    "name": ""
+                },
+                "Resist Fire": {
+                    "name": ""
+                },
+                "Resist Force": {
+                    "name": ""
+                },
+                "Resist Lightning": {
+                    "name": ""
+                },
+                "Resist Necrotic": {
+                    "name": ""
+                },
+                "Resist Piercing": {
+                    "name": ""
+                },
+                "Resist Poison": {
+                    "name": ""
+                },
+                "Resist Psychic": {
+                    "name": ""
+                },
+                "Resist Radiant": {
+                    "name": ""
+                },
+                "Resist Slashing": {
+                    "name": ""
+                },
+                "Resist Thunder": {
+                    "name": ""
+                }
+            }
+        },
+        "Jack of All Trades": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Jack of All Trades": {
+                    "name": ""
+                }
+            }
+        },
+        "Land's Aid": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Lay on Hands": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Remove Poison": {
+                    "name": ""
+                }
+            }
+        },
+        "Lessons of the First Ones": {
+            "name": "",
+            "description": ""
+        },
+        "Life Domain": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Subclass Features": {
+                    "title": ""
+                },
+                "Life Domain Spells": {
+                    "title": ""
+                }
+            }
+        },
+        "Life Domain Spells": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Lifedrinker": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "damage": {
+                    "condition": ""
+                },
+                "Heal (Largest Hit Die)": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Heal (Smallest Hit Die)": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Magical Cunning": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Regain Pact Spell Slots": {
+                    "name": ""
+                }
+            }
+        },
+        "Magical Discoveries": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Magical Secrets": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Martial Arts": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Master Simple Weapon": {
+                    "name": ""
+                },
+                "Master Light Martial Weapon": {
+                    "name": ""
+                },
+                "Monk Attack": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Martial Arts": {
+                    "name": ""
+                }
+            }
+        },
+        "Mask of Many Faces": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Disguised": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Master of Myriad Forms": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Aquatic Adaptation": {
+                    "name": ""
+                },
+                "Change Appearance": {
+                    "name": ""
+                },
+                "Natural Weapons": {
+                    "name": ""
+                },
+                "Attack: Claws": {
+                    "name": ""
+                },
+                "Attack: Fangs/Horns": {
+                    "name": ""
+                },
+                "Attack: Hooves": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Aquatic Adaptation": {
+                    "name": "",
+                    "description": ""
+                },
+                "Altered Appearance": {
+                    "name": ""
+                },
+                "Natural Weapon": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Memorize Spell": {
+            "name": "",
+            "description": ""
+        },
+        "Metamagic": {
+            "name": "",
+            "description": ""
+        },
+        "Mindless Rage": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Mindless Rage": {
+                    "name": ""
+                }
+            }
+        },
+        "Misty Visions": {
+            "name": "",
+            "description": ""
+        },
+        "Monk": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Class Features": {
+                    "title": ""
+                },
+                "Body and Mind": {
+                    "title": ""
+                },
+                "Martial Arts Die": {
+                    "title": ""
+                },
+                "Unarmored Movement": {
+                    "title": ""
+                },
+                "Disciplined Survivor": {
+                    "title": ""
+                },
+                "Saving Throw Proficiencies": {
+                    "title": ""
+                },
+                "Skill Proficiencies": {
+                    "title": ""
+                },
+                "Weapon Proficiencies": {
+                    "title": ""
+                },
+                "Tool Proficiencies": {
+                    "title": ""
+                },
+                "Focus Points": {
+                    "title": ""
+                }
+            }
+        },
+        "Monk's Focus": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Flurry of Blows": {
+                    "name": ""
+                },
+                "Patient Defense (Focus Point)": {
+                    "name": ""
+                },
+                "Patient Defense": {
+                    "name": ""
+                },
+                "Step of the Wind": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Patient Defense (Focus Point)": {
+                    "name": ""
+                },
+                "Disengaged": {
+                    "name": ""
+                }
+            }
+        },
+        "Mystic Arcanum": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Mystic Arcanum (6th level)": {
+                    "title": "",
+                    "hint": ""
+                },
+                "Mystic Arcanum (7th level)": {
+                    "title": "",
+                    "hint": ""
+                },
+                "Mystic Arcanum (8th level)": {
+                    "title": "",
+                    "hint": ""
+                },
+                "Mystic Arcanum (9th level)": {
+                    "title": "",
+                    "hint": ""
+                }
+            }
+        },
+        "Natural Recovery": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Cast Spell": {
+                    "name": ""
+                },
+                "Recover Spell Slots": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Nature's Sanctuary": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Spectral Trees and Vines": {
+                    "name": ""
+                },
+                "Move": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Nature's Ward: Arid": {
+                    "name": ""
+                },
+                "Nature's Ward: Polar": {
+                    "name": ""
+                },
+                "Nature's Ward: Temperate": {
+                    "name": ""
+                },
+                "Nature's Ward: Tropical": {
+                    "name": ""
+                }
+            }
+        },
+        "Nature's Veil": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Veil": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Veiled": {
+                    "name": ""
+                }
+            }
+        },
+        "Nature's Ward": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Nature's Ward": {
+                    "name": ""
+                },
+                "Nature's Ward: Arid": {
+                    "name": ""
+                },
+                "Nature's Ward: Polar": {
+                    "name": ""
+                },
+                "Nature's Ward: Temperate": {
+                    "name": ""
+                },
+                "Nature's Ward: Tropical": {
+                    "name": ""
+                }
+            }
+        },
+        "Oath of Devotion": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Subclass Features": {
+                    "title": ""
+                },
+                "Oath of Devotion Spells": {
+                    "title": ""
+                }
+            }
+        },
+        "Oath of Devotion Spells": {
+            "name": "",
+            "description": ""
+        },
+        "One with Shadows": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Invisible": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Open Hand Technique": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Addle": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Push": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Topple": {
+                    "name": "",
+                    "condition": ""
+                }
+            },
+            "effects": {
+                "Addled": {
+                    "name": ""
+                },
+                "Toppled": {
+                    "name": ""
+                }
+            }
+        },
+        "Otherworldly Leap": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Jump": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Overchannel": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Second+ Use": {
+                    "name": "",
+                    "condition": ""
+                },
+                "First Use": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Pact Magic": {
+            "name": "",
+            "description": ""
+        },
+        "Pact of the Blade": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Forge Pact Weapon": {
+                    "name": ""
+                },
+                "Spellcasting Attack": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Pact Weapon": {
+                    "name": "",
+                    "changes": {
+                        "name": ""
+                    }
+                }
+            }
+        },
+        "Pact of the Chain": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Find Familiar": {
+                    "name": "",
+                    "profiles": {
+                        "CR 0 Beast": {
+                            "name": ""
+                        }
+                    }
+                },
+                "Find Familiar (Expanded Options)": {
+                    "name": ""
+                }
+            }
+        },
+        "Pact of the Tome": {
+            "name": "",
+            "description": ""
+        },
+        "Paladin": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Class Features": {
+                    "title": ""
+                },
+                "Aura Distance": {
+                    "title": ""
+                },
+                "Max Prepared Spells": {
+                    "title": ""
+                },
+                "Channel Divinity Uses": {
+                    "title": ""
+                },
+                "Saving Throw Proficiencies": {
+                    "title": ""
+                },
+                "Skill Proficiencies": {
+                    "title": ""
+                },
+                "Weapon Proficiencies": {
+                    "title": ""
+                },
+                "Armor Training": {
+                    "title": ""
+                },
+                "Fighting Style": {
+                    "title": ""
+                },
+                "Weapon Mastery": {
+                    "title": ""
+                }
+            }
+        },
+        "Paladin's Smite": {
+            "name": "",
+            "description": ""
+        },
+        "Path of the Berserker": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Subclass Features": {
+                    "title": ""
+                }
+            }
+        },
+        "Peerless Skill": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "utility": {
+                    "roll": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Perfect Focus": {
+            "name": "",
+            "description": ""
+        },
+        "Persistent Rage": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Recharge Rage on Initiative": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Potent Cantrip": {
+            "name": "",
+            "description": ""
+        },
+        "Precise Hunter": {
+            "name": "",
+            "description": ""
+        },
+        "Preserve Life": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "heal": {
+                    "target": ""
+                }
+            }
+        },
+        "Primal Champion": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "advancement": {
+                "Primal Champion": {
+                    "title": "",
+                    "hint": ""
+                }
+            }
+        },
+        "Primal Knowledge": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Primal Knowledge": {
+                    "name": ""
+                }
+            }
+        },
+        "Primal Order": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Primal Order: Magician": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Magician": {
+                    "name": ""
+                }
+            }
+        },
+        "Primal Order: Warden": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Primal Order: Warden": {
+                    "name": ""
+                }
+            }
+        },
+        "Quickened Spell": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Quickened Spell": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Quivering Palm": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "End Vibrations": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Instill Vibrations": {
+                    "name": "",
+                    "condition": ""
+                }
+            },
+            "effects": {
+                "Lethal Vibrations": {
+                    "name": ""
+                }
+            }
+        },
+        "Radiant Strikes": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Radiant Strikes": {
+                    "name": ""
+                }
+            }
+        },
+        "Rage": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Expend Rage": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Rage": {
+                    "name": ""
+                }
+            }
+        },
+        "Ranger": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Class Features": {
+                    "title": ""
+                },
+                "Expertise": {
+                    "title": ""
+                },
+                "Favored Enemy": {
+                    "title": ""
+                },
+                "Deft Explorer": {
+                    "title": ""
+                },
+                "Hunter's Mark Damage": {
+                    "title": ""
+                },
+                "Max Prepared Spells": {
+                    "title": ""
+                },
+                "Saving Throw Proficiencies": {
+                    "title": ""
+                },
+                "Skill Proficiencies": {
+                    "title": ""
+                },
+                "Weapon Proficiencies": {
+                    "title": ""
+                },
+                "Armor Training": {
+                    "title": ""
+                },
+                "Fighting Style": {
+                    "title": ""
+                },
+                "Weapon Mastery": {
+                    "title": ""
+                }
+            }
+        },
+        "Reckless Attack": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Reckless": {
+                    "name": ""
+                }
+            }
+        },
+        "Relentless Hunter": {
+            "name": "",
+            "description": ""
+        },
+        "Relentless Rage": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Reliable Talent": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Reliable Talent": {
+                    "name": ""
+                }
+            }
+        },
+        "Remarkable Athlete": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Remarkable Athlete": {
+                    "name": ""
+                }
+            }
+        },
+        "Repelling Blast": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Make Repelling": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Repelling Blast": {
+                    "name": "",
+                    "description": "",
+                    "changes": {
+                        "name": ""
+                    }
+                }
+            }
+        },
+        "Restoring Touch": {
+            "name": "",
+            "description": ""
+        },
+        "Retaliation": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Retaliate": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Ritual Adept": {
+            "name": "",
+            "description": ""
+        },
+        "Rogue": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Class Features": {
+                    "title": ""
+                },
+                "Expertise": {
+                    "title": "",
+                    "hint": ""
+                },
+                "sqWH6tnUg7jiGaEj": {
+                    "title": ""
+                },
+                "Sneak Attack": {
+                    "title": ""
+                },
+                "Thieves' Cant": {
+                    "title": "",
+                    "hint": ""
+                },
+                "FiaNLovfP6tnY4tD": {
+                    "hint": ""
+                },
+                "Weapon Mastery": {
+                    "title": ""
+                },
+                "Saving Throw Proficiencies": {
+                    "title": ""
+                },
+                "Skill Proficiencies": {
+                    "title": ""
+                },
+                "Weapon Proficiencies": {
+                    "title": ""
+                },
+                "Tool Proficiencies": {
+                    "title": ""
+                },
+                "Armor Training": {
+                    "title": ""
+                }
+            }
+        },
+        "Roving": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Roving": {
+                    "name": ""
+                }
+            }
+        },
+        "Sacred Weapon": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Sacred Weapon": {
+                    "name": "",
+                    "changes": {
+                        "name": ""
+                    }
+                }
+            }
         },
         "Scholar": {
-          "title": "" ,
-          "hint": "" 
+            "name": "",
+            "description": ""
         },
-        "Saving Throw Proficiencies": {
-          "title": "" 
+        "Sculpt Spells": {
+            "name": "",
+            "description": ""
         },
-        "Skill Proficiencies": {
-          "title": "" 
+        "Sear Undead": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Channel Divinity: Turn Undead": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Turn Undead": {
+                    "name": ""
+                }
+            }
         },
-        "Weapon Proficiencies": {
-          "title": "" 
-        }
-      }
-    },
-    "Words of Creation": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "phbbrdEpicBoon00": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "phbclcEpicBoon00": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "phbclcSpellcasti": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "phbdrdEpicBoon00": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "phbdrdSpellcasti": {
-      "name": "" ,
-      "description": "" ,
-      "requirements": "" 
-    },
-    "phbftrEpicBoon00": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbftrExtraAttac": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbftrWeaponMast": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbmnkEpicBoon00": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbmnkExtraAttac": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbmnkUnarmedStr": {
-      "name": "" ,
-      "activities": {
-        "Grapple/Shove": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Grappled": {
-          "name": "" 
+        "Second Wind": {
+            "name": "",
+            "description": ""
         },
-        "Prone": {
-          "name": "" 
-        }
-      }
-    },
-    "phbmnkUnarmoredD": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
+        "Second-Story Work": {
+            "name": "",
+            "description": ""
+        },
+        "Seeking Spell": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Seeking Spell": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Signature Spells": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Make Signature": {
+                    "name": ""
+                },
+                "Expend First Spell": {
+                    "name": ""
+                },
+                "Expend Second Spell": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Signature": {
+                    "name": "",
+                    "description": "",
+                    "changes": {
+                        "name": ""
+                    }
+                }
+            }
+        },
+        "Slippery Mind": {
+            "name": "",
+            "description": ""
+        },
+        "Slow Fall": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Reduce": {
+                    "name": ""
+                }
+            }
+        },
+        "Smite of Protection": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Smite of Protection": {
+                    "name": ""
+                }
+            }
+        },
+        "Sneak Attack": {
+            "name": "",
+            "description": ""
+        },
+        "Sorcerer": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Class Features": {
+                    "title": ""
+                },
+                "Max Prepared Spells": {
+                    "title": ""
+                },
+                "Cantrips Known": {
+                    "title": ""
+                },
+                "Metamagic": {
+                    "title": "",
+                    "hint": ""
+                },
+                "Saving Throw Proficiencies": {
+                    "title": ""
+                },
+                "Skill Proficiencies": {
+                    "title": ""
+                },
+                "Weapon Proficiencies": {
+                    "title": ""
+                },
+                "Sorcery Points": {
+                    "title": ""
+                }
+            }
+        },
+        "Sorcerous Restoration": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Restore Sorcery Points": {
+                    "name": ""
+                }
+            }
+        },
+        "Sorcery Incarnate": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Restore Innate Sorcery": {
+                    "name": ""
+                }
+            }
+        },
+        "Spell Mastery": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Master Spell": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Mastered": {
+                    "name": "",
+                    "changes": {
+                        "name": ""
+                    }
+                }
+            }
+        },
+        "Spellcasting": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Steady Aim": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Steady Aim": {
+                    "name": ""
+                }
+            }
+        },
+        "Stroke of Luck": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Stroke of Luck": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Studied Attacks": {
+            "name": "",
+            "description": ""
+        },
+        "Stunning Strike": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "save": {
+                    "condition": ""
+                }
+            },
+            "effects": {
+                "Stunned": {
+                    "name": ""
+                },
+                "Slowed": {
+                    "name": ""
+                }
+            }
+        },
+        "Subtle Spell": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Subtle Spell": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Superior Critical": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Superior Critical": {
+                    "name": ""
+                }
+            }
+        },
+        "Superior Defense": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "utility": {
+                    "condition": ""
+                }
+            },
+            "effects": {
+                "Superior Defense": {
+                    "name": ""
+                }
+            }
+        },
+        "Superior Hunter's Defense": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Resistances": {
+                    "name": "",
+                    "condition": ""
+                }
+            },
+            "effects": {
+                "Hunter's Defense: Acid": {
+                    "name": ""
+                },
+                "Hunter's Defense: Bludgeoning": {
+                    "name": ""
+                },
+                "Hunter's Defense: Cold": {
+                    "name": ""
+                },
+                "Hunter's Defense: Fire": {
+                    "name": ""
+                },
+                "Hunter's Defense: Force": {
+                    "name": ""
+                },
+                "Hunter's Defense: Lightning": {
+                    "name": ""
+                },
+                "Hunter's Defense: Necrotic": {
+                    "name": ""
+                },
+                "Hunter's Defense: Piercing": {
+                    "name": ""
+                },
+                "Hunter's Defense: Poison": {
+                    "name": ""
+                },
+                "Hunter's Defense: Psychic": {
+                    "name": ""
+                },
+                "Hunter's Defense: Radiant": {
+                    "name": ""
+                },
+                "Hunter's Defense: Slashing": {
+                    "name": ""
+                },
+                "Hunter's Defense: Thunder": {
+                    "name": ""
+                }
+            }
+        },
+        "Superior Hunter's Prey": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "damage": {
+                    "range": ""
+                }
+            }
+        },
+        "Superior Inspiration": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Supreme Healing": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Supreme Sneak": {
+            "name": "",
+            "description": ""
+        },
+        "Survivor": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "heal": {
+                    "condition": ""
+                }
+            }
+        },
+        "Tactical Master": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Tactial Master": {
+                    "name": ""
+                }
+            }
+        },
+        "Tactical Mind": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Second Wind": {
+                    "name": "",
+                    "roll": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Tactical Shift": {
+            "name": "",
+            "description": ""
+        },
+        "Thief": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Subclass Features": {
+                    "title": ""
+                }
+            }
+        },
+        "Thief's Reflexes": {
+            "name": "",
+            "description": ""
+        },
+        "Thieves' Cant": {
+            "name": "",
+            "description": ""
+        },
+        "Thirsting Blade": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Three Extra Attacks": {
+            "name": "",
+            "description": ""
+        },
+        "Tireless": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Temporary Hit Points": {
+                    "name": ""
+                },
+                "Decrease Exhaustion": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Transmuted Spell": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Transmuted Spell": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Twinned Spell": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Twinned Spell": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Two Extra Attacks": {
+            "name": "",
+            "description": ""
+        },
+        "Unarmed Strike": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Grapple/Shove": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled": {
+                    "name": ""
+                },
+                "Prone": {
+                    "name": ""
+                }
+            }
+        },
         "Unarmored Defense": {
-          "name": "" 
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Unarmored Defense": {
+                    "name": ""
+                }
+            }
+        },
+        "Unarmored Movement": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Unarmored Movement": {
+                    "name": ""
+                }
+            }
+        },
+        "Uncanny Dodge": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Uncanny Dodge": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Uncanny Metabolism": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Uncanny Metabolism": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Use Magic Device": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Attunement Bonus": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Visions of Distant Realms": {
+            "name": "",
+            "description": ""
+        },
+        "Warlock": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Class Features": {
+                    "title": ""
+                },
+                "bwCLOdauuzoHofil": {
+                    "hint": ""
+                },
+                "mRSh9oUVjLU33e7p": {
+                    "hint": ""
+                },
+                "mhZh3LfLMa15tXee": {
+                    "hint": ""
+                },
+                "FOf5CkGnSs0OlppY": {
+                    "hint": ""
+                },
+                "Eldritch Invocations Known": {
+                    "title": ""
+                },
+                "Cantrips Known": {
+                    "title": ""
+                },
+                "KTLPtUpPuGbXWiap": {
+                    "hint": ""
+                },
+                "Max Pact Magic Spells": {
+                    "title": ""
+                },
+                "Eldritch Invocations": {
+                    "title": "",
+                    "hint": ""
+                },
+                "Contact Patron": {
+                    "title": "",
+                    "hint": ""
+                },
+                "Saving Throw Proficiencies": {
+                    "title": ""
+                },
+                "Skill Proficiencies": {
+                    "title": ""
+                },
+                "Weapon Proficiencies": {
+                    "title": ""
+                },
+                "Armor Training": {
+                    "title": ""
+                }
+            }
+        },
+        "Warrior of the Open Hand": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Subclass Features": {
+                    "title": ""
+                }
+            }
+        },
+        "Weapon Mastery": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Whispers of the Grave": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Whisper": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Wholeness of Body": {
+            "name": "",
+            "description": ""
+        },
+        "Wild Companion": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Summon with Spell Slot": {
+                    "name": ""
+                },
+                "Summon with Wild Shape": {
+                    "name": ""
+                }
+            }
+        },
+        "Wild Resurgence": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Regain Spell Slot": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Regain Wild Shape": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Wild Shape": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "transform": {
+                    "profiles": {
+                        "CR ¼": {
+                            "name": ""
+                        },
+                        "CR ½": {
+                            "name": ""
+                        },
+                        "CR 1": {
+                            "name": ""
+                        }
+                    }
+                }
+            }
+        },
+        "Witch Sight": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Witch Sight": {
+                    "name": ""
+                }
+            }
+        },
+        "Wizard": {
+            "name": "",
+            "description": "",
+            "advancement": {
+                "Class Features": {
+                    "title": ""
+                },
+                "Max Prepared Spells": {
+                    "title": ""
+                },
+                "Cantrips Known": {
+                    "title": ""
+                },
+                "Scholar": {
+                    "title": "",
+                    "hint": ""
+                },
+                "Saving Throw Proficiencies": {
+                    "title": ""
+                },
+                "Skill Proficiencies": {
+                    "title": ""
+                },
+                "Weapon Proficiencies": {
+                    "title": ""
+                }
+            }
+        },
+        "Words of Creation": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "phbbrdEpicBoon00": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "phbclcEpicBoon00": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "phbclcSpellcasti": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "phbdrdEpicBoon00": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "phbdrdSpellcasti": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "phbftrEpicBoon00": {
+            "name": "",
+            "description": ""
+        },
+        "phbftrExtraAttac": {
+            "name": "",
+            "description": ""
+        },
+        "phbftrWeaponMast": {
+            "name": "",
+            "description": ""
+        },
+        "phbmnkEpicBoon00": {
+            "name": "",
+            "description": ""
+        },
+        "phbmnkExtraAttac": {
+            "name": "",
+            "description": ""
+        },
+        "phbmnkUnarmedStr": {
+            "name": "",
+            "activities": {
+                "Grapple/Shove": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled": {
+                    "name": ""
+                },
+                "Prone": {
+                    "name": ""
+                }
+            }
+        },
+        "phbmnkUnarmoredD": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Unarmored Defense": {
+                    "name": ""
+                }
+            }
+        },
+        "phbpdnChannelDiv": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Divine Sense": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Divine Sense": {
+                    "name": ""
+                }
+            }
+        },
+        "phbpdnEpicBoon00": {
+            "name": "",
+            "description": ""
+        },
+        "phbpdnExtraAttac": {
+            "name": "",
+            "description": ""
+        },
+        "phbpdnFightingSt": {
+            "name": "",
+            "description": ""
+        },
+        "phbpdnSpellcasti": {
+            "name": "",
+            "description": ""
+        },
+        "phbpdnWeaponMast": {
+            "name": "",
+            "description": ""
+        },
+        "phbrgeEpicBoon00": {
+            "name": "",
+            "description": ""
+        },
+        "phbrgeEvasion000": {
+            "name": "",
+            "description": ""
+        },
+        "phbrgeExpertise0": {
+            "name": "",
+            "description": ""
+        },
+        "phbrgeWeaponMast": {
+            "name": "",
+            "description": ""
+        },
+        "phbrgrEpicBoon00": {
+            "name": "",
+            "description": ""
+        },
+        "phbrgrExpertise0": {
+            "name": "",
+            "description": ""
+        },
+        "phbrgrExtraAttac": {
+            "name": "",
+            "description": ""
+        },
+        "phbrgrFightingSt": {
+            "name": "",
+            "description": ""
+        },
+        "phbrgrSpellcasti": {
+            "name": "",
+            "description": ""
+        },
+        "phbrgrWeaponMast": {
+            "name": "",
+            "description": ""
+        },
+        "phbscrEpicBoon00": {
+            "name": "",
+            "description": ""
+        },
+        "phbscrSpellcasti": {
+            "name": "",
+            "description": ""
+        },
+        "phbwlkEpicBoon00": {
+            "name": "",
+            "description": ""
+        },
+        "phbwzdEpicBoon00": {
+            "name": "",
+            "description": ""
+        },
+        "phbwzdSpellcasti": {
+            "name": "",
+            "description": ""
         }
-      }
-    },
-    "phbpdnChannelDiv": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Divine Sense": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Divine Sense": {
-          "name": "" 
-        }
-      }
-    },
-    "phbpdnEpicBoon00": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbpdnExtraAttac": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbpdnFightingSt": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbpdnSpellcasti": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbpdnWeaponMast": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbrgeEpicBoon00": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbrgeEvasion000": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbrgeExpertise0": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbrgeWeaponMast": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbrgrEpicBoon00": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbrgrExpertise0": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbrgrExtraAttac": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbrgrFightingSt": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbrgrSpellcasti": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbrgrWeaponMast": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbscrEpicBoon00": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbscrSpellcasti": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbwlkEpicBoon00": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbwzdEpicBoon00": {
-      "name": "" ,
-      "description": "" 
-    },
-    "phbwzdSpellcasti": {
-      "name": "" ,
-      "description": "" 
     }
-  }
 }
