@@ -1,3814 +1,3814 @@
 {
-  "label": "" ,
-  "folders": {
-    "1st Level": "" ,
-    "2nd Level": "" ,
-    "3rd Level": "" ,
-    "4th Level": "" ,
-    "5th Level": "" ,
-    "6th Level": "" ,
-    "7th Level": "" ,
-    "8th Level": "" ,
-    "9th Level": "" ,
-    "Cantrips": "" ,
-    "Supplemental Items": "" 
-  },
-  "entries": {
-    "Acid Arrow": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Cast and Attack": {
-          "name": "" 
-        },
-        "Lingering Acid Damage": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Lingering Acid": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
+    "label": "Sorts",
+    "folders": {
+        "1st Level": "1er niveau",
+        "2nd Level": "2e niveau",
+        "3rd Level": "3e niveau",
+        "4th Level": "4e niveau",
+        "5th Level": "5e niveau",
+        "6th Level": "6e niveau",
+        "7th Level": "7e niveau",
+        "8th Level": "8e niveau",
+        "9th Level": "9e niveau",
+        "Cantrips": "Sorts mineurs",
+        "Supplemental Items": "Objets supplémentaires"
     },
-    "Acid Splash": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Aid": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Level 2: +5 Max HP": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Level 3: +10 Max HP": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Level 4: +15 Max HP": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Level 5: +20 Max HP": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Level 6: +25 Max HP": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Level 7: +30 Max HP": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Level 8: +35 Max HP": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Level 9: +40 Max HP": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Alarm": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Cast over Area": {
-          "name": "" 
-        },
-        "Cast on Window or Door": {
-          "name": "" 
-        }
-      }
-    },
-    "Alter Self": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Aquatic Adaptation": {
-          "name": "" 
-        },
-        "Change Appearance": {
-          "name": "" 
-        },
-        "Natural Weapons": {
-          "name": "" 
-        },
-        "Attack: Claws": {
-          "name": "" 
-        },
-        "Attack: Fangs/Horns": {
-          "name": "" 
-        },
-        "Attack: Hooves": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Aquatic Adaptation": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Altered Appearance": {
-          "name": "" 
-        },
-        "Natural Weapon": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Animal Friendship": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Charmed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Animal Messenger": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Carrying Message": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Animal Shapes": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Animate Dead": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "summon": {
-          "profiles": {
-            "Skeleton (bones)": {
-              "name": "" 
+    "entries": {
+        "Acid Arrow": {
+            "name": "Flèche acide",
+            "description": "<p>Une flèche d'un vert chatoyant fuse vers une cible à portée avant de produire une gerbe d'acide. Effectuez une attaque de sort à distance contre la cible. Si l'attaque touche, la cible subit aussitôt 4d4 dégâts d'acide, puis 2d4 dégâts d'acide à la fin de son tour suivant. Si l'attaque rate, la flèche asperge la cible d'acide en lui infligeant uniquement la moitié des dégâts initiaux.</p><p><strong>Emplacement de niveau supérieur.</strong> Les dégâts (initiaux et consécutifs) augmentent de 1d4 par niveau d'emplacement au-delà du 2<sup>e</sup>.</p>",
+            "materials": "une feuille de rhubarbe en poudre",
+            "activities": {
+                "Cast and Attack": {
+                    "name": "Incanter et attaquer"
+                },
+                "Lingering Acid Damage": {
+                    "name": "Dégâts d'acide persistants"
+                }
             },
-            "Zombie (corpse)": {
-              "name": "" 
+            "effects": {
+                "Lingering Acid": {
+                    "name": "Acide persistant",
+                    "description": "<p>Si l'attaque touche, la cible subit aussitôt 4d4 dégâts d'acide, puis [[/damage 2d4 type=acid]]{2d4} (plus 1d4 par niveau d'emplacement au-delà du 2<sup>e</sup>) dégâts d'acide à la fin de son tour suivant.</p>"
+                }
             }
-          }
-        }
-      }
-    },
-    "Animate Objects": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "summon": {
-          "profiles": {
-            "Huge Object (costs 3)": {
-              "name": "" 
-            },
-            "Large Object (costs 2)": {
-              "name": "" 
-            },
-            "Medium Object": {
-              "name": "" 
-            },
-            "Small Object": {
-              "name": "" 
-            },
-            "Tiny Object": {
-              "name": "" 
+        },
+        "Acid Splash": {
+            "name": "Aspersion acide",
+            "description": "<p>Vous créez une bulle acide en un point à portée, où elle explose sous forme de Sphère de 1,50 m de rayon. Chaque créature prise dans la Sphère doit réussir un jet de sauvegarde de Dextérité sous peine de subir 1d6 dégâts d'acide.</p><p><strong>Amélioration de sort mineur.</strong> Les dégâts augmentent de 1d6 lorsque vous atteignez les niveaux 5 (2d6), 11 (3d6) et 17 (4d6).</p>"
+        },
+        "Aid": {
+            "name": "Aide",
+            "description": "<p>Choisissez jusqu'à trois créatures à portée. Le maximum de points de vie de chaque cible et ses points de vie actuels augmentent de 5 pour toute la durée.</p><p><strong>Emplacement de niveau supérieur.</strong> Les points de vie de chaque cible augmentent de 5 de plus par niveau d'emplacement au-delà du 2<sup>e</sup>.</p><section id=\"secret-u9DpSmufNhFMDGmN\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>L'activité Soigner est configurée avec plusieurs effets actifs représentant les points de vie temporaires maximum fournis par ce sort.</p><p>Les utilisateurs doivent appliquer l'effet actif approprié pour le niveau d'emplacement de sort utilisé lors de l'incantation de ce sort.</p></section>",
+            "materials": "une bandelette de tissu blanc",
+            "effects": {
+                "Level 2: +5 Max HP": {
+                    "name": "Niveau 2 : +5 pv max",
+                    "description": "<p>Le maximum de points de vie de la cible est augmentée pour toute la durée.</p>"
+                },
+                "Level 3: +10 Max HP": {
+                    "name": "Niveau 3 : +10 pv max",
+                    "description": "<p>Le maximum de points de vie de la cible est augmentée pour toute la durée.</p>"
+                },
+                "Level 4: +15 Max HP": {
+                    "name": "Niveau 4 : +15 pv max",
+                    "description": "<p>Le maximum de points de vie de la cible est augmentée pour toute la durée.</p>"
+                },
+                "Level 5: +20 Max HP": {
+                    "name": "Niveau 5 : +20 pv max",
+                    "description": "<p>Le maximum de points de vie de la cible est augmentée pour toute la durée.</p>"
+                },
+                "Level 6: +25 Max HP": {
+                    "name": "Niveau 6 : +25 pv max",
+                    "description": "<p>Le maximum de points de vie de la cible est augmentée pour toute la durée.</p>"
+                },
+                "Level 7: +30 Max HP": {
+                    "name": "Niveau 7 : +30 pv max",
+                    "description": "<p>Le maximum de points de vie de la cible est augmentée pour toute la durée.</p>"
+                },
+                "Level 8: +35 Max HP": {
+                    "name": "Niveau 8 : +35 pv max",
+                    "description": "<p>Le maximum de points de vie de la cible est augmentée pour toute la durée.</p>"
+                },
+                "Level 9: +40 Max HP": {
+                    "name": "Niveau 9 : +40 pv max",
+                    "description": "<p>Le maximum de points de vie de la cible est augmentée pour toute la durée.</p>"
+                }
             }
-          }
-        }
-      }
-    },
-    "Antilife Shell": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
+        },
+        "Alarm": {
+            "name": "Alarme",
+            "description": "<p>Vous disposez d'une alarme contre les intrus. Choisissez une porte, une fenêtre ou une zone à portée dont la taille n'excède pas un Cube de 6 m. Jusqu'à la fin du sort, vous êtes alerté chaque fois qu'une créature touche la zone protégée ou y pénètre. À l'incantation du sort, vous pouvez désignez des créatures qui ne déclencheront pas l'alarme. Vous choisissez également si l'alarme est mentale ou sonore :</p><p><strong>Alarme mentale.</strong> L'alarme vous alerte par un signal psychique à condition que vous soyez dans un rayon de 1,5 km de la zone protégée. Si vous dormez, ce signal vous réveille.</p><p><strong>Alarme sonore.</strong> L'alarme produit le même son qu'une clochette, pendant 10 secondes, audible sur un rayon de 18 m de la zone protégée.</p>",
+            "materials": "une cloche et du fil d'argent",
+            "activities": {
+                "Cast over Area": {
+                    "name": "Incanter sur une zone"
+                },
+                "Cast on Window or Door": {
+                    "name": "Incanter sur une fenêtre ou une porte"
+                }
+            }
+        },
+        "Alter Self": {
+            "name": "Modification d'apparence",
+            "description": "<p>Vous altérez votre forme physique. Choisissez l'une des options suivantes. Les effets persistent pour toute la durée, durant laquelle vous pouvez entreprendre l'action Magie pour changer d'option.</p><p><strong>Adaptation aquatique.</strong> Vous vous dotez de branchies et vos doigts deviennent palmés. Vous recevez une Vitesse de nage égale à votre Vitesse et pouvez respirer sous l'eau.</p><section class=\"secret\" id=\"secret-7sTILHJaR1io7TWi\"><p><strong>Note Foundry</strong></p><p>L'effet actif fourni par l'activité <strong>Adaptation aquatique</strong> augmente la Vitesse de nage du personnage d'une valeur de « 1 » pour indiquer l'équivalence à la Vitesse (de marche).</p></section><p><strong>Armes naturelles.</strong> Vous vous dotez de griffes (dégâts tranchants), de crocs (perforants), de cornes (perforants) ou de sabots (contondants). Lorsque vous recourez à votre attaque à mains nues pour infliger des dégâts avec ces nouveaux appendices, ils infligent 1d6 dégâts quand ils touchent, du type indiqué entre parenthèses, et vous ajoutez votre modificateur de caractéristique d'incantation aux jets d'attaque et de dégâts, au lieu de recourir à la Force.</p><p><strong>Changement d'aspect.</strong> Vous transformez votre aspect. Vous décidez de votre apparence, notamment de votre taille, votre poids, les traits de votre visage, le timbre de votre voix, la longueur de vos cheveux, votre teint et autres attributs. Vous pouvez vous faire passer pour un membre d'une autre espèce, mais cela n'influe pas sur votre profil de jeu. Vous ne pouvez pas prendre l'aspect d'une créature dont la catégorie de taille est différente de la vôtre et votre structure corporelle doit rester la même ; si vous êtes bipède, vous ne pouvez pas profiter de ce sort pour devenir quadrupède, par exemple. Pour toute la durée du sort, vous pouvez entreprendre l'action Magie pour changer à nouveau votre aspect de cette manière.</p>",
+            "activities": {
+                "Aquatic Adaptation": {
+                    "name": "Adaptation aquatique"
+                },
+                "Change Appearance": {
+                    "name": "Changement d'aspect"
+                },
+                "Natural Weapons": {
+                    "name": "Armes naturelles"
+                },
+                "Attack: Claws": {
+                    "name": "Attaquer : Griffes"
+                },
+                "Attack: Fangs/Horns": {
+                    "name": "Attaquer : Crocs/Cornes"
+                },
+                "Attack: Hooves": {
+                    "name": "Attaquer : Sabots"
+                }
+            },
+            "effects": {
+                "Aquatic Adaptation": {
+                    "name": "Adaptation aquatique",
+                    "description": "<p>Vous recevez une Vitesse de nage égale à votre Vitesse et pouvez respirer sous l'eau.</p>"
+                },
+                "Altered Appearance": {
+                    "name": "Aspect modifié"
+                },
+                "Natural Weapon": {
+                    "name": "Arme naturelle",
+                    "description": "<p>Lorsque vous recourez à votre attaque à mains nues pour infliger des dégâts avec ces nouveaux appendices, ils infligent 1d6 dégâts quand ils touchent, du type indiqué entre parenthèses, et vous ajoutez votre modificateur de caractéristique d'incantation aux jets d'attaque et de dégâts, au lieu de recourir à la Force.</p>"
+                }
+            }
+        },
+        "Animal Friendship": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Charmed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Animal Messenger": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Carrying Message": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Animal Shapes": {
+            "name": "",
+            "description": ""
+        },
+        "Animate Dead": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "summon": {
+                    "profiles": {
+                        "Skeleton (bones)": {
+                            "name": ""
+                        },
+                        "Zombie (corpse)": {
+                            "name": ""
+                        }
+                    }
+                }
+            }
+        },
+        "Animate Objects": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "summon": {
+                    "profiles": {
+                        "Huge Object (costs 3)": {
+                            "name": ""
+                        },
+                        "Large Object (costs 2)": {
+                            "name": ""
+                        },
+                        "Medium Object": {
+                            "name": ""
+                        },
+                        "Small Object": {
+                            "name": ""
+                        },
+                        "Tiny Object": {
+                            "name": ""
+                        }
+                    }
+                }
+            }
+        },
         "Antilife Shell": {
-          "name": "" 
-        }
-      }
-    },
-    "Antimagic Field": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Antipathy/Sympathy": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Cast": {
-          "name": "" 
-        },
-        "Antipathy Save": {
-          "name": "" 
-        },
-        "Sympathy Save": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Antipathy": {
-          "name": "" 
-        },
-        "Sympathy": {
-          "name": "" 
-        },
-        "Frightened": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Charmed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Arcane Eye": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Arcane Hand": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Arcane Lock": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Arcane Sword": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Spectral Sword": {
-          "name": "" 
-        }
-      }
-    },
-    "Arcane Vigor": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Cast": {
-          "name": "" ,
-          "roll": "" 
-        },
-        "Expend d6 Hit Dice": {
-          "name": "" 
-        },
-        "Expend d8 Hit Dice": {
-          "name": "" 
-        },
-        "Expend d10 Hit Dice": {
-          "name": "" 
-        },
-        "Expend d12 Hit Dice": {
-          "name": "" 
-        },
-        "H7hUZ2QYED0myy5Z": {
-          "name": "" 
-        }
-      }
-    },
-    "Arcanist's Magic Aura": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Masked": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Astral Projection": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "effects": {
-        "Suspended Animation": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Augury": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Aura of Life": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Create Aura": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Aura of Life": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Awaken": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Bane": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Bane": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Banishment": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Banished": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Barkskin": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Bark-like Skin": {
-          "name": "" 
-        }
-      }
-    },
-    "Beacon of Hope": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Hopeful": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Befuddlement": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Befuddled": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Bestow Curse": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Curse Ability": {
-          "name": "" 
-        },
-        "Curse Attacks": {
-          "name": "" 
-        },
-        "Curse Actions": {
-          "name": "" 
-        },
-        "Curse Resilience": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Cursed Charisma": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Cursed Constitution": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Cursed Dexterity": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Cursed Intelligence": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Cursed Strength": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Cursed Wisdom": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Cursed Attacks": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Cursed Actions": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Cursed Resilience": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Black Tentacles": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Restrained": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Blade Barrier": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Blade Wall": {
-          "name": "" 
-        },
-        "Blade Ring": {
-          "name": "" 
-        }
-      }
-    },
-    "Bless": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Blessed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Blight": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Blindness/Deafness": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Blindness": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Deafness": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Blink": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Ethereal": {
-          "name": "" 
-        }
-      }
-    },
-    "Blur": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Blurred": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Burning Hands": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Call Lightning": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Calm Emotions": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Calmed": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Indifference": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Chain Lightning": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" 
-    },
-    "Charm Monster": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Charmed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Charm Person": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Charmed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Chill Touch": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Blocked Healing": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Chromatic Orb": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Circle of Death": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Clairvoyance": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Clone": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Cloudkill": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Color Spray": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Blinded": {
-          "name": "" 
-        }
-      }
-    },
-    "Command": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Commune": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Commune with Nature": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Comprehend Languages": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Comprehension": {
-          "name": "" 
-        }
-      }
-    },
-    "Compulsion": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Charmed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Cone of Cold": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Confusion": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Confused": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Conjure Animals": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Conjure Celestial": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Conjure Pillar": {
-          "name": "" 
-        },
-        "Healing Light": {
-          "name": "" 
-        },
-        "Searing Light": {
-          "name": "" 
-        }
-      }
-    },
-    "Conjure Elemental": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Conjure": {
-          "name": "" 
-        }
-      }
-    },
-    "Conjure Fey": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Teleport and Attack": {
-          "name": "" ,
-          "target": "" 
-        }
-      }
-    },
-    "Conjure Minor Elementals": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Bonus Attack Damage": {
-          "name": "" 
-        },
-        "Cast": {
-          "name": "" 
-        }
-      }
-    },
-    "Conjure Woodland Beings": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Cast": {
-          "name": "" 
-        },
-        "Disengage": {
-          "name": "" 
-        },
-        "Emanation Save": {
-          "name": "" 
-        }
-      }
-    },
-    "Contact Other Plane": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Contagion": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Infected (Strength)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Infected (Dexterity)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Infected (Constitution)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Infected (Intelligence)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Infected (Wisdom)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Infected (Charisma)": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Contingency": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Contingency": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Contingency Spell": {
-          "name": "" ,
-          "changes": {
-            "name": "" 
-          }
-        }
-      }
-    },
-    "Continual Flame": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Control Water": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Whirlpool": {
-          "name": "" 
-        },
-        "Flood, Part, or Redirect": {
-          "name": "" ,
-          "roll": "" 
-        }
-      }
-    },
-    "Control Weather": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Cast and Control": {
-          "name": "" ,
-          "roll": "" 
-        },
-        "Change Conditions": {
-          "name": "" ,
-          "roll": "" 
-        }
-      }
-    },
-    "Counterspell": {
-      "name": "" ,
-      "description": "" ,
-      "condition": "" 
-    },
-    "Create Food and Water": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Create Undead": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "condition": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Animate Corpses": {
-          "name": "" 
-        },
-        "Reassert Control": {
-          "name": "" 
-        },
-        "Mentally Command": {
-          "name": "" 
-        }
-      }
-    },
-    "Create or Destroy Water": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Creation": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Cure Wounds": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Dancing Lights": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Lights": {
-          "name": "" 
-        },
-        "Move Lights": {
-          "name": "" 
-        }
-      }
-    },
-    "Darkness": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Darkvision": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Darkvision": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Daylight": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Death Ward": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Protection from Death": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Delayed Blast Fireball": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Bead": {
-          "name": "" 
-        },
-        "Touch Bead": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Turn End Damage Increase": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Trigger Explosion": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Demiplane": {
-      "name": "" ,
-      "description": "" ,
-      "specialTarget": "" 
-    },
-    "Detect Evil and Good": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Detect Evil and Good": {
-          "name": "" 
-        }
-      }
-    },
-    "Detect Magic": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Detect Magic": {
-          "name": "" 
-        }
-      }
-    },
-    "Detect Poison and Disease": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Detect Poison and Disease": {
-          "name": "" 
-        }
-      }
-    },
-    "Detect Thoughts": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Probe Deeper": {
-          "name": "" 
-        },
-        "Sense Thoughts": {
-          "name": "" 
-        }
-      }
-    },
-    "Dimension Door": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Disguise Self": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Disguised": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Disintegrate": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" 
-    },
-    "Dispel Evil and Good": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Dismissal": {
-          "name": "" ,
-          "target": "" 
-        },
-        "Break Enchantment": {
-          "name": "" ,
-          "target": "" 
-        },
-        "Cast": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Dispelling Evil and Good": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Dispel Magic": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Dissonant Whispers": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Divination": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Divine Favor": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Divine Favor": {
-          "name": "" 
-        }
-      }
-    },
-    "Divine Smite": {
-      "name": "" ,
-      "description": "" ,
-      "condition": "" ,
-      "activities": {
-        "Unholy Creature Damage": {
-          "name": "" 
-        },
-        "Cast": {
-          "name": "" 
-        }
-      }
-    },
-    "Divine Word": {
-      "name": "" ,
-      "description": "" ,
-      "specialTarget": "" ,
-      "effects": {
-        "Death": {
-          "name": "" 
-        },
-        "Blinded, Deafened, Stunned": {
-          "name": "" 
-        },
-        "Blinded, Deafened": {
-          "name": "" 
-        },
-        "Deafened": {
-          "name": "" 
-        }
-      }
-    },
-    "Dominate Beast": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Dominated": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Dominate Monster": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Dominated": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Dominate Person": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Dominated": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Dragon's Breath": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Cast": {
-          "name": "" 
-        },
-        "Exhale": {
-          "name": "" 
-        }
-      }
-    },
-    "Dream": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Trance State": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Druidcraft": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Earthquake": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Cast": {
-          "name": "" 
-        },
-        "End of Turn Fissures": {
-          "name": "" ,
-          "condition": "" ,
-          "chatFlavor": "" 
-        },
-        "Collapsing Structure Save": {
-          "name": "" ,
-          "condition": "" ,
-          "range": "" 
-        }
-      },
-      "effects": {
-        "Buried in Rubble": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Eldritch Blast": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Elementalism": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Beckon Element": {
-          "name": "" ,
-          "chatFlavor": "" 
-        },
-        "Sculpt Element": {
-          "name": "" 
-        }
-      }
-    },
-    "Enhance Ability": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Enhanced Strength": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Enhanced Dexterity": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Enhanced Intelligence": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Enhanced Wisdom": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Enhanced Charisma": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Enlarge/Reduce": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Enlarged": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Reduced": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Ensnaring Strike": {
-      "name": "" ,
-      "description": "" ,
-      "condition": "" ,
-      "activities": {
-        "Start of Turn Damage": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Ensnared": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Entangle": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Restrained": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Enthrall": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Distracted": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Etherealness": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Enter Border Ethereal": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Etherealness": {
-          "name": "" 
-        }
-      }
-    },
-    "Expeditious Retreat": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Eyebite": {
-      "name": "" ,
-      "description": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Initial Cast": {
-          "name": "" 
-        },
-        "While Concentrating": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Asleep": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Panicked": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Sickened": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Fabricate": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Faerie Fire": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Outlined": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Faithful Hound": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Move Hound": {
-          "name": "" 
-        }
-      }
-    },
-    "False Life": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Temporary Health": {
-          "name": "" 
-        }
-      }
-    },
-    "Fear": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Fear": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Feather Fall": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "condition": "" 
-    },
-    "Find Familiar": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "summon": {
-          "profiles": {
-            "CR 0 Beast": {
-              "name": "" 
+            "name": "",
+            "description": "",
+            "effects": {
+                "Antilife Shell": {
+                    "name": ""
+                }
             }
-          }
-        }
-      }
-    },
-    "Find Steed": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Summon Steed": {
-          "name": "" 
         },
-        "Summon Flying Steed": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Flying Steed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Find Traps": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Find the Path": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" 
-    },
-    "Finger of Death": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Negative Energy Save": {
-          "name": "" 
+        "Antimagic Field": {
+            "name": "",
+            "description": "",
+            "materials": ""
         },
-        "Raise Zombie": {
-          "name": "" 
-        }
-      }
-    },
-    "Fire Bolt": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Fire Shield": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Warm Shield": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Chill Shield": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Fire Storm": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Create Storm": {
-          "name": "" 
-        }
-      }
-    },
-    "Fireball": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Flame Blade": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Evoke Blade": {
-          "name": "" 
-        }
-      }
-    },
-    "Flame Strike": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Flaming Sphere": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Flesh to Stone": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Turning to Stone": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Unable to Move": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Floating Disk": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Fly": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Flight": {
-          "name": "" 
-        }
-      }
-    },
-    "Fog Cloud": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Forbiddance": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Create Ward": {
-          "name": "" 
-        },
-        "Damage Forbidden Creature": {
-          "name": "" ,
-          "condition": "" ,
-          "range": "" 
-        }
-      }
-    },
-    "Forcecage": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Cage": {
-          "name": "" 
-        },
-        "Create Solid Box": {
-          "name": "" 
-        }
-      }
-    },
-    "Foresight": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Bestow Foresight": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Foresight": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Freedom of Movement": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Unrestricted Movement": {
-          "name": "" 
-        }
-      }
-    },
-    "Freezing Sphere": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Cast and Fire": {
-          "name": "" 
-        },
-        "Freeze Water": {
-          "name": "" ,
-          "condition": "" ,
-          "target": "" 
-        },
-        "Cast and Hold": {
-          "name": "" 
-        },
-        "Throw Held Globe": {
-          "name": "" ,
-          "range": "" 
-        }
-      },
-      "effects": {
-        "Trapped in Ice": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Gaseous Form": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Gaseous Form": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Gate": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Small Vertical Portal": {
-          "name": "" 
-        },
-        "Large Vertical Portal": {
-          "name": "" 
-        },
-        "Small Horizontal Portal": {
-          "name": "" 
-        },
-        "Large Horizontal Portal": {
-          "name": "" 
-        }
-      }
-    },
-    "Geas": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Under Orders": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Gentle Repose": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Giant Insect": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Glibness": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Glib": {
-          "name": "" 
-        }
-      }
-    },
-    "Globe of Invulnerability": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Glyph of Warding": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Spell Glyph": {
-          "name": "" 
-        },
-        "Explosive Rune": {
-          "name": "" 
-        }
-      }
-    },
-    "Goodberry": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Berries": {
-          "name": "" 
-        }
-      }
-    },
-    "Grease": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Greater Invisibility": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Invisible": {
-          "name": "" 
-        }
-      }
-    },
-    "Greater Restoration": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Guardian of Faith": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Guards and Wards": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" 
-    },
-    "Guidance": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Acrobatic Guidance": {
-          "name": "" 
-        },
-        "Animal Handling Guidance": {
-          "name": "" 
-        },
-        "Arcana Guidance": {
-          "name": "" 
-        },
-        "Athletic Guidance": {
-          "name": "" 
-        },
-        "Deception Guidance": {
-          "name": "" 
-        },
-        "History Guidance": {
-          "name": "" 
-        },
-        "Insight Guidance": {
-          "name": "" 
-        },
-        "Investigation Guidance": {
-          "name": "" 
-        },
-        "Intimidation Guidance": {
-          "name": "" 
-        },
-        "Medicine Guidance": {
-          "name": "" 
-        },
-        "Nature Guidance": {
-          "name": "" 
-        },
-        "Persuasion Guidance": {
-          "name": "" 
-        },
-        "Perception Guidance": {
-          "name": "" 
-        },
-        "Performance Guidance": {
-          "name": "" 
-        },
-        "Religion Guidance": {
-          "name": "" 
-        },
-        "Sleight of Hand Guidance": {
-          "name": "" 
-        },
-        "Stealth Guidance": {
-          "name": "" 
-        },
-        "Survival Guidance": {
-          "name": "" 
-        }
-      }
-    },
-    "Guiding Bolt": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Guiding Bolt": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Gust of Wind": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Hallow": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Hallucinatory Terrain": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Harm": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Haste": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Cast": {
-          "name": "" 
-        },
-        "Apply Lethargy": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Hasted": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Lethargy": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Heal": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Healing Word": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Heat Metal": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "On Damage Save": {
-          "name": "" 
-        },
-        "Cast and Heat": {
-          "name": "" 
-        },
-        "Reheat": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Heated Metal": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Hellish Rebuke": {
-      "name": "" ,
-      "description": "" ,
-      "condition": "" 
-    },
-    "Heroes' Feast": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Conjure Feast": {
-          "name": "" 
-        },
-        "Consume Feast": {
-          "name": "" ,
-          "chatFlavor": "" 
-        }
-      },
-      "effects": {
-        "Feast's Benefits": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Heroism": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Bravery": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Hex": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Bonus Hex Damage": {
-          "name": "" ,
-          "condition": "" 
-        },
-        "Place Curse": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Hexed Strength": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Hexed Dexterity": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Hexed Constitution": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Hexed Intelligence": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Hexed Wisdom": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Hexed Charisma": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Hideous Laughter": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Uncontrollable Laughter": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Hold Monster": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Paralyzed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Hold Person": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Paralyzed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Holy Aura": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Aura": {
-          "name": "" 
-        },
-        "Fiend/Undead Save": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Holy Protection": {
-          "name": "" 
-        },
-        "Blinded": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Hunter's Mark": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Bonus Mark Damage": {
-          "name": "" 
-        },
-        "Mark Creature": {
-          "name": "" 
-        }
-      }
-    },
-    "Hypnotic Pattern": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Hypnotized": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Ice Storm": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Identify": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Illusory Script": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Imprisonment": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Burial": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Chaining": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Hedged Prison": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Minimus Containment": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Slumber": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Incendiary Cloud": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Create Cloud": {
-          "name": "" 
-        },
-        "Per Turn Save": {
-          "name": "" 
-        }
-      }
-    },
-    "Inflict Wounds": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Insect Plague": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Instant Summons": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Inscribe Mark": {
-          "name": "" 
-        },
-        "Recall Object": {
-          "name": "" 
-        }
-      }
-    },
-    "Invisibility": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Invisible": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Irresistible Dance": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Irresistible Dance": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Short Dance": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Jump": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Jump": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Knock": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Legend Lore": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Lesser Restoration": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Levitate": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Levitating": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Light": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Lightning Bolt": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Locate Animals or Plants": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Locate Creature": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Locate Object": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Longstrider": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Longstrider": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Mage Armor": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Mage Armor": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Mage Hand": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Magic Circle": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Magic Jar": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Transfer Soul": {
-          "name": "" 
-        },
-        "Possess Humanoid": {
-          "name": "" ,
-          "condition": "" ,
-          "target": "" 
-        },
-        "Return from Host": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Catatonic": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Trapped Soul": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Magic Missile": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Magic Mouth": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Magic Weapon": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Magic Weapon +1": {
-          "name": "" ,
-          "description": "" ,
-          "changes": {
-            "name": "" 
-          }
-        },
-        "Magic Weapon +2": {
-          "name": "" ,
-          "description": "" ,
-          "changes": {
-            "name": "" 
-          }
-        },
-        "Magic Weapon +3": {
-          "name": "" ,
-          "description": "" ,
-          "changes": {
-            "name": "" 
-          }
-        }
-      }
-    },
-    "Magical Berries": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Magnificent Mansion": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Door": {
-          "name": "" 
-        }
-      }
-    },
-    "Major Image": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Mass Cure Wounds": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Mass Heal": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Mass Healing Word": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Mass Suggestion": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Charmed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Maze": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Banish to Maze": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Banished": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Meld into Stone": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Mending": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Message": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Meteor Swarm": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Mind Blank": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Mind Blanked": {
-          "name": "" 
-        }
-      }
-    },
-    "Mind Spike": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Spiked": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Minor Illusion": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Illusion": {
-          "name": "" ,
-          "profiles": {
-            "Image": {
-              "name": "" 
+        "Antipathy/Sympathy": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "activities": {
+                "Cast": {
+                    "name": ""
+                },
+                "Antipathy Save": {
+                    "name": ""
+                },
+                "Sympathy Save": {
+                    "name": ""
+                }
             },
-            "Sound": {
-              "name": "" 
+            "effects": {
+                "Antipathy": {
+                    "name": ""
+                },
+                "Sympathy": {
+                    "name": ""
+                },
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                },
+                "Charmed": {
+                    "name": "",
+                    "description": ""
+                }
             }
-          }
-        }
-      }
-    },
-    "Mirage Arcane": {
-      "name": "" ,
-      "description": "" ,
-      "specialRange": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Alter Terrain": {
-          "name": "" 
-        }
-      }
-    },
-    "Mirror Image": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Duplicate A": {
-          "name": "" 
-        },
-        "Duplicate B": {
-          "name": "" 
-        },
-        "Duplicate C": {
-          "name": "" 
-        }
-      }
-    },
-    "Mislead": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Invisible": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Misty Step": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Modify Memory": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Memory Modification": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Moonbeam": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Move Earth": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Initial Cast": {
-          "name": "" 
-        },
-        "Affect New Area": {
-          "name": "" 
-        }
-      }
-    },
-    "Nondetection": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Hidden from Divination": {
-          "name": "" 
-        }
-      }
-    },
-    "Pass without Trace": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Concealed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Passwall": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Phantasmal Force": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Cast": {
-          "name": "" 
-        },
-        "Phantasm Damage": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Seeing Illusions": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Phantasmal Killer": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Fears Manifested": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Phantom Steed": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Planar Ally": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Beseech Entity": {
-          "name": "" 
-        }
-      }
-    },
-    "Planar Binding": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Bound to Service": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Plane Shift": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Transport": {
-          "name": "" 
-        }
-      }
-    },
-    "Plant Growth": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Overgrowth": {
-          "name": "" 
-        },
-        "Enrichment": {
-          "name": "" 
-        }
-      }
-    },
-    "Poison Spray": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Polymorph": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Power Word Heal": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Heal Fully": {
-          "name": "" 
-        }
-      }
-    },
-    "Power Word Kill": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Compel to Die": {
-          "name": "" 
-        }
-      }
-    },
-    "Power Word Stun": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Stunned": {
-          "name": "" ,
-          "description": "" 
-        },
-        "No Movement": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Prayer of Healing": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Healed by Prayer": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Prestidigitation": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Prismatic Spray": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Cast": {
-          "name": "" 
-        },
-        "Indigo Save (Con)": {
-          "name": "" 
-        },
-        "Violet Save (Wis)": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Petrifying (Indigo)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Teleporting (Violet)": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Prismatic Wall": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Create Wall": {
-          "name": "" 
-        },
-        "Create Globe": {
-          "name": "" 
-        },
-        "Blinding Save": {
-          "name": "" ,
-          "range": "" 
-        },
-        "Traversal Save": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Prismatic Blinding": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Restrained (Indigo)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Blinded (Violet)": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Private Sanctum": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Produce Flame": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Cast": {
-          "name": "" 
-        },
-        "Hurl Fire": {
-          "name": "" 
-        }
-      }
-    },
-    "Programmed Illusion": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Illusion": {
-          "name": "" 
-        }
-      }
-    },
-    "Project Image": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Illusion": {
-          "name": "" 
-        }
-      }
-    },
-    "Protection from Energy": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Acid Protection": {
-          "name": "" 
-        },
-        "Cold Protection": {
-          "name": "" 
-        },
-        "Fire Protection": {
-          "name": "" 
-        },
-        "Lightning Protection": {
-          "name": "" 
-        },
-        "Thunder Protection": {
-          "name": "" 
-        }
-      }
-    },
-    "Protection from Evil and Good": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Protected": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Protection from Poison": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Poison Protection": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Purify Food and Drink": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Raise Dead": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Revive": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Resurrection Sickness (Day 1)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Resurrection Sickness (Day 2)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Resurrection Sickness (Day 4)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Resurrection Sickness (Day 3)": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Ray of Enfeeblement": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Brief Enfeeblement": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Enervated": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Ray of Frost": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Reduced Movement": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Ray of Sickness": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Regenerate": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Regenerating": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Reincarnate": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" 
-    },
-    "Remove Curse": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Resilient Sphere": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "effects": {
-        "Enclosed in Sphere": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Resistance": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "utility": {
-          "roll": "" 
-        }
-      },
-      "effects": {
-        "Acid Protection": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Bludgeoning Protection": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Cold Protection": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Fire Protection": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Lightning Protection": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Necrotic Protection": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Piercing Protection": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Poison Protection": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Radiant Protection": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Slashing Protection": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Thunder Protection": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Resurrection": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Cast": {
-          "name": "" 
-        },
-        "Taxing Cast": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Resurrection Sickness (Day 1)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Resurrection Sickness (Day 2)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Resurrection Sickness (Day 3)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Resurrection Sickness (Day 4)": {
-          "name": "" ,
-          "description": "" 
-        },
-        "Spell Taxed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Reverse Gravity": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Revivify": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Rope Trick": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Sacred Flame": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Sanctuary": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Cast": {
-          "name": "" 
-        },
-        "Save on Target": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Warded": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Scorching Ray": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Scrying": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Secondhand and Picture": {
-          "name": "" 
-        },
-        "Secondhand and Garment": {
-          "name": "" 
-        },
-        "Secondhand and Body Part": {
-          "name": "" 
-        },
-        "Firsthand and Picture": {
-          "name": "" 
-        },
-        "Firsthand and Garment": {
-          "name": "" 
-        },
-        "Firsthand and Body Part": {
-          "name": "" 
-        },
-        "Extensive and Picture": {
-          "name": "" 
-        },
-        "Extensive and Garment": {
-          "name": "" 
-        },
-        "Extensive and Body Part": {
-          "name": "" 
-        },
-        "Create Sensor": {
-          "name": "" ,
-          "target": "" 
-        }
-      }
-    },
-    "Searing Smite": {
-      "name": "" ,
-      "description": "" ,
-      "condition": "" ,
-      "activities": {
-        "Start of Turn Save": {
-          "name": "" 
-        },
-        "Damage": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Seared": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Secret Chest": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Recall Chest": {
-          "name": "" 
-        },
-        "Hide Chest": {
-          "name": "" 
-        }
-      }
-    },
-    "See Invisibility": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "See Invisibility": {
-          "name": "" 
-        }
-      }
-    },
-    "Seeming": {
-      "name": "" ,
-      "description": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Unwilling Save": {
-          "name": "" 
-        },
-        "Change Appearance": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Changed Appearance": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Sending": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Sequester": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Sequestered": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Shapechange": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Shatter": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Shield": {
-      "name": "" ,
-      "description": "" ,
-      "condition": "" ,
-      "effects": {
-        "Imperceptible Barrier": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Shield of Faith": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Shimmering Field": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Shillelagh": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Imbue Weapon": {
-          "name": "" 
-        },
-        "Spellcasting Attack": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Shillelagh (1d8)": {
-          "name": "" ,
-          "changes": {
-            "name": "" 
-          }
-        },
-        "Shillelagh (1d10)": {
-          "name": "" ,
-          "changes": {
-            "name": "" 
-          }
-        },
-        "Shillelagh (1d12)": {
-          "name": "" ,
-          "changes": {
-            "name": "" 
-          }
-        },
-        "Shillelagh (2d6)": {
-          "name": "" ,
-          "changes": {
-            "name": "" 
-          }
-        }
-      }
-    },
-    "Shining Smite": {
-      "name": "" ,
-      "description": "" ,
-      "condition": "" ,
-      "effects": {
-        "Shining": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Shocking Grasp": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Shocked": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Silence": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Silenced": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Silent Image": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "condition": "" 
-    },
-    "Simulacrum": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Create Simulacrum": {
-          "name": "" 
-        }
-      }
-    },
-    "Sleep": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Sleeping": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Sleet Storm": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Slow": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Slowed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Sorcerous Burst": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Spare the Dying": {
-      "name": "" ,
-      "description": "" ,
-      "specialTarget": "" ,
-      "effects": {
-        "Stabilized": {
-          "name": "" 
-        }
-      }
-    },
-    "Speak with Animals": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Bestial Communication": {
-          "name": "" 
-        }
-      }
-    },
-    "Speak with Dead": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Speak with Plants": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Speaking with Plants": {
-          "name": "" 
-        }
-      }
-    },
-    "Spider Climb": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Spider Climb": {
-          "name": "" 
-        }
-      }
-    },
-    "Spike Growth": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Spirit Guardians": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Emanation Save": {
-          "name": "" 
-        },
-        "Cast": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Half Speed": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Spiritual Weapon": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Starry Wisp": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Illuminated": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Stinking Cloud": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Start of Turn Save": {
-          "name": "" 
-        },
-        "Create Cloud": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Stinking Poison": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Stone Shape": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Stoneskin": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Stoneskin": {
-          "name": "" 
-        }
-      }
-    },
-    "Storm of Vengeance": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Create Storm": {
-          "name": "" 
-        },
-        "Turn 2: Acid Rain": {
-          "name": "" ,
-          "condition": "" ,
-          "target": "" 
-        },
-        "Turn 3: Lightning": {
-          "name": "" ,
-          "condition": "" ,
-          "target": "" 
-        },
-        "Turn 4: Hailstones": {
-          "name": "" ,
-          "condition": "" ,
-          "target": "" 
-        },
-        "Turn 5+: Gusts and Rain": {
-          "name": "" ,
-          "condition": "" ,
-          "target": "" 
-        }
-      },
-      "effects": {
-        "Deafened": {
-          "name": "" 
-        }
-      }
-    },
-    "Suggestion": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Pursuing Suggestion": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Summon Dragon": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Sunbeam": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Initial Cast": {
-          "name": "" 
-        },
-        "Create New Sunbeam": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Blinded": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Sunburst": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Blinded": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Symbol": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Inscribe Glyph": {
-          "name": "" 
-        },
-        "Death": {
-          "name": "" 
-        },
-        "Discord": {
-          "name": "" 
+        },
+        "Arcane Eye": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Arcane Hand": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Arcane Lock": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Arcane Sword": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Spectral Sword": {
+                    "name": ""
+                }
+            }
+        },
+        "Arcane Vigor": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Cast": {
+                    "name": "",
+                    "roll": ""
+                },
+                "Expend d6 Hit Dice": {
+                    "name": ""
+                },
+                "Expend d8 Hit Dice": {
+                    "name": ""
+                },
+                "Expend d10 Hit Dice": {
+                    "name": ""
+                },
+                "Expend d12 Hit Dice": {
+                    "name": ""
+                },
+                "H7hUZ2QYED0myy5Z": {
+                    "name": ""
+                }
+            }
+        },
+        "Arcanist's Magic Aura": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Masked": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Astral Projection": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "effects": {
+                "Suspended Animation": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Augury": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Aura of Life": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Create Aura": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Aura of Life": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Awaken": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Bane": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Bane": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Banishment": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Banished": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Barkskin": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Bark-like Skin": {
+                    "name": ""
+                }
+            }
+        },
+        "Beacon of Hope": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Hopeful": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Befuddlement": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Befuddled": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Bestow Curse": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Curse Ability": {
+                    "name": ""
+                },
+                "Curse Attacks": {
+                    "name": ""
+                },
+                "Curse Actions": {
+                    "name": ""
+                },
+                "Curse Resilience": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Cursed Charisma": {
+                    "name": "",
+                    "description": ""
+                },
+                "Cursed Constitution": {
+                    "name": "",
+                    "description": ""
+                },
+                "Cursed Dexterity": {
+                    "name": "",
+                    "description": ""
+                },
+                "Cursed Intelligence": {
+                    "name": "",
+                    "description": ""
+                },
+                "Cursed Strength": {
+                    "name": "",
+                    "description": ""
+                },
+                "Cursed Wisdom": {
+                    "name": "",
+                    "description": ""
+                },
+                "Cursed Attacks": {
+                    "name": "",
+                    "description": ""
+                },
+                "Cursed Actions": {
+                    "name": "",
+                    "description": ""
+                },
+                "Cursed Resilience": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Black Tentacles": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Blade Barrier": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Blade Wall": {
+                    "name": ""
+                },
+                "Blade Ring": {
+                    "name": ""
+                }
+            }
+        },
+        "Bless": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Blessed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Blight": {
+            "name": "",
+            "description": ""
+        },
+        "Blindness/Deafness": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Blindness": {
+                    "name": "",
+                    "description": ""
+                },
+                "Deafness": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Blink": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Ethereal": {
+                    "name": ""
+                }
+            }
+        },
+        "Blur": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Blurred": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Burning Hands": {
+            "name": "",
+            "description": ""
+        },
+        "Call Lightning": {
+            "name": "",
+            "description": ""
+        },
+        "Calm Emotions": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Calmed": {
+                    "name": "",
+                    "description": ""
+                },
+                "Indifference": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Chain Lightning": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": ""
+        },
+        "Charm Monster": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Charmed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Charm Person": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Charmed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Chill Touch": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Blocked Healing": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Chromatic Orb": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Circle of Death": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Clairvoyance": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Clone": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Cloudkill": {
+            "name": "",
+            "description": ""
+        },
+        "Color Spray": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Blinded": {
+                    "name": ""
+                }
+            }
+        },
+        "Command": {
+            "name": "",
+            "description": ""
+        },
+        "Commune": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Commune with Nature": {
+            "name": "",
+            "description": ""
+        },
+        "Comprehend Languages": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Comprehension": {
+                    "name": ""
+                }
+            }
+        },
+        "Compulsion": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Charmed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Cone of Cold": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Confusion": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Confused": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Conjure Animals": {
+            "name": "",
+            "description": ""
+        },
+        "Conjure Celestial": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Conjure Pillar": {
+                    "name": ""
+                },
+                "Healing Light": {
+                    "name": ""
+                },
+                "Searing Light": {
+                    "name": ""
+                }
+            }
+        },
+        "Conjure Elemental": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Conjure": {
+                    "name": ""
+                }
+            }
+        },
+        "Conjure Fey": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Teleport and Attack": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Conjure Minor Elementals": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Bonus Attack Damage": {
+                    "name": ""
+                },
+                "Cast": {
+                    "name": ""
+                }
+            }
+        },
+        "Conjure Woodland Beings": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Cast": {
+                    "name": ""
+                },
+                "Disengage": {
+                    "name": ""
+                },
+                "Emanation Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Contact Other Plane": {
+            "name": "",
+            "description": ""
+        },
+        "Contagion": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Infected (Strength)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Infected (Dexterity)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Infected (Constitution)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Infected (Intelligence)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Infected (Wisdom)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Infected (Charisma)": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Contingency": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Contingency": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Contingency Spell": {
+                    "name": "",
+                    "changes": {
+                        "name": ""
+                    }
+                }
+            }
+        },
+        "Continual Flame": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Control Water": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Whirlpool": {
+                    "name": ""
+                },
+                "Flood, Part, or Redirect": {
+                    "name": "",
+                    "roll": ""
+                }
+            }
+        },
+        "Control Weather": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "activities": {
+                "Cast and Control": {
+                    "name": "",
+                    "roll": ""
+                },
+                "Change Conditions": {
+                    "name": "",
+                    "roll": ""
+                }
+            }
+        },
+        "Counterspell": {
+            "name": "",
+            "description": "",
+            "condition": ""
+        },
+        "Create Food and Water": {
+            "name": "",
+            "description": ""
+        },
+        "Create Undead": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "condition": "",
+            "specialTarget": "",
+            "activities": {
+                "Animate Corpses": {
+                    "name": ""
+                },
+                "Reassert Control": {
+                    "name": ""
+                },
+                "Mentally Command": {
+                    "name": ""
+                }
+            }
+        },
+        "Create or Destroy Water": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Creation": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Cure Wounds": {
+            "name": "",
+            "description": ""
+        },
+        "Dancing Lights": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Lights": {
+                    "name": ""
+                },
+                "Move Lights": {
+                    "name": ""
+                }
+            }
+        },
+        "Darkness": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Darkvision": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Darkvision": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Daylight": {
+            "name": "",
+            "description": ""
+        },
+        "Death Ward": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Protection from Death": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Delayed Blast Fireball": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Bead": {
+                    "name": ""
+                },
+                "Touch Bead": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Turn End Damage Increase": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Trigger Explosion": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Demiplane": {
+            "name": "",
+            "description": "",
+            "specialTarget": ""
+        },
+        "Detect Evil and Good": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Detect Evil and Good": {
+                    "name": ""
+                }
+            }
+        },
+        "Detect Magic": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Detect Magic": {
+                    "name": ""
+                }
+            }
+        },
+        "Detect Poison and Disease": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Detect Poison and Disease": {
+                    "name": ""
+                }
+            }
+        },
+        "Detect Thoughts": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Probe Deeper": {
+                    "name": ""
+                },
+                "Sense Thoughts": {
+                    "name": ""
+                }
+            }
+        },
+        "Dimension Door": {
+            "name": "",
+            "description": ""
+        },
+        "Disguise Self": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Disguised": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Disintegrate": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": ""
+        },
+        "Dispel Evil and Good": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Dismissal": {
+                    "name": "",
+                    "target": ""
+                },
+                "Break Enchantment": {
+                    "name": "",
+                    "target": ""
+                },
+                "Cast": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Dispelling Evil and Good": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Dispel Magic": {
+            "name": "",
+            "description": ""
+        },
+        "Dissonant Whispers": {
+            "name": "",
+            "description": ""
+        },
+        "Divination": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Divine Favor": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Divine Favor": {
+                    "name": ""
+                }
+            }
+        },
+        "Divine Smite": {
+            "name": "",
+            "description": "",
+            "condition": "",
+            "activities": {
+                "Unholy Creature Damage": {
+                    "name": ""
+                },
+                "Cast": {
+                    "name": ""
+                }
+            }
+        },
+        "Divine Word": {
+            "name": "",
+            "description": "",
+            "specialTarget": "",
+            "effects": {
+                "Death": {
+                    "name": ""
+                },
+                "Blinded, Deafened, Stunned": {
+                    "name": ""
+                },
+                "Blinded, Deafened": {
+                    "name": ""
+                },
+                "Deafened": {
+                    "name": ""
+                }
+            }
+        },
+        "Dominate Beast": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Dominated": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Dominate Monster": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Dominated": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Dominate Person": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Dominated": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Dragon's Breath": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Cast": {
+                    "name": ""
+                },
+                "Exhale": {
+                    "name": ""
+                }
+            }
+        },
+        "Dream": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Trance State": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Druidcraft": {
+            "name": "",
+            "description": ""
+        },
+        "Earthquake": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Cast": {
+                    "name": ""
+                },
+                "End of Turn Fissures": {
+                    "name": "",
+                    "condition": "",
+                    "chatFlavor": ""
+                },
+                "Collapsing Structure Save": {
+                    "name": "",
+                    "condition": "",
+                    "range": ""
+                }
+            },
+            "effects": {
+                "Buried in Rubble": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Eldritch Blast": {
+            "name": "",
+            "description": ""
+        },
+        "Elementalism": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Beckon Element": {
+                    "name": "",
+                    "chatFlavor": ""
+                },
+                "Sculpt Element": {
+                    "name": ""
+                }
+            }
+        },
+        "Enhance Ability": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Enhanced Strength": {
+                    "name": "",
+                    "description": ""
+                },
+                "Enhanced Dexterity": {
+                    "name": "",
+                    "description": ""
+                },
+                "Enhanced Intelligence": {
+                    "name": "",
+                    "description": ""
+                },
+                "Enhanced Wisdom": {
+                    "name": "",
+                    "description": ""
+                },
+                "Enhanced Charisma": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Enlarge/Reduce": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Enlarged": {
+                    "name": "",
+                    "description": ""
+                },
+                "Reduced": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Ensnaring Strike": {
+            "name": "",
+            "description": "",
+            "condition": "",
+            "activities": {
+                "Start of Turn Damage": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Ensnared": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Entangle": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Enthrall": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Distracted": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Etherealness": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Enter Border Ethereal": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Etherealness": {
+                    "name": ""
+                }
+            }
+        },
+        "Expeditious Retreat": {
+            "name": "",
+            "description": ""
+        },
+        "Eyebite": {
+            "name": "",
+            "description": "",
+            "specialTarget": "",
+            "activities": {
+                "Initial Cast": {
+                    "name": ""
+                },
+                "While Concentrating": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Asleep": {
+                    "name": "",
+                    "description": ""
+                },
+                "Panicked": {
+                    "name": "",
+                    "description": ""
+                },
+                "Sickened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Fabricate": {
+            "name": "",
+            "description": ""
+        },
+        "Faerie Fire": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Outlined": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Faithful Hound": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Move Hound": {
+                    "name": ""
+                }
+            }
+        },
+        "False Life": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Temporary Health": {
+                    "name": ""
+                }
+            }
         },
         "Fear": {
-          "name": "" 
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Fear": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Pain": {
-          "name": "" 
+        "Feather Fall": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "condition": ""
+        },
+        "Find Familiar": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "summon": {
+                    "profiles": {
+                        "CR 0 Beast": {
+                            "name": ""
+                        }
+                    }
+                }
+            }
+        },
+        "Find Steed": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Summon Steed": {
+                    "name": ""
+                },
+                "Summon Flying Steed": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Flying Steed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Find Traps": {
+            "name": "",
+            "description": ""
+        },
+        "Find the Path": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": ""
+        },
+        "Finger of Death": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Negative Energy Save": {
+                    "name": ""
+                },
+                "Raise Zombie": {
+                    "name": ""
+                }
+            }
+        },
+        "Fire Bolt": {
+            "name": "",
+            "description": ""
+        },
+        "Fire Shield": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Warm Shield": {
+                    "name": "",
+                    "description": ""
+                },
+                "Chill Shield": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Fire Storm": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Create Storm": {
+                    "name": ""
+                }
+            }
+        },
+        "Fireball": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Flame Blade": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Evoke Blade": {
+                    "name": ""
+                }
+            }
+        },
+        "Flame Strike": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Flaming Sphere": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Flesh to Stone": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Turning to Stone": {
+                    "name": "",
+                    "description": ""
+                },
+                "Unable to Move": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Floating Disk": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Fly": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Flight": {
+                    "name": ""
+                }
+            }
+        },
+        "Fog Cloud": {
+            "name": "",
+            "description": ""
+        },
+        "Forbiddance": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "activities": {
+                "Create Ward": {
+                    "name": ""
+                },
+                "Damage Forbidden Creature": {
+                    "name": "",
+                    "condition": "",
+                    "range": ""
+                }
+            }
+        },
+        "Forcecage": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Cage": {
+                    "name": ""
+                },
+                "Create Solid Box": {
+                    "name": ""
+                }
+            }
+        },
+        "Foresight": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Bestow Foresight": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Foresight": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Freedom of Movement": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Unrestricted Movement": {
+                    "name": ""
+                }
+            }
+        },
+        "Freezing Sphere": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Cast and Fire": {
+                    "name": ""
+                },
+                "Freeze Water": {
+                    "name": "",
+                    "condition": "",
+                    "target": ""
+                },
+                "Cast and Hold": {
+                    "name": ""
+                },
+                "Throw Held Globe": {
+                    "name": "",
+                    "range": ""
+                }
+            },
+            "effects": {
+                "Trapped in Ice": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Gaseous Form": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Gaseous Form": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Gate": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Small Vertical Portal": {
+                    "name": ""
+                },
+                "Large Vertical Portal": {
+                    "name": ""
+                },
+                "Small Horizontal Portal": {
+                    "name": ""
+                },
+                "Large Horizontal Portal": {
+                    "name": ""
+                }
+            }
+        },
+        "Geas": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Under Orders": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Gentle Repose": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Giant Insect": {
+            "name": "",
+            "description": ""
+        },
+        "Glibness": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Glib": {
+                    "name": ""
+                }
+            }
+        },
+        "Globe of Invulnerability": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Glyph of Warding": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Spell Glyph": {
+                    "name": ""
+                },
+                "Explosive Rune": {
+                    "name": ""
+                }
+            }
+        },
+        "Goodberry": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Berries": {
+                    "name": ""
+                }
+            }
+        },
+        "Grease": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Greater Invisibility": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Invisible": {
+                    "name": ""
+                }
+            }
+        },
+        "Greater Restoration": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Guardian of Faith": {
+            "name": "",
+            "description": ""
+        },
+        "Guards and Wards": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": ""
+        },
+        "Guidance": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Acrobatic Guidance": {
+                    "name": ""
+                },
+                "Animal Handling Guidance": {
+                    "name": ""
+                },
+                "Arcana Guidance": {
+                    "name": ""
+                },
+                "Athletic Guidance": {
+                    "name": ""
+                },
+                "Deception Guidance": {
+                    "name": ""
+                },
+                "History Guidance": {
+                    "name": ""
+                },
+                "Insight Guidance": {
+                    "name": ""
+                },
+                "Investigation Guidance": {
+                    "name": ""
+                },
+                "Intimidation Guidance": {
+                    "name": ""
+                },
+                "Medicine Guidance": {
+                    "name": ""
+                },
+                "Nature Guidance": {
+                    "name": ""
+                },
+                "Persuasion Guidance": {
+                    "name": ""
+                },
+                "Perception Guidance": {
+                    "name": ""
+                },
+                "Performance Guidance": {
+                    "name": ""
+                },
+                "Religion Guidance": {
+                    "name": ""
+                },
+                "Sleight of Hand Guidance": {
+                    "name": ""
+                },
+                "Stealth Guidance": {
+                    "name": ""
+                },
+                "Survival Guidance": {
+                    "name": ""
+                }
+            }
+        },
+        "Guiding Bolt": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Guiding Bolt": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Gust of Wind": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Hallow": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Hallucinatory Terrain": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Harm": {
+            "name": "",
+            "description": ""
+        },
+        "Haste": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Cast": {
+                    "name": ""
+                },
+                "Apply Lethargy": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Hasted": {
+                    "name": "",
+                    "description": ""
+                },
+                "Lethargy": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Heal": {
+            "name": "",
+            "description": ""
+        },
+        "Healing Word": {
+            "name": "",
+            "description": ""
+        },
+        "Heat Metal": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "On Damage Save": {
+                    "name": ""
+                },
+                "Cast and Heat": {
+                    "name": ""
+                },
+                "Reheat": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Heated Metal": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Hellish Rebuke": {
+            "name": "",
+            "description": "",
+            "condition": ""
+        },
+        "Heroes' Feast": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "activities": {
+                "Conjure Feast": {
+                    "name": ""
+                },
+                "Consume Feast": {
+                    "name": "",
+                    "chatFlavor": ""
+                }
+            },
+            "effects": {
+                "Feast's Benefits": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Heroism": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Bravery": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Hex": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Bonus Hex Damage": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Place Curse": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Hexed Strength": {
+                    "name": "",
+                    "description": ""
+                },
+                "Hexed Dexterity": {
+                    "name": "",
+                    "description": ""
+                },
+                "Hexed Constitution": {
+                    "name": "",
+                    "description": ""
+                },
+                "Hexed Intelligence": {
+                    "name": "",
+                    "description": ""
+                },
+                "Hexed Wisdom": {
+                    "name": "",
+                    "description": ""
+                },
+                "Hexed Charisma": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Hideous Laughter": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Uncontrollable Laughter": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Hold Monster": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Paralyzed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Hold Person": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Paralyzed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Holy Aura": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Aura": {
+                    "name": ""
+                },
+                "Fiend/Undead Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Holy Protection": {
+                    "name": ""
+                },
+                "Blinded": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Hunter's Mark": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Bonus Mark Damage": {
+                    "name": ""
+                },
+                "Mark Creature": {
+                    "name": ""
+                }
+            }
+        },
+        "Hypnotic Pattern": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Hypnotized": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Ice Storm": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Identify": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Illusory Script": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Imprisonment": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Burial": {
+                    "name": "",
+                    "description": ""
+                },
+                "Chaining": {
+                    "name": "",
+                    "description": ""
+                },
+                "Hedged Prison": {
+                    "name": "",
+                    "description": ""
+                },
+                "Minimus Containment": {
+                    "name": "",
+                    "description": ""
+                },
+                "Slumber": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Incendiary Cloud": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Create Cloud": {
+                    "name": ""
+                },
+                "Per Turn Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Inflict Wounds": {
+            "name": "",
+            "description": ""
+        },
+        "Insect Plague": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Instant Summons": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Inscribe Mark": {
+                    "name": ""
+                },
+                "Recall Object": {
+                    "name": ""
+                }
+            }
+        },
+        "Invisibility": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Invisible": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Irresistible Dance": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Irresistible Dance": {
+                    "name": "",
+                    "description": ""
+                },
+                "Short Dance": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Jump": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Jump": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Knock": {
+            "name": "",
+            "description": ""
+        },
+        "Legend Lore": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Lesser Restoration": {
+            "name": "",
+            "description": ""
+        },
+        "Levitate": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Levitating": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Light": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Lightning Bolt": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Locate Animals or Plants": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Locate Creature": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Locate Object": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Longstrider": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Longstrider": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Mage Armor": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Mage Armor": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Mage Hand": {
+            "name": "",
+            "description": ""
+        },
+        "Magic Circle": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Magic Jar": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "activities": {
+                "Transfer Soul": {
+                    "name": ""
+                },
+                "Possess Humanoid": {
+                    "name": "",
+                    "condition": "",
+                    "target": ""
+                },
+                "Return from Host": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Catatonic": {
+                    "name": "",
+                    "description": ""
+                },
+                "Trapped Soul": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Magic Missile": {
+            "name": "",
+            "description": ""
+        },
+        "Magic Mouth": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Magic Weapon": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Magic Weapon +1": {
+                    "name": "",
+                    "description": "",
+                    "changes": {
+                        "name": ""
+                    }
+                },
+                "Magic Weapon +2": {
+                    "name": "",
+                    "description": "",
+                    "changes": {
+                        "name": ""
+                    }
+                },
+                "Magic Weapon +3": {
+                    "name": "",
+                    "description": "",
+                    "changes": {
+                        "name": ""
+                    }
+                }
+            }
+        },
+        "Magical Berries": {
+            "name": "",
+            "description": ""
+        },
+        "Magnificent Mansion": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Door": {
+                    "name": ""
+                }
+            }
+        },
+        "Major Image": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Mass Cure Wounds": {
+            "name": "",
+            "description": ""
+        },
+        "Mass Heal": {
+            "name": "",
+            "description": ""
+        },
+        "Mass Healing Word": {
+            "name": "",
+            "description": ""
+        },
+        "Mass Suggestion": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Charmed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Maze": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Banish to Maze": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Banished": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Meld into Stone": {
+            "name": "",
+            "description": ""
+        },
+        "Mending": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Message": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Meteor Swarm": {
+            "name": "",
+            "description": ""
+        },
+        "Mind Blank": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Mind Blanked": {
+                    "name": ""
+                }
+            }
+        },
+        "Mind Spike": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Spiked": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Minor Illusion": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Illusion": {
+                    "name": "",
+                    "profiles": {
+                        "Image": {
+                            "name": ""
+                        },
+                        "Sound": {
+                            "name": ""
+                        }
+                    }
+                }
+            }
+        },
+        "Mirage Arcane": {
+            "name": "",
+            "description": "",
+            "specialRange": "",
+            "specialTarget": "",
+            "activities": {
+                "Alter Terrain": {
+                    "name": ""
+                }
+            }
+        },
+        "Mirror Image": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Duplicate A": {
+                    "name": ""
+                },
+                "Duplicate B": {
+                    "name": ""
+                },
+                "Duplicate C": {
+                    "name": ""
+                }
+            }
+        },
+        "Mislead": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Invisible": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Misty Step": {
+            "name": "",
+            "description": ""
+        },
+        "Modify Memory": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Memory Modification": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Moonbeam": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Move Earth": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Initial Cast": {
+                    "name": ""
+                },
+                "Affect New Area": {
+                    "name": ""
+                }
+            }
+        },
+        "Nondetection": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Hidden from Divination": {
+                    "name": ""
+                }
+            }
+        },
+        "Pass without Trace": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Concealed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Passwall": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Phantasmal Force": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Cast": {
+                    "name": ""
+                },
+                "Phantasm Damage": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Seeing Illusions": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Phantasmal Killer": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Fears Manifested": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Phantom Steed": {
+            "name": "",
+            "description": ""
+        },
+        "Planar Ally": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Beseech Entity": {
+                    "name": ""
+                }
+            }
+        },
+        "Planar Binding": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Bound to Service": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Plane Shift": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "activities": {
+                "Transport": {
+                    "name": ""
+                }
+            }
+        },
+        "Plant Growth": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Overgrowth": {
+                    "name": ""
+                },
+                "Enrichment": {
+                    "name": ""
+                }
+            }
+        },
+        "Poison Spray": {
+            "name": "",
+            "description": ""
+        },
+        "Polymorph": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Power Word Heal": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Heal Fully": {
+                    "name": ""
+                }
+            }
+        },
+        "Power Word Kill": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Compel to Die": {
+                    "name": ""
+                }
+            }
+        },
+        "Power Word Stun": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Stunned": {
+                    "name": "",
+                    "description": ""
+                },
+                "No Movement": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Prayer of Healing": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Healed by Prayer": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Prestidigitation": {
+            "name": "",
+            "description": ""
+        },
+        "Prismatic Spray": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Cast": {
+                    "name": ""
+                },
+                "Indigo Save (Con)": {
+                    "name": ""
+                },
+                "Violet Save (Wis)": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Petrifying (Indigo)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Teleporting (Violet)": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Prismatic Wall": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Create Wall": {
+                    "name": ""
+                },
+                "Create Globe": {
+                    "name": ""
+                },
+                "Blinding Save": {
+                    "name": "",
+                    "range": ""
+                },
+                "Traversal Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Prismatic Blinding": {
+                    "name": "",
+                    "description": ""
+                },
+                "Restrained (Indigo)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Blinded (Violet)": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Private Sanctum": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Produce Flame": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Cast": {
+                    "name": ""
+                },
+                "Hurl Fire": {
+                    "name": ""
+                }
+            }
+        },
+        "Programmed Illusion": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Illusion": {
+                    "name": ""
+                }
+            }
+        },
+        "Project Image": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Illusion": {
+                    "name": ""
+                }
+            }
+        },
+        "Protection from Energy": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Acid Protection": {
+                    "name": ""
+                },
+                "Cold Protection": {
+                    "name": ""
+                },
+                "Fire Protection": {
+                    "name": ""
+                },
+                "Lightning Protection": {
+                    "name": ""
+                },
+                "Thunder Protection": {
+                    "name": ""
+                }
+            }
+        },
+        "Protection from Evil and Good": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Protected": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Protection from Poison": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Poison Protection": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Purify Food and Drink": {
+            "name": "",
+            "description": ""
+        },
+        "Raise Dead": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "activities": {
+                "Revive": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Resurrection Sickness (Day 1)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Resurrection Sickness (Day 2)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Resurrection Sickness (Day 4)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Resurrection Sickness (Day 3)": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Ray of Enfeeblement": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Brief Enfeeblement": {
+                    "name": "",
+                    "description": ""
+                },
+                "Enervated": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Ray of Frost": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Reduced Movement": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Ray of Sickness": {
+            "name": "",
+            "description": ""
+        },
+        "Regenerate": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Regenerating": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Reincarnate": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": ""
+        },
+        "Remove Curse": {
+            "name": "",
+            "description": ""
+        },
+        "Resilient Sphere": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "effects": {
+                "Enclosed in Sphere": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Resistance": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "utility": {
+                    "roll": ""
+                }
+            },
+            "effects": {
+                "Acid Protection": {
+                    "name": "",
+                    "description": ""
+                },
+                "Bludgeoning Protection": {
+                    "name": "",
+                    "description": ""
+                },
+                "Cold Protection": {
+                    "name": "",
+                    "description": ""
+                },
+                "Fire Protection": {
+                    "name": "",
+                    "description": ""
+                },
+                "Lightning Protection": {
+                    "name": "",
+                    "description": ""
+                },
+                "Necrotic Protection": {
+                    "name": "",
+                    "description": ""
+                },
+                "Piercing Protection": {
+                    "name": "",
+                    "description": ""
+                },
+                "Poison Protection": {
+                    "name": "",
+                    "description": ""
+                },
+                "Radiant Protection": {
+                    "name": "",
+                    "description": ""
+                },
+                "Slashing Protection": {
+                    "name": "",
+                    "description": ""
+                },
+                "Thunder Protection": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Resurrection": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Cast": {
+                    "name": ""
+                },
+                "Taxing Cast": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Resurrection Sickness (Day 1)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Resurrection Sickness (Day 2)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Resurrection Sickness (Day 3)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Resurrection Sickness (Day 4)": {
+                    "name": "",
+                    "description": ""
+                },
+                "Spell Taxed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Reverse Gravity": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Revivify": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Rope Trick": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Sacred Flame": {
+            "name": "",
+            "description": ""
+        },
+        "Sanctuary": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Cast": {
+                    "name": ""
+                },
+                "Save on Target": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Warded": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Scorching Ray": {
+            "name": "",
+            "description": ""
+        },
+        "Scrying": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "activities": {
+                "Secondhand and Picture": {
+                    "name": ""
+                },
+                "Secondhand and Garment": {
+                    "name": ""
+                },
+                "Secondhand and Body Part": {
+                    "name": ""
+                },
+                "Firsthand and Picture": {
+                    "name": ""
+                },
+                "Firsthand and Garment": {
+                    "name": ""
+                },
+                "Firsthand and Body Part": {
+                    "name": ""
+                },
+                "Extensive and Picture": {
+                    "name": ""
+                },
+                "Extensive and Garment": {
+                    "name": ""
+                },
+                "Extensive and Body Part": {
+                    "name": ""
+                },
+                "Create Sensor": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Searing Smite": {
+            "name": "",
+            "description": "",
+            "condition": "",
+            "activities": {
+                "Start of Turn Save": {
+                    "name": ""
+                },
+                "Damage": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Seared": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Secret Chest": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Recall Chest": {
+                    "name": ""
+                },
+                "Hide Chest": {
+                    "name": ""
+                }
+            }
+        },
+        "See Invisibility": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "See Invisibility": {
+                    "name": ""
+                }
+            }
+        },
+        "Seeming": {
+            "name": "",
+            "description": "",
+            "specialTarget": "",
+            "activities": {
+                "Unwilling Save": {
+                    "name": ""
+                },
+                "Change Appearance": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Changed Appearance": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Sending": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Sequester": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Sequestered": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Shapechange": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Shatter": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Shield": {
+            "name": "",
+            "description": "",
+            "condition": "",
+            "effects": {
+                "Imperceptible Barrier": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Shield of Faith": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Shimmering Field": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Shillelagh": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "activities": {
+                "Imbue Weapon": {
+                    "name": ""
+                },
+                "Spellcasting Attack": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Shillelagh (1d8)": {
+                    "name": "",
+                    "changes": {
+                        "name": ""
+                    }
+                },
+                "Shillelagh (1d10)": {
+                    "name": "",
+                    "changes": {
+                        "name": ""
+                    }
+                },
+                "Shillelagh (1d12)": {
+                    "name": "",
+                    "changes": {
+                        "name": ""
+                    }
+                },
+                "Shillelagh (2d6)": {
+                    "name": "",
+                    "changes": {
+                        "name": ""
+                    }
+                }
+            }
+        },
+        "Shining Smite": {
+            "name": "",
+            "description": "",
+            "condition": "",
+            "effects": {
+                "Shining": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Shocking Grasp": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Shocked": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Silence": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Silenced": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Silent Image": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "condition": ""
+        },
+        "Simulacrum": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "activities": {
+                "Create Simulacrum": {
+                    "name": ""
+                }
+            }
         },
         "Sleep": {
-          "name": "" 
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Sleeping": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Stunning": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Arguing": {
-          "name": "" ,
-          "description": "" 
+        "Sleet Storm": {
+            "name": "",
+            "description": "",
+            "materials": ""
         },
-        "Frightened": {
-          "name": "" ,
-          "description": "" 
+        "Slow": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Slowed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Incapacitated": {
-          "name": "" 
+        "Sorcerous Burst": {
+            "name": "",
+            "description": ""
         },
-        "Sleeping": {
-          "name": "" ,
-          "description": "" 
+        "Spare the Dying": {
+            "name": "",
+            "description": "",
+            "specialTarget": "",
+            "effects": {
+                "Stabilized": {
+                    "name": ""
+                }
+            }
         },
-        "Stunned": {
-          "name": "" 
-        }
-      }
-    },
-    "Telekinesis": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Telepathic Bond": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Forge Telepathic Link": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Bonded Telepathy": {
-          "name": "" 
-        }
-      }
-    },
-    "Teleport": {
-      "name": "" ,
-      "description": "" ,
-      "specialTarget": "" 
-    },
-    "Teleportation Circle": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Thaumaturgy": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Thunderwave": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Time Stop": {
-      "name": "" ,
-      "description": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "utility": {
-          "roll": "" 
-        }
-      }
-    },
-    "Tiny Hut": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Tongues": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Universal Communication": {
-          "name": "" 
-        }
-      }
-    },
-    "Transport via Plants": {
-      "name": "" ,
-      "description": "" ,
-      "specialTarget": "" 
-    },
-    "Tree Stride": {
-      "name": "" ,
-      "description": "" 
-    },
-    "True Polymorph": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "True Resurrection": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" 
-    },
-    "True Seeing": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Grant Truesight": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Truesight": {
-          "name": "" 
-        }
-      }
-    },
-    "True Strike": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Enchant Weapon": {
-          "name": "" 
+        "Speak with Animals": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Bestial Communication": {
+                    "name": ""
+                }
+            }
         },
-        "Spellcasting Attack": {
-          "name": "" 
+        "Speak with Dead": {
+            "name": "",
+            "description": "",
+            "materials": ""
         },
-        "cGNXKjpoRima6wjQ": {
-          "name": "" 
-        }
-      },
-      "effects": {
+        "Speak with Plants": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Speaking with Plants": {
+                    "name": ""
+                }
+            }
+        },
+        "Spider Climb": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Spider Climb": {
+                    "name": ""
+                }
+            }
+        },
+        "Spike Growth": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Spirit Guardians": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Emanation Save": {
+                    "name": ""
+                },
+                "Cast": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Half Speed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Spiritual Weapon": {
+            "name": "",
+            "description": ""
+        },
+        "Starry Wisp": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Illuminated": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Stinking Cloud": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Start of Turn Save": {
+                    "name": ""
+                },
+                "Create Cloud": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Stinking Poison": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Stone Shape": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Stoneskin": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Stoneskin": {
+                    "name": ""
+                }
+            }
+        },
+        "Storm of Vengeance": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Create Storm": {
+                    "name": ""
+                },
+                "Turn 2: Acid Rain": {
+                    "name": "",
+                    "condition": "",
+                    "target": ""
+                },
+                "Turn 3: Lightning": {
+                    "name": "",
+                    "condition": "",
+                    "target": ""
+                },
+                "Turn 4: Hailstones": {
+                    "name": "",
+                    "condition": "",
+                    "target": ""
+                },
+                "Turn 5+: Gusts and Rain": {
+                    "name": "",
+                    "condition": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Deafened": {
+                    "name": ""
+                }
+            }
+        },
+        "Suggestion": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Pursuing Suggestion": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Summon Dragon": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Sunbeam": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Initial Cast": {
+                    "name": ""
+                },
+                "Create New Sunbeam": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Blinded": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Sunburst": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Blinded": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Symbol": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Inscribe Glyph": {
+                    "name": ""
+                },
+                "Death": {
+                    "name": ""
+                },
+                "Discord": {
+                    "name": ""
+                },
+                "Fear": {
+                    "name": ""
+                },
+                "Pain": {
+                    "name": ""
+                },
+                "Sleep": {
+                    "name": ""
+                },
+                "Stunning": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Arguing": {
+                    "name": "",
+                    "description": ""
+                },
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                },
+                "Incapacitated": {
+                    "name": ""
+                },
+                "Sleeping": {
+                    "name": "",
+                    "description": ""
+                },
+                "Stunned": {
+                    "name": ""
+                }
+            }
+        },
+        "Telekinesis": {
+            "name": "",
+            "description": ""
+        },
+        "Telepathic Bond": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Forge Telepathic Link": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Bonded Telepathy": {
+                    "name": ""
+                }
+            }
+        },
+        "Teleport": {
+            "name": "",
+            "description": "",
+            "specialTarget": ""
+        },
+        "Teleportation Circle": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Thaumaturgy": {
+            "name": "",
+            "description": ""
+        },
+        "Thunderwave": {
+            "name": "",
+            "description": ""
+        },
+        "Time Stop": {
+            "name": "",
+            "description": "",
+            "specialTarget": "",
+            "activities": {
+                "utility": {
+                    "roll": ""
+                }
+            }
+        },
+        "Tiny Hut": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Tongues": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Universal Communication": {
+                    "name": ""
+                }
+            }
+        },
+        "Transport via Plants": {
+            "name": "",
+            "description": "",
+            "specialTarget": ""
+        },
+        "Tree Stride": {
+            "name": "",
+            "description": ""
+        },
+        "True Polymorph": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "True Resurrection": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": ""
+        },
+        "True Seeing": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Grant Truesight": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Truesight": {
+                    "name": ""
+                }
+            }
+        },
         "True Strike": {
-          "name": "" ,
-          "changes": {
-            "name": "" 
-          }
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Enchant Weapon": {
+                    "name": ""
+                },
+                "Spellcasting Attack": {
+                    "name": ""
+                },
+                "cGNXKjpoRima6wjQ": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "True Strike": {
+                    "name": "",
+                    "changes": {
+                        "name": ""
+                    }
+                },
+                "Ranged Weapon": {
+                    "name": "",
+                    "changes": {
+                        "name": ""
+                    }
+                }
+            }
         },
-        "Ranged Weapon": {
-          "name": "" ,
-          "changes": {
-            "name": "" 
-          }
-        }
-      }
-    },
-    "Tsunami": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "Create Tsunami": {
-          "name": "" 
+        "Tsunami": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Create Tsunami": {
+                    "name": ""
+                },
+                "Start of Turn Effects": {
+                    "name": "",
+                    "condition": "",
+                    "range": ""
+                }
+            }
         },
-        "Start of Turn Effects": {
-          "name": "" ,
-          "condition": "" ,
-          "range": "" 
-        }
-      }
-    },
-    "Unseen Servant": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Vampiric Touch": {
-      "name": "" ,
-      "description": "" 
-    },
-    "Vicious Mockery": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Mocked": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Vitriolic Sphere": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "End of Turn Damage": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Lingering Acid": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Wall of Fire": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Wall": {
-          "name": "" 
+        "Unseen Servant": {
+            "name": "",
+            "description": "",
+            "materials": ""
         },
-        "Create Ring": {
-          "name": "" 
-        }
-      }
-    },
-    "Wall of Force": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Sphere or Globe": {
-          "name": "" 
+        "Vampiric Touch": {
+            "name": "",
+            "description": ""
         },
-        "Panels": {
-          "name": "" 
-        }
-      }
-    },
-    "Wall of Ice": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Create Globe": {
-          "name": "" 
+        "Vicious Mockery": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Mocked": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Create Panels": {
-          "name": "" 
+        "Vitriolic Sphere": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "End of Turn Damage": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Lingering Acid": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Frigid Air": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Wall of Stone": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Square Panels": {
-          "name": "" 
+        "Wall of Fire": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Wall": {
+                    "name": ""
+                },
+                "Create Ring": {
+                    "name": ""
+                }
+            }
         },
-        "Long Panels": {
-          "name": "" 
-        }
-      }
-    },
-    "Wall of Thorns": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Wall": {
-          "name": "" 
+        "Wall of Force": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Sphere or Globe": {
+                    "name": ""
+                },
+                "Panels": {
+                    "name": ""
+                }
+            }
         },
-        "Create Circle": {
-          "name": "" 
+        "Wall of Ice": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "activities": {
+                "Create Globe": {
+                    "name": ""
+                },
+                "Create Panels": {
+                    "name": ""
+                },
+                "Frigid Air": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
         },
-        "Traversal Save": {
-          "name": "" ,
-          "condition": "" 
-        }
-      }
-    },
-    "Warding Bond": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Bonded": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Water Breathing": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
+        "Wall of Stone": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Square Panels": {
+                    "name": ""
+                },
+                "Long Panels": {
+                    "name": ""
+                }
+            }
+        },
+        "Wall of Thorns": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Wall": {
+                    "name": ""
+                },
+                "Create Circle": {
+                    "name": ""
+                },
+                "Traversal Save": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Warding Bond": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Bonded": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
         "Water Breathing": {
-          "name": "" 
-        }
-      }
-    },
-    "Water Walk": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "effects": {
-        "Water Walking": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Web": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" 
-    },
-    "Weird": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "End of Turn Save": {
-          "name": "" ,
-          "condition": "" 
-        }
-      },
-      "effects": {
-        "Frightening Terrors": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Wind Walk": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Transform to Cloud": {
-          "name": "" 
-        }
-      },
-      "effects": {
-        "Cloud Form": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Wind Wall": {
-      "name": "" ,
-      "description": "" ,
-      "materials": "" ,
-      "activities": {
-        "Create Single Wall": {
-          "name": "" 
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Water Breathing": {
+                    "name": ""
+                }
+            }
         },
-        "Create Segmented Wall": {
-          "name": "" 
-        }
-      }
-    },
-    "Wish": {
-      "name": "" ,
-      "description": "" ,
-      "activities": {
-        "utility": {
-          "roll": "" ,
-          "chatFlavor": "" 
-        }
-      },
-      "effects": {
-        "Wish Stress": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
-    },
-    "Word of Recall": {
-      "name": "" ,
-      "description": "" ,
-      "specialTarget": "" ,
-      "activities": {
-        "Teleport to Sanctuary": {
-          "name": "" 
+        "Water Walk": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "effects": {
+                "Water Walking": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Designate Sanctuary": {
-          "name": "" 
+        "Web": {
+            "name": "",
+            "description": "",
+            "materials": ""
+        },
+        "Weird": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "End of Turn Save": {
+                    "name": "",
+                    "condition": ""
+                }
+            },
+            "effects": {
+                "Frightening Terrors": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Wind Walk": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "specialTarget": "",
+            "activities": {
+                "Transform to Cloud": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Cloud Form": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Wind Wall": {
+            "name": "",
+            "description": "",
+            "materials": "",
+            "activities": {
+                "Create Single Wall": {
+                    "name": ""
+                },
+                "Create Segmented Wall": {
+                    "name": ""
+                }
+            }
+        },
+        "Wish": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "utility": {
+                    "roll": "",
+                    "chatFlavor": ""
+                }
+            },
+            "effects": {
+                "Wish Stress": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Word of Recall": {
+            "name": "",
+            "description": "",
+            "specialTarget": "",
+            "activities": {
+                "Teleport to Sanctuary": {
+                    "name": ""
+                },
+                "Designate Sanctuary": {
+                    "name": ""
+                }
+            }
+        },
+        "Zone of Truth": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Cannot Lie": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         }
-      }
-    },
-    "Zone of Truth": {
-      "name": "" ,
-      "description": "" ,
-      "effects": {
-        "Cannot Lie": {
-          "name": "" ,
-          "description": "" 
-        }
-      }
     }
-  }
 }
