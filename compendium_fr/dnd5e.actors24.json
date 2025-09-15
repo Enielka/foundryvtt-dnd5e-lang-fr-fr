@@ -1675,9 +1675,9 @@
             }
         },
         "Airship": {
-            "name": "",
-            "tokenName": "",
-            "description": ""
+            "name": "Dirigeable",
+            "tokenName": "Dirigeable",
+            "description": "<p><strong>Vitesse :</strong>12 km/h</p><p><strong>Équipage :</strong> 10</p><p><strong>Passagers:</strong> 20</p><p><strong>Cargaison (tonnes) :</strong> 1</p><p><strong>CA :</strong> 13</p><p><strong>pv :</strong> 300</p><p><strong>Seuil de dégâts :</strong> —</p><p><strong>Prix :</strong> 40 000 po</p>"
         },
         "Allosaurus": {
             "name": "",
@@ -3548,58 +3548,58 @@
             "description": "",
             "items": {
                 "Claw Attack": {
-                    "name": "",
-                    "description": "",
-                    "requirements": ""
+                    "name": "Attaque de pince",
+                    "description": "<p>Chaque pince déployée effectue l'attaque de corps à corps suivante : +8 pour toucher, allonge 1,50 m. <em>Touché :</em> 7 (2d6) dégâts contondants.</p>",
+                    "requirements": "Levier 4 : Haut"
                 },
                 "Grapple Attack": {
-                    "name": "",
-                    "description": "",
-                    "requirements": "",
+                    "name": "Attaque de lutte",
+                    "description": "<p>Chaque pince déployée effectue l'attaque de corps à corps suivante : +8 pour toucher, allonge 1,50 m. <em>Touché :</em> La cible subit l'état &Reference[Grappled] (évasion DD 15).</p>",
+                    "requirements": "Levier 4 : Bas",
                     "activities": {
                         "attack": {
-                            "chatFlavor": ""
+                            "chatFlavor": "&Reference[grappled] en cas de touche"
                         },
                         "Grapple Escape Check": {
-                            "name": ""
+                            "name": "Test de libération de la lutte"
                         }
                     }
                 }
             },
             "effects": {
                 "Legs Extended": {
-                    "name": ""
+                    "name": "Pattes déployées"
                 },
                 "Claws Extended": {
-                    "name": ""
+                    "name": "Pinces déployées"
                 },
                 "Forward Shutter Open": {
-                    "name": ""
+                    "name": "Volet avant ouvert"
                 },
                 "Side Shutters Open": {
-                    "name": ""
+                    "name": "Volets latéraux ouverts"
                 },
                 "Rear Hatch Open": {
-                    "name": ""
+                    "name": "Écoutille arrière ouverte"
                 },
                 "Lights Activated": {
-                    "name": "",
-                    "description": ""
+                    "name": "Lumières activées",
+                    "description": "<p>Des yeux mécaniques émettent une Lumière vive dans un rayon de 9 met une Lumière faible sur 9 m de plus.</p>"
                 }
             }
         },
         "Arcane Eye": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "name": "Œil du mage",
+            "tokenName": "Œil du mage",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplArcaneEye0 caption=false]</p>",
+            "customType": "Œil invulnérable",
             "items": {
                 "Move": {
-                    "name": "",
-                    "description": "",
+                    "name": "Déplacement",
+                    "description": "<p>Par une action Bonus, vous pouvez déplacer l'œil d'un maximum de 9 m dans la direction de votre choix. Un obstacle solide bloque les déplacements de l'œil, mais celui-ci peut se glisser dans un interstice d'une largeur minimale de 2,5 cm.</p>",
                     "activities": {
                         "utility": {
-                            "condition": ""
+                            "condition": "Action Bonus utilisée par l'invocateur"
                         }
                     }
                 }
@@ -3607,51 +3607,51 @@
         },
         "Arcane Hand": {
             "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "tokenName": "Main de Bigby",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplBigbysHand caption=false]</p>",
+            "customType": "Énergies chatoyantes",
             "items": {
                 "Clenched Fist": {
-                    "name": "",
-                    "description": ""
+                    "name": "Poing serré",
+                    "description": "<p>La main frappe une cible dans un rayon de 1,50 m d'elle. Effectuez une attaque de sort au corps à corps. Si l'attaque touche, la cible subit 5d8 dégâts de force.</p>"
                 },
                 "Forceful Hand": {
-                    "name": "",
-                    "description": "",
+                    "name": "Main impérieuse",
+                    "description": "<p>La main tente de pousser une créature de taille TG ou inférieure située dans un rayon de 1,50 m d'elle. La cible doit réussir un jet de sauvegarde de Force, sans quoi la main la repousse d'un maximum de 1,50 m, plus 1,50 m multiplié par votre modificateur de caractéristique d'incantation. La main se déplace avec la cible pour rester dans un rayon de 1,50 m d'elle.</p>",
                     "activities": {
                         "save": {
-                            "chatFlavor": ""
+                            "chatFlavor": "[[1.50 + 1.50 * @flags.dnd5e.summon.mod]] m de poussée"
                         }
                     }
                 },
                 "Grasping Hand": {
-                    "name": "",
-                    "description": "",
+                    "name": "Main agrippeuse",
+                    "description": "<p>La main tente d'agripper une créature de taille TG ou inférieure située dans un rayon de 1,50 m d'elle. La cible doit réussir un jet de sauvegarde de Dextérité sous peine de subir l'état &Reference[Grappled], le DD d'évasion étant égal à votre DD de sauvegarde des sorts. Tant que la main agrippe la cible, vous pouvez entreprendre une action Bonus pour que la main la broie et lui inflige des dégâts contondants égaux à 4d6 plus votre modificateur de caractéristique d'incantation.</p><h3>Tests d'évasion</h3><p>[[/check ability=str skill=ath dc=8+@prof+@flags.dnd5e.summon.mod]]{Force (Athlétisme)} [[/check ability=dex skill=acr dc=8+@prof+@flags.dnd5e.summon.mod]]{Dextérité (Acrobaties)}</p>",
                     "activities": {
                         "Grapple": {
-                            "name": ""
+                            "name": "Agripper"
                         },
                         "Crush": {
-                            "name": "",
-                            "condition": ""
+                            "name": "Broyer",
+                            "condition": "la main agrippe une créature"
                         }
                     }
                 },
                 "Interposing Hand": {
-                    "name": "",
-                    "description": "",
+                    "name": "Main interposée",
+                    "description": "<p>La main vous octroie un &Reference[HalfCover] contre les attaques et effets émanant de son espace ou qui le traversent. De plus, son espace est considéré comme un &Reference[DifficultTerrain] pour vos ennemis.</p>",
                     "activities": {
                         "Interpose": {
-                            "name": ""
+                            "name": "Interposer"
                         }
                     },
                     "effects": {
                         "Half Cover": {
-                            "name": ""
+                            "name": "Abri partiel"
                         },
                         "Interposed": {
-                            "name": "",
-                            "description": ""
+                            "name": "Interposé",
+                            "description": "<p>La main vous octroie un &Reference[HalfCover] contre les attaques et effets émanant de son espace ou qui le traversent.</p>"
                         }
                     }
                 }
@@ -3659,13 +3659,13 @@
         },
         "Arcane Sword": {
             "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "tokenName": "Épée de Mordenkainen",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbswdMordenkain caption=false]</p>",
+            "customType": "Épée spectrale",
             "items": {
                 "Move and Attack": {
-                    "name": "",
-                    "description": ""
+                    "name": "Déplacement et attaque",
+                    "description": "<p>À chacun de vos tours suivants, vous pouvez par une action Bonus déplacer l'épée d'un maximum de 9 m vers un point que vous voyez et réitérer l'attaque, contre la même cible ou une autre. Si l'attaque touche, la cible subit des dégâts de force égaux à 4d12 + votre modificateur de caractéristique d'incantation.</p>"
                 }
             }
         },
@@ -4061,38 +4061,38 @@
             }
         },
         "Avatar of Death": {
-            "name": "",
-            "tokenName": "",
+            "name": "Avatar de la Mort",
+            "tokenName": "Avatar de la Mort",
             "description": "",
-            "alignment": "",
-            "languages": "",
+            "alignment": "Neutre Mauvais",
+            "languages": "toutes les langues connues de la créature qui l'a convoqué",
             "items": {
                 "Incorporeal Movement": {
-                    "name": "",
-                    "description": "",
+                    "name": "Déplacement intangible",
+                    "description": "<p>L'avatar peut traverser d'autres créatures et objets comme s'il s'agissait d'un &Reference[DifficultTerrain]. Il subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.</p>",
                     "activities": {
                         "Self Damage": {
-                            "name": "",
-                            "condition": ""
+                            "name": "Auto-dégâts",
+                            "condition": "L'avatar termine son tour à l'intérieur d'un objet."
                         }
                     }
                 },
                 "Multiattack": {
-                    "name": "",
-                    "description": "",
+                    "name": "Attaques multiples",
+                    "description": "<p>L'avatar effectue autant d'attaques de [[/item .dmgaoiReapingScy]]{Faux tournoyante} que la moitié du bonus de maîtrise de son invocateur (arrondie au supérieur).</p><p>[[ceil(@prof/2)]]{Nombre d'attaques }</p>",
                     "activities": {
                         "Action": {
-                            "name": ""
+                            "name": "Action"
                         }
                     }
                 },
                 "Reaping Scythe": {
-                    "name": "",
-                    "description": "",
+                    "name": "Faux tournoyante",
+                    "description": "<p><em>Corps à corps :</em> Touché automatique, allonge 1,50 m. <em>Touché :</em> 7 (1d8 + 3) dégâts tranchants plus 4 (1d8) dégâts nécrotiques.</p>",
                     "activities": {
                         "Attack": {
-                            "name": "",
-                            "chatFlavor": ""
+                            "name": "Attaquer",
+                            "chatFlavor": "Touché automatique"
                         }
                     }
                 }
@@ -5227,69 +5227,69 @@
             }
         },
         "Carpet of Flying (3 by 5 ft.)": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "subtype": "",
-            "customType": "",
+            "name": "Tapis volant (90 cm par 1,50 m)",
+            "tokenName": "Tapis volant",
+            "description": "<p>@Embed[Compendium.dnd5e.equipment24.Item.dmgCarpetOfFlyin]</p>",
+            "subtype": "tapis",
+            "customType": "Objet magique",
             "items": {
                 "Carry Weight Adjustment": {
-                    "name": "",
-                    "description": ""
+                    "name": "Ajustement de la Capacité de charge",
+                    "description": "<p>Cet objet sert à compenser la capacité de charge calculée du tapis en fonction de ses dimensions.</p>"
                 }
             },
             "effects": {
                 "Overloaded": {
-                    "name": "",
-                    "description": ""
+                    "name": "Surchargé",
+                    "description": "<p>La Vitesse de vol du tapis est réduite de moitié s'il transporte plus que sa capacité normale.</p>"
                 }
             }
         },
         "Carpet of Flying (4 by 6 ft.)": {
-            "name": "",
-            "tokenName": "",
-            "subtype": "",
-            "customType": "",
+            "name": "Tapis volant (1,20 par 1,80 m)",
+            "tokenName": "Tapis volant",
+            "subtype": "tapis",
+            "customType": "Objet magique",
             "items": {
                 "Carry Weight Adjustment": {
-                    "name": "",
-                    "description": ""
+                    "name": "Ajustement de la Capacité de charge",
+                    "description": "<p>Cet objet sert à compenser la capacité de charge calculée du tapis en fonction de ses dimensions.</p>"
                 }
             },
             "effects": {
                 "Overloaded": {
-                    "name": "",
-                    "description": ""
+                    "name": "Surchargé",
+                    "description": "<p>La Vitesse de vol du tapis est réduite de moitié s'il transporte plus que sa capacité normale.</p>"
                 }
             }
         },
         "Carpet of Flying (5 by 7 ft.)": {
-            "name": "",
-            "tokenName": "",
-            "subtype": "",
-            "customType": "",
+            "name": "Tapis volant (1,50 par 2,10 m)",
+            "tokenName": "Tapis volant",
+            "subtype": "tapis",
+            "customType": "Objet magique",
             "effects": {
                 "Overloaded": {
-                    "name": "",
-                    "description": ""
+                    "name": "Surchargé",
+                    "description": "<p>La Vitesse de vol du tapis est réduite de moitié s'il transporte plus que sa capacité normale.</p>"
                 }
             }
         },
         "Carpet of Flying (6 by 9 ft.)": {
-            "name": "",
-            "tokenName": "",
-            "subtype": "",
-            "customType": "",
+            "name": "Tapis volant (1,80 par 2,70 m)",
+            "tokenName": "Tapis volant",
+            "subtype": "tapis",
+            "customType": "Objet magique",
             "items": {
                 "Carry Weight Adjustment": {
-                    "name": "",
-                    "description": ""
+                    "name": "Ajustement de la Capacité de charge",
+                    "description": "<p>Cet objet sert à compenser la capacité de charge calculée du tapis en fonction de ses dimensions.</p>"
                 }
             },
             "effects": {
                 "Overloaded": {
-                    "name": "",
-                    "description": ""
+                    "name": "Surchargé",
+                    "description": "<p>La Vitesse de vol du tapis est réduite de moitié s'il transporte plus que sa capacité normale.</p>"
                 }
             }
         },
@@ -5350,26 +5350,26 @@
             }
         },
         "Celestial Steed": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
-            "subtype": "",
-            "customType": "",
-            "languages": "",
+            "name": "Monture céleste",
+            "tokenName": "Monture d'outre-monde",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFindSteed0 caption=false]</p>",
+            "alignment": "Neutre",
+            "subtype": "Monture d'outre-monde",
+            "customType": "Céleste, Fée ou Fiélon (à votre convenance)",
+            "languages": "télépathie 1,5 km (fonctionne uniquement avec vous)",
             "items": {
                 "Life Bond": {
-                    "name": "",
-                    "description": "",
-                    "requirements": ""
+                    "name": "Lien vital",
+                    "description": "<p>Lorsque vous récupérez des points de vie par un sort du 1<sup>er</sup> niveau ou supérieur, la monture en récupère autant si vous vous trouvez à 1,50 m ou moins d'elle.</p>",
+                    "requirements": "vous récupérez des points de vie par un sort"
                 },
                 "Otherworldly Slam": {
-                    "name": "",
-                    "description": ""
+                    "name": "Coup d'outre-monde",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 1,50 m. <em>Touché :</em> 1d8 plus niveau du sort dégâts radiants.</p>"
                 },
                 "Healing Touch": {
-                    "name": "",
-                    "description": ""
+                    "name": "Contact guérisseur",
+                    "description": "<p>Une créature dans un rayon de 1,50 m de la monture récupère un nombre de points de vie égal à 2d8 + niveau du sort.</p>"
                 }
             }
         },
@@ -5910,155 +5910,155 @@
             }
         },
         "Conjured Air Elemental": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "name": "Élémentaire de l'air invoqué",
+            "tokenName": "Élémentaire de l'air invoqué",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplConjureEle caption=false]</p>",
+            "customType": "Esprit intangible",
             "items": {
                 "Air Element": {
-                    "name": "",
-                    "description": "",
+                    "name": "Élément de l'air",
+                    "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplConjureEle caption=false]</p>",
                     "activities": {
                         "Initial Save": {
-                            "name": "",
-                            "condition": ""
+                            "name": "Sauvegarde initial",
+                            "condition": "une créature que vous voyez pénètre dans l'espace de l'esprit ou commence son tour dans un rayon de 1,50 m de celui-ci"
                         },
                         "Save while Restrained": {
-                            "name": "",
-                            "condition": ""
+                            "name": "Sauvegarde en état Entravé",
+                            "condition": "une créature que vous voyez pénètre dans l'espace de l'esprit ou commence son tour dans un rayon de 1,50 m de celui-ci"
                         }
                     },
                     "effects": {
                         "Restrained": {
-                            "name": "",
-                            "description": ""
+                            "name": "Entravé",
+                            "description": "<p>Au début de chacun de ses tours, la cible &Reference[Restrained apply=false]{Entravée} réitère le JS de [[/save ability=dex]]. En cas d'échec, elle subit 4d8 (plus 2d8 par niveau d'emplacement au-delà du 5<sup>e</sup>) dégâts du type de l'esprit. En cas de réussite, elle n'est plus Entravée par l'esprit.</p>"
                         }
                     }
                 }
             }
         },
         "Conjured Animals": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "name": "Animaux invoqués",
+            "tokenName": "Animaux invoqués",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplConjureAni caption=false]</p>",
+            "customType": "Esprit de la nature",
             "items": {
                 "Pack Damage": {
-                    "name": "",
-                    "description": "",
+                    "name": "Attaque de meute",
+                    "description": "<p>Chaque fois que la meute se déplace dans un rayon de 3 m d'une créature que vous voyez, ainsi que chaque fois qu'une créature que vous voyez pénètre dans un espace à 3 m ou moins de la meute ou y termine son tour, vous pouvez contraindre cette créature à un jet de sauvegarde de Dextérité. En cas d'échec, elle subit 3d10 dégâts tranchants. Une même créature n'effectue en aucun cas ce JS plus d'une fois par tour.</p>",
                     "activities": {
                         "save": {
-                            "condition": ""
+                            "condition": "une créature que vous voyez se déplace ou y termine son tour à 3 m ou moins de la meute"
                         }
                     }
                 }
             }
         },
         "Conjured Earth Elemental": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "name": "Élémentaire de la terre invoqué",
+            "tokenName": "Élémentaire de la terre invoqué",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplConjureEle caption=false]</p>",
+            "customType": "Esprit intangible",
             "items": {
                 "Earth Element": {
-                    "name": "",
-                    "description": "",
+                    "name": "Élément de la terre",
+                    "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplConjureEle caption=false]</p>",
                     "activities": {
                         "Initial Save": {
-                            "name": "",
-                            "condition": ""
+                            "name": "Sauvegarde initial",
+                            "condition": "une créature que vous voyez pénètre dans l'espace de l'esprit ou commence son tour dans un rayon de 1,50 m de celui-ci"
                         },
                         "Save while Restrained": {
-                            "name": "",
-                            "condition": ""
+                            "name": "Sauvegarde en état Entravé",
+                            "condition": "une créature que vous voyez pénètre dans l'espace de l'esprit ou commence son tour dans un rayon de 1,50 m de celui-ci"
                         }
                     },
                     "effects": {
                         "Restrained": {
-                            "name": "",
-                            "description": ""
+                            "name": "Entravé",
+                            "description": "<p>Au début de chacun de ses tours, la cible &Reference[Restrained apply=false]{Entravée} réitère le JS de [[/save ability=dex]]. En cas d'échec, elle subit 4d8 (plus 2d8 par niveau d'emplacement au-delà du 5<sup>e</sup>) dégâts du type de l'esprit. En cas de réussite, elle n'est plus Entravée par l'esprit.</p>"
                         }
                     }
                 }
             }
         },
         "Conjured Fey": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "name": "Fée invoquée",
+            "tokenName": "Fée invoquée",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplConjureFey caption=false]</p>",
+            "customType": "Esprit",
             "items": {
                 "Command": {
-                    "name": "",
-                    "description": "",
+                    "name": "Commander",
+                    "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplConjureFey caption=false]</p>",
                     "activities": {
                         "attack": {
-                            "condition": ""
+                            "condition": "quand l'esprit apparaît"
                         },
                         "Teleport and Attack": {
-                            "name": ""
+                            "name": "Téléporter et attaquer"
                         }
                     },
                     "effects": {
                         "Frightened": {
-                            "name": "",
-                            "description": ""
+                            "name": "Effrayé",
+                            "description": "<p>La cible subit l'état &Reference[Frightened apply=false] jusqu'au début de votre tour suivant, l'esprit et vous-même étant considérés comme source de sa frayeur.</p>"
                         }
                     }
                 }
             }
         },
         "Conjured Fire Elemental": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "name": "Élémentaire du feu invoqué",
+            "tokenName": "Élémentaire du feu invoqué",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplConjureEle caption=false]</p>",
+            "customType": "Esprit intangible",
             "items": {
                 "Fire Element": {
-                    "name": "",
-                    "description": "",
+                    "name": "Élément du feu",
+                    "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplConjureEle caption=false]</p>",
                     "activities": {
                         "Initial Save": {
-                            "name": "",
-                            "condition": ""
+                            "name": "Sauvegarde initial",
+                            "condition": "une créature que vous voyez pénètre dans l'espace de l'esprit ou commence son tour dans un rayon de 1,50 m de celui-ci"
                         },
                         "Save while Restrained": {
-                            "name": "",
-                            "condition": ""
+                            "name": "Sauvegarde en état Entravé",
+                            "condition": "une créature que vous voyez pénètre dans l'espace de l'esprit ou commence son tour dans un rayon de 1,50 m de celui-ci"
                         }
                     },
                     "effects": {
                         "Restrained": {
-                            "name": "",
-                            "description": ""
+                            "name": "Entravé",
+                            "description": "<p>Au début de chacun de ses tours, la cible &Reference[Restrained apply=false]{Entravée} réitère le JS de [[/save ability=dex]]. En cas d'échec, elle subit 4d8 (plus 2d8 par niveau d'emplacement au-delà du 5<sup>e</sup>) dégâts du type de l'esprit. En cas de réussite, elle n'est plus Entravée par l'esprit.</p>"
                         }
                     }
                 }
             }
         },
         "Conjured Water Elemental": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "name": "Élémentaire de l'eau invoqué",
+            "tokenName": "Élémentaire de l'eau invoqué",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplConjureEle caption=false]</p>",
+            "customType": "Esprit intangible",
             "items": {
                 "Water Element": {
-                    "name": "",
-                    "description": "",
+                    "name": "Élément de l'eau",
+                    "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplConjureEle caption=false]</p>",
                     "activities": {
                         "Initial Save": {
-                            "name": "",
-                            "condition": ""
+                            "name": "Sauvegarde initial",
+                            "condition": "une créature que vous voyez pénètre dans l'espace de l'esprit ou commence son tour dans un rayon de 1,50 m de celui-ci"
                         },
                         "Save while Restrained": {
-                            "name": "",
-                            "condition": ""
+                            "name": "Sauvegarde en état Entravé",
+                            "condition": "une créature que vous voyez pénètre dans l'espace de l'esprit ou commence son tour dans un rayon de 1,50 m de celui-ci"
                         }
                     },
                     "effects": {
                         "Restrained": {
-                            "name": "",
-                            "description": ""
+                            "name": "Entravé",
+                            "description": "<p>Au début de chacun de ses tours, la cible &Reference[Restrained apply=false]{Entravée} réitère le JS de [[/save ability=dex]]. En cas d'échec, elle subit 4d8 (plus 2d8 par niveau d'emplacement au-delà du 5<sup>e</sup>) dégâts du type de l'esprit. En cas de réussite, elle n'est plus Entravée par l'esprit.</p>"
                         }
                     }
                 }
@@ -6463,69 +6463,69 @@
             }
         },
         "Dancing Light (Medium)": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": ""
+            "name": "Lumière dansante (M)",
+            "tokenName": "Lumière dansante",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplDancingLig caption=false]</p>",
+            "customType": "Illusion"
         },
         "Dancing Light (Tiny)": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": ""
+            "name": "Lumière dansante (TP)",
+            "tokenName": "Lumière dansante",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplDancingLig caption=false]</p>",
+            "customType": "Illusion"
         },
         "Dancing Sword": {
-            "name": "",
-            "tokenName": "",
-            "customType": "",
+            "name": "Épée dansante",
+            "tokenName": "Épée dansante",
+            "customType": "Objet magique",
             "items": {
                 "Greatsword": {
-                    "name": "",
+                    "name": "Épée à deux mains",
                     "activities": {
                         "Command: Move and Attack": {
-                            "name": "",
-                            "condition": "",
-                            "range": ""
+                            "name": "Ordre : Déplacer et attaquer",
+                            "condition": "Action Bonus effectuée par un personnage harmonisé",
+                            "range": "Peut se déplacer sur une distance maximale de 9 m avant d'attaquer"
                         }
                     }
                 },
                 "Longsword": {
-                    "name": "",
+                    "name": "Épée longue",
                     "activities": {
                         "Command: Move and Attack": {
-                            "name": "",
-                            "condition": "",
-                            "range": ""
+                            "name": "Ordre : Déplacer et attaquer",
+                            "condition": "Action Bonus effectuée par un personnage harmonisé",
+                            "range": "Peut se déplacer sur une distance maximale de 9 m avant d'attaquer"
                         }
                     }
                 },
                 "Rapier": {
-                    "name": "",
+                    "name": "Rapière",
                     "activities": {
                         "Command: Move and Attack": {
-                            "name": "",
-                            "condition": "",
-                            "range": ""
+                            "name": "Ordre : Déplacer et attaquer",
+                            "condition": "Action Bonus effectuée par un personnage harmonisé",
+                            "range": "Peut se déplacer sur une distance maximale de 9 m avant d'attaquer"
                         }
                     }
                 },
                 "Scimitar": {
-                    "name": "",
+                    "name": "Cimeterre",
                     "activities": {
                         "Command: Move and Attack": {
-                            "name": "",
-                            "condition": "",
-                            "range": ""
+                            "name": "Ordre : Déplacer et attaquer",
+                            "condition": "Action Bonus effectuée par un personnage harmonisé",
+                            "range": "Peut se déplacer sur une distance maximale de 9 m avant d'attaquer"
                         }
                     }
                 },
                 "Shortsword": {
-                    "name": "",
+                    "name": "Épée courte",
                     "activities": {
                         "Command: Move and Attack": {
-                            "name": "",
-                            "condition": "",
-                            "range": ""
+                            "name": "Ordre : Déplacer et attaquer",
+                            "condition": "Action Bonus effectuée par un personnage harmonisé",
+                            "range": "Peut se déplacer sur une distance maximale de 9 m avant d'attaquer"
                         }
                     }
                 }
@@ -7049,71 +7049,71 @@
             }
         },
         "Draconic Spirit": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
-            "languages": "",
+            "name": "Esprit draconique",
+            "tokenName": "Esprit draconique",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplSummonDrag caption=false]</p>",
+            "alignment": "Neutre",
+            "languages": "comprend les langues que vous connaissez",
             "items": {
                 "Shared Resistances": {
-                    "name": "",
-                    "description": "",
+                    "name": "Résistances partagées",
+                    "description": "<p>Lorsque vous convoquez l'esprit, choisissez l'une de ses Résistances aux dégâts. Vous bénéficiez de la &Reference[damageresistance]{Résistance} au type de dégâts choisi jusqu'à la fin du sort.</p><section id=\"secret-FlNLM1mGXlBLAFfA\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Les effets actifs et les activités appliquant ces effets sur cet objet sont fournis pour une application facultative de la Résistance choisie.</p></section>",
                     "activities": {
                         "Share Acid Resistance": {
-                            "name": "",
-                            "target": ""
+                            "name": "Résistances partagées : Acide",
+                            "target": "le convocateur de l'esprit"
                         },
                         "Share Cold Resistance": {
-                            "name": "",
-                            "target": ""
+                            "name": "Résistances partagées : Froid",
+                            "target": "le convocateur de l'esprit"
                         },
                         "Share Fire Resistance": {
-                            "name": "",
-                            "target": ""
+                            "name": "Résistances partagées : Feu",
+                            "target": "le convocateur de l'esprit"
                         },
                         "Share Lightning Resistance": {
-                            "name": "",
-                            "target": ""
+                            "name": "Résistances partagées : Foudre",
+                            "target": "le convocateur de l'esprit"
                         },
                         "Share Poison Resistance": {
-                            "name": "",
-                            "target": ""
+                            "name": "Résistances partagées : Poison",
+                            "target": "le convocateur de l'esprit"
                         }
                     },
                     "effects": {
                         "Shared Acid Resistance": {
-                            "name": ""
+                            "name": "Résistances partagées : Acide"
                         },
                         "Shared Cold Resistance": {
-                            "name": ""
+                            "name": "Résistances partagées : Froid"
                         },
                         "Shared Fire Resistance": {
-                            "name": ""
+                            "name": "Résistances partagées : Feu"
                         },
                         "Shared Lightning Resistance": {
-                            "name": ""
+                            "name": "Résistances partagées : Foudre"
                         },
                         "Shared Poison Resistance": {
-                            "name": ""
+                            "name": "Résistances partagées : Poison"
                         }
                     }
                 },
                 "Multiattack": {
-                    "name": "",
-                    "description": "",
+                    "name": "Attaques multiples",
+                    "description": "<p>L'esprit effectue autant d'attaques de [[/item Saignée]] que la moitié du niveau de ce sort (arrondir à l'inférieur) et il recourt à [[/item Souffle]].</p><p>[[floor(@flags.dnd5e.summon.level / 2)]]{Nombre d'attaques }</p>",
                     "activities": {
                         "Activate": {
-                            "name": ""
+                            "name": "Activer"
                         }
                     }
                 },
                 "Rend": {
-                    "name": "",
-                    "description": ""
+                    "name": "Saignée",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 3 m. <em>Touché :</em> 1d6 + 4 + niveau du sort dégâts perforants.</p>"
                 },
                 "Breath Weapon": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle",
+                    "description": "<p><em>JS Dextérité :</em> votre DD de sauvegarde des sorts, chaque créature dans un Cône de 9 m. <em>Échec :</em> 2d6 dégâts d'un type auquel l'esprit à la Résistance (vous choisissez à l'incantation du sort). <em>Réussite :</em> 1/2 dégâts.</p>"
                 }
             }
         },
@@ -7511,8 +7511,8 @@
             }
         },
         "Duplicate": {
-            "name": "",
-            "tokenName": ""
+            "name": "Réplique",
+            "tokenName": "Réplique"
         },
         "Dust Mephit": {
             "name": "",
@@ -8030,75 +8030,75 @@
             }
         },
         "Faithful Hound": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "name": "Chien de garde",
+            "tokenName": "Chien de garde",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbFaithfulHound caption=false]</p>",
+            "customType": "Chien de garde fantomatique",
             "items": {
                 "Bite": {
-                    "name": "",
-                    "description": "",
+                    "name": "Morsure",
+                    "description": "<p>Au début de chacun de vos tours, le molosse tente de mordre un ennemi situé dans un rayon de 1,50 m de lui. Cet ennemi doit réussir un jet de sauvegarde de Dextérité sous peine de subir 4d8 dégâts de force.</p>",
                     "activities": {
                         "save": {
-                            "condition": ""
+                            "condition": "début de votre tour"
                         }
                     }
                 }
             }
         },
         "Fey Steed": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
-            "subtype": "",
-            "customType": "",
-            "languages": "",
+            "name": "Monture féerique",
+            "tokenName": "Monture d'outre-monde",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFindSteed0 caption=false]</p>",
+            "alignment": "Neutre",
+            "subtype": "Monture d'outre-monde",
+            "customType": "Céleste, Fée ou Fiélon (à votre convenance)",
+            "languages": "télépathie 1,5 km (fonctionne uniquement avec vous)",
             "items": {
                 "Life Bond": {
-                    "name": "",
-                    "description": "",
-                    "requirements": ""
+                    "name": "Lien vital",
+                    "description": "<p>Lorsque vous récupérez des points de vie par un sort du 1<sup>er</sup> niveau ou supérieur, la monture en récupère autant si vous vous trouvez à 1,50 m ou moins d'elle.</p>",
+                    "requirements": "vous récupérez des points de vie par un sort"
                 },
                 "Otherworldly Slam": {
-                    "name": "",
-                    "description": ""
+                    "name": "Coup d'outre-monde",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 1,50 m. <em>Touché :</em> 1d8 plus niveau du sort dégâts psychiques.</p>"
                 },
                 "Fey Step": {
-                    "name": "",
-                    "description": "",
+                    "name": "Foulée féerique",
+                    "description": "<p>La monture se téléporte avec son cavalier en un espace inoccupé de votre choix dans un rayon de 18 m.</p>",
                     "activities": {
                         "Teleport": {
-                            "name": ""
+                            "name": "Téléportation"
                         }
                     }
                 }
             }
         },
         "Fiend Steed": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
-            "subtype": "",
-            "customType": "",
-            "languages": "",
+            "name": "Monture fiélonne",
+            "tokenName": "Monture d'outre-monde",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFindSteed0 caption=false]</p>",
+            "alignment": "Neutre",
+            "subtype": "Monture d'outre-monde",
+            "customType": "Céleste, Fée ou Fiélon (à votre convenance)",
+            "languages": "télépathie 1,5 km (fonctionne uniquement avec vous)",
             "items": {
                 "Life Bond": {
-                    "name": "",
-                    "description": "",
-                    "requirements": ""
+                    "name": "Lien vital",
+                    "description": "<p>Lorsque vous récupérez des points de vie par un sort du 1<sup>er</sup> niveau ou supérieur, la monture en récupère autant si vous vous trouvez à 1,50 m ou moins d'elle.</p>",
+                    "requirements": "vous récupérez des points de vie par un sort"
                 },
                 "Otherworldly Slam": {
-                    "name": "",
-                    "description": ""
+                    "name": "Coup d'outre-monde",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 1,50 m. <em>Touché :</em> 1d8 plus niveau du sort dégâts nécrotiques.</p>"
                 },
                 "Fell Glare": {
-                    "name": "",
-                    "description": "",
+                    "name": "Regard fiélon",
+                    "description": "<p><em>JS Sagesse :</em> votre DD de sauvegarde des sorts, une créature dans un rayon de 18 m que la monture voit. <em>Échec :</em> la cible subit l'état &Reference[frightened] jusqu'à la fin de votre tour suivant.</p>",
                     "effects": {
                         "Frightened": {
-                            "name": ""
+                            "name": "Effrayé"
                         }
                     }
                 }
@@ -8189,25 +8189,25 @@
             }
         },
         "Flaming Sphere": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
+            "name": "Sphère de feu",
+            "tokenName": "Sphère de feu",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFlamingSph caption=false]</p>",
             "items": {
                 "Flames": {
-                    "name": "",
-                    "description": "",
+                    "name": "Flammes",
+                    "description": "<p>Vous produisez une Sphère de flammes de 1,50 m de diamètre qui apparaît au sol en un espace inoccupé à portée. Elle persiste pour toute la durée. Toute créature qui termine son tour dans un rayon de 1,50 m de la Sphère effectue un jet de sauvegarde de [[/save ability=dex dc=@attributes.spell.dc]] et subit 2d6 dégâts de feu en cas d'échec, la moitié en cas de réussite.</p>",
                     "activities": {
                         "save": {
-                            "condition": ""
+                            "condition": "Toute créature qui termine son tour à portée"
                         }
                     }
                 },
                 "Roll": {
-                    "name": "",
-                    "description": "",
+                    "name": "Jet",
+                    "description": "<p>Par une action Bonus, vous pouvez déplacer la Sphère d'un maximum de 9 m, en la faisant rouler sur le sol. Si vous déplacez la Sphère dans l'espace d'une créature, celle-ci effectue un jet de sauvegarde contre les dégâts de la Sphère, puis la Sphère cesse de se déplacer pour ce tour.</p><p>Lorsque vous déplacez la Sphère, vous pouvez lui faire franchir des obstacles dont la hauteur ne dépasse pas 1,50 m et des fosses d'une largeur maximale de 3 m. La Sphère embrase les objets inflammables qui ne sont portés par personne.</p",
                     "activities": {
                         "Move and Save": {
-                            "name": ""
+                            "name": "Déplacer et Sauvegarde"
                         }
                     }
                 }
@@ -8282,25 +8282,25 @@
             }
         },
         "Floating Disk": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "name": "Disque flottant",
+            "tokenName": "Disque flottant",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplTensersFlo caption=false]</p>",
+            "customType": "Plan de force",
             "items": {
                 "Carry Weight Adjustment": {
-                    "name": "",
-                    "description": ""
+                    "name": "Ajustement de la Capacité de charge",
+                    "description": "<section id=\"secret-xvPfZzVKWfhDyIwx\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Cet objet permet d’ajuster la capacité de charge du disque, calculée automatiquement de 255 kg à 250 kg conformément à la description du sort.</p></section>"
                 }
             }
         },
         "Floating Whip": {
-            "name": "",
-            "tokenName": "",
-            "subtype": "",
-            "customType": "",
+            "name": "Fouet flottant",
+            "tokenName": "Fouet flottant",
+            "subtype": "Plume",
+            "customType": "Objet magique",
             "items": {
                 "Melee Spell Attack": {
-                    "name": ""
+                    "name": "Attaque de sort au corps à corps"
                 }
             }
         },
@@ -8389,9 +8389,9 @@
             }
         },
         "Galley": {
-            "name": "",
-            "tokenName": "",
-            "description": ""
+            "name": "Galère",
+            "tokenName": "Galère",
+            "description": "<p><strong>Vitesse :</strong> 6 km/h</p><p><strong>Équipage :</strong> 80</p><p><strong>Passagers :</strong> —</p><p><strong>Cargaison (tonnes) :</strong> 150</p><p><strong>CA :</strong> 15</p><p><strong>pv :</strong> 500</p><p><strong>Seuil de dégâts :</strong> 20</p><p><strong>Prix :</strong> 30 000 po</p>"
         },
         "Gargoyle": {
             "name": "",
@@ -8720,47 +8720,48 @@
             }
         },
         "Giant Centipede": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
+            "name": "Mille-pattes géant",
+            "tokenName": "Mille-pattes géant",
+            "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "alignment": "Non alignée",
             "items": {
                 "Spider Climb": {
-                    "name": "",
-                    "description": ""
+                    "name": "Pattes d'araignée",
+                    "description": "<p>L'insecte peut parcourir les parois les plus difficiles à escalader, y compris les plafonds, sans passer par un test de caractéristique.</p>"
                 },
                 "Multiattack": {
-                    "name": "",
-                    "description": "",
+                    "name": "Attaques multiples",
+                    "description": "<p>L'insecte effectue autant d'attaques que la moitié du niveau de ce sort (arrondir à l'inférieur).</p><p>[[floor(@flags.dnd5e.summon.level / 2)]]{Nombre d'attaques }</p>",
                     "activities": {
                         "Activate": {
-                            "name": ""
+                            "name": "Activer"
                         }
                     }
                 },
                 "Poison Jab": {
-                    "name": "",
-                    "description": ""
+                    "name": "Piqûre toxique",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 3 m. <em>Touché :</em> 1d6 + 3 + niveau du sort dégâts perforants, plus 1d4 dégâts de poison.</p>"
                 },
                 "Venomous Spew": {
-                    "name": "",
-                    "description": "",
+                    "name": "Crachat venimeux",
+                    "description": "<p><em>JS Constitution :</em> votre DD de sauvegarde des sorts, une créature que l'insecte voit dans un rayon de 3 m. <em>Échec :</em> la cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant de l'insecte.</p>",
                     "effects": {
                         "Poisoned": {
-                            "name": "",
-                            "description": ""
+                            "name": "Empoisonné",
+                            "description": "<p>La cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant de l'insecte.</p>"
                         }
                     }
                 },
                 "Bite": {
-                    "name": "",
-                    "description": "",
+                    "name": "Morsure",
+                    "description": "<p><em>Attaque d'arme au corps à corps ou à distance :</em> [[/attack]], allonge 1,50 m, une cible. <em>Touché :</em> 4 ([[/damage]]{1d4 + 2}) dégâts perforants, et la cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant du [[lookup @name lowercase]].</p>",
                     "effects": {
                         "Poisoned": {
-                            "name": "",
-                            "description": ""
+                            "name": "Empoisonné",
+                            "description": "<p>La cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant de la créature qui attaque.</p>"
                         }
-                    }
+                    },
+                    "uname": "Arme non identifiée"
                 }
             }
         },
@@ -8943,9 +8944,9 @@
             }
         },
         "Giant Fly": {
-            "name": "",
-            "tokenName": "",
-            "alignment": ""
+            "name": "Mouche géante",
+            "tokenName": "Mouche géante",
+            "alignment": "Non alignée"
         },
         "Giant Frog": {
             "name": "",
@@ -9051,48 +9052,48 @@
             }
         },
         "Giant Insect": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
-            "languages": "",
+            "name": "Insecte géant",
+            "tokenName": "Insecte géant",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplGiantInsec caption=false]</p>",
+            "alignment": "Non alignée",
+            "languages": "Comprend les langues que vous connaissez",
             "items": {
                 "Spider Climb": {
-                    "name": "",
-                    "description": ""
+                    "name": "Pattes d’araignée",
+                    "description": "<p>L'insecte peut parcourir les parois les plus difficiles à escalader, y compris les plafonds, sans passer par un test de caractéristique.</p>"
                 },
                 "Multiattack": {
-                    "name": "",
-                    "description": "",
+                    "name": "Attaques multiples",
+                    "description": "<p>L'insecte effectue autant d'attaques que la moitié du niveau de ce sort (arrondir à l'inférieur).</p><p>[[floor(@flags.dnd5e.summon.level / 2)]]{Nombre d'attaques }</p>",
                     "activities": {
                         "Activate": {
-                            "name": ""
+                            "name": "Activer"
                         }
                     }
                 },
                 "Poison Jab": {
-                    "name": "",
-                    "description": ""
+                    "name": "Piqûre toxique",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 3 m. <em>Touché :</em> 1d6 + 3 + niveau du sort dégâts perforants, plus 1d4 dégâts de poison.</p>"
                 },
                 "Web Bolt": {
-                    "name": "",
-                    "description": "",
-                    "requirements": "",
+                    "name": "Jet de toile",
+                    "description": "<p><em>À distance :</em> bonus égal à votre modificateur d'attaque des sorts, portée 18 m. <em>Touché :</em> 1d10 + 3 + niveau du sort dégâts contondants, et la Vitesse de la cible tombe à 0 jusqu'au début du tour suivant de l'insecte.</p>",
+                    "requirements": "Araignée uniquement",
                     "effects": {
                         "Webbed": {
-                            "name": "",
-                            "description": ""
+                            "name": "Entoilé",
+                            "description": "<p>La Vitesse de la cible tombe à 0 jusqu'au début du tour suivant de l'insecte.</p>"
                         }
                     }
                 },
                 "Venomous Spew": {
-                    "name": "",
-                    "description": "",
-                    "requirements": "",
+                    "name": "Crachat venimeux",
+                    "description": "<p><em>JS Constitution :</em> votre DD de sauvegarde des sorts, une créature que l'insecte voit dans un rayon de 3 m. <em>Échec :</em> la cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant de l'insecte.</p>",
+                    "requirements": "Mille-pattes uniquement",
                     "effects": {
                         "Poisoned": {
-                            "name": "",
-                            "description": ""
+                            "name": "Empoisonné",
+                            "description": "<p>La cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant de l'insecte.</p>"
                         }
                     }
                 }
@@ -9456,36 +9457,36 @@
             }
         },
         "Giant Wasp": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
+            "name": "Guêpe géante",
+            "tokenName": "Guêpe géante",
+            "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "alignment": "Non alignée",
             "items": {
                 "Spider Climb": {
-                    "name": "",
-                    "description": ""
+                    "name": "Pattes d'araignée",
+                    "description": "<p>L'insecte peut parcourir les parois les plus difficiles à escalader, y compris les plafonds, sans passer par un test de caractéristique.</p>"
                 },
                 "Multiattack": {
-                    "name": "",
-                    "description": "",
+                    "name": "Attaques multiples",
+                    "description": "<p>L'insecte effectue autant d'attaques que la moitié du niveau de ce sort (arrondir à l'inférieur).</p><p>[[floor(@flags.dnd5e.summon.level / 2)]]{Nombre d'attaques }</p>",
                     "activities": {
                         "Activate": {
-                            "name": ""
+                            "name": "Activer"
                         }
                     }
                 },
                 "Poison Jab": {
-                    "name": "",
-                    "description": ""
+                    "name": "Piqûre toxique",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 3 m. <em>Touché :</em> 1d6 + 3 + niveau du sort dégâts perforants, plus 1d4 dégâts de poison.</p>"
                 },
                 "Flyby": {
-                    "name": "",
-                    "description": "",
-                    "requirements": ""
+                    "name": "Repli aérien",
+                    "description": "<p>La [[lookup @name lowercase]] ne provoque pas d'&Reference[OpportunityAttacks]{attaque d'Opportunité} lorsqu'elle quitte la zone d'allonge d'un ennemi en volant.</p>",
+                    "requirements": "quitte la zone d'allonge d'un ennemi en volant"
                 },
                 "Sting": {
-                    "name": "",
-                    "description": ""
+                    "name": "Dard",
+                    "description": "<p><em>Attaque d'arme au corps à corps :</em> [[/attack]], allonge 1,50 m, une créature. <em>Touché :</em> 5 ([[/damage]]{1d6 + 2}) dégâts perforants plus 5 ([[/damage 2d4 poison]]{2d4}) dégâts de poison.</p>"
                 }
             }
         },
@@ -9796,13 +9797,13 @@
             }
         },
         "Goat of Traveling": {
-            "name": "",
-            "tokenName": "",
-            "alignment": "",
+            "name": "Chèvre voyageuse",
+            "tokenName": "Chèvre voyageuse",
+            "alignment": "Non alignée",
             "items": {
                 "Hooves": {
-                    "name": "",
-                    "description": ""
+                    "name": "Sabots",
+                    "description": "<p><em>Corps à corps :</em> +5, allonge 1,50 m. <em>Touché :</em> 7 (1d8 + 3) dégâts contondants.</p>"
                 }
             }
         },
@@ -10046,14 +10047,14 @@
             }
         },
         "Grasping Vine": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "name": "Liane avide",
+            "tokenName": "Liane avide",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplGraspingVi caption=false]</p>",
+            "customType": "Liane invoquée",
             "items": {
                 "Vine Attack": {
-                    "name": "",
-                    "description": ""
+                    "name": "Attaque de liane",
+                    "description": "<p>Effectuez une attaque de sort au corps à corps contre une créature dans un rayon de 9 m de la plante. Si l'attaque touche, la cible subit 4d8 dégâts contondants et se retrouve tirée d'un maximum de 9 m vers la plante ; si la cible est de taille TG ou inférieure, elle subit l'état &Reference[Grappled] (évasion DD égal à votre DD de sauvegarde des sorts). La plante ne peut agripper que [[@flags.dnd5e.summon.level - 3]] créature(s) à la fois, sachant que vous pouvez lui faire relâcher une créature Agrippée (pas d'action requise).</p><h3>Tests d'évasion</h3><p>[[/check ability=str skill=ath dc=8+@prof+@flags.dnd5e.summon.mod]]</p><p>[[/check ability=dex skill=acr dc=8+@prof+@flags.dnd5e.summon.mod]]</p>"
                 }
             }
         },
@@ -10601,17 +10602,17 @@
             }
         },
         "Guardian of Faith": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "name": "Gardien de la foi",
+            "tokenName": "Gardien de la foi",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplGuardianof caption=false]</p>",
+            "customType": "Gardien spectral",
             "items": {
                 "Guarded Area": {
-                    "name": "",
-                    "description": "",
+                    "name": "Zone protégée",
+                    "description": "<p>Tout ennemi qui se déplace dans un espace à 3 m ou moins du gardien pour la première fois d'un tour ou qui y commence son tour effectue un jet de sauvegarde de Dextérité et subit 20 dégâts radiants en cas d'échec, la moitié en cas de réussite. Le gardien disparaît après avoir infligé un total de 60 dégâts.</p><section id=\"secret-fNtHgg2PRmVbaDl5\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>L'usage limité de cette aptitude est fourni en option afin de suivre le total des dégâts infligés par le gardien. De plus, l'activité <strong>Consommer la réserve de dégâts</strong> est configurée pour dépenser des utilisations par paliers de 5 dégâts, à appliquer une fois les dégâts finaux déterminés.</p></section>",
                     "activities": {
                         "Consume Damage Pool": {
-                            "name": ""
+                            "name": "Consommer la réserve de dégâts"
                         }
                     }
                 }
@@ -11034,15 +11035,15 @@
             }
         },
         "Huge Animated Object": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
-            "languages": "",
+            "name": "Objet animé TG",
+            "tokenName": "Objet animé",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
+            "alignment": "Non aligné",
+            "languages": "Comprend les langues que vous parlez",
             "items": {
                 "Slam": {
-                    "name": "",
-                    "description": ""
+                    "name": "Coup",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 1,50 m. <em>Touché :</em> dégâts de force égaux à 2d12 + 3 + votre modificateur de caractéristique d'incantation.</p>"
                 }
             }
         },
@@ -11230,19 +11231,19 @@
             }
         },
         "Illusory Creature": {
-            "name": "",
-            "tokenName": "",
-            "customType": ""
+            "name": "Créature illusoire",
+            "tokenName": "Créature illusoire",
+            "customType": "Illusion"
         },
         "Illusory Object": {
-            "name": "",
-            "tokenName": "",
-            "customType": ""
+            "name": "Objet illusoire",
+            "tokenName": "Objet illusoire",
+            "customType": "Illusion"
         },
         "Illusory Phenomenon": {
-            "name": "",
-            "tokenName": "",
-            "customType": ""
+            "name": "Phénomène illusoire",
+            "tokenName": "Phénomène illusoire",
+            "customType": "Illusion"
         },
         "Imp": {
             "name": "",
@@ -11423,15 +11424,15 @@
             }
         },
         "Invisible Sensor": {
-            "name": "",
-            "tokenName": "",
-            "customType": "",
+            "name": "Capteur invisible",
+            "tokenName": "Capteur invisible",
+            "customType": "Capteur intangible",
             "effects": {
                 "Active Sense: Sight": {
-                    "name": ""
+                    "name": "Sens actif : Vision"
                 },
                 "Active Sense: Hearing": {
-                    "name": ""
+                    "name": "Sens actif : Ouïe"
                 }
             }
         },
@@ -11548,9 +11549,9 @@
             }
         },
         "Keelboat": {
-            "name": "",
-            "tokenName": "",
-            "description": ""
+            "name": "Barge",
+            "tokenName": "Barge",
+            "description": "<p><strong>Vitesse :</strong> 1,5 km/h</p><p><strong>Équipage :</strong> 1</p><p><strong>Passagers :</strong> 6</p><p><strong>Cargaison (tonnes) :</strong> 1/2</p><p><strong>CA :</strong> 15</p><p><strong>pv :</strong> 100</p><p><strong>Seuil de dégâts :</strong> 10</p><p><strong>Prix :</strong> 3 000 po</p>"
         },
         "Killer Whale": {
             "name": "",
@@ -11925,15 +11926,15 @@
             }
         },
         "Large Animated Object": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
-            "languages": "",
+            "name": "Objet animé G",
+            "tokenName": "Objet animé",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
+            "alignment": "Non aligné",
+            "languages": "Comprend les langues que vous parlez",
             "items": {
                 "Slam": {
-                    "name": "",
-                    "description": ""
+                    "name": "Coup",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 1,50 m. <em>Touché :</em> dégâts de force égaux à 2d6 + 3 + votre modificateur de caractéristique d'incantation.</p>"
                 }
             }
         },
@@ -12338,9 +12339,9 @@
             }
         },
         "Light": {
-            "name": "",
-            "tokenName": "",
-            "customType": ""
+            "name": "Lumière",
+            "tokenName": "Lumière",
+            "customType": "Effet"
         },
         "Lion": {
             "name": "",
@@ -12412,9 +12413,9 @@
             }
         },
         "Longship": {
-            "name": "",
-            "tokenName": "",
-            "description": ""
+            "name": "Drakkar",
+            "tokenName": "Drakkar",
+            "description": "<p><strong>Vitesse :</strong> 4,5 km/h</p><p><strong>Équipage :</strong> 40</p><p><strong>Passagers :</strong> 150</p><p><strong>Cargaison (tonnes) :</strong> 10</p><p><strong>CA :</strong> 15</p><p><strong>pv :</strong> 300</p><p><strong>Seuil de dégâts :</strong> 15</p><p><strong>Prix :</strong> 10 000 po</p>"
         },
         "Mage": {
             "name": "",
@@ -12621,10 +12622,10 @@
             }
         },
         "Mage Hand": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": ""
+            "name": "Main du mage",
+            "tokenName": "Main du mage",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplMageHand00 caption=false]</p>",
+            "customType": "Main spectrale"
         },
         "Magma Mephit": {
             "name": "",
@@ -12841,15 +12842,15 @@
             }
         },
         "Medium Animated Object": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
-            "languages": "",
+            "name": "Objet animé M",
+            "tokenName": "Objet animé",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
+            "alignment": "Non aligné",
+            "languages": "Comprend les langues que vous parlez",
             "items": {
                 "Slam": {
-                    "name": "",
-                    "description": ""
+                    "name": "Coup",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 1,50 m. <em>Touché :</em> dégâts de force égaux à 1d4 + 3.</p>"
                 }
             }
         },
@@ -14027,46 +14028,46 @@
             }
         },
         "Otherworldly Steed": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
-            "customType": "",
-            "languages": "",
+            "name": "Monture d'outre-monde",
+            "tokenName": "Monture d'outre-monde",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFindSteed0 caption=false]</p>",
+            "alignment": "Neutre",
+            "customType": "Céleste, Fée ou Fiélon (à votre convenance)",
+            "languages": "télépathie 1,5 km (fonctionne uniquement avec vous)",
             "items": {
                 "Life Bond": {
-                    "name": "",
-                    "description": "",
-                    "requirements": ""
+                    "name": "Lien vital",
+                    "description": "<p>Lorsque vous récupérez des points de vie par un sort du 1<sup>er</sup> niveau ou supérieur, la monture en récupère autant si vous vous trouvez à 1,50 m ou moins d'elle.</p>",
+                    "requirements": "vous récupérez des points de vie par un sort"
                 },
                 "Otherworldly Slam": {
-                    "name": "",
-                    "description": ""
+                    "name": "Coup d'outre-monde",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 1,50 m. <em>Touché :</em> 1d8 plus niveau du sort dégâts radiants (Céleste), psychiques (Fée) ou nécrotiques (Fiélon).</p>"
                 },
                 "Fell Glare": {
-                    "name": "",
-                    "description": "",
-                    "requirements": "",
+                    "name": "Regard fiélon",
+                    "description": "<p><em>JS Sagesse :</em> votre DD de sauvegarde des sorts, une créature dans un rayon de 18 m que la monture voit. <em>Échec :</em> la cible subit l'état &Reference[frightened apply=false] jusqu'à la fin de votre tour suivant.</p>",
+                    "requirements": "Fiélon uniquement",
                     "effects": {
                         "Frightened": {
-                            "name": ""
+                            "name": "Effrayé"
                         }
                     }
                 },
                 "Fey Step": {
-                    "name": "",
-                    "description": "",
-                    "requirements": "",
+                    "name": "Foulée féerique",
+                    "description": "<p>La monture se téléporte avec son cavalier en un espace inoccupé de votre choix dans un rayon de 18 m.</p>",
+                    "requirements": "Fée uniquement",
                     "activities": {
                         "Teleport": {
-                            "name": ""
+                            "name": "Téléportation"
                         }
                     }
                 },
                 "Healing Touch": {
-                    "name": "",
-                    "description": "",
-                    "requirements": ""
+                    "name": "Contact guérisseur",
+                    "description": "<p>Une créature dans un rayon de 1,50 m de la monture récupère un nombre de points de vie égal à 2d8 + niveau du sort.</p>",
+                    "requirements": "Céleste uniquement"
                 }
             }
         },
@@ -14211,14 +14212,14 @@
             }
         },
         "Phantom Steed": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
+            "name": "Monture fantôme",
+            "tokenName": "Cheval de selle",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplPhantomSte caption=false]</p>",
+            "alignment": "Non alignée",
             "items": {
                 "Hooves": {
-                    "name": "",
-                    "description": ""
+                    "name": "Sabots",
+                    "description": "<p><em>Corps à corps :</em> +5, allonge 1,50 m. <em>Touché :</em> 7 (1d8 + 3) dégâts contondants.</p>"
                 }
             }
         },
@@ -15659,9 +15660,9 @@
             }
         },
         "Rowboat": {
-            "name": "",
-            "tokenName": "",
-            "description": ""
+            "name": "Barque",
+            "tokenName": "Barque",
+            "description": "<p><strong>Vitesse :</strong> 2,25 km/h</p><p><strong>Équipage :</strong> 1</p><p><strong>Passagers :</strong> 3</p><p><strong>Cargaison (tonnes) :</strong> —</p><p><strong>CA :</strong> 11</p><p><strong>pv :</strong> 50</p><p><strong>Seuil de dégâts :</strong> —</p><p><strong>Prix :</strong> 50 po</p>"
         },
         "Rust Monster": {
             "name": "",
@@ -15813,9 +15814,9 @@
             }
         },
         "Sailing Ship": {
-            "name": "",
-            "tokenName": "",
-            "description": ""
+            "name": "Bateau à voiles",
+            "tokenName": "Bateau à voiles",
+            "description": "<p><strong>Vitesse :</strong> 3 km/h</p><p><strong>Équipage :</strong> 20</p><p><strong>Passagers :</strong> 20</p><p><strong>Cargaison (tonnes) :</strong> 100</p><p><strong>CA :</strong> 15</p><p><strong>pv :</strong> 300</p><p><strong>Seuil de dégâts :</strong> 15</p><p><strong>Prix :</strong> 10 000 po</p>"
         },
         "Salamander": {
             "name": "",
@@ -16124,10 +16125,10 @@
             }
         },
         "Secret Chest": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": ""
+            "name": "Coffre secret",
+            "tokenName": "Coffre secret",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplLeomundsSe caption=false]</p>",
+            "customType": "Objet magique"
         },
         "Shadow": {
             "name": "",
@@ -16394,15 +16395,15 @@
             }
         },
         "Small Animated Object": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
-            "languages": "",
+            "name": "Objet animé P",
+            "tokenName": "Objet animé",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
+            "alignment": "Non aligné",
+            "languages": "Comprend les langues que vous parlez",
             "items": {
                 "Slam": {
-                    "name": "",
-                    "description": ""
+                    "name": "Coup",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 1,50 m. <em>Touché :</em> dégâts de force égaux à 1d4 + 3.</p>"
                 }
             }
         },
@@ -17278,14 +17279,14 @@
             }
         },
         "Spiritual Weapon": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": "",
+            "name": "Arme spirituelle",
+            "tokenName": "Arme spirituelle",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplSpiritualW caption=false]</p>",
+            "customType": "Arme spectrale",
             "items": {
                 "Move and Attack": {
-                    "name": "",
-                    "description": ""
+                    "name": "Déplacement et attaque",
+                    "description": "<p>Par une action Bonus à chaque tour consécutif, vous pouvez déplacer l'arme d'un maximum de 6 m et répéter l'attaque contre une créature située dans un rayon de 1,50 m de l'arme. Si l'attaque touche, la cible subit des dégâts de force égaux à 1d8 + votre modificateur de caractéristique d'incantation.</p><p><strong>Emplacement de niveau supérieur.</strong> Les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du 2<sup>e</sup>.</p>"
                 }
             }
         },
@@ -18049,15 +18050,15 @@
             }
         },
         "Tiny Animated Object": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "alignment": "",
-            "languages": "",
+            "name": "Objet animé TP",
+            "tokenName": "Objet animé",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
+            "alignment": "Non aligné",
+            "languages": "Comprend les langues que vous parlez",
             "items": {
                 "Slam": {
-                    "name": "",
-                    "description": ""
+                    "name": "Coup",
+                    "description": "<p><em>Corps à corps :</em> bonus égal à votre modificateur d'attaque des sorts, allonge 1,50 m. <em>Touché :</em> dégâts de force égaux à 1d4 + 3.</p>"
                 }
             }
         },
@@ -18564,10 +18565,10 @@
             }
         },
         "Unseen Servant": {
-            "name": "",
-            "tokenName": "",
-            "description": "",
-            "customType": ""
+            "name": "Serviteur invisible",
+            "tokenName": "Serviteur invisible",
+            "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplUnseenServ caption=false]</p>",
+            "customType": "Force informe"
         },
         "Vampire": {
             "name": "",
@@ -19046,9 +19047,9 @@
             }
         },
         "Warship": {
-            "name": "",
-            "tokenName": "",
-            "description": ""
+            "name": "Navire de guerre",
+            "tokenName": "Navire de guerre",
+            "description": "<p><strong>Vitesse :</strong> 3,75 km/h</p><p><strong>Équipage :</strong> 60</p><p><strong>Passagers :</strong> 60</p><p><strong>Cargaison (tonnes) :</strong> 200</p><p><strong>CA :</strong> 15</p><p><strong>pv :</strong> 500</p><p><strong>Seuil de dégâts :</strong> 20</p><p><strong>Prix :</strong> 25 000 po</p>"
         },
         "Water Elemental": {
             "name": "",
