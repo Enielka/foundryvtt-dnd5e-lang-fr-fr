@@ -4264,7 +4264,7 @@
         "Potion of Poison": {
             "name": "Potion toxique",
             "description": "<p><em>Potion, peu courante</em></p><p>Cette décoction a l'apparence, l'odeur et le goût d'une <em>potion de guérison</em> ou d'une autre potion bénéfique. Il s'agit toutefois d'un poison masqué par quelque illusion magique. Le sort <em>identification</em> révèle sa véritable nature.</p><p>Si vous en buvez le contenu, vous subissez 4d6 dégâts de poison et devez réussir un jet de sauvegarde de Constitution DD 13 sous peine de subir l'état Empoisonné pendant 1 heure.</p>",
-            "uname": "",
+            "uname": "Consommable non identifié",
             "udescription": "<p><em>Potion, courante</em></p><p>Vous récupérez 2d4 + 2 points de vie en buvant cette potion.</p><p>Quelle que soit la puissance de la potion, son liquide rouge étincelle lorsqu'on l'agite.</p>",
             "activities": {
                 "Drink": {
