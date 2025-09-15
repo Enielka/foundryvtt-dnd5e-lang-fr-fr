@@ -474,6 +474,8 @@
         "Armor of Vulnerability": {
             "name": "Armure de vulnérabilité",
             "description": "",
+            "uname": "Armure de résistance physique",
+            "udescription": "",
             "activities": {
                 "Armor of Vulnerability": {
                     "name": "Armure de vulnérabilité"
@@ -575,6 +577,7 @@
         "Assassin's Blood": {
             "name": "Sang d'assassin",
             "description": "<p><em>Poison par ingestion</em></p><p>Une créature exposée au sang d'assassin effectue un jet de sauvegarde de Constitution DD 10. En cas d'échec, elle subit 6 (1d12) dégâts de poison, ainsi que l'état &Reference[Poisoned apply=false] pendant 24 heures. En cas de réussite, elle subit uniquement la moitié de ces dégâts.</p>",
+            "uname": "Sang d'assassin",
             "activities": {
                 "Use Poison": {
                     "name": "Utiliser le poison"
@@ -1497,6 +1500,7 @@
         "Demon Armor": {
             "name": "Armure démoniaque",
             "description": "<p><em>Armure (légère, intermédiaire ou lourde), très rare (Harmonisation requise)</em></p><p>Tant que vous portez cette armure, vous recevez un bonus de +1 à la CA et parlez l'abyssal. Les gantelets griffus de l'armure permettent en outre à vos attaques à mains nues d'infliger 1d8 dégâts tranchants au lieu des dégâts contondants habituels, et vous recevez un bonus de +1 aux jets d'attaque et de dégâts de vos attaques à mains nues.</p><section class=\"secret\" id=\"secret-i2l0Ym3XkTC4Qm8z\"><p><strong>Malédiction.</strong> Une fois cette armure maudite enfilée, vous ne pouvez plus l'ôter sauf si vous êtes la cible du sort <em>délivrance des malédictions</em> ou d'une magie équivalente. Tant que vous portez cette armure, vous subissez le Désavantage aux jets d'attaque contre les démons et aux jets de sauvegarde contre leurs sorts et aptitudes spéciales.</p></section><p>@Embed[Compendium.dnd5e.content24.JournalEntry.dmgFoundryRefere.JournalEntryPage.Ok4iCgD25ENgoRxE cite=false caption=false classes=\"hide-in-embed\"]</p>",
+            "udescription": "<p><em>Armure (légère, intermédiaire ou lourde), très rare (Harmonisation requise)</em></p><p>Tant que vous portez cette armure, vous recevez un bonus de +1 à la CA et parlez l'abyssal. Les gantelets griffus de l'armure permettent en outre à vos attaques à mains nues d'infliger 1d8 dégâts tranchants au lieu des dégâts contondants habituels, et vous recevez un bonus de +1 aux jets d'attaque et de dégâts de vos attaques à mains nues.</p>",
             "activities": {
                 "Demon Armor": {
                     "name": "Armure démoniaque"
@@ -4260,6 +4264,8 @@
         "Potion of Poison": {
             "name": "Potion toxique",
             "description": "<p><em>Potion, peu courante</em></p><p>Cette décoction a l'apparence, l'odeur et le goût d'une <em>potion de guérison</em> ou d'une autre potion bénéfique. Il s'agit toutefois d'un poison masqué par quelque illusion magique. Le sort <em>identification</em> révèle sa véritable nature.</p><p>Si vous en buvez le contenu, vous subissez 4d6 dégâts de poison et devez réussir un jet de sauvegarde de Constitution DD 13 sous peine de subir l'état Empoisonné pendant 1 heure.</p>",
+            "uname": "",
+            "udescription": "<p><em>Potion, courante</em></p><p>Vous récupérez 2d4 + 2 points de vie en buvant cette potion.</p><p>Quelle que soit la puissance de la potion, son liquide rouge étincelle lorsqu'on l'agite.</p>",
             "activities": {
                 "Drink": {
                     "name": "Boire"

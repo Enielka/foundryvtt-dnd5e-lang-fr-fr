@@ -1687,7 +1687,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Claws": {
           "name": "Claws",
@@ -3470,6 +3471,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p><em>Melee Attack Roll:</em> [[/attack]] ([[lookup @activation.condition activity=xWlMeXFjELfSUWX9]]), reach [[lookup @range.value activity=xWlMeXFjELfSUWX9]] ft. [[/damage average extended]]. If the target is a Large or smaller creature, it has the &amp;Reference[Grappled apply=false] condition (escape DC [[lookup @skills.ath.passive]]).</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "attack": {
               "condition": "with Advantage if the target is Grappled by the ankheg"
@@ -3689,7 +3691,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -4173,7 +4176,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -4185,7 +4189,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -4384,7 +4389,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Petrifying Gaze": {
           "name": "Petrifying Gaze",
@@ -4419,7 +4425,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -4484,7 +4491,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Constrict": {
           "name": "Constrict",
@@ -4668,7 +4676,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Teleport": {
           "name": "Teleport",
@@ -4905,7 +4914,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Claw": {
           "name": "Claw",
@@ -5033,7 +5043,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Deadly Leap": {
           "name": "Deadly Leap",
@@ -5222,7 +5233,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -5314,7 +5326,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Paralyzing Tentacles": {
           "name": "Paralyzing Tentacles",
@@ -5509,6 +5522,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]], or [[/damage average activity=HN2sfAtHqDMjMLXF]] damage if the [[lookup @name lowercase]] had Advantage on the attack roll.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "Attack with Advantage": {
               "name": "Attack with Advantage"
@@ -6072,7 +6086,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Constrict": {
           "name": "Constrict",
@@ -6134,6 +6149,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]], and the target has the &amp;Reference[Poisoned apply=false] condition until the end of the [[lookup @name lowercase]]'s next turn.</p>",
+          "uname": "Unidentified Weapon",
           "effects": {
             "Poisoned": {
               "name": "Poisoned",
@@ -6352,6 +6368,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Medium or smaller creature, it has the &amp;Reference[Grappled apply=false] condition (escape DC [[lookup @skills.ath.passive]]). While Grappled, the target has the &amp;Reference[Restrained apply=false] condition.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "Escape Check": {
               "name": "Escape Check"
@@ -6575,6 +6592,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a creature, it is subjected to the following effect.</p><p><em>Constitution Saving Throw</em>: DC [[lookup @save.dc.value activity=F0T3hYR3EtUEMhvs]].</p><p><em>First Failure</em>: The target has the &amp;Reference[Poisoned apply=false] condition. While Poisoned, the target's Hit Point maximum doesn't return to normal when finishing a Long Rest, and it repeats the save every 24 hours that elapse, ending the effect on itself on a success.</p><p><em>Subsequent Failures</em>: The Poisoned target's Hit Point maximum decreases by 5 ([[/r 1d10]]).</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "Max HP Decrease": {
               "name": "Max HP Decrease",
@@ -6733,6 +6751,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Large or smaller creature, it has the &amp;Reference[Prone apply=false] condition.</p>",
+          "uname": "Unidentified Weapon",
           "effects": {
             "Prone": {
               "name": "Prone",
@@ -7150,7 +7169,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Tail": {
           "name": "Tail",
@@ -7942,6 +7962,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]], and the target has the &amp;Reference[Poisoned apply=false] condition until the start of the [[lookup @name lowercase]]'s next turn.</p>",
+          "uname": "Unidentified Weapon",
           "effects": {
             "Poisoned": {
               "name": "Poisoned",
@@ -8317,7 +8338,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -8337,7 +8359,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -8492,7 +8515,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Claw": {
           "name": "Claw",
@@ -8609,7 +8633,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Claw": {
           "name": "Claw",
@@ -8671,7 +8696,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -8683,7 +8709,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -8755,6 +8782,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]], and the target has the &amp;Reference[Poisoned apply=false]  condition until the start of the [[lookup @name lowercase]]'s next turn.</p>",
+          "uname": "Unidentified Weapon",
           "effects": {
             "Poisoned": {
               "name": "Poisoned",
@@ -8781,7 +8809,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Constrict": {
           "name": "Constrict",
@@ -8855,6 +8884,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]].If the target is a [[lookup @target.affects.special activity=xWlMeXFjELfSUWX9]] creature, it has the &amp;Reference[Grappled apply=false] condition (escape DC [[lookup @skills.ath.passive]]). While Grappled, the target has the &amp;Reference[Restrained apply=false] condition and can't be targeted by the [[lookup @name lowercase]]'s Tail.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "attack": {
               "target": "Large or smaller"
@@ -8934,7 +8964,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Illumination": {
           "name": "Illumination",
@@ -8964,6 +8995,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Medium or smaller creature, it has the &amp;Reference[Grappled apply=false] condition (escape DC [[lookup @skills.ath.passive]]).</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "Escape Check": {
               "name": "Escape Check"
@@ -9037,7 +9069,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Rampage": {
           "name": "Rampage",
@@ -9110,7 +9143,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -9228,7 +9262,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -9326,6 +9361,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p><em>Melee Attack Roll:</em> [[/attack]] ([[lookup @activation.condition activity=xWlMeXFjELfSUWX9]]), reach [[lookup @item.range.reach item=xWlMeXFjELfSUWX9]] ft. [[/damage average extended]]</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "attack": {
               "condition": "with Advantage if the target doesn’t have all its Hit Point"
@@ -9350,7 +9386,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Web": {
           "name": "Web",
@@ -9386,6 +9423,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Medium or smaller creature, it has the &amp;Reference[Grappled apply=false] condition (escape DC [[lookup @skills.ath.passive]]).</p>",
+          "uname": "Unidentified Weapon",
           "effects": {
             "Grappled": {
               "name": "Grappled",
@@ -9428,7 +9466,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -9497,7 +9536,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -9513,7 +9553,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -9545,6 +9586,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Medium or smaller creature, it has the &amp;Reference[Prone apply=false] condition. The target dies if it is reduced to 0 Hit Points by this attack. Its body is then absorbed into the [[lookup @name]], leaving only equipment behind.</p>",
+          "uname": "Unidentified Weapon",
           "effects": {
             "Prone": {
               "name": "Prone",
@@ -10503,7 +10545,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Poisonous Spittle": {
           "name": "Poisonous Spittle",
@@ -10741,7 +10784,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Fire Breath": {
           "name": "Fire Breath",
@@ -10883,7 +10927,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -10970,6 +11015,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. <em>Hit:</em> [[/damage]] damage, and the target is subjected to the following effect.</p><p><em>Constitution Saving Throw:</em> DC [[lookup @save.dc.value activity=zINRP55nQzeLTh4x]].</p><p><em>Failure:</em> The target has the Poisoned condition until the end of the homunculus's next turn.</p><p><em>Failure by 5 or More:</em> The target has the &amp;Reference[Poisoned apply=false] condition for 1 minute. While Poisoned, the target has the &amp;Reference[Unconscious apply=false] condition, which ends early if the target takes any damage.</p>",
+          "uname": "Unidentified Weapon",
           "effects": {
             "Poisoned": {
               "name": "Poisoned",
@@ -11059,6 +11105,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p><em>Melee Attack Roll:</em> [[/attack]] ([[lookup @activation.condition activity=xWlMeXFjELfSUWX9]]), reach [[lookup @range.value activity=xWlMeXFjELfSUWX9]] [[lookup @range.units activity=xWlMeXFjELfSUWX9]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "attack": {
               "condition": "with Advantage if the target doesn’t have all its Hit Points"
@@ -11096,7 +11143,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -11113,7 +11161,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -11543,7 +11592,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -11564,7 +11614,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -12407,7 +12458,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -12831,6 +12883,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Medium or smaller creature, it has the &amp;Reference[Prone apply=false] condition.</p>",
+          "uname": "Unidentified Weapon",
           "effects": {
             "Prone": {
               "name": "Prone",
@@ -12950,6 +13003,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]<span style=\"font-family:'Roboto Condensed', sans-serif\">, and the target has the &amp;Reference[Poisoned apply=false] condition until the end of the </span>[[lookup @name lowercase]]'s<span style=\"font-family:'Roboto Condensed', sans-serif\"> next turn.</span></p>",
+          "uname": "Unidentified Weapon",
           "effects": {
             "Poisoned": {
               "name": "Poisoned",
@@ -13000,6 +13054,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p class=\"feature\"><em>Melee Attack Roll:</em> [[/attack]] ([[lookup @activation.condition activity=Hx8Io6Uz1mJDm4Nf]]), reach [[lookup @range.value activity=xWlMeXFjELfSUWX9]] [[lookup @range.units activity=xWlMeXFjELfSUWX9]]. <em>Hit:</em> [[/damage average activity=xWlMeXFjELfSUWX9]] damage—or [[/damage average activity=Hx8Io6Uz1mJDm4Nf]] damage if the target is Grappled by the mimic.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "Attacked if Grappling": {
               "name": "Attacked if Grappling",
@@ -14088,6 +14143,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]], and the target has the &amp;Reference[Poisoned apply=false] condition. Whenever the Poisoned target finishes a Long Rest, it is subjected to the following effect.</p><p><em>Constitution Saving Throw:</em> DC [[lookup @save.dc.formula activity=tKShuY4vDM7tn9aC]].</p><p><em>Failure:</em> The target's Hit Point maximum decreases by [[/damage 1d10 average]] and doesn't return to normal until the Poisoned condition ends on the target.</p><p><em>Success:</em> The Poisoned condition ends.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "save": {
               "condition": "Whenever the Poisoned target finishes a Long Rest",
@@ -14252,6 +14308,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If this damage reduces the target to 0 Hit Points, the target becomes Stable, and it has the &amp;Reference[Poisoned apply=false] condition for 1 hour. While Poisoned, the target also has the &amp;Reference[Paralyzed apply=false] condition.</p>",
+          "uname": "Unidentified Weapon",
           "effects": {
             "Poisoned & Paralyzed": {
               "name": "Poisoned & Paralyzed",
@@ -14283,6 +14340,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p><em>Melee Attack Roll:</em> [[/attack]] ([[lookup @activation.condition activity=xWlMeXFjELfSUWX9]]), reach [[lookup @range.value activity=xWlMeXFjELfSUWX9]] [[lookup @range.units activity=xWlMeXFjELfSUWX9]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "attack": {
               "condition": "with Advantage if the target doesn’t have all its Hit Points"
@@ -14441,6 +14499,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]]. If the target is a creature, it must make the following saving throw.</p><p class=\"feature\"><em>Constitution Saving Throw:</em> DC [[lookup @save.dc.value activity=fM7YmQ4hBtRXJkMe]].</p><p class=\"feature\"><em>Failure:</em> The target has the &amp;Reference[Poisoned apply=false] condition. While Poisoned, the target can't regain Hit Points and takes [[/damage average activity=aa2GUeTEVLOdmfrB]] damage at the start of each of its turns, and it repeats the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "Add'l Poison Damage": {
               "name": "Add'l Poison Damage"
@@ -14756,7 +14815,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -15028,7 +15088,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Sting": {
           "name": "Sting",
@@ -15058,7 +15119,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -15083,6 +15145,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a [[lookup @target.affects.special activity=xWlMeXFjELfSUWX9]] creature, it has the &amp;Reference[Grappled apply=false] condition (escape DC [[lookup @skills.ath.passive]]), and it has the &amp;Reference[Restrained apply=false] condition until the grapple ends.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "attack": {
               "target": "Large or smaller"
@@ -15402,7 +15465,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -15465,7 +15529,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -15482,6 +15547,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a [[lookup @target.affects.special activity=xWlMeXFjELfSUWX9]] creature, it has the &amp;Reference[Grappled apply=false] condition (escape DC [[lookup @skills.ath.passive]]), and it has the &amp;Reference[Restrained apply=false] condition until the grapple ends.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "attack": {
               "target": "Large or smaller"
@@ -15635,7 +15701,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Tentacle": {
           "name": "Tentacle",
@@ -15690,7 +15757,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Antennae": {
           "name": "Antennae",
@@ -16389,7 +16457,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -17121,7 +17190,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -17147,7 +17217,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Necrotic Ray": {
           "name": "Necrotic Ray",
@@ -17917,6 +17988,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]], and the target has the &amp;Reference[Grappled apply=false] condition (escape DC [[lookup @skills.ath.passive]]). Until the grapple ends, the target has the &amp;Reference[Restrained apply=false] condition and can't teleport.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "Escape Check": {
               "name": "Escape Check"
@@ -18328,6 +18400,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Large or smaller creature, it has the &amp;Reference[Grappled apply=false] condition (escape DC [[lookup @skills.ath.passive]])). While Grappled, the target has the &amp;Reference[Restrained apply=falsse] condition and can't be targeted by the [[lookup @name lowercase]]'s Tail.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "Escape Check": {
               "name": "Escape Check"
@@ -18636,6 +18709,7 @@
         "Bite (Bat or Vampire Form Only)": {
           "name": "Bite (Bat or Vampire Form Only)",
           "description": "<p class=\"feature\"><em>Constitution Saving Throw:</em> DC [[lookup @save.dc.value activity=ngPzlEI5pVSdBv86]], one [[lookup @target.affects.type activity=ngPzlEI5pVSdBv86]] within [[lookup @range.value activity=ngPzlEI5pVSdBv86]] feet [[lookup @target.affects.special activity=ngPzlEI5pVSdBv86]].</p><p><em>Failure:</em> [[/damage average]] damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the [[lookup @name lowercase]] regains Hit Points equal to that amount. A Humanoid reduced to 0 Hit Points by this damage and then buried rises the following sunset as a <strong>@UUID[Compendium.dnd5e.actors24.Actor.mmVampireSpawn00]{Vampire Spawn}</strong> under the [[lookup @name lowercase]]'s control.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "save": {
               "target": "that is willing or that has the Grappled, Incapacitated, or Restrained condition"
@@ -18796,7 +18870,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p class=\"feature\"><em>Constitution Saving Throw:</em> DC [[lookup @save.dc.value activity=7mBlINHfcabm0DAr]], one creature within [[lookup @range.value activity=7mBlINHfcabm0DAr]] feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. </p><p class=\"feature\"><em>Failure:</em> [[/damage average]] damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount.</p>"
+          "description": "<p class=\"feature\"><em>Constitution Saving Throw:</em> DC [[lookup @save.dc.value activity=7mBlINHfcabm0DAr]], one creature within [[lookup @range.value activity=7mBlINHfcabm0DAr]] feet that is willing or that has the Grappled, Incapacitated, or Restrained condition. </p><p class=\"feature\"><em>Failure:</em> [[/damage average]] damage. The target's Hit Point maximum decreases by an amount equal to the Necrotic damage taken, and the vampire regains Hit Points equal to that amount.</p>",
+          "uname": "Unidentified Weapon"
         },
         "Deathless Agility": {
           "name": "Deathless Agility",
@@ -18840,7 +18915,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -19121,7 +19197,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -19154,6 +19231,7 @@
         "Bite (Bear or Hybrid Form Only)": {
           "name": "Bite (Bear or Hybrid Form Only)",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Humanoid, it is subjected to the following effect.</p><p><em>Constitution Saving Throw:</em> DC [[lookup @save.dc.value activity=q7leyHRdAkccDyqG]].</p><p><em>Failure:</em> The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a <strong>@UUID[Compendium.dnd5e.actors24.Actor.mmWerebear000000]{Werebear}</strong> under the DM's control and has 10 Hit Points.</p><p><em>Success:</em> The target is immune to this [[lookup @name lowercase]]'s' curse for 24 hours.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "attack": {
               "condition": "Bear or Hybrid Form Only"
@@ -19293,6 +19371,7 @@
         "Bite (Rat or Hybrid Form Only)": {
           "name": "Bite (Rat or Hybrid Form Only)",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Humanoid, it is subjected to the following effect.</p><p><em>Constitution Saving Throw:</em> DC [[lookup @save.dc.value activity=HAz6jK7w7zFU77Wk]].</p><p><em>Failure:</em> The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a <strong>@UUID[Compendium.dnd5e.actors24.Actor.mmWererat0000000]{Wererat}</strong> under the DM's control and has 10 Hit Points.</p><p><em>Success:</em> The target is immune to this [[lookup @name lowercase]]'s' curse for 24 hours.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "Become Wererat": {
               "name": "Become Wererat"
@@ -19344,6 +19423,7 @@
         "Bite (Tiger or Hybrid Form Only)": {
           "name": "Bite (Tiger or Hybrid Form Only)",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Humanoid, it is subjected to the following effect.</p><p><em>Constitution Saving Throw:</em> DC [[lookup @save.dc.value activity=jgkWL5fxyqrDPr4D]].</p><p><em>Failure:</em> The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a <strong>@UUID[Compendium.dnd5e.actors24.Actor.mmWeretiger00000]{Weretiger}</strong> under the DM's control and has 10 Hit Points.</p><p><em>Success:</em> The target is immune to this [[lookup @name lowercase]]'s' curse for 24 hours.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "Become Weretiger": {
               "name": "Become Weretiger"
@@ -19409,6 +19489,7 @@
         "Bite (Wolf or Hybrid Form Only)": {
           "name": "Bite (Wolf or Hybrid Form Only)",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Humanoid, it is subjected to the following effect.</p><p><em>Constitution Saving Throw:</em> DC [[lookup @save.dc.value activity=GBKhdBPogHNssDIa]].</p><p><em>Failure:</em> The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a <strong>@UUID[Compendium.dnd5e.actors24.Actor.mmWerewolf000000]{Werewolf}</strong> under the DM's control and has 10 Hit Points.</p><p><em>Success:</em> The target is immune to this [[lookup @name lowercase]]'s curse for 24 hours.</p>",
+          "uname": "Unidentified Weapon",
           "activities": {
             "Become Werewolf": {
               "name": "Become Werewolf"
@@ -19587,6 +19668,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Large or smaller creature, it has the &amp;Reference[Prone apply=false] condition.</p>",
+          "uname": "Unidentified Weapon",
           "effects": {
             "Prone": {
               "name": "Prone",
@@ -19614,6 +19696,7 @@
         "Bite": {
           "name": "Bite",
           "description": "<p>[[/attack extended]]. [[/damage average extended]]. If the target is a Medium or smaller creature, it has the &amp;Reference[Prone apply=false] condition.</p>",
+          "uname": "Unidentified Weapon",
           "effects": {
             "Prone": {
               "name": "Prone",
@@ -19632,7 +19715,8 @@
       "items": {
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]], and the next attack roll made against the target before the start of the [[lookup @name lowercase]]'s next turn has Advantage.</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]], and the next attack roll made against the target before the start of the [[lookup @name lowercase]]'s next turn has Advantage.</p>",
+          "uname": "Unidentified Weapon"
         }
       }
     },
@@ -19689,7 +19773,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Sting": {
           "name": "Sting",
@@ -19728,7 +19813,8 @@
         },
         "Bite": {
           "name": "Bite",
-          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+          "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+          "uname": "Unidentified Weapon"
         },
         "Claw": {
           "name": "Claw",

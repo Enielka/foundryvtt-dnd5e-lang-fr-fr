@@ -271,7 +271,8 @@
     },
     "Bite": {
       "name": "Bite",
-      "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
+      "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+      "uname": "Unidentified Weapon"
     },
     "Bites": {
       "name": "Bites",

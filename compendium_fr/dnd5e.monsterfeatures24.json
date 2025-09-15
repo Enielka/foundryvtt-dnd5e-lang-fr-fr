@@ -271,7 +271,8 @@
     },
     "Bite": {
       "name": "",
-      "description": ""
+      "description": "",
+      "uname": ""
     },
     "Bites": {
       "name": "",
