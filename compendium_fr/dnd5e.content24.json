@@ -16,22 +16,22 @@
     },
     "entries": {
         "Actions": {
-            "name": "",
+            "name": "Actions",
             "pages": {
                 "Overview": {
-                    "name": "",
+                    "name": "Aperçu",
                     "text": ""
                 },
                 "One Thing at a Time": {
-                    "name": "",
-                    "text": ""
+                    "name": "Une chose à la fois",
+                    "text": "<p>Le jeu recourt aux actions pour gérer ce que vous pouvez faire à un instant donné. Vous ne pouvez entreprendre qu'une seule action à la fois. Ce principe est primordial au combat, comme le décrit la section « @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{Combat} », plus loin dans ce chapitre.</p><p>Les actions peuvent toutefois intervenir dans d'autres contextes : lors d'une interaction sociale, vous pouvez tenter d'&Reference[Influence]{influencer} une créature ou de recourir à l'action &Reference[Search] pour interpréter son langage corporel, mais vous ne pouvez accomplir les deux en même temps. Et lorsque vous explorez un donjon, vous ne pouvez pas simultanément entreprendre l'action Observation pour chercher les pièges et l'action &Reference[Help] pour aider un autre personnage à débloquer une porte (avec l'action &Reference[Utilize]).</p>"
                 },
                 "Reactions": {
-                    "name": "",
+                    "name": "Réactions",
                     "text": ""
                 },
                 "Bonus Actions": {
-                    "name": "",
+                    "name": "Actions Bonus",
                     "text": ""
                 }
             }
