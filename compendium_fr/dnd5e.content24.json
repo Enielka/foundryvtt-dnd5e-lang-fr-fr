@@ -422,195 +422,195 @@
             }
         },
         "Appendix D: Rule References": {
-            "name": "",
+            "name": "Annexe D. Références de règles",
             "pages": {
                 "Heroic Inspiration": {
-                    "name": "",
-                    "text": ""
+                    "name": "Inspiration héroïque",
+                    "text": "<p>Si vous, personnage joueur, disposez de l'Inspiration héroïque, vous pouvez la dépenser pour rejouer aussitôt tout dé que vous venez de lancer, à condition de conserver ce nouveau jet.</p><p>Si vous recevez l'Inspiration héroïque et l'avez déjà, elle est perdue, sauf si vous la donnez à un personnage joueur qui en est dépourvu.</p>"
                 },
                 "Time (2014)": {
-                    "name": "",
-                    "text": "",
-                    "tooltip": ""
+                    "name": "Le passage du temps (2014)",
+                    "text": "<p>Lorsqu'il est important de surveiller le passage du temps, c'est le MJ qui fixe le temps demandé par une tâche donnée. L'échelle de grandeur décidée par le MJ peut varier selon le contexte de la situation. Dans un environnement d'exploration de donjon, les déplacements des aventuriers se mesurent en <strong>minutes</strong>. Il leur faut environ une minute pour atteindre le bout d'un long couloir avec les précautions d'usage, une minute de plus pour vérifier que la porte qui s'y dresse ne cache pas de piège, et dix bonnes minutes supplémentaires pour passer la salle qui suit au peigne fin.</p><p>En ville ou dans les contrées sauvages, il convient plus souvent de compter en <strong>heures</strong>. Des aventuriers qui se hâtent au cœur de la forêt jusqu'au pied d'une tour solitaire pourront parcourir ces quelque vingt kilomètres en un peu moins de quatre heures.</p><p>Pour les voyages plus longs, on comptera plutôt en <strong>jours</strong>. Rejoindre Eauprofonde par la route depuis la Porte de Baldur se traduira par quatre jours de marche sans incident, jusqu'à ce qu'une embuscade gobeline vienne interrompre le voyage.</p><p>Au combat et en d'autres situations effrénées, le jeu repose sur le concept de <strong>rounds</strong>, intervalles de 6 secondes.</p>",
+                    "tooltip": "<p>En dehors des combats, le MJ détermine la vitesse à laquelle le temps s'écoule en fonction de ce que la situation nécessite : des <strong>minutes</strong> pour explorer un donjon ou entrer par effraction dans une maison, des <strong>heures</strong> pour voyager à travers une ville ou à travers la nature sauvage, ou des <strong>jours</strong> pour de longs voyages à travers le monde.</p><p>Lors des combats et d'autres situations effrénées, le jeu repose sur le concept de <strong>rounds</strong>, intervalles de 6 secondes.</p>"
                 },
                 "Speed": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vitesse",
+                    "text": "<p>Chaque créature dispose d'une Vitesse, expression de la distance en mètres qu'elle peut parcourir en se déplaçant pendant son tour. <em>Lire aussi</em> « @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.a4CjDIEMeSbRaEjA]{Escalade} », « @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.53c9JMqckHagYYB5]{Nage} », « @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.zRZl7vdjzjqpazxn]{Reptation} », « @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.aaJOlRhI1H6vAxt9]{Saut} », « @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.ozHhbP8JVHCJAx0b]{Vol} ».</p><p><em><strong>Vitesses spéciales.</strong></em> Certaines créatures ont des Vitesses spéciales de type Vitesse d'escalade, Vitesse de fouissement, Vitesse de nage ou Vitesse de vol, chacune étant définie dans le présent glossaire. Si vous disposez de plus d'un type de Vitesse, choisissez celle à laquelle vous recourez lors de votre déplacement ; vous pouvez passer d'une Vitesse à l'autre au cours du même déplacement. Chaque fois que vous changez de mode, soustrayez la distance déjà parcourue à la nouvelle Vitesse. Vous obtenez ainsi la distance que vous pouvez encore parcourir. Si cette soustraction vous donne 0 ou moins, vous ne pouvez pas recourir à la Vitesse résultante pour le déplacement en cours. Exemple : si vous disposez d'une Vitesse de 9 m et d'une Vitesse de vol de 12 m, vous pourriez voler 3 m, vous poser, marcher 3 m, puis reprendre les airs et voler sur 6 m de plus.</p><p><em><strong>Altérations de vos Vitesses.</strong></em> Si un effet augmente ou diminue momentanément votre Vitesse, toute Vitesse spéciale dont vous disposez augmente ou diminue du même montant pour la même durée. Si, par exemple, votre Vitesse est réduite à 0 et que vous disposez d'une Vitesse d'escalade, celle-ci est également réduite à 0. De même, si votre Vitesse est réduite de moitié et que vous disposez d'une Vitesse de vol, celle-ci est également réduite de moitié.</p>"
                 },
                 "Travel Pace": {
-                    "name": "",
+                    "name": "Allure de voyage",
                     "text": ""
                 },
                 "Difficult Terrain": {
-                    "name": "",
-                    "text": ""
+                    "name": "Terrain difficile",
+                    "text": "<p>Toute distance parcourue sur un Terrain difficile vous coûte le double en termes de déplacement, même quand plusieurs critères de la zone en font un Terrain difficile.</p>"
                 },
                 "Climbing, Swimming, and Crawling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Escalader, nager et reptation",
+                    "text": "<p>Lorsque l'on escalade une paroi ou que l'on nage, toute distance parcourue vous coûte le double de déplacement (le triple en Terrain difficile), sauf pour les créatures qui possèdent une Vitesse d'escalade ou de nage, respectivement.</p><p>À la discrétion du MD, se déplacer sur une certaine distance en eau agitée ou gravir une surface glissante ou présentant peu de prises peut nécessiter de réussir un test de [[/check dc=15 ath]].</p>"
                 },
                 "Long Jump": {
-                    "name": "",
-                    "text": ""
+                    "name": "Saut en longueur",
+                    "text": "<p><strong>Saut en longueur.</strong> Lorsque vous effectuez un saut en longueur, vous faites un bond horizontal sur une distance maximale égale à votre valeur de Force multipliée par 30 cm à condition d'avoir pris une course d'élan d'au moins 3 m. Dans le cas d'un saut en longueur sans élan, vous ne parcourez que la moitié de cette distance. Dans les deux cas, la distance couverte par le saut est décomptée normalement de votre déplacement.</p><p>Si votre saut se termine en &Reference[difficult-terrain], vous devez réussir un test de [[/check dc=10 acr]] sous peine de subir l'état &Reference[prone].</p><p>Cette règle part du principe que la hauteur atteinte pendant le saut n'a pas d'importance (saut par-dessus un ruisseau ou un gouffre, par exemple). Le MD peut vous imposer de réussir un test de [[/check dc=10 ath]] pour franchir un obstacle bas (pas plus du quart de la longueur du saut), comme une haie ou une murette. En cas d'échec, vous heurtez l'obstacle.</p>"
                 },
                 "High Jump": {
-                    "name": "",
-                    "text": ""
+                    "name": "Saut en hauteur",
+                    "text": "<p><strong>Saut en hauteur.</strong> Lorsque vous effectuez un saut en hauteur, vous bondissez d'une distance maximale égale à 90 cm + votre modificateur de Force multiplié par 30 cm, à condition d'avoir pris une course d'élan d'au moins 3 m. Dans le cas d'un saut en hauteur sans élan, vous ne vous élevez que de la moitié de cette hauteur. Quoi qu'il en soit, la distance couverte par le saut est décomptée normalement de votre déplacement.</p><p>Vous pouvez tendre les bras à la verticale durant le saut, d'une hauteur égale à la moitié de votre taille. Dans ces conditions, vous pouvez agripper une hauteur égale à la hauteur du saut plus une fois et demie votre taille.</p>"
                 },
                 "Falling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chute",
+                    "text": "<p>Au terme d'une chute, une créature subit [[/damage 1d6 type=bludgeoning]]{1d6} dégâts contondants par tranche de 3 m de chute, jusqu'à un maximum de [[/damage 20d6 type=bludgeoning]]{20d6}. La créature subit alors l'état &Reference[Prone], sauf si la chute ne lui a infligé aucun dégât.</p><p>Une créature qui tombe à l'eau ou dans un autre liquide peut jouer sa &Reference[Reaction] pour effectuer un test de [[/check dc=15 ath]] ou de [[/check dc=15 acr]], afin d'y entrer par les pieds ou la tête. Si le test est réussi, les éventuels dégâts de chute sont réduits de moitié.</p>"
                 },
                 "Suffocating": {
-                    "name": "",
-                    "text": ""
+                    "name": "Asphyxie",
+                    "text": "<p>Une créature peut retenir son souffle pendant un nombre de minutes égal à 1 + son modificateur de Constitution (minimum 30 secondes) avant que ne débute l'asphyxie. Lorsqu'une créature à bout de souffle commence à s'asphyxier, elle reçoit 1 niveau d'&Reference[Exhaustion] à la fin de chacun de ses tours. Lorsque la créature peut à nouveau respirer, elle supprime tous les niveaux d'Épuisement entraînés par l'asphyxie.</p>"
                 },
                 "Vision and Light (Revisit)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vision et éclairage (Revisité)",
+                    "text": "<p>Certaines tâches d'aventurier, telles que détecter le danger, frapper l'ennemi et désigner la cible d'un sort, dépendent de la vision, c'est pourquoi les effets qui limitent la Visibilité peuvent vous gêner.</p><p>@Embed[.MAxtfJyvJV7EpzWN inline]</p><p>@Embed[.wPFjfRruboxhtL4b inline]</p><p>@Embed[.RnMokVPyKGbbL8vi inline]</p><p>@Embed[.n1Ocpbyhr6HhgbCG inline]</p><p>@Embed[.4dfREIDjG5N4fvxd inline]</p><h3>Vision aveugle</h3><p>@Embed[.sacjsfm9ZXnw4Tqc inline]</p><h3>Vision dans le noir</h3><p>@Embed[.ldmA1PbnEGVkmE11 inline]</p><h3>Perception des vibrations</h3><p>@Embed[.r64UrNusMhwJVnxb inline]</p><h3>Vision lucide</h3><p>@Embed[.kNa8rJFbtaTM3Rmk inline]</p>"
                 },
                 "Lightly Obscured": {
-                    "name": "",
-                    "text": ""
+                    "name": "Visibilité réduite",
+                    "text": "<p>Dans une zone à <strong>Visibilité réduite</strong>, comme en conditions de Lumière faible, dans un brouillard léger ou une végétation modérée, les créatures ont le Désavantage aux tests de Sagesse (Perception) basés sur la vue.</p>"
                 },
                 "Heavily Obscured": {
-                    "name": "",
-                    "text": ""
+                    "name": "Visibilité nulle",
+                    "text": "<p>Dans une zone à <strong>Visibilité nulle</strong>, comme dans les Ténèbres, dans un brouillard épais ou une végétation très dense, tout est opaque. Vous subissez alors l'état &Reference[condition=blinded] lorsque vous tentez d'y voir quelque chose.</p>"
                 },
                 "Bright Light": {
-                    "name": "",
-                    "text": ""
+                    "name": "Lumière vive",
+                    "text": "<p>Une <strong>Lumière vive</strong> permet à la plupart des créatures de voir normalement. Un ciel chargé suffit à produire une Lumière vive, de même que les torches, lanternes, flammes et autres sources de lumière, du moins dans un certain rayon.</p>"
                 },
                 "Dim Light": {
-                    "name": "",
-                    "text": ""
+                    "name": "Lumière faible",
+                    "text": "<p>Une <strong>Lumière faible</strong>, ou pénombre, produit une zone à &Reference[lightly obscured]. Une zone de Lumière faible fait souvent la transition entre la Lumière vive et les Ténèbres environnantes. La douce lueur du crépuscule et de l'aube compte aussi comme Lumière faible. De même, la pleine lune peut baigner le paysage de Lumière faible.</p>"
                 },
                 "Darkness": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ténèbres",
+                    "text": "<p>Les <strong>Ténèbres</strong> créent une zone à &Reference[heavily-obscured]. En extérieur et de nuit, les personnages sont exposés aux Ténèbres (même avec du clair de lune), comme c'est le cas au fond d'un donjon non éclairé, ou dans une zone de Ténèbres magiques.</p>"
                 },
                 "Blindsight": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vision aveugle",
+                    "text": "<p>Si vous disposez de la Vision aveugle, vous voyez à la portée spécifiée sans vous appuyer sur le sens physique de la vue. À cette portée, vous voyez tout ce qui ne bénéficie pas d'un &Reference[Total Cover], même si vous subissez l'état &Reference[Blinded] ou vous trouvez dans les &Reference[Darkness]. À cette portée, vous distinguez en outre ce qui a l'état Invisible.</p>"
                 },
                 "Darkvision": {
-                    "name": "",
+                    "name": "Vision dans le noir",
                     "text": ""
                 },
                 "Truesight": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vision lucide",
+                    "text": "<p>Si vous avez la Vision lucide, vous bénéficiez d'une vision améliorée à une portée spécifiée. À cette portée, votre vision s'affranchit des obstacles suivants :</p><p><strong>Ténèbres.</strong> Vous voyez dans les &Reference[darkness] normales comme magiques.</p><p><strong>Invisibilité.</strong> Vous voyez les créatures et objets qui ont l'état &Reference[invisible].</p><p><strong>Illusions visuelles.</strong> Les illusions visuelles vous paraissent transparentes, et vous réussissez automatiquement vos jets de sauvegarde contre elles.</p><p><strong>Métamorphoses.</strong> Vous distinguez la forme véritable de toute créature ou tout objet transformé par magie que vous voyez.</p><p><strong>Plan Éthéré.</strong> Vous voyez dans le Plan Éthéré. <em>Lire aussi</em> Annexe A (« Plans transitoires »).</p>"
                 },
                 "Food": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nourriture",
+                    "text": "<p>Une créature a besoin d'une certaine quantité de nourriture par jour en fonction de sa catégorie de taille, comme indiqué dans la table « Besoins quotidiens en nourriture », sinon elle finira par souffrir de &Reference[Malnutrition].</p><table><caption>Besoins quotidiens en nourriture</caption><thead><tr><th><p>Cat. de taille</p></th><th><p>Nourriture</p></th><th></th><th><p>Cat. de taille</p></th><th><p>Nourriture</p></th></tr></thead><tbody><tr><td><p>TP</p></td><td><p>125 g</p></td><td></td><td><p>G</p></td><td><p>2 kg</p></td></tr><tr><td><p>P</p></td><td><p>0,5 kg</p></td><td></td><td><p>TG</p></td><td><p>8 kg</p></td></tr><tr><td><p>M</p></td><td><p>0,5 kg</p></td><td></td><td><p>Gig</p></td><td><p>32 kg</p></td></tr></tbody></table>"
                 },
                 "Water": {
-                    "name": "",
-                    "text": ""
+                    "name": "Eau",
+                    "text": "<p>Une créature a besoin d'une certaine quantité d'eau par jour en fonction de sa catégorie de taille, comme indiqué dans la table « Besoins quotidiens en eau », sinon elle finira par souffrir de &Reference[Dehydration].</p><table><caption>Besoins quotidiens en eau</caption><thead><tr><th><p>Cat. de taille</p></th><th><p>Eau</p></th></tr></thead><tbody><tr><td><p>TP</p></td><td><p>1 litre</p></td></tr><tr><td><p>P</p></td><td><p>4 litres</p></td></tr><tr><td><p>M</p></td><td><p>4 litres</p></td></tr><tr><td><p>G</p></td><td><p>16 litres</p></td></tr><tr><td><p>TG</p></td><td><p>64 litres</p></td></tr><tr><td><p>Gig</p></td><td><p>256 litres</p></td></tr></tbody></table>"
                 },
                 "Short Rest": {
-                    "name": "",
-                    "text": ""
+                    "name": "Repos court",
+                    "text": "<p>Un Repos court est une période d'inactivité d'au moins 1 heure durant laquelle une créature ne fait rien de plus fatigant que se restaurer, discuter, lire ou monter la garde. Pour commencer un Repos court, vous devez avoir au moins 1 point de vie.</p><p><em><strong>Bénéfices du repos.</strong></em>Terminer un Repos court vous permet de recevoir les bénéfices suivants :</p><p><strong>Dépense de dés de vie.</strong> Vous pouvez dépenser un ou plusieurs de vos dés de vie pour récupérer des points de vie. Pour chaque dé de vie ainsi dépensé, jetez le dé et ajoutez-lui votre modificateur de Constitution. Vous récupérez autant de points de vie que le total obtenu (minimum 1). Après chaque dé de vie lancé, vous pouvez décider d'en dépenser d'autres.</p><p><strong>Aptitudes spéciales.</strong> Certaines aptitudes sont rechargées au terme d'un Repos court. Si vous disposez de telles aptitudes, elles se rechargent de la façon stipulée dans leur description.</p><p><em><strong>Repos interrompu.</strong></em> Le Repos court est interrompu par les événements suivants :</p><ul><li>Déterminer l'Initiative</li><li>Lancer un sort autre qu'un sort mineur</li><li>Subir des dégâts</li></ul><p>Un Repos court interrompu n'octroie aucun bénéfice.</p>"
                 },
                 "Long Rest": {
-                    "name": "",
-                    "text": ""
+                    "name": "Repos long",
+                    "text": "<p>Le Repos long est une période prolongée d'inactivité d'au moins 8 heures, disponible pour toute créature. Pendant un Repos long, vous dormez au moins 6 heures et accomplissez de menues tâches pendant un maximum de 2 heures : se restaurer, discuter, lire ou monter la garde.</p><p>Le sommeil vous impose l'état Inconscient. Après avoir terminé un Repos long, vous devez attendre au moins 16 heures avant d'en commencer un autre.</p><p><em><strong>Bénéfices du repos.</strong></em> Pour commencer un Repos long, vous devez avoir au moins 1 point de vie. Terminer un Repos long vous permet de recevoir les bénéfices suivants :</p><p><strong>Récupération de tous les pv.</strong> Vous récupérez tous les points de vie perdus et tous les dés de vie dépensés. Si votre maximum de points de vie avait été réduit, il revient à la normale.</p><p><strong>Récupération des valeurs de caractéristique.</strong> Si une ou plusieurs de vos valeurs de caractéristique avait été réduite, toutes reviennent à la normale.</p><p><strong>Réduction de l'Épuisement.</strong> Si vous subissez l'état ÉpuisementA, le niveau de celui-ci diminue de 1.</p><p><strong>Aptitudes spéciales.</strong> Certaines aptitudes sont rechargées au terme d'un Repos long. Si vous disposez de telles aptitudes, elles se rechargent de la façon stipulée dans leur description.</p><p><em><strong>Repos interrompu.</strong></em> Le Repos long est interrompu par les événements suivants :</p><ul><li>Déterminer l'Initiative</li><li>Lancer un sort autre qu'un sort mineur</li><li>Subir des dégâts</li><li>1 heure de marche ou autre effort physique comparable</li></ul><p>Si vous vous êtes reposé au moins 1 heure avant l'interruption, vous recevez les bénéfices d'un @UUID[.wVuNbEADtC16ejAi]{Repos court}.</p><p>Vous pouvez reprendre un Repos long immédiatement après son interruption. Dans pareil cas, terminer le repos nécessite 1 heure de plus par interruption.</p>"
                 },
                 "Resting": {
-                    "name": "",
-                    "text": ""
+                    "name": "Repos",
+                    "text": "<p>Il y a deux façons pour un personnage de se reposer :</p><ul><li><p>&Reference[short rest]</p></li><li><p>&Reference[long rest]</p></li></ul>"
                 },
                 "Food and Water": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nourriture et eau",
+                    "text": "<h3>Nourriture</h3><p>@Embed[.jayo7XVgGnRCpTW0 inline]</p><h3>Eau</h3><p>@Embed[.iIEI87J7lr2sqtb5 inline]</p>"
                 },
                 "Strength Checks": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tests de Force",
+                    "text": "<p>Effectuez un <strong>test</strong> de Force pour soulever, pousser, tirer ou briser quelque chose.</p>"
                 },
                 "Strength": {
-                    "name": "",
-                    "text": ""
+                    "name": "Force",
+                    "text": "<p>La Force représentant la puissance physique.</p><h3>Tests de Force</h3><p>@Embed[.Tu30XV5UKGAdgz4Z inline]</p><h3>Jet de sauvegarde</h3><p>@Embed[.9F7Ln8GBlGs029fD inline]</p><h3>Jets d'attaque et de dégâts</h3><p>@Embed[.9DPXJOLEsspMYK0D inline]</p><h3>Soulever et porter</h3><p>@Embed[.Kuj7Lkfn8ZckcNGH inline]</p>"
                 },
                 "Lifting and Carrying": {
-                    "name": "",
-                    "text": ""
+                    "name": "Soulever et porter",
+                    "text": "<p>Vos catégorie de taille et valeur de Force déterminent le poids maximal (en kg) que vous pouvez porter, comme stipulé dans la table « Capacité de charge ». Sur cette table figure en outre le poids maximal que vous pouvez pousser, tirer ou soulever.</p><p>@Embed[.Hni8DjqLzoqsVjb6 inline]</p><p>@Embed[.1PnjDBKbQJIVyc2t inline]</p>"
                 },
                 "Carrying Capacity": {
-                    "name": "",
-                    "text": ""
+                    "name": "Capacité de charge",
+                    "text": "<table><caption>Capacité de charge</caption><thead><tr><td><p>Cat. de taille de la créature</p></td><td><p>Charge</p></td><td><p>Max pour pousser, tirer, soulever</p></td></tr></thead><tbody><tr><td><p>TP</p></td><td><p>For x 3,75 kg</p></td><td><p>For x 7,5 kg</p></td></tr><tr><td><p>P/M</p></td><td><p>For x 7,5 kg</p></td><td><p>For x 15 kg</p></td></tr><tr><td><p>G</p></td><td><p>For x 15 kg</p></td><td><p>For x 30 kg</p></td></tr><tr><td><p>TG</p></td><td><p>For x 30 kg</p></td><td><p>For x 60 kg</p></td></tr><tr><td><p>Gig</p></td><td><p>For x 60 kg</p></td><td><p>For x 120 kg</p></td></tr></tbody></table>"
                 },
                 "Push, Drag, or Lift": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pousser, tirer ou soulever",
+                    "text": "<p>Lorsque vous <strong>poussez, tirez ou soulevez</strong> un poids supérieur à votre capacité de charge, votre Vitesse est plafonnée à 1,50 m.</p>"
                 },
                 "Size and Strength": {
-                    "name": "",
-                    "text": ""
+                    "name": "Catégorie de taille et Force",
+                    "text": "<p><em><strong>Catégorie de taille et Force.</strong></em> Les créatures de taille supérieure peuvent porter davantage, tandis que celles de taille TP sont plus limitées. Pour chaque catégorie de taille au-delà de la taille M, doublez la capacité de charge de la créature et, donc, le poids qu'elle peut pousser, tirer ou soulever. Dans le cas d'une créature de taille TP, divisez ces poids par deux.</p>"
                 },
                 "Athletics": {
-                    "name": "",
-                    "text": ""
+                    "name": "Athlétisme",
+                    "text": "<p><strong>Exemples :</strong> Sauter plus loin que la normale, garder la tête hors de l'eau dans des flots violents ou briser quelque chose.</p>"
                 },
                 "Encumbered (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chargé (2014)",
+                    "text": "<p>Si vous portez plus de 2,5 fois votre valeur de Force (en kg), vous êtes <strong>chargé</strong>, si bien que votre vitesse est réduite de 3 m.</p>"
                 },
                 "Heavily Encumbered (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Surchargé (2014)",
+                    "text": "<p>Si vous portez plus de 5 fois votre valeur de Force, sans dépasser votre capacité de charge, vous êtes <strong>surchargé</strong>, si bien que votre vitesse est réduite de 6 m et que vous êtes désavantagé aux tests de caractéristique, jets d'attaque et jets de sauvegarde associés à la Force, la Dextérité ou la Constitution.</p>"
                 },
                 "Dexterity": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dextérité",
+                    "text": "<p>La Dextérité représentant l'agilité, les réflexes et l'équilibre.</p><h3>Tests de Dextérité</h3><p>@Embed[.310T6po5xJuu8FoZ inline]</p><h3>Jets d'attaque et de dégâts</h3><p>@Embed[.Rk5nUGsGWHkSzPub inline]</p><h3>Classe d'armure</h3><p>@Embed[.YSFOauOValBylNc7 inline]</p><h3>Initiative</h3><p>@Embed[.4AXnTyno7dLBB6Ct inline]</p><div class=\"fvtt advice\"><figure class=\"icon\"><img src=\"icons/equipment/back/cloak-hooded-blue.webp\" class=\"round\" /></figure><article><h4>Se cacher</h4><p>@Embed[.plHuoNdS0j3umPNS inline]</p></article></div>"
                 },
                 "Dexterity Checks": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tests de Dextérité",
+                    "text": "<p>Effectuez un <strong>test</strong> de Dextérité pour vous déplacer avec agilité, vivacité ou furtivité.</p>"
                 },
                 "Acrobatics": {
-                    "name": "",
-                    "text": ""
+                    "name": "Acrobaties",
+                    "text": "<p><strong>Exemples :</strong> Rester debout lorsque l'équilibre est précaire ou accomplir un exercice acrobatique.</p>"
                 },
                 "Sleight of Hand": {
-                    "name": "",
-                    "text": ""
+                    "name": "Escamotage",
+                    "text": "<p><strong>Exemples :</strong> Faire les poches, dissimuler un petit objet ou exécuter un tour de passe-passe.</p>"
                 },
                 "Stealth": {
-                    "name": "",
-                    "text": ""
+                    "name": "Discrétion",
+                    "text": "<p><strong>Exemples :</strong> Se soustraire à l'attention en se déplaçant sans faire de bruit et en se cachant.</p>"
                 },
                 "Attack Rolls and Damage": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jets d'attaque et de dégâts",
+                    "text": "<p>Vous ajoutez votre modificateur de Dextérité à vos jets d'attaque et vos jets de dégâts lorsque vous attaquez avec une arme à distance, telle qu'une fronde ou un arc long. Vous pouvez aussi ajouter votre modificateur de Dextérité à vos jets d'attaque et vos jets de dégâts lorsque vous attaquez avec une arme de corps à corps dotée de la propriété finesse, comme une dague ou une rapière.</p>"
                 },
                 "Armor Class": {
-                    "name": "",
-                    "text": ""
+                    "name": "Classe d'armure",
+                    "text": "<p>Selon l'armure que vous portez, vous pouvez ajouter tout ou partie de votre modificateur de Dextérité à votre classe d'armure.</p>"
                 },
                 "Initiative": {
-                    "name": "",
+                    "name": "Initiative",
                     "text": ""
                 },
                 "Hiding": {
-                    "name": "",
+                    "name": "Se cacher",
                     "text": ""
                 },
                 "Passive Perception": {
-                    "name": "",
+                    "name": "Perception passive",
                     "text": ""
                 },
                 "Constitution": {
-                    "name": "",
-                    "text": ""
+                    "name": "Constitution",
+                    "text": "<p>La Constitution représentant la santé et l'endurance.</p><h3>Tests de Constitution</h3><p>@Embed[.PxYak7E7jGQMxuzh inline]</p><h3>Points de vie</h3><p>@Embed[.8TSg6dtVxOVPzvuY inline]</p>"
                 },
                 "Hit Points": {
-                    "name": "",
-                    "text": ""
+                    "name": "Points de vie",
+                    "text": "<p>Votre modificateur de Constitution contribue à vos points de vie. En général, vous ajoutez votre modificateur de Constitution à chaque dé de vie lancé pour déterminer vos points de vie.</p>"
                 },
                 "Constitution Checks": {
-                    "name": "",
+                    "name": "Tests de Constitution",
                     "text": ""
                 },
                 "Intelligence": {
@@ -706,15 +706,15 @@
                     "text": ""
                 },
                 "Surprise": {
-                    "name": "",
-                    "text": ""
+                    "name": "Surprise",
+                    "text": "<p>Une créature prise au dépourvu au début d'un combat est surprise, avec pour conséquence de subir le &Reference[disadvantage] à son jet d'Initiative.</p>"
                 },
                 "RcwElV4GAcVXKWxo": {
-                    "name": "",
-                    "text": ""
+                    "name": "Initiative",
+                    "text": "<p>L'Initiative détermine la séquence des tours durant un combat. Les règles de combat du chapitre 1 expliquent comment jouer l'Initiative.</p><p>Le MD préférera parfois demander aux combattants d'utiliser leur valeur d'Initiative au lieu de jouer l'Initiative. Votre valeur d'Initiative est égale à 10 + votre modificateur de Dextérité. Si vous avez l'Avantage au jet d'Initiative, augmentez de 5 votre valeur d'Initiative. Si vous subissez le Désavantage à ce même jet, diminuez cette valeur de 5.</p>"
                 },
                 "Your Turn": {
-                    "name": "",
+                    "name": "Votre tour",
                     "text": ""
                 },
                 "Bonus Actions": {
@@ -726,32 +726,32 @@
                     "text": ""
                 },
                 "Reactions": {
-                    "name": "",
-                    "text": ""
+                    "name": "Réactions",
+                    "text": "<p>Une Réaction est une action spéciale entreprise en réponse à un événement déclencheur défini dans la description de la Réaction. Vous pouvez jouer votre Réaction pendant le tour d'une autre créature, et si vous la jouez pendant votre tour, vous pouvez le faire même si vous entreprenez également une action, une action Bonus, ou les deux. Une fois la Réaction jouée, vous ne pouvez pas en jouer d'autre avant le début de votre tour suivant. L'attaque d'Opportunité est une Réaction accessible à toutes les créatures.</p>"
                 },
                 "Breaking Up Your Move": {
                     "name": "",
                     "text": ""
                 },
                 "Moving Between Attacks": {
-                    "name": "",
-                    "text": ""
+                    "name": "Se déplacer entre les attaques",
+                    "text": "<p><em><strong>Se déplacer entre les attaques.</strong></em> Si vous vous déplacez pendant votre tour et disposez d'une aptitude, telle qu'Attaque supplémentaire, qui vous octroie plusieurs attaques dans le cadre de l'action Attaque, vous pouvez consacrer tout ou partie de ce déplacement à vous mouvoir entre ces attaques.</p>"
                 },
                 "Using Different Speeds": {
                     "name": "",
                     "text": ""
                 },
                 "6tqz947qO8vPyxvD": {
-                    "name": "",
-                    "text": ""
+                    "name": "Terrain difficile",
+                    "text": "<p>Si un espace est un Terrain difficile, le déplacement y est doublé. Se déplacer de 1,50 m en Terrain difficile, par exemple, coûte 3 m de déplacement. Le Terrain difficile n'est pas cumulatif ; soit un espace est un Terrain difficile, soit il ne l'est pas.</p>"
                 },
                 "Being Prone": {
                     "name": "",
                     "text": ""
                 },
                 "Crawling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Reptation",
+                    "text": "<p>Lorsque vous rampez, toute distance parcourue vous coûte le double de déplacement (le triple en &Reference[Difficult Terrain]).</p>"
                 },
                 "Dropping Prone": {
                     "name": "",
@@ -762,12 +762,12 @@
                     "text": ""
                 },
                 "Moving Around Other Creatures": {
-                    "name": "",
-                    "text": ""
+                    "name": "Se déplacer au milieu d'autres créatures",
+                    "text": "<p>Au cours de votre déplacement, vous pouvez traverser l'espace d'un allié, d'une créature dotée de l'état &Reference[Incapacitated], d'une créature de taille TP ou d'une créature dont la catégorie de taille est supérieure ou inférieure à la vôtre d'au moins deux crans.</p><p>L'espace d'une autre créature est considéré pour vous comme &Reference[Difficult Terrain], sauf si elle est votre alliée ou de taille TP.</p><p>Vous ne pouvez pas terminer volontairement votre déplacement dans un espace occupé par une autre créature. Si, pour une raison quelconque, vous terminez un tour dans un espace où se trouve une autre créature, vous subissez l'état &Reference[Prone] sauf si vous êtes de taille TP ou d'une catégorie de taille supérieure à celle de l'autre créature.</p>"
                 },
                 "Flying Movement": {
-                    "name": "",
-                    "text": ""
+                    "name": "Déplacement en vol",
+                    "text": "<p>Divers effets permettent à une créature de voler. Lorsque vous volez, vous tombez si vous subissez l'état &Reference[Incapacitated] ou &Reference[Prone], ou si votre Vitesse de vol est réduite à 0. Pour rester en l'air dans pareilles circonstances, vous devez disposer du Vol stationnaire.</p>"
                 },
                 "Creature Size": {
                     "name": "",
@@ -839,22 +839,22 @@
                     "text": ""
                 },
                 "Ranged Attacks": {
-                    "name": "",
-                    "text": "",
-                    "tooltip": ""
+                    "name": "Attaques à distance",
+                    "text": "<p>Lorsque vous effectuez une attaque à distance, vous tirez à l'arc, lancez une hache ou des projectiles vers un adversaire distant. De nombreux sorts font également intervenir une attaque à distance.</p><h3>Portée</h3><p>@Embed[.HjKXuB8ndjcqOds7 inline]</p><h3>Attaques à distance en combat rapproché</h3><p>@Embed[.qEZvxW0NM7ixSQP5 inline]</p>",
+                    "tooltip": "<p>Lorsque vous effectuez une attaque à distance, vous tirez à l'arc, lancez une hache ou des projectiles vers un adversaire distant. De nombreux sorts font également intervenir une attaque à distance.</p>"
                 },
                 "Range": {
-                    "name": "",
-                    "text": ""
+                    "name": "Portée",
+                    "text": "<p>Vous ne pouvez effectuer une attaque à distance que si votre cible se situe à une portée spécifiée. Quand une attaque à distance, comme celle qu'on effectue avec un sort, n'indique qu'une seule portée, vous ne pouvez pas attaquer une cible hors de cette portée.</p><p>Certaines attaques à distance, comme celles qu'on effectue avec un arc long, présentent deux portées. Le nombre le plus petit représente la portée normale, tandis que le plus grand correspond à la portée longue. Votre jet d'attaque a le &Reference[Disadvantage] lorsque votre cible se situe au-delà de la portée normale ; en outre, vous ne pouvez pas attaquer une cible située au-delà de la portée longue.</p>"
                 },
                 "Ranged Attacks in Close Combat": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attaques à distance en combat rapproché",
+                    "text": "<p>La visée d'une attaque à distance s'avère plus compliquée quand un adversaire se tient près de vous. Lorsque vous effectuez une attaque à distance avec une arme, un sort ou autre moyen, vous avez le &Reference[Disadvantage] au jet d'attaque si vous vous trouvez dans un rayon de 1,50 m d'un ennemi qui vous voit et qui ne subit pas l'état &Reference[Incapacitated].</p>"
                 },
                 "Melee Attacks": {
-                    "name": "",
-                    "text": "",
-                    "tooltip": ""
+                    "name": "Attaques de corps à corps",
+                    "text": "<p>Une attaque de corps à corps vous permet d'attaquer une cible à portée d'allonge. Elle fait généralement intervenir une arme tenue en main ou une attaque à mains nues. De nombreux monstres effectuent des attaques de corps à corps avec leurs griffes, leurs crocs et autres parties du corps. Quelques sorts font aussi intervenir des attaques de corps à corps.</p><p>La plupart des créatures ont une allonge de 1,50 m et peuvent donc attaquer des cibles situées à 1,50 m ou moins lorsqu'elles effectuent une attaque de corps à corps. Certaines créatures disposent d'attaques de corps à corps dont l'allonge est supérieure à 1,50 m, comme l'indique leur description.</p><p>@Embed[.xJjJ4lhymAYXAOvO inline]</p><h3>Attaques d'Opportunité</h3><p>@Embed[.zeU0NyCyP10lkLg3 inline]</p><h3>Lutte</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.YSLWJcQCP6kzsPql inline]</p>",
+                    "tooltip": "<p>Une attaque de corps à corps vous permet d'attaquer une cible à portée d'allonge. Elle fait généralement intervenir une arme tenue en main ou une attaque à mains nues. De nombreux monstres effectuent des attaques de corps à corps avec leurs griffes, leurs crocs et autres parties du corps. Quelques sorts font aussi intervenir des attaques de corps à corps.</p><p>La plupart des créatures ont une allonge de 1,50 m et peuvent donc attaquer des cibles situées à 1,50 m ou moins lorsqu'elles effectuent une attaque de corps à corps. Certaines créatures disposent d'attaques de corps à corps dont l'allonge est supérieure à 1,50 m, comme l'indique leur description.</p>"
                 },
                 "Opportunity Attacks": {
                     "name": "",
@@ -865,17 +865,17 @@
                     "text": ""
                 },
                 "Grappling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Lutte",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.YSLWJcQCP6kzsPql inline]</p>"
                 },
                 "Shoving a Creature": {
                     "name": "",
                     "text": ""
                 },
                 "Ending a Grapple": {
-                    "name": "",
-                    "text": "",
-                    "tooltip": ""
+                    "name": "Mettre fin à la lutte",
+                    "text": "<p><em><strong>Mettre fin à la lutte.</strong></em> Une créature Agrippée peut consacrer son action à effectuer un test de [[/check ath]] ou de [[/check acr]] contre le DD d'évasion de la lutte, mettant un terme à l'état sur elle-même en cas de réussite. L'état prend fin également si l'agrippeur subit l'état Neutralisé ou si la distance entre la cible agrippée et l'agrippeur dépasse la portée d'allonge de ce dernier. En outre, l'agrippeur peut à tout moment mettre fin à la lutte (pas d'action requise).</p>",
+                    "tooltip": "<p>Une créature Agrippée peut consacrer son action pour se libérer. Pour ce faire, elle doit réussir un test de [[/check ath]] ou de [[/check acr]] contesté par votre test de Force (Athlétisme).</p>"
                 },
                 "Moving a Grappled Creature": {
                     "name": "",
@@ -891,32 +891,32 @@
                     "text": ""
                 },
                 "Cover": {
-                    "name": "",
-                    "text": ""
+                    "name": "Abri",
+                    "text": "<p>L'abri fournit un degré de protection à la cible située derrière. Il existe trois niveaux d'abri qui octroient chacun un bénéfice distinct aux cibles abritées :</p><p>@Embed[.hv0J61IAfofuhy3Q inline]</p><p>@Embed[.zAMStUjUrPV10dFm inline]</p><p>@Embed[.BKUAxXuPEzxiEOeL inline]</p>"
                 },
                 "Half Cover": {
-                    "name": "",
-                    "text": ""
+                    "name": "Abri partiel",
+                    "text": "<p>Abri partiel (bonus de +2 à la CA et aux jets de sauvegarde de Dextérité).</p>"
                 },
                 "Three-Quarters Cover": {
-                    "name": "",
-                    "text": ""
+                    "name": "Abri supérieur",
+                    "text": "<p>Abri supérieur (bonus de +5 à la CA et aux jets de sauvegarde de Dextérité).</p>"
                 },
                 "Total Cover": {
-                    "name": "",
-                    "text": ""
+                    "name": "Abri total",
+                    "text": "<p>Abri total (le sujet ne peut pas être pris pour cible directement).</p>"
                 },
                 "PFbzoMBviI2DD9QP": {
-                    "name": "",
-                    "text": ""
+                    "name": "Points de vie",
+                    "text": "<p>Les points de vie (pv en abrégé) sont la mesure chiffrée de la difficulté à tuer une créature ou détruire un objet. Les dégâts réduisent les points de vie, les soins les rétablissent. Vous ne pouvez pas avoir plus de points de vie que votre maximum de points de vie, et vous ne pouvez pas en avoir moins de 0.</p>"
                 },
                 "Damage Rolls": {
                     "name": "",
                     "text": ""
                 },
                 "Critical Hits": {
-                    "name": "",
-                    "text": ""
+                    "name": "Coups critiques",
+                    "text": "<p>Si vous obtenez un 20 sur le d20 d'un jet d'attaque, il s'agit d'un Coup critique : l'attaque touche quels que soient les modificateurs afférents et la CA de la cible. Un Coup critique vous autorise à lancer des dés supplémentaires pour déterminer les dégâts de l'attaque contre la cible. Ainsi, tous les dés de dégâts de l'attaque sont lancés deux fois et ajoutés les uns aux autres. Ajoutez ensuite les modificateurs applicables.</p>"
                 },
                 "Damage Types": {
                     "name": "",
@@ -975,8 +975,8 @@
                     "text": ""
                 },
                 "Healing": {
-                    "name": "",
-                    "text": ""
+                    "name": "Soins",
+                    "text": "<p>Les points de vie se récupèrent par magie (le sort @UUID[Compendium.dnd5e.spells24.Item.phbsplCureWounds]{soins}, par exemple, ou une @UUID[Compendium.dnd5e.equipment24.Item.phbagPotionofHea]{potion de guérison}), ou par l'intermédiaire d'un &reference[Short Rest] ou &Reference[Long Rest]{long}.</p><p>Lorsqu'une telle guérison opère sur vous, ajoutez les points de vie restitués à vos points de vie actuels. Vos points de vie ne peuvent pas dépasser votre maximum de points de vie, si bien que tous les points de vie récupérés en excédent sont perdus. Exemple : si vous recevez 8 points de vie de guérison alors que vous en avez actuellement 14 et que votre maximum de points de vie est de 20, vous n'en récupérez en fait que 6, pas 8.</p>"
                 },
                 "Dropping to 0 Hit Points": {
                     "name": "",
@@ -1023,12 +1023,12 @@
                     "text": ""
                 },
                 "Mounting and Dismounting": {
-                    "name": "",
-                    "text": ""
+                    "name": "Monter et descendre",
+                    "text": "<p>Durant un déplacement, vous pouvez monter sur une créature située dans un rayon de 1,50 m de vous ou en descendre. Il vous faut consacrer la moitié de votre &Reference[Speed] (arrondie à l'inférieur) pour ce faire. Par exemple, si votre Vitesse est de 9 m, vous devez consacrer 4,50 m de déplacement à monter sur un cheval.</p>"
                 },
                 "Controlling a Mount": {
-                    "name": "",
-                    "text": ""
+                    "name": "Contrôler une monture",
+                    "text": "<p>Vous ne pouvez contrôler une monture que si elle est formée à recevoir un cavalier. Les chevaux domestiques, mules et créatures assimilées ont été dressés de la sorte.</p><p>L'Initiative d'une monture contrôlée est la même que la vôtre quand vous la montez. Elle se déplace selon vos instructions à votre tour, durant lequel elle n'a que trois options d'action : &Reference[Disengage], &Reference[Dodge] et &Reference[Dash]. Une monture contrôlée peut se déplacer et agir, y compris au tour où vous grimpez sur son dos.</p><p>À l'inverse, une monture indépendante (qui vous accepte comme cavalier, mais ne se laisse pas contrôler), garde son propre rang d'Initiative, et agit et se déplace comme bon lui semble.</p>"
                 },
                 "Underwater Combat": {
                     "name": "",
@@ -1064,8 +1064,8 @@
                     "text": ""
                 },
                 "Cantrips": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sorts mineurs",
+                    "text": "<p>Un sort mineur est un sort du niveau 0, qui se lance sans dépenser d'emplacement de sort.</p>"
                 },
                 "Rituals": {
                     "name": "",
@@ -1112,8 +1112,8 @@
                     "text": ""
                 },
                 "Concentration": {
-                    "name": "",
-                    "text": ""
+                    "name": "Concentration",
+                    "text": "<p>Certains sorts et effets nécessitent la Concentration pour rester actifs, comme stipulé dans leur description. Si son créateur perd sa Concentration, l'effet prend fin. Si l'effet a une durée maximale, son descriptif indique combien de temps son créateur peut se concentrer sur lui : jusqu'à 1 minute, 1 heure, ou autre durée. Le créateur peut rompre volontairement sa Concentration à tout moment (pas d'action requise). Les facteurs ci-après brisent la Concentration.</p><p><em><strong>Autre effet nécessitant la Concentration.</strong></em> Vous perdez la Concentration sur un effet dès l'instant où vous commencez à lancer un sort nécessitant la Concentration ou activez un autre effet qui la requiert.</p><p><em><strong>Dégâts.</strong></em> Si vous subissez des dégâts, vous devez réussir un jet de sauvegarde de Constitution pour maintenir votre Concentration. Le DD est égal à 10 ou à la moitié des dégâts subis (arrondir à l'inférieur), le nombre le plus élevé étant retenu, jusqu'à un DD maximal de 30.</p><p><em><strong>Neutralisé ou mort.</strong></em> Votre Concentration prend fin si vous subissez l'état &Reference[Incapacitated] ou si vous mourez.</p>"
                 },
                 "Targets": {
                     "name": "",
@@ -1132,24 +1132,24 @@
                     "text": ""
                 },
                 "Cone": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cône",
+                    "text": "<p>Un Cône est une zone d'effet qui s'étend en ligne droite à partir d'un point d'origine dans la direction choisie par son créateur. Sa largeur en un point donné du Cône est toujours égale à la distance qui sépare ce point de l'origine du Cône. La largeur d'un Cône est de 4,50 m, par exemple, au point de sa longueur distant de 4,50 m du point d'origine. L'effet qui crée un Cône stipule sa longueur maximale.</p><p>Le point d'origine du Cône n'est pas situé dans la zone d'effet, sauf si son créateur en décide autrement.</p>"
                 },
                 "Cube": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cube",
+                    "text": "<p>Un Cube est une zone d'effet qui s'étend en ligne droite à partir d'un point d'origine situé n'importe où sur l'une des faces du Cube. L'effet qui crée un Cube spécifie sa taille, à savoir la longueur de chaque arête.</p><p>Le point d'origine d'un Cube n'est pas situé dans la zone d'effet, sauf si son créateur en décide autrement.</p>"
                 },
                 "Cylinder": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cylindre",
+                    "text": "<p>Un Cylindre est une zone d'effet qui s'étend en ligne droite à partir d'un point d'origine situé au centre de la partie supérieure ou inférieure du Cylindre. L'effet qui crée un Cylindre spécifie le rayon de la base du Cylindre et sa hauteur.</p><p>Le point d'origine d'un Cylindre est situé dans sa zone d'effet.</p>"
                 },
                 "Line": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ligne",
+                    "text": "<p>Une Ligne est une zone d'effet qui s'étend en ligne droite à partir d'un point d'origine et couvre une zone définie par sa longueur et sa largeur. L'effet qui crée une Ligne spécifie sa longueur et sa largeur.</p><p>Le point d'origine d'une Ligne n'est pas situé dans la zone d'effet, sauf si son créateur en décide autrement.</p>"
                 },
                 "Sphere": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sphère",
+                    "text": "<p>Une Sphère est une zone d'effet qui s'étend en ligne droite dans toutes les directions à partir d'un point d'origine. L'effet qui crée une Sphère stipule la distance à laquelle elle s'étend, ce qui constitue le rayon de la Sphère.</p><p>Le point d'origine d'une Sphère est situé dans sa zone d'effet.</p>"
                 },
                 "Saving Throws": {
                     "name": "",
@@ -1470,8 +1470,8 @@
                     "text": ""
                 },
                 "Telepathy": {
-                    "name": "",
-                    "text": ""
+                    "name": "Télépathie",
+                    "text": "<p>La télépathie est une faculté magique permettant à un créature de communiquer mentalement avec une autre créature à une portée définie. Pour saisir le sens de cette communication, sauf mention contraire, la créature contactée n'est pas tenue de maîtriser une langue commune avec le télépathe, mais elle doit comprendre au moins une langue ou être elle-même télépathe.</p><p>Le télépathe n'a pas besoin de voir la créature contactée, et peut débuter le contact télépathique ou y mettre un terme à tout moment (pas d'action requise). Le contact télépathique ne peut pas être initié et il est immédiatement rompu si le télépathe ou l'autre créature subit l'état Neutralisé. Le contact télépathique est également rompu dès que la créature contactée quitte la portée de la faculté télépathique, ou que le télépathe contacte une autre créature à portée.</p><p>Une créature non télépathe peut recevoir des messages télépathiques mais elle ne peut pas initier une telle conversation. Dès qu'une conversation télépathique a débuté, le non-télépathe peut communiquer mentalement avec le télépathe jusqu'à ce que la liaison télépathique prenne fin.</p>"
                 },
                 "Challenge": {
                     "name": "",
@@ -1599,56 +1599,56 @@
                     "text": ""
                 },
                 "Fast Travel Pace": {
-                    "name": "",
-                    "text": ""
+                    "name": "Allure de voyage rapide",
+                    "text": "<p><strong>Rapide.</strong> Un voyageur qui évolue à allure rapide a le Désavantage aux tests de Sagesse (Perception ou Survie) et Dextérité (Discrétion).</p>"
                 },
                 "Normal Travel Pace": {
-                    "name": "",
-                    "text": ""
+                    "name": "Allure de voyage normale",
+                    "text": "<p><strong>Normale.</strong> Un voyageur qui évolue à allure normale a le Désavantage aux tests de Dextérité (Discrétion).</p>"
                 },
                 "Slow Travel Pace": {
-                    "name": "",
-                    "text": ""
+                    "name": "Allure de voyage lente",
+                    "text": "<p><strong>Lente.</strong> Un voyageur qui évolue à allure lente a l'Avantage aux tests de Sagesse (Perception ou Survie).</p>"
                 },
                 "Tremorsense": {
-                    "name": "",
-                    "text": ""
+                    "name": "Perception des vibrations",
+                    "text": "<p>Une créature dotée de la Perception des vibrations définit avec précision la position des créatures et des objets en mouvement à une portée définie, à condition qu'elle-même et ce qu'elle détecte soient en contact physique avec la même surface (par exemple le sol, un mur ou un plafond) ou le même élément liquide.</p><p>La Perception des vibrations ne permet pas de détecter les créatures ou les objets évoluant dans les airs, et n'est pas considérée comme une forme de vision.</p>"
                 },
                 "Weapon Masteries": {
-                    "name": "",
-                    "text": ""
+                    "name": "Bottes d'arme",
+                    "text": "<p>Chaque arme est dotée d'une botte, qui n'est utilisable que par un personnage disposant d'une aptitude, comme Bottes d'arme, qui déverrouille cette propriété pour le personnage. Les bottes sont définies ci-dessous.</p><h3>Coup double</h3><p>@Embed[.l0uao3UVco5ptQso inline]</p><h3>Écorchure</h3><p>@Embed[.PPnaXKPsQvAZp0J4 inline]</p><h3>Enchaînement</h3><p>@Embed[.ULDpodOdTxTTiNEx inline]</p><h3>Ouverture</h3><p>@Embed[.hg3adn9O1O5Z2QxL inline]</p><h3>Poussée</h3><p>@Embed[.BPD7ScnLyuPwl145 inline]</p><h3>Ralentissement</h3><p>@Embed[.OQQ7hAp6OAxX1rXY inline]</p><h3>Renversement</h3><p>@Embed[.IMnpuysdrSalmZJg inline]</p><h3>Sape</h3><p>@Embed[.fPkZQ7TkKCCA3nTc inline]</p>"
                 },
                 "Graze": {
-                    "name": "",
-                    "text": ""
+                    "name": "Écorchure",
+                    "text": "<p>Si votre jet d'attaque avec cette arme rate une créature, vous pouvez lui infliger des dégâts égaux au modificateur de la caractéristique utilisée pour effectuer le jet d'attaque. Ces dégâts sont du même type que ceux infligés par l'arme, et ne peuvent être augmentés qu'en augmentant le modificateur de caractéristique.</p>"
                 },
                 "Nick": {
-                    "name": "",
-                    "text": ""
+                    "name": "Coup double",
+                    "text": "<p>Lorsque vous effectuez l'attaque supplémentaire de la propriété Légère de l'arme, vous pouvez l'effectuer dans le cadre de l'action Attaque au lieu de devoir y consacrer votre action Bonus. Vous ne pouvez effectuer cette attaque supplémentaire qu'une seule fois par tour.</p>"
                 },
                 "Push": {
-                    "name": "",
-                    "text": ""
+                    "name": "Poussée",
+                    "text": "<p>Si vous touchez une créature avec cette arme, vous pouvez la repousser d'un maximum de 3 m en ligne droite pour peu qu'elle soit de taille G ou inférieure.</p>"
                 },
                 "Sap": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sape",
+                    "text": "<p>Si vous touchez une créature avec cette arme, cette créature subit le Désavantage à son prochain jet d'attaque avant le début de votre tour suivant.</p>"
                 },
                 "Slow": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ralentissement",
+                    "text": "<p>Si vous touchez une créature avec cette arme et lui infligez des dégâts, vous pouvez réduire sa Vitesse de 3 m jusqu'au début de votre tour suivant. Si la créature est touchée plus d'une fois par des armes dotées de cette propriété, la réduction de sa Vitesse n'excède pas 3 m.</p>"
                 },
                 "Topple": {
-                    "name": "",
-                    "text": ""
+                    "name": "Renversement",
+                    "text": "<p>Si vous touchez une créature avec cette arme, vous pouvez la contraindre à effectuer un jet de sauvegarde de Constitution (DD égal à 8 + le modificateur de caractéristique utilisé pour le jet d'attaque + votre bonus de maîtrise). En cas d'échec, la créature subit l'état À terre.</p>"
                 },
                 "Vex": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ouverture",
+                    "text": "<p>Si vous touchez une créature avec cette arme et lui infligez des dégâts, vous avez l'Avantage à votre prochain jet d'attaque contre cette créature avant la fin de votre tour suivant.</p>"
                 },
                 "Cleave": {
-                    "name": "",
-                    "text": ""
+                    "name": "Enchaînement",
+                    "text": "<p>Si vous touchez une créature avec un jet d'attaque de corps à corps avec cette arme, vous pouvez effectuer un jet d'attaque de corps à corps avec cette arme contre une deuxième créature située dans un rayon de 1,50 m de la première, et qui est elle aussi à votre portée. Si l'attaque touche, la deuxième créature subit les dégâts de l'arme, mais sans ajouter votre modificateur de caractéristique à ces dégâts, sauf si ce modificateur est négatif. Vous ne pouvez effectuer cette attaque supplémentaire qu'une seule fois par tour.</p>"
                 },
                 "Life Domain Spells": {
                     "name": ""
@@ -2413,40 +2413,40 @@
                     "text": ""
                 },
                 "Initiative": {
-                    "name": "",
+                    "name": "Initiative",
                     "text": ""
                 },
                 "Your Turn": {
-                    "name": "",
-                    "text": ""
+                    "name": "Votre tour",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.iP1hYT7zzOyrzS7j inline]</p>"
                 },
                 "Ending Combat": {
                     "name": "",
                     "text": ""
                 },
                 "Movement and Position": {
-                    "name": "",
-                    "text": ""
+                    "name": "Déplacement et position",
+                    "text": "<p>À votre tour, vous pouvez vous déplacer d'une distance n'excédant pas votre &Reference[Speed]. Vous pouvez aussi décider de ne pas vous déplacer.</p><p>Votre déplacement peut inclure des portions d'@UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.a4CjDIEMeSbRaEjA]{escalade}, de @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.53c9JMqckHagYYB5]{nage}, de @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.zRZl7vdjzjqpazxn]{reptation} et de @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.aaJOlRhI1H6vAxt9]{saut}. Ces différents modes de déplacement peuvent s'associer avec votre déplacement de base ou constituer l'intégralité de votre déplacement.</p><p>Quels que soient ces modes, vous déduisez la distance couverte par chacune de ces parties de votre @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.NSU7TjeJbJ0vVQaZ]{Vitesse}, jusqu'à ce qu'il ne vous en reste plus ou que vous ayez terminé votre déplacement, selon ce qui se produit en premier.</p><p>La Vitesse d'un personnage se détermine à sa création. La Vitesse d'un monstre est indiquée dans son profil. Reportez-vous au glossaire de règles pour plus de détails sur la Vitesse et les Vitesses spéciales telles que @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.xoQXfwUFahXBoiur]{Vitesse d'escalade}, @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.wDGTuzKQunNrnkC8]{Vitesse de nage} et @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.pBcRxpYx5FCVGThO]{Vitesse de vol}.</p><aside class=\"notable\"><h3>Jeu sur quadrillage</h3><p>Si vous jouez en vous servant de plans quadrillés et de figurines ou de jetons, respectez ces règles.</p><p><span><em><strong>Cases.</strong></em></span> Chaque case représente un carré de 1,50 m de côté.</p><p><span><em><strong>Vitesse.</strong></em></span> Plutôt que de vous déplacer mètre par mètre ou pas à pas, déplacez-vous case par case, en segmentant votre déplacement par tranches de 1,50 m. Pour savoir combien votre Vitesse représente de cases, divisez-la par 3 puis doublez ce résultat. Ainsi, une Vitesse de 9 m correspond à 6 cases. Si vous recourez souvent aux quadrillages, n'hésitez pas à convertir votre Vitesse en cases sur votre fiche de personnage.</p><p><span><em><strong>Entrer dans une case.</strong></em></span> Pénétrer dans une case vous demande un « droit d'entrée » en termes de déplacement. Il vous faut acquitter 1 case de déplacement pour entrer dans une case inoccupée adjacente (orthogonalement ou diagonalement) à votre espace. Pénétrer dans une case de Terrain difficile vous coûte 2 cases de déplacement. D'autres effets peuvent faire grimper encore ce droit d'entrée.</p><p><span><em><strong>Angles.</strong></em></span> Un déplacement en diagonale ne permet pas de traverser l'angle d'un mur, un gros arbre ou un autre élément de l'environnement qui remplit son propre espace.</p><p><span><em><strong>Distances.</strong></em></span> Pour déterminer la distance qui sépare deux choses sur un plan quadrillé, qu'il s'agisse de créatures ou d'objets, comptez les cases à partir d'une case adjacente à l'une de ces choses en arrêtant le compte dans l'espace de l'autre chose. Tout cela en empruntant le chemin le plus court.</p></aside><h2>Terrain difficile</h2><p>Les combattants sont souvent ralentis par un Terrain difficile. Les meubles bas, les gravats, les taillis, les escaliers raides, la neige et la boue sont autant d'exemples de Terrain difficile.</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.hFW5BR2yHHwwgurD inline]</p><h2>Scinder son déplacement</h2><p>Vous pouvez scinder votre déplacement à votre tour, en le répartissant à votre guise avant et après toute action, action Bonus et Réaction que vous entreprenez à ce tour. Si vous disposez par exemple d'une Vitesse de 9 m, vous pouvez vous déplacer de 3 m, entreprendre une action, puis vous déplacer encore de 6 m.</p><h2>Plonger à terre</h2><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"icons/vtt-512.png\" /></figure><article><h3>Appliquer rapidement les États</h3><p>Les états en ligne vous permettent d'appliquer l'effet au token sélectionné. Vous pouvez également cliquer sur le lien pour ouvrir la page et la partager avec vos joueurs en cliquant sur le lien « Montrer aux joueurs » en haut de la fenêtre.</p></article></section><p>À votre tour, vous pouvez vous octroyer l'état &Reference[Prone] sans dépenser d'action ni le moindre déplacement, à condition que votre Vitesse soit supérieure à 0.</p><h2>Taille des créatures</h2><p>Toute créature se classe dans une catégorie de taille, qui détermine la largeur de l'espace carré qu'elle occupe sur un plan, comme indiqué sur la table Tailles et espaces des créatures. Les catégories de taille vont de la plus petite (TP) à la plus grande (Gig). L'espace d'une créature correspond à la zone qu'elle contrôle au combat et dont elle a besoin pour combattre efficacement.</p><p>La taille d'un personnage est déterminée par son espèce, tandis que celle d'un monstre figure sur son profil de jeu.</p><table><caption>Tailles et espaces des créatures</caption><thead><tr><th><p>Cat. de taille</p></th><th><p>Espace (mètres)</p></th><th><p>Espace (cases)</p></th></tr></thead><tbody><tr><td><p>Très petite (TP)</p></td><td><p>75 cm de côté</p></td><td><p>4 par case</p></td></tr><tr><td><p>Petite (P)</p></td><td><p>1,50 m de côté</p></td><td><p>1 case</p></td></tr><tr><td><p>Moyenne (M)</p></td><td><p>1,50 m de côté</p></td><td><p>1 case</p></td></tr><tr><td><p>Grande (G)</p></td><td><p>3 m de côté</p></td><td><p>4 cases (2 sur 2)</p></td></tr><tr><td><p>Très grande (TG)</p></td><td><p>4,50 m de côté</p></td><td><p>9 cases (3 sur 3)</p></td></tr><tr><td><p>Gigantesque (Gig)</p></td><td><p>6 m de côté</p></td><td><p>16 cases (4 sur 4)</p></td></tr></tbody></table><h2>Se déplacer au milieu d'autres créatures</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.9ZWCknaXCOdhyOrX inline]</p>"
                 },
                 "Making an Attack": {
                     "name": "",
                     "text": ""
                 },
                 "Cover": {
-                    "name": "",
-                    "text": ""
+                    "name": "Abri",
+                    "text": "<p>Les murs, arbres, créatures et autres obstacles peuvent fournir un abri, qui protège la créature. Comme détaillé dans la table Abris, il existe trois degrés d'abris qui octroient chacun un bénéfice différent aux cibles.</p><p>Une cible ne peut profiter d'un abri qu'en cas d'attaque ou d'effet provenant de l'autre côté de l'abri. Quand une cible se trouve derrière plusieurs éléments d'abri, seul celui qui fournit le niveau de protection le plus élevé est pris en compte ; les degrés ne se cumulent pas. Exemple : si une cible se trouve derrière une créature qui lui donne un Abri partiel et un arbre qui lui donne un Abri supérieur, elle ne bénéficie que d'un Abri supérieur.</p><aside class=\"notable\"><h3>Assaillants et cibles non visibles</h3><p>Lorsque vous effectuez un jet d'attaque contre une cible que vous ne voyez pas, vous avez le &reference[Disadvantage] au jet. Cela reste vrai que vous tentiez de deviner la position de la cible ou que vous cibliez une créature que vous entendez, mais ne voyez pas. Si la cible ne se trouve pas à l'endroit que vous visez, votre attaque rate.</p><p>Lorsqu'une créature ne vous voit pas, vous avez l'&Reference[Advantage] aux jets d'attaque contre elle.</p><p>Si vous êtes caché quand vous effectuez un jet d'attaque, votre position est révélée lorsque votre attaque touche ou rate.</p></aside><table><caption>Abris</caption><thead><tr><th><p>Degré</p></th><th><p>Bénéfice pour la cible</p></th><th><p>Octroyé par</p></th></tr></thead><tbody><tr><td><p>Partiel</p></td><td><p>+2 à la CA et aux JS Dextérité</p></td><td><p>Une autre créature ou un objet qui protège au moins la moitié du corps de la cible</p></td></tr><tr><td><p>Supérieur</p></td><td><p>+5 à la CA et aux JS Dextérité</p></td><td><p>Un objet qui abrite au moins les trois quarts du corps de la cible</p></td></tr><tr><td><p>Total</p></td><td><p>Ne peut être directement ciblée</p></td><td><p>Un objet qui abrite intégralement la cible</p></td></tr></tbody></table>"
                 },
                 "Ranged Attacks": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attaques à distance",
+                    "text": "<p>Lorsque vous effectuez une attaque à distance, vous tirez à l'arc, lancez une hache ou des projectiles vers un adversaire distant. De nombreux sorts font également intervenir une attaque à distance.</p><h2>Portée</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.HjKXuB8ndjcqOds7 inline]</p><h2>Attaques à distance en combat rapproché</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.qEZvxW0NM7ixSQP5 inline]</p>"
                 },
                 "Melee Attacks": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attaques de corps à corps",
+                    "text": "<p>Une attaque de corps à corps vous permet d'attaquer une cible à portée d'allonge. Elle fait généralement intervenir une arme tenue en main ou une &Reference[Unarmed Strike]{attaque à mains nues}. De nombreux monstres effectuent des attaques de corps à corps avec leurs griffes, leurs crocs et autres parties du corps. Quelques sorts font aussi intervenir des attaques de corps à corps.</p><h2>Allonge</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.hgZ5ZN4B3y7tmFlt inline]</p><h2>Attaques d'Opportunité</h2><p>Les combattants restent à l'affût des erreurs de l'ennemi. Si vous vous éloignez de l'ennemi sans prendre garde, vous risquez de provoquer une attaque d'Opportunité.</p><p><em><strong>Éviter les attaques d'Opportunité.</strong></em> Vous pouvez éviter de provoquer une attaque d'Opportunité en entreprenant l'action Désengagement. Lorsque vous vous téléportez ou que l'on vous déplace sans que vous y consacriez de déplacement, ni votre action ou votre Réaction, vous ne provoquez pas d'attaque d'Opportunité. Ainsi, vous ne provoquez pas d'attaque d'Opportunité quand une explosion vous projette hors de la zone d'allonge d'un ennemi ou quand une chute vous éloigne d'un adversaire.</p><p><em><strong>Effectuer une attaque d'Opportunité.</strong></em> Vous pouvez effectuer une attaque d'Opportunité lorsqu'une créature que vous voyez quitte votre zone d'allonge. Vous devez alors jouer votre Réaction pour effectuer une attaque de corps à corps avec une arme ou une attaque à mains nues, contre cette créature. L'attaque intervient juste avant que la créature ait quitté votre zone d'allonge.</p>"
                 },
                 "Mounted Combat": {
-                    "name": "",
-                    "text": ""
+                    "name": "Combat monté",
+                    "text": "<p>Une créature consentante dont la catégorie de taille est au moins d'un cran supérieure à un cavalier peut lui servir de monture si son anatomie le lui permet, en accord avec les règles suivantes.</p><h2>Monter et descendre</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.MFpyvUIdcBpC9kIE inline]</p><h2>Contrôler une monture</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.khmR2xFk1NxoQUgZ inline]</p><h2>Chuter de monture</h2><p>Si un effet est sur le point de déplacer votre monture contre sa volonté alors que vous la montez, vous devez réussir un JS [[/save 10 dex]] sous peine d'en tomber et de subir l'état &Reference[Prone] dans un espace inoccupé à 1,50 m ou moins de la monture.</p><p>En combat monté, vous effectuez ce même JS si vous ou votre monture êtes jetés À terre.</p>"
                 },
                 "Underwater Combat": {
                     "name": "",
@@ -2517,16 +2517,16 @@
                     "text": ""
                 },
                 "Hit Points": {
-                    "name": "",
-                    "text": ""
+                    "name": "Points de vie",
+                    "text": "<p>Les points de vie (ou simplement pv) représentent la robustesse et l'envie de vivre. Les créatures dotées de beaucoup de points de vie sont plus difficiles à tuer. Votre maximum de points de vie correspond au nombre de points de vie dont vous disposez quand vous êtes indemne. Vos points de vie actuels sont compris entre ce maximum et 0, valeur minimale absolue.</p><p>Chaque fois que vous subissez des dégâts, ceux-ci sont déduits de vos points de vie. La perte de points de vie n'a aucun effet sur vos capacités jusqu'à ce que vous tombiez à 0 point de vie.</p><p>Si vos points de vie sont inférieurs ou égaux à la moitié de votre maximum, vous êtes En péril, ce qui n'a pas d'effet mécanique en soi, mais peut en activer d'autres.</p>"
                 },
                 "Damage Rolls": {
                     "name": "",
                     "text": ""
                 },
                 "Critical Hits": {
-                    "name": "",
-                    "text": ""
+                    "name": "Coups critiques",
+                    "text": "<p>Lorsque vous obtenez un Coup critique, vous infligez des dégâts supplémentaires. Lancez deux fois les dés de dégâts, ajoutez-les, puis ajoutez normalement les modificateurs qui s'appliquent. Exemple : si vous obtenez un Coup critique avec une dague, vous lancez 2d4 pour les dégâts au lieu de 1d4, puis vous ajoutez les modificateurs applicables. Si l'attaque fait intervenir d'autres dés de dégâts, comme ceux de l'aptitude Attaque sournoise du Roublard, vous lancez également ceux-ci deux fois.</p>"
                 },
                 "Saving Throws and Damage": {
                     "name": "",
@@ -2545,8 +2545,8 @@
                     "text": ""
                 },
                 "Healing": {
-                    "name": "",
-                    "text": ""
+                    "name": "Soins",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.ICketFqbFslqKiX9 inline]</p><aside class=\"notable\"><h3>Repos</h3><p>Les aventuriers ne peuvent consacrer chaque instant à l'aventure. Ils doivent aussi se reposer. Toute créature peut prendre des Repos courts d'une heure en pleine journée ou un Repos long de 8 heures pour la clôturer. La récupération de points de vie constitue l'un des principaux bénéfices des repos. Le glossaire de règles fournit les règles propres aux Repos courts et longs.</p></aside>"
                 },
                 "Dropping to 0 Hit Points": {
                     "name": "",
@@ -2647,8 +2647,8 @@
                     "text": ""
                 },
                 "Mastery Properties": {
-                    "name": "",
-                    "text": ""
+                    "name": "Propriétés botte",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.7MN2Hp5KnjtddH3m inline]</p>"
                 },
                 "Adventuring Gear List": {
                     "name": "",
@@ -2696,8 +2696,8 @@
                     "text": ""
                 },
                 "Travel Pace": {
-                    "name": "",
-                    "text": ""
+                    "name": "Allure de voyage",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.eFAISahBloR2X8MX inline]</p><aside class=\"notable\"><h3>Ordre de marche</h3><p>Les aventuriers sont censés fixer un ordre de marche pour leurs trajets, que ce soit en extérieur ou en intérieur. L'ordre de marche permet de déterminer facilement quels personnages sont affectés par les pièges, lesquels sont susceptibles de détecter l'ennemi et lesquels sont les plus proches de ces adversaires quand un combat éclate. Vous pouvez modifier l'ordre de marche hors des combats et le consigner à votre guise : sur un bout de papier, par exemple, ou en disposant des figurines.</p></aside>"
                 },
                 "Vehicles": {
                     "name": "",
@@ -2746,11 +2746,11 @@
             }
         },
         "Foundry References": {
-            "name": "",
+            "name": "Références Foundry",
             "pages": {
                 "How to Use Template Items": {
-                    "name": "",
-                    "text": ""
+                    "name": "Comment utiliser les objets modèles",
+                    "text": "<section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"systems/dnd5e/icons/spell-tiers/spell3.webp\" class=\"round\" /></figure><article><h3>Créer des objets magiques avec des modèles</h3><p>Les objets magiques peuvent souvent avoir de nombreuses variantes. Par exemple, une armure +1 peut exister sur une armure légère, intermédiaire ou lourde. Rien que pour les armures +1 à 3, cela fait <span style=\"text-decoration:underline\"><em><span style=\"text-decoration:underline\">36 objets</span></em></span>! Pour que votre compendium reste léger et rapide, nous avons créé des objets <strong>modèles</strong> qui peuvent être utilisés pour enchanter n'importe quel objet. Désormais, il vous suffit d'utiliser l'objet <strong>Armure +1, +2 ou +3</strong> et le type d'armure que vous avez choisi ! Voici comment vous pouvez les utiliser :</p><p>Ouvrez un objet comme @UUID[Compendium.dnd5e.equipment24.Item.dmgArmor12or3000]{Armure +1, +2 ou +3}, passez à l'onglet <strong>Effets</strong> et faites glisser votre effet sur votre objet. L'enchantement sera automatiquement appliqué, les activités et les effets actifs utiles seront ajoutés et la description de l'objet sera mise à jour avec tout ce que vous devez savoir.</p><p>Pour supprimer un enchantement, il suffit d'ouvrir l'objet enchanté, de passer à l'onglet <strong>Effets</strong> et de faire un clic droit sur l'enchantement pour le désactiver ou le supprimer.</p></article></section>"
                 }
             }
         },
@@ -3764,7 +3764,7 @@
             "flagsTitle": "",
             "pages": {
                 "Lightly Obscured": {
-                    "name": "",
+                    "name": "Visibilité réduite",
                     "text": ""
                 },
                 "Heavily Obscured": {
@@ -3784,23 +3784,23 @@
                     "text": ""
                 },
                 "Blindsight": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vision aveugle",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.sacjsfm9ZXnw4Tqc inline]</p>"
                 },
                 "Darkvision": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vision dans le noir",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.ldmA1PbnEGVkmE11 inline]</p>"
                 },
                 "Tremorsense": {
-                    "name": "",
-                    "text": ""
+                    "name": "Perception des vibrations",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.r64UrNusMhwJVnxb inline]</p>"
                 },
                 "Truesight": {
                     "name": "",
                     "text": ""
                 },
                 "Reaction": {
-                    "name": "",
+                    "name": "Réaction",
                     "text": ""
                 },
                 "Bonus Action": {
@@ -3812,8 +3812,8 @@
                     "text": ""
                 },
                 "Attack": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attaque",
+                    "text": "<p>Lorsque vous entreprenez l'action Attaque, vous effectuez un jet d'attaque avec arme ou une attaque à mains nues.</p><p><em><strong>S'équiper et se déséquiper.</strong></em> Vous pouvez vous équiper ou vous déséquiper d'une arme lorsque vous effectuez une attaque dans le cadre de cette action. Vous pouvez le faire avant ou après l'attaque. Si vous vous équipez d'une arme avant une attaque, vous n'êtes pas tenu de l'utiliser lors de cette attaque. S'équiper d'une arme comprend le fait de la sortir du fourreau ou de la ramasser. Se déséquiper d'une arme consiste à la rengainer, la ranger ou la laisser choir.</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.JxboWb0XHo2GwqD0 inline]</p>"
                 },
                 "Dash": {
                     "name": "",
@@ -3856,8 +3856,8 @@
                     "text": ""
                 },
                 "Concentration": {
-                    "name": "",
-                    "text": ""
+                    "name": "Concentration",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.ow58p27ctAnr4VPH inline]</p>"
                 },
                 "Hide": {
                     "name": "",
@@ -3956,28 +3956,28 @@
                     "text": ""
                 },
                 "Cone": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cône",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.DqqAOr5JnX71OCOw inline]</p>"
                 },
                 "Cube": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cube",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.dRfDIwuaHmUQ06uA inline]</p>"
                 },
                 "Cylinder": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cylindre",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.jZFp4R7tXsIqkiG3 inline]</p>"
                 },
                 "Emanation": {
                     "name": "",
                     "text": ""
                 },
                 "Line": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ligne",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.6DOoBgg7okm9gBc6 inline]</p>"
                 },
                 "Sphere": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sphère",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.npdEWb2egUPnB5Fa inline]</p>"
                 },
                 "Attitude": {
                     "name": "",
@@ -4000,20 +4000,20 @@
                     "text": ""
                 },
                 "Difficult Terrain": {
-                    "name": "",
-                    "text": ""
+                    "name": "Terrain difficile",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.6tqz947qO8vPyxvD inline]</p><p>Un espace est un Terrain difficile s'il contient l'un des éléments ci-après ou quelque chose d'approchant :</p><ul><li><p>Créature qui n'est ni de taille TP ni votre allié</p></li><li><p>Mobilier adapté à votre catégorie de taille ou aux créatures de taille supérieure</p></li><li><p>Neige abondante, glace, éboulis ou taillis</p></li><li><p>Élément liquide d'une profondeur intermédiaire (entre mi-mollets et le niveau de la taille)</p></li><li><p>Ouverture étroite, conçue pour une créature dont la catégorie de taille est d'un cran inférieure à la vôtre</p></li><li><p>Pente de 20 degrés ou plus</p></li></ul>"
                 },
                 "Crawling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Reptation",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.VWG9qe8PUNtS28Pw inline]</p><p><em>Lire aussi</em> « @UUID[.NSU7TjeJbJ0vVQaZ]{Vitesse} ».</p>"
                 },
                 "Climbing": {
                     "name": "",
                     "text": ""
                 },
                 "Flying": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vol",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.0B1fxfmw0a48tPsc inline]</p><p><em>Lire aussi</em> « &Reference[Falling] » et « @UUID[.pBcRxpYx5FCVGThO]{Vitesse de vol} ».</p>"
                 },
                 "Jumping": {
                     "name": "",
@@ -4064,8 +4064,8 @@
                     "text": ""
                 },
                 "Cover": {
-                    "name": "",
-                    "text": ""
+                    "name": "Abri",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.W7f7PcRubNUMIq2S inline]</p><p>If behind more than one degree of cover, a target benefits only from the most protective degree. <em>See also</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{Combat}.</p>"
                 },
                 "Creature": {
                     "name": "",
@@ -4076,7 +4076,7 @@
                     "text": ""
                 },
                 "Critical Hit": {
-                    "name": "",
+                    "name": "Coup critique",
                     "text": ""
                 },
                 "Curses": {
@@ -4140,8 +4140,8 @@
                     "text": ""
                 },
                 "Grappling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Lutte",
+                    "text": "<p>Une créature peut tenter d'en agripper une autre. Les personnages agrippent généralement au moyen d'une attaque à mains nues. De nombreux monstres sont dotés d'attaques spéciales leur permettant de rapidement agripper leur proie. Quelle que soit la façon dont la lutte est engagée, elle obéit aux règles ci-après. <em>Lire aussi</em> « @UUID[.2Uvc5myrDs18Cf19]{Attaque à mains nues} » et « &Reference[Grappled] ».</p><p><em><strong>État Agrippé.</strong></em> Réussir à agripper une créature lui inflige l'état Agrippé.</p><p><em><strong>Une lutte par « main ».</strong></em> Une créature doit avoir une « main » libre pour en agripper une autre. Certains profils et effets du jeu autorisent une créature à engager la lutte avec un tentacule, ses mâchoires ou une autre partie de son corps. Quelle que soit la partie du corps utilisée par l'agrippeur, il ne peut agripper qu'une seule créature à la fois avec cette partie, et l'agrippeur doit mettre fin à la lutte s'il souhaite utiliser cette partie de son anatomie pour cibler une autre créature.</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.2TZKy9YbMN3ZY3h8 inline]</p>"
                 },
                 "Unarmed Strike": {
                     "name": "",
@@ -4156,7 +4156,7 @@
                     "text": ""
                 },
                 "Hit Points": {
-                    "name": "",
+                    "name": "Points de vie",
                     "text": ""
                 },
                 "Hit Point Dice": {
@@ -4184,7 +4184,7 @@
                     "text": ""
                 },
                 "Initiative": {
-                    "name": "",
+                    "name": "Initiative",
                     "text": ""
                 },
                 "Knocking Out a Creature": {
@@ -4292,7 +4292,7 @@
                     "text": ""
                 },
                 "Surprise": {
-                    "name": "",
+                    "name": "Surprise",
                     "text": ""
                 },
                 "Target": {
@@ -4300,8 +4300,8 @@
                     "text": ""
                 },
                 "Telepathy": {
-                    "name": "",
-                    "text": ""
+                    "name": "Télépathie",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.geTidcFIYWuUvD2L inline]</p>"
                 },
                 "Teleportation": {
                     "name": "",
@@ -4344,7 +4344,7 @@
                     "text": ""
                 },
                 "Cantrip": {
-                    "name": "",
+                    "name": "Sort mineur",
                     "text": ""
                 },
                 "Attack Roll": {
