@@ -611,99 +611,99 @@
                 },
                 "Constitution Checks": {
                     "name": "Tests de Constitution",
-                    "text": ""
+                    "text": "<p>Effectuez un <strong>test</strong> de Constitution pour repousser les limites ordinaires de votre organisme.</p>"
                 },
                 "Intelligence": {
-                    "name": "",
-                    "text": ""
+                    "name": "Intelligence",
+                    "text": "<p>L'Intelligence représentant les capacités de raisonnement et la mémoire.</p><h3>Tests d'Intelligence</h3><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.sLw1gfc1aLg7djmZ inline]</p><h3>Caractéristique d'incantation</h3><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.u46Rva9Nrm9bG1Mu inline]</p>"
                 },
                 "Intelligence Checks": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tests d'Intelligence",
+                    "text": "<p>Effectuez un <strong>test</strong> d'Intelligence pour mettre votre raison ou votre mémoire à l'épreuve.</p>"
                 },
                 "Arcana": {
-                    "name": "",
-                    "text": ""
+                    "name": "Arcanes",
+                    "text": "<p><strong>Exemples :</strong> Se souvenir de détails concernant des sorts, des objets magiques ou les plans d'existence.</p>"
                 },
                 "History": {
-                    "name": "",
-                    "text": ""
+                    "name": "Histoire",
+                    "text": "<p><strong>Exemples :</strong> Se souvenir de détails historiques (événements, peuples, nations et cultures).</p>"
                 },
                 "Investigation": {
-                    "name": "",
-                    "text": ""
+                    "name": "Investigation",
+                    "text": "<p><strong>Exemples :</strong> Retrouver des informations obscures dans des ouvrages ou déduire le fonctionnement des choses à partir d'indices.</p>"
                 },
                 "Nature": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nature",
+                    "text": "<p><strong>Exemples :</strong> Se souvenir de détails sur l'environnement, le relief, la faune, la flore et le climat.</p>"
                 },
                 "Religion": {
-                    "name": "",
-                    "text": ""
+                    "name": "Religion",
+                    "text": "<p><strong>Exemples :</strong> Se souvenir de détails sur les dieux, les rituels religieux et les symboles sacrés.</p>"
                 },
                 "Spellcasting Ability": {
-                    "name": "",
-                    "text": ""
+                    "name": "Caractéristique d'incantation",
+                    "text": "<p>La caractéristique d'incantation des magiciens est l'Intelligence ; c'est elle qui intervient dans le calcul du DD de sauvegarde des sorts qu'ils lancent.</p>"
                 },
                 "Wisdom": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sagesse",
+                    "text": "<p>La Sagesse représentant le discernement et la fermeté mentale.</p><h3>Tests de Sagesse</h3><p>@Embed[.CUSrUMAS8EvE3buX inline]</p><h3>Caractéristique d'incantation</h3><p>@Embed[.va0sfLfuz2kDP78g inline]</p>"
                 },
                 "Wisdom Checks": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tests de Sagesse",
+                    "text": "<p>Effectuez un <strong>test</strong> de Sagesse pour observer l'environnement ou les comportements.</p>"
                 },
                 "va0sfLfuz2kDP78g": {
-                    "name": "",
-                    "text": ""
+                    "name": "Caractéristique d'incantation",
+                    "text": "<p>La caractéristique d'incantation des clercs, druides et rôdeurs est la Sagesse ; c'est elle qui intervient dans le calcul du DD de sauvegarde des sorts qu'ils lancent.</p>"
                 },
                 "Animal Handling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dressage",
+                    "text": "<p><strong>Exemples :</strong> Apaiser ou dresser un animal, ou lui faire adopter un certain comportement.</p>"
                 },
                 "Insight": {
-                    "name": "",
-                    "text": ""
+                    "name": "Intuition",
+                    "text": "<p><strong>Exemples :</strong> Reconnaître l'humeur et les intentions des gens.</p>"
                 },
                 "Medicine": {
-                    "name": "",
-                    "text": ""
+                    "name": "Médecine",
+                    "text": "<p><strong>Exemples :</strong> Diagnostiquer une maladie ou déterminer les causes de morts récentes.</p>"
                 },
                 "Perception": {
-                    "name": "",
-                    "text": ""
+                    "name": "Perception",
+                    "text": "<p><strong>Exemples :</strong> Par l'intermédiaire d'un ou plusieurs sens, détecter ce qui peut échapper à d'autres.</p>"
                 },
                 "Survival": {
-                    "name": "",
-                    "text": ""
+                    "name": "Survie",
+                    "text": "<p><strong>Exemples :</strong> Remonter une piste, trouver de la nourriture, s'orienter dans la nature et éviter les dangers sauvages.</p>"
                 },
                 "Charisma": {
-                    "name": "",
-                    "text": ""
+                    "name": "Charisme",
+                    "text": "<p>Le Charisme représentant la confiance en soi, l'aplomb et le charme naturel.</p><h3>Tests de Charisme</h3><p>@Embed[.38hXYxwxxyWdZLG7 inline]</p><h3>Caractéristique d'incantation</h3><p>@Embed[.KUQjsYx3HISWxjO2 inline]</p>"
                 },
                 "Charisma Checks": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tests de Charisme",
+                    "text": "<p>Effectuez un <strong>test</strong> de Charisme pour influencer, divertir ou tromper autrui.</p>"
                 },
                 "KUQjsYx3HISWxjO2": {
-                    "name": "",
-                    "text": ""
+                    "name": "Caractéristique d'incantation",
+                    "text": "<p>La caractéristique d'incantation des bardes, ensorceleurs, occultistes et paladins est le Charisme ; c'est lui qui intervient dans le calcul du DD de sauvegarde des sorts qu'ils lancent.</p>"
                 },
                 "Deception": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tromperie",
+                    "text": "<p><strong>Exemples :</strong> Mentir de manière convaincante ou se déguiser sans éveiller les soupçons.</p>"
                 },
                 "Intimidation": {
-                    "name": "",
-                    "text": ""
+                    "name": "Intimidation",
+                    "text": "<p><strong>Exemples :</strong> Impressionner ou menacer quelqu'un pour qu'il obtempère.</p>"
                 },
                 "Performance": {
-                    "name": "",
-                    "text": ""
+                    "name": "Représentation",
+                    "text": "<p><strong>Exemples :</strong> Jouer la comédie ou de la musique, conter une histoire ou danser.</p>"
                 },
                 "Persuasion": {
-                    "name": "",
-                    "text": ""
+                    "name": "Persuasion",
+                    "text": "<p><strong>Exemples :</strong> Convaincre autrui sans le brusquer, en toute sincérité.</p>"
                 },
                 "Surprise": {
                     "name": "Surprise",
@@ -718,47 +718,47 @@
                     "text": ""
                 },
                 "Bonus Actions": {
-                    "name": "",
-                    "text": ""
+                    "name": "Actions Bonus",
+                    "text": "<p>Divers sorts, aptitudes de classes et autres capacités vous permettent d'entreprendre une action supplémentaire à votre tour, ce qu'on appelle une action Bonus. L'aptitude Ruse du Roublard, par exemple, lui permet d'entreprendre une action Bonus. Vous ne pouvez entreprendre une action Bonus que si une aptitude spéciale, un sort ou autre élément du jeu spécifie que vous pouvez accomplir quelque chose par une action Bonus. Sans cela, vous n'avez tout bonnement pas d'action Bonus à entreprendre.</p><p>Vous ne pouvez entreprendre qu'une seule action Bonus, toujours à votre tour, si bien qu'il vous faut choisir laquelle dans le cas où vous auriez accès à plusieurs actions Bonus.</p><p>Vous choisissez à quel moment de votre tour entreprendre une action Bonus, sauf mention contraire dans la description de celle-ci. Tout ce qui vous prive de la capacité à entreprendre des actions vous empêche également d'entreprendre une action Bonus.</p>"
                 },
                 "Other Activity on Your Turn (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Autres activités à votre tour (2014)",
+                    "text": "<p>Votre tour peut faire intervenir divers gestes mineurs qui ne sollicitent ni votre action ni votre déplacement.</p><p>Vous pouvez communiquer par les moyens disponibles, que ce soit par quelques mots ou par gestes brefs, lorsque vous jouez votre tour.</p><p>Vous pouvez également interagir avec un objet ou un élément de l'environnement, gratuitement, durant votre déplacement ou votre action (mais pas les deux). Vous pourriez ainsi ouvrir une porte se dressant sur les quelques mètres qui vous séparent de votre adversaire (déplacement) ou dégainer votre arme dans le cadre de l'action qui vous permet d'attaquer.</p><p>Si vous souhaitez interagir avec un second objet, il vous faut y consacrer votre action. L'utilisation de certains objets magiques et autres objets spéciaux vous demande d'y consacrer votre action, comme indiqué dans leur description.</p><p>Le MJ peut vous demander de consacrer une action à ces tâches lorsqu'un soin particulier est demandé ou lorsqu'elles présentent une difficulté inhabituelle. Ainsi le MJ est-il en droit d'exiger que vous consacriez votre action à ouvrir une porte coincée ou à activer la manivelle d'ouverture d'un pont-levis.</p>"
                 },
                 "Reactions": {
                     "name": "Réactions",
                     "text": "<p>Une Réaction est une action spéciale entreprise en réponse à un événement déclencheur défini dans la description de la Réaction. Vous pouvez jouer votre Réaction pendant le tour d'une autre créature, et si vous la jouez pendant votre tour, vous pouvez le faire même si vous entreprenez également une action, une action Bonus, ou les deux. Une fois la Réaction jouée, vous ne pouvez pas en jouer d'autre avant le début de votre tour suivant. L'attaque d'Opportunité est une Réaction accessible à toutes les créatures.</p>"
                 },
                 "Breaking Up Your Move": {
-                    "name": "",
-                    "text": ""
+                    "name": "Scinder son déplacement",
+                    "text": "<p>Vous pouvez scinder votre déplacement à votre tour, en le répartissant à votre guise avant et après toute action, action Bonus et Réaction que vous entreprenez à ce tour. Si vous disposez par exemple d'une Vitesse de 9 m, vous pouvez vous déplacer de 3 m, entreprendre une action, puis vous déplacer encore de 6 m.</p><p>@Embed[.JxboWb0XHo2GwqD0 inline]</p><p>@Embed[.dc3D4WGYznFa3HCM inline]</p>"
                 },
                 "Moving Between Attacks": {
                     "name": "Se déplacer entre les attaques",
                     "text": "<p><em><strong>Se déplacer entre les attaques.</strong></em> Si vous vous déplacez pendant votre tour et disposez d'une aptitude, telle qu'Attaque supplémentaire, qui vous octroie plusieurs attaques dans le cadre de l'action Attaque, vous pouvez consacrer tout ou partie de ce déplacement à vous mouvoir entre ces attaques.</p>"
                 },
                 "Using Different Speeds": {
-                    "name": "",
-                    "text": ""
+                    "name": "Combiner des vitesses différentes",
+                    "text": "<p><em><strong>Combiner des vitesses différentes.</strong></em> Si vous disposez de plus d'un type de Vitesse, choisissez celle à laquelle vous recourez lors de votre déplacement ; vous pouvez passer d'une Vitesse à l'autre au cours du même déplacement. Chaque fois que vous changez de mode, soustrayez la distance déjà parcourue à la nouvelle Vitesse. Vous obtenez ainsi la distance que vous pouvez encore parcourir. Si cette soustraction vous donne 0 ou moins, vous ne pouvez pas recourir à la Vitesse résultante pour le déplacement en cours. Exemple : si vous disposez d'une Vitesse de 9 m et d'une Vitesse de vol de 12 m, vous pourriez voler 3 m, vous poser, marcher 3 m, puis reprendre les airs et voler sur 6 m de plus.</p>"
                 },
                 "6tqz947qO8vPyxvD": {
                     "name": "Terrain difficile",
                     "text": "<p>Si un espace est un Terrain difficile, le déplacement y est doublé. Se déplacer de 1,50 m en Terrain difficile, par exemple, coûte 3 m de déplacement. Le Terrain difficile n'est pas cumulatif ; soit un espace est un Terrain difficile, soit il ne l'est pas.</p>"
                 },
                 "Being Prone": {
-                    "name": "",
-                    "text": ""
+                    "name": "Être à terre",
+                    "text": "<p>Tant que vous avez l'état À terre, vous subissez les effets suivants.</p><p><em><strong>Déplacement limité.</strong></em> Vos seules possibilités de déplacement sont ramper ou vous relever en dépensant la moitié de votre Vitesse (arrondie à l'inférieur), ce qui met un terme à l'état. Si votre Vitesse est de 0, vous ne pouvez pas vous relever.</p><p><em><strong>Effet sur les attaques.</strong></em> Vous subissez le Désavantage aux jets d'attaque. Un jet d'attaque contre vous reçoit l'Avantage si l'assaillant se trouve dans un rayon de 1,50 m de vous. Sans cela, ce jet d'attaque subit le Désavantage.</p><p>@Embed[.hwTLpAtSS5OqQsI1 inline]</p><p>@Embed[.VWG9qe8PUNtS28Pw inline]</p>"
                 },
                 "Crawling": {
                     "name": "Reptation",
                     "text": "<p>Lorsque vous rampez, toute distance parcourue vous coûte le double de déplacement (le triple en &Reference[Difficult Terrain]).</p>"
                 },
                 "Dropping Prone": {
-                    "name": "",
-                    "text": ""
+                    "name": "Plonger à terre",
+                    "text": "<p>À votre tour, vous pouvez vous octroyer l'état &Reference[Prone] sans dépenser d'action ni le moindre déplacement, à condition que votre Vitesse soit supérieure à 0.</p>"
                 },
                 "Interacting with Objects Around You": {
-                    "name": "",
+                    "name": "Interagir avec l'environnement",
                     "text": ""
                 },
                 "Moving Around Other Creatures": {
@@ -770,73 +770,73 @@
                     "text": "<p>Divers effets permettent à une créature de voler. Lorsque vous volez, vous tombez si vous subissez l'état &Reference[Incapacitated] ou &Reference[Prone], ou si votre Vitesse de vol est réduite à 0. Pour rester en l'air dans pareilles circonstances, vous devez disposer du Vol stationnaire.</p>"
                 },
                 "Creature Size": {
-                    "name": "",
-                    "text": "",
-                    "tooltip": ""
+                    "name": "Taille des créatures",
+                    "text": "<p>Toute créature se classe dans une catégorie de taille, qui détermine la largeur de l'espace carré qu'elle occupe sur un plan, comme indiqué sur la table Tailles et espaces des créatures. Les catégories de taille vont de la plus petite (TP) à la plus grande (Gig). L'espace d'une créature correspond à la zone qu'elle contrôle au combat et dont elle a besoin pour combattre efficacement.</p><p>La taille d'un personnage est déterminée par son espèce, tandis que celle d'un monstre figure sur son profil de jeu.</p><table><caption>Tailles et espaces des créatures</caption><thead><tr><th><p>Cat. de taille</p></th><th><p>Espace (mètres)</p></th><th><p>Espace (cases)</p></th></tr></thead><tbody><tr><td><p>Très petite (TP)</p></td><td><p>75 cm de côté</p></td><td><p>4 par case</p></td></tr><tr><td><p>Petite (P)</p></td><td><p>1,50 m de côté</p></td><td><p>1 case</p></td></tr><tr><td><p>Moyenne (M)</p></td><td><p>1,50 m de côté</p></td><td><p>1 case</p></td></tr><tr><td><p>Grande (G)</p></td><td><p>3 m de côté</p></td><td><p>4 cases (2 sur 2)</p></td></tr><tr><td><p>Très grande (TG)</p></td><td><p>4,50 m de côté</p></td><td><p>9 cases (3 sur 3)</p></td></tr><tr><td><p>Gigantesque (Gig)</p></td><td><p>6 m de côté</p></td><td><p>16 cases (4 sur 4)</p></td></tr></tbody></table><h3>Se faufiler dans un espace réduit</h3><p>@Embed[.wKtOwagDAiNfVoPS inline]</p>",
+                    "tooltip": "<p>Les créatures occupent chacune un certain espace. La table « Catégories de taille » qui suit indique l'espace contrôlé par une créature au combat, selon sa taille. Les objets reprennent parfois ces catégories de taille.</p><table border=\"0\"><caption><h4>Catégories de taille</h4></caption><thead><tr><td>Catégories de taille</td><td>Espace</td></tr></thead><tbody><tr><td>TP (très petite)</td><td>75 cm x 75 cm</td></tr><tr><td>P (petite)</td><td>1,50 m x 1,50 m</td></tr><tr><td>M (moyenne)</td><td>1,50 m x 1,50 m</td></tr><tr><td>G (grande)</td><td>3 m x 3 m</td></tr><tr><td>TG (très grande)</td><td>4,50 m x 4,50 m</td></tr><tr><td>Gig (gigantesque)</td><td>6 m x 6 m, voire davantage</td></tr></tbody></table>"
                 },
                 "Space (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Espace (2014)",
+                    "text": "<p>L'espace d'une créature correspond à la zone qu'elle contrôle au combat ; il ne représente pas directement ses dimensions physiques. Ainsi une créature de taille M n'est-elle pas large de 1,50 m, mais elle occupe un tel espace. Quand un hobgobelin de taille M se tient en travers d'un encadrement de porte large de 1,50 m, les autres créatures ne pourront s'y engager que si le monstre les laisse passer.</p><p>L'espace d'une créature représente aussi la surface dont elle a besoin pour combattre efficacement. Cela explique aussi pourquoi une même créature ne peut être entourée que par un certain nombre d'autres créatures au combat. Ainsi, dans le cas de combattants de taille M, huit créatures peuvent-elles en cerner une autre dans un rayon de 1,50 m.</p><p>Les créatures plus grandes occupant davantage d'espace, elles seront moins nombreuses à pouvoir en encercler une autre. Si cinq créatures de taille G s'agglutinent autour d'une personne de taille M ou inférieure, il ne reste plus beaucoup de place. À l'inverse, jusqu'à vingt créatures de taille M peuvent cerner un monstre de taille Gig.</p>"
                 },
                 "Squeezing into a Smaller Space": {
-                    "name": "",
-                    "text": ""
+                    "name": "Se faufiler dans un espace réduit",
+                    "text": "<p>Toute créature peut se faufiler dans une ouverture étroite adapté à une catégorie de taille de moins que la sienne.</p>"
                 },
                 "Attack": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attaque",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.f4fZHwBvpbpzRyn4 inline]</p>"
                 },
                 "Magic": {
-                    "name": "",
-                    "text": ""
+                    "name": "Magie",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.iIIDUsmSOkL0xNzF inline]</p>"
                 },
                 "Dash": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pointe",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.6l6nBKip4LqB1sCU inline]</p>"
                 },
                 "Disengage": {
-                    "name": "",
-                    "text": ""
+                    "name": "Désengagement",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.w1AGsemFERfjqWNx inline]</p>"
                 },
                 "Dodge": {
-                    "name": "",
-                    "text": ""
+                    "name": "Esquive",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.3YJIuyCMmuUrfmuX inline]</p>"
                 },
                 "Help": {
-                    "name": "",
-                    "text": ""
+                    "name": "Soutien",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.5S8i59qskkd9GGcJ inline]</p>"
                 },
                 "Hide": {
-                    "name": "",
-                    "text": ""
+                    "name": "Furtivité",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.rqhOsUY4wWa1oHTy inline]</p>"
                 },
                 "Ready": {
-                    "name": "",
-                    "text": ""
+                    "name": "Intention",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.nI9tN6Oq7fCV7hcA inline]</p>"
                 },
                 "Search": {
-                    "name": "",
-                    "text": ""
+                    "name": "Observation",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.ySj4gYZ4ADZoia7R inline]</p>"
                 },
                 "Use an Object": {
-                    "name": "",
-                    "text": ""
+                    "name": "Utiliser un objet",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.UDlogfdiT2uYEZz4 inline]</p>"
                 },
                 "Attack Rolls": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jets d'attaque",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.W8uJrd1D8NeOuawp inline]</p>"
                 },
                 "Modifiers to the Roll (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Modificateurs au jet (2014)",
+                    "text": "<p>Lorsqu'un personnage effectue un jet d'attaque, les deux modificateurs les plus courants pour le jet sont le modificateur de caractéristique et le bonus de maîtrise du personnage. Lorsqu'un monstre effectue un jet d'attaque, il recourt au modificateur indiqué dans son profil.</p><p><em><strong>Modificateur de caractéristique.</strong></em> Le modificateur de Force est celui que l'on utilise pour une attaque d'arme de corps à corps, tandis que le modificateur de Dextérité est utilisé pour une attaque d'arme à distance. Les armes dotées de la propriété finesse ou lancer ne sont pas soumises à cette règle.</p><p>Certains sorts nécessitent également un jet d'attaque. Le modificateur de caractéristique utilisé pour une attaque de sort dépend de la caractéristique d'incantation du lanceur de sorts.</p><p><em><strong>Bonus de maîtrise.</strong></em> Vous ajoutez votre bonus de maîtrise au jet d'attaque lorsque vous attaquez avec une arme dont vous avez la maîtrise, ainsi que lorsque vous attaquez avec un sort.</p>"
                 },
                 "Rolling 1 or 20 (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Résultat de 1 ou 20 sur le dé (2014)",
+                    "text": "<p>Il arrive que le destin sourie à un combattant ou s'acharne contre lui. Le novice réalise parfois l'impossible, le vétéran rate un coup facile.</p><p>Si le d20 lancé pour une attaque donne 20, l'attaque touche quels que soient les modificateurs et la CA de la cible. C'est ce que l'on appelle un coup critique.</p><p>Si le d20 lancé pour une attaque donne 1, l'attaque rate quels que soient les modificateurs et la CA de la cible.</p>"
                 },
                 "Unseen Attackers and Targets": {
-                    "name": "",
-                    "text": ""
+                    "name": "Assaillants et cibles non visibles",
+                    "text": "<p>Lorsque vous effectuez un jet d'attaque contre une cible que vous ne voyez pas, vous avez le Désavantage au jet. Cela reste vrai que vous tentiez de deviner la position de la cible ou que vous cibliez une créature que vous entendez, mais ne voyez pas. Si la cible ne se trouve pas à l'endroit que vous visez, votre attaque rate.</p><p>Lorsqu'une créature ne vous voit pas, vous avez l'Avantage aux jets d'attaque contre elle.</p><p>Si vous êtes caché quand vous effectuez un jet d'attaque, votre position est révélée lorsque votre attaque touche ou rate.</p>"
                 },
                 "Ranged Attacks": {
                     "name": "Attaques à distance",
@@ -857,20 +857,20 @@
                     "tooltip": "<p>Une attaque de corps à corps vous permet d'attaquer une cible à portée d'allonge. Elle fait généralement intervenir une arme tenue en main ou une attaque à mains nues. De nombreux monstres effectuent des attaques de corps à corps avec leurs griffes, leurs crocs et autres parties du corps. Quelques sorts font aussi intervenir des attaques de corps à corps.</p><p>La plupart des créatures ont une allonge de 1,50 m et peuvent donc attaquer des cibles situées à 1,50 m ou moins lorsqu'elles effectuent une attaque de corps à corps. Certaines créatures disposent d'attaques de corps à corps dont l'allonge est supérieure à 1,50 m, comme l'indique leur description.</p>"
                 },
                 "Opportunity Attacks": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attaques d'Opportunité",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.eNvzQabiTqTtfzis inline]</p>"
                 },
                 "Two-Weapon Fighting (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Combat à deux armes (2014)",
+                    "text": "<p>Lorsque vous entreprenez l'action Attaquer pour attaquer avec une arme de corps à corps légère que vous tenez dans une main, vous pouvez par une action bonus attaquer avec une autre arme de corps à corps légère que vous tenez dans l'autre main. Vous n'ajoutez pas votre modificateur de caractéristique aux dégâts de cette attaque supplémentaire, sauf si ce modificateur est négatif.</p><p>Si l'une ou l'autre arme a la propriété lancer, vous pouvez la lancer au lieu d'effectuer une attaque de corps à corps.</p>"
                 },
                 "Grappling": {
                     "name": "Lutte",
                     "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.YSLWJcQCP6kzsPql inline]</p>"
                 },
                 "Shoving a Creature": {
-                    "name": "",
-                    "text": ""
+                    "name": "Bousculer une créature",
+                    "text": "<p>En entreprenant l'action Attaque, vous pouvez effectuer une attaque de corps à corps pour bousculer une créature, afin de la jeter à terre ou de l'éloigner de vous. La cible doit réussir un jet de sauvegarde de Force ou de Dextérité (c'est elle qui choisit), faute de quoi vous la poussez sur 1,50 m ou lui infligez l'état &Reference[Prone]. Le DD du jet de sauvegarde est égal à 8 + votre modificateur de Force + votre bonus de maîtrise. Cette bousculade n'est possible que si la catégorie de taille de la cible n'est pas supérieure à la vôtre de plus d'un cran.</p>"
                 },
                 "Ending a Grapple": {
                     "name": "Mettre fin à la lutte",
@@ -878,17 +878,17 @@
                     "tooltip": "<p>Une créature Agrippée peut consacrer son action pour se libérer. Pour ce faire, elle doit réussir un test de [[/check ath]] ou de [[/check acr]] contesté par votre test de Force (Athlétisme).</p>"
                 },
                 "Moving a Grappled Creature": {
-                    "name": "",
-                    "text": "",
-                    "tooltip": ""
+                    "name": "Déplacer une créature agrippée",
+                    "text": "<p><em><strong>Déplacer une créature agrippée.</strong></em> Lorsque vous vous déplacez, vous pouvez tirer ou transporter la créature agrippée avec vous, mais votre vitesse est alors réduite de moitié, sauf si la catégorie de taille de cette créature est de deux crans inférieure à la vôtre.</p>",
+                    "tooltip": "<p>Lorsque vous vous déplacez, vous pouvez tirer ou transporter la créature agrippée avec vous, mais votre vitesse est alors réduite de moitié, sauf si la catégorie de taille de cette créature est de deux crans inférieure à la vôtre.</p>"
                 },
                 "Reach": {
-                    "name": "",
-                    "text": ""
+                    "name": "Allonge",
+                    "text": "<p>La plupart des créatures ont une allonge de 1,50 m et peuvent donc attaquer des cibles situées à 1,50 m ou moins lorsqu'elles effectuent une attaque de corps à corps. Certaines créatures disposent d'attaques de corps à corps dont l'allonge est supérieure à 1,50 m, comme l'indique leur description.</p>"
                 },
                 "Unarmed Strike": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attaque à mains nues",
+                    "text": "<p>Au lieu d'utiliser une arme pour effectuer une attaque de corps à corps, vous pouvez recourir à un coup de poing, de pied ou de tête, ou autre frappe violente. En termes de jeu, on parle alors d'attaque à mains nues : une attaque de corps à corps qui vous demande d'utiliser votre corps pour infliger des dégâts, agripper ou bousculer une cible située dans un rayon de 1,50 m.</p><p>Chaque fois que vous recourez à votre attaque à mains nues, choisissez l'une des options suivantes pour son effet.</p><p><em><strong>Bousculade.</strong></em> La cible doit réussir un jet de sauvegarde de Force ou de Dextérité (c'est elle qui choisit), faute de quoi vous la poussez sur 1,50 m ou lui infligez l'état &reference[Prone]. Le DD du jet de sauvegarde est égal à 8 + votre modificateur de Force + votre bonus de maîtrise. Cette bousculade n'est possible que si la catégorie de taille de la cible n'est pas supérieure à la vôtre de plus d'un cran.</p><p><em><strong>Dégâts.</strong></em> Vous effectuez un jet d'attaque contre la cible. Le bonus au jet est égal à votre modificateur de Force + votre bonus de maîtrise. Si l'attaque touche, la cible subit un montant de dégâts contondants égal à 1 + votre modificateur de Force.</p><p><em><strong>Lutte.</strong></em> La cible doit réussir un jet de sauvegarde de Force ou de Dextérité (c'est elle qui choisit) sous peine de subir l'état &reference[Grappled]. Le DD du jet de sauvegarde et des tentatives d'évasion est égal à 8 + votre modificateur de Force + votre bonus de maîtrise. Cette lutte n'est possible que si la catégorie de taille de la cible n'est pas supérieure à la vôtre de plus d'un cran et si vous disposez d'une main libre pour vous saisir d'elle. <em>Lire aussi</em> &reference[Grappling].</p>"
                 },
                 "Cover": {
                     "name": "Abri",
@@ -911,116 +911,116 @@
                     "text": "<p>Les points de vie (pv en abrégé) sont la mesure chiffrée de la difficulté à tuer une créature ou détruire un objet. Les dégâts réduisent les points de vie, les soins les rétablissent. Vous ne pouvez pas avoir plus de points de vie que votre maximum de points de vie, et vous ne pouvez pas en avoir moins de 0.</p>"
                 },
                 "Damage Rolls": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jets de dégâts",
+                    "text": "<p>Un jet de dégâts est un jet de dés, ajusté par tout modificateur applicable, qui inflige des dégâts à une cible.</p><h2>Coups critiques</h2><p>@Embed[.gFL1VhSEljL1zvje inline]</p><h2>Types de dégâts</h2><p>@Embed[.jVOgf7DNEhkzYNIe inline]</p>"
                 },
                 "Critical Hits": {
                     "name": "Coups critiques",
                     "text": "<p>Si vous obtenez un 20 sur le d20 d'un jet d'attaque, il s'agit d'un Coup critique : l'attaque touche quels que soient les modificateurs afférents et la CA de la cible. Un Coup critique vous autorise à lancer des dés supplémentaires pour déterminer les dégâts de l'attaque contre la cible. Ainsi, tous les dés de dégâts de l'attaque sont lancés deux fois et ajoutés les uns aux autres. Ajoutez ensuite les modificateurs applicables.</p>"
                 },
                 "Damage Types": {
-                    "name": "",
+                    "name": "Types de dégâts",
                     "text": ""
                 },
                 "Acid": {
-                    "name": "",
-                    "text": ""
+                    "name": "Acide",
+                    "text": "<p><strong>Acide.</strong> Liquides corrosifs, enzymes digestives</p>"
                 },
                 "Bludgeoning": {
-                    "name": "",
-                    "text": ""
+                    "name": "Contondants",
+                    "text": "<p><strong>Contondants.</strong> Objets contondants, constriction, chute</p>"
                 },
                 "Cold": {
-                    "name": "",
-                    "text": ""
+                    "name": "Froid",
+                    "text": "<p><strong>Froid.</strong> Eau glacée, souffle glacial</p>"
                 },
                 "Fire": {
-                    "name": "",
-                    "text": ""
+                    "name": "Feu",
+                    "text": "<p><strong>Feu.</strong> Flammes, chaleur insupportable</p>"
                 },
                 "Force": {
-                    "name": "",
-                    "text": ""
+                    "name": "Force",
+                    "text": "<p><strong>Force.</strong> Énergie magique à l'état pur</p>"
                 },
                 "Lightning": {
-                    "name": "",
-                    "text": ""
+                    "name": "Foudre",
+                    "text": "<p><strong>Foudre.</strong> Électricité</p>"
                 },
                 "Necrotic": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nécrotiques",
+                    "text": "<p><strong>Nécrotiques.</strong> Énergie qui siphonne la vie</p>"
                 },
                 "Piercing": {
-                    "name": "",
-                    "text": ""
+                    "name": "Perforants",
+                    "text": "<p><strong>Perforants.</strong> Crocs, objets pointus</p>"
                 },
                 "Psychic": {
-                    "name": "",
-                    "text": ""
+                    "name": "Psychiques",
+                    "text": "<p><strong>Psychiques.</strong> Énergie qui attaque l'esprit</p>"
                 },
                 "Radiant": {
-                    "name": "",
-                    "text": ""
+                    "name": "Radiants",
+                    "text": "<p><strong>Radiants.</strong> Énergie sacrée, radiations brûlantes</p>"
                 },
                 "Slashing": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tranchants",
+                    "text": "<p><strong>Tranchants.</strong> Griffes, objets coupants</p>"
                 },
                 "Thunder": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tonnerre",
+                    "text": "<p><strong>Tonnerre.</strong> Son tonitruant</p>"
                 },
                 "Damage Resistance and Vulnerability": {
-                    "name": "",
-                    "text": ""
+                    "name": "Résistances et vulnérabilités aux dégâts",
+                    "text": "<p>Certains objets et créatures présentent une Résistance ou une Vulnérabilité à certains types de dégâts. Si vous bénéficiez de la Résistance à un type de dégâts, ces dégâts sont réduits de moitié contre vous. Si vous présentez une Vulnérabilité à un type de dégâts, ils sont doublés contre vous. Exemple : si vous avez la Résistance aux dégâts de froid, ces dégâts sont réduits de moitié contre vous, et si vous avez la Vulnérabilité aux dégâts de feu, ceux-ci sont doublés contre vous.</p><h3>Pas de cumul</h3><p>Si plusieurs Résistances ou Vulnérabilités affectent un même type de dégâts, une seule Résistance ou Vulnérabilité est prise en compte. Exemple : si vous avez la Résistance aux dégâts nécrotiques ainsi que la Résistance à tous les dégâts, les dégâts nécrotiques sont simplement réduits de moitié contre vous.</p><h3>Ordre d'application</h3><p>Les modificateurs aux dégâts s'appliquent dans l'ordre suivant : ajustements (bonus, malus, multiplicateurs, etc.) en premier ; Résistance en deuxième ; Vulnérabilité en troisième.</p><p>Exemple : une créature dotée de la Résistance à tous les dégâts et de la Vulnérabilité aux dégâts de feu se situe dans une aura magique qui réduit tous les dégâts de 5. Si on lui inflige 28 dégâts de feu, ceux-ci sont d'abord réduits de 5 (à 23 donc), puis réduits de moitié en raison de la Résistance de la créature (ce qui, arrondi à l'inférieur, donne 11), avant d'être doublés par sa Vulnérabilité (pour un total de 22).</p>"
                 },
                 "Healing": {
                     "name": "Soins",
                     "text": "<p>Les points de vie se récupèrent par magie (le sort @UUID[Compendium.dnd5e.spells24.Item.phbsplCureWounds]{soins}, par exemple, ou une @UUID[Compendium.dnd5e.equipment24.Item.phbagPotionofHea]{potion de guérison}), ou par l'intermédiaire d'un &reference[Short Rest] ou &Reference[Long Rest]{long}.</p><p>Lorsqu'une telle guérison opère sur vous, ajoutez les points de vie restitués à vos points de vie actuels. Vos points de vie ne peuvent pas dépasser votre maximum de points de vie, si bien que tous les points de vie récupérés en excédent sont perdus. Exemple : si vous recevez 8 points de vie de guérison alors que vous en avez actuellement 14 et que votre maximum de points de vie est de 20, vous n'en récupérez en fait que 6, pas 8.</p>"
                 },
                 "Dropping to 0 Hit Points": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tomber à 0 point de vie",
+                    "text": "<p>Quand une créature tombe à 0 point de vie, soit elle meurt sur le coup soit elle perd connaissance, comme expliqué ci-après.</p><h3>Mort sur le coup</h3><p>@Embed[.8BG05mA0mEzwmrHU inline]</p><h3>Perte de connaissance</h3><p>@Embed[.UZWKjrHZF5pEEqbA inline]</p><h3>Jets de sauvegarde contre la mort</h3><p>@Embed[.JL8LePEJQYFdNuLL inline]</p><h3>Stabiliser une créature</h3><p>@Embed[.r1CgZXLcqFop6Dlx inline]</p><h3>Mort des monstres</h3><p>@Embed[.DyAsc0h0MqTSHzz4 inline]</p>"
                 },
                 "Instant Death": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mort sur le coup",
+                    "text": "<p>Une créature peut mourir sur-le-champ de plusieurs façons, notamment les suivantes.</p><p><em><strong>Maximum de points de vie de 0.</strong></em> Une créature meurt si son maximum de points de vie atteint 0. Certains effets absorbent l'énergie vitale, ce qui réduit le maximum de points de vie des créatures.</p><p><em><strong>Dégâts massifs.</strong></em> Lorsque des dégâts font tomber un personnage à 0 point de vie et qu'il reste un excédent après cette réduction, il meurt sur le coup si cet excédent est au moins égal à son maximum de points de vie. Exemple : si le maximum de points de vie de votre personnage est de 12, qu'il a actuellement 6 points de vie et qu'il subit 18 dégâts, il tombe à 0 point de vie, mais avec un excédent de 12 dégâts. Il meurt dans ce cas, car 12 correspond à son maximum de points de vie.</p>"
                 },
                 "Falling Unconscious": {
-                    "name": "",
-                    "text": ""
+                    "name": "Perte de connaissance",
+                    "text": "<p>Si vous tombez à 0 point de vie sans mourir sur le coup, vous recevez l'état &Reference[Unconscious] jusqu'à ce que vous regagniez au moins 1 point de vie, et vous êtes soumis aux jets de sauvegarde contre la mort.</p>"
                 },
                 "Death Saving Throws": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jets de sauvegarde contre la mort",
+                    "text": "<p>Chaque fois que vous commencez votre tour avec 0 point de vie, vous devez effectuer un JS spécial appelé jet de sauvegarde contre la mort, afin de déterminer si vous glissez vers le trépas ou si vous vous accrochez à la vie. Contrairement à d'autres jets de sauvegarde, celui-ci n'est lié à aucune valeur de caractéristique. Votre destin ne vous appartient plus.</p><p><em><strong>Trois réussites/échecs.</strong></em> Lancez 1d20. Si le dé donne un résultat de 10 ou plus, c'est une réussite. Dans le cas contraire, c'est un échec. Cet échec ou cette réussite n'a pas d'effet en soi. À la troisième réussite, vous êtes Stabilisé (voir « Stabiliser un personnage », plus loin). Au troisième échec, vous mourez.</p><p>Ces réussites et échecs n'ont pas besoin d'être consécutifs ; notez-les quelque part, jusqu'à ce que vous atteigniez un total de trois pour l'un ou l'autre. Ces compteurs sont remis à zéro pour les deux lorsque vous récupérez au moins un point de vie ou êtes Stabilisé.</p><p>@Embed[.fwJOeFAJn8DkwebA inline]</p><p>@Embed[.2umstdyMUtPaf6vB inline]</p>"
                 },
                 "Rolling 1 or 20": {
-                    "name": "",
-                    "text": ""
+                    "name": "Résultat de 1 ou 20",
+                    "text": "<p><em><strong>Résultat de 1 ou 20.</strong></em> Lorsque vous obtenez un 1 sur le d20 d'un jet de sauvegarde contre la mort, cela vaut deux échecs. Si vous obtenez un 20 sur le d20, en revanche, vous récupérez 1 point de vie.</p>"
                 },
                 "Damage at 0 Hit Points": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dégâts subis à 0 point de vie",
+                    "text": "<p><em><strong>Dégâts subis à 0 point de vie.</strong></em> Si vous subissez des dégâts alors que vous êtes à 0 point de vie, vous subissez un échec de jet de sauvegarde contre la mort. Si ces dégâts correspondent à un Coup critique, vous subissez en fait deux échecs. Si les dégâts sont au moins égaux à votre maximum de points de vie, vous mourez.</p>"
                 },
                 "Stabilizing a Creature": {
-                    "name": "",
-                    "text": ""
+                    "name": "Stabiliser une créature",
+                    "text": "<p>Vous pouvez entreprendre l'action &Reference[Help] pour tenter de stabiliser une créature à 0 point de vie, ce qui demande de réussir un test de [[/check 10 med]].</p><p>Une créature Stabilisée n'est pas soumise aux jets de sauvegarde contre la mort, bien qu'étant à 0 point de vie, mais elle garde l'état Inconscient. Si elle subit le moindre dégât, elle n'est plus Stabilisée et se retrouve à nouveau soumise aux JS contre la mort. Une créature Stabilisée qui n'est pas soignée récupère 1 point de vie au bout de [[/r 1d4]] heures.</p>"
                 },
                 "Monsters and Death": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mort des monstres",
+                    "text": "<p><em><strong>Mort des monstres.</strong></em> Un monstre meurt dès qu'il tombe à 0 point de vie, mais le maître du donjon peut faire abstraction de cette règle pour un monstre donné et le traiter comme un personnage.</p>"
                 },
                 "Knocking a Creature Out": {
-                    "name": "",
-                    "text": ""
+                    "name": "Assommer une créature",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.PjXBMVcEaWuKjder inline]</p>"
                 },
                 "Temporary Hit Points": {
-                    "name": "",
-                    "text": ""
+                    "name": "Points de vie temporaires",
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.qOKtJt8CB2qRaTNA inline]</p>"
                 },
                 "Poison": {
-                    "name": "",
-                    "text": ""
+                    "name": "Poison",
+                    "text": "<p><strong>Poison.</strong> Gaz toxique, venin</p>"
                 },
                 "Mounting and Dismounting": {
                     "name": "Monter et descendre",
@@ -1031,105 +1031,105 @@
                     "text": "<p>Vous ne pouvez contrôler une monture que si elle est formée à recevoir un cavalier. Les chevaux domestiques, mules et créatures assimilées ont été dressés de la sorte.</p><p>L'Initiative d'une monture contrôlée est la même que la vôtre quand vous la montez. Elle se déplace selon vos instructions à votre tour, durant lequel elle n'a que trois options d'action : &Reference[Disengage], &Reference[Dodge] et &Reference[Dash]. Une monture contrôlée peut se déplacer et agir, y compris au tour où vous grimpez sur son dos.</p><p>À l'inverse, une monture indépendante (qui vous accepte comme cavalier, mais ne se laisse pas contrôler), garde son propre rang d'Initiative, et agit et se déplace comme bon lui semble.</p>"
                 },
                 "Underwater Combat": {
-                    "name": "",
-                    "text": ""
+                    "name": "Combat subaquatique",
+                    "text": "<p>Sous l'eau, les combats obéissent aux règles suivantes.</p><h2>Combat laborieux</h2><p>Lorsqu'elle effectue une attaque de corps à corps sous l'eau avec une arme, une créature qui n'est pas dotée d'une Vitesse de nage a le Désavantage au jet d'attaque, sauf si l'arme inflige des dégâts perforants.</p><p>Sous l'eau, une attaque à distance avec une arme rate automatiquement sa cible si celle-ci se trouve au-delà de la portée normale ; le jet d'attaque a le Désavantage contre une cible à portée normale.</p><h2>Résistance au feu</h2><p>Tout ce qui se trouve sous l'eau reçoit la Résistance aux dégâts de feu (voir « aux @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{Dégâts et soins} »).</p>"
                 },
                 "Forced March (2014)": {
-                    "name": "",
-                    "text": "",
-                    "tooltip": ""
+                    "name": "Marche forcée (2014)",
+                    "text": "<p><em><strong>Marche forcée.</strong></em> La table Allure de voyage correspond à un groupe qui consacre 8 heures quotidiennes à se déplacer. Les aventuriers peuvent outrepasser cette limite mais risquent alors l'épuisement.</p><p>Pour chaque heure consacrée au déplacement au-delà de 8 heures, les personnages couvrent la distance indiquée à la colonne Heure de leur allure, mais chacun effectue un jet de sauvegarde de Constitution à la fin de l'heure supplémentaire. Le DD est de 10 + 1 par heure au-delà de la huitième. En cas d'échec, le personnage subit un niveau d'&Reference[Exhaustion]{épuisement}.</p>",
+                    "tooltip": "<p>Pour chaque heure consacrée au déplacement au-delà de 8 heures, les personnages effectuent un jet de sauvegarde de Constitution à la fin de l'heure supplémentaire. Le DD est de 10 + 1 par heure au-delà de la huitième. En cas d'échec, le personnage subit un niveau d'&Reference[Exhaustion]{épuisement}.</p>"
                 },
                 "Mounts and Vehicles": {
-                    "name": "",
-                    "text": ""
+                    "name": "Montures et véhicules",
+                    "text": "<p><strong>Montures et véhicules.</strong> Celles et ceux qui voyagent en chariot, en calèche ou à bord d'un autre véhicule terrestre peuvent opter pour une allure normale. À bord d'un bateau, c'est l'embarcation qui détermine la Vitesse ; les passagers ne choisissent par leur allure de voyage. Si la taille du navire et celle de l'équipage le permettent, il est dans certains cas possible de voguer jusqu'à 24 heures par jour. Le chapitre 6 propose des véhicules avec leurs prix de vente.</p>"
                 },
                 "Spell Level": {
-                    "name": "",
-                    "text": ""
+                    "name": "Niveau de sort",
+                    "text": "<p>Chaque sort présente un niveau allant de 0 à 9, indiqué dans la description du sort. Le niveau d'un sort est une bonne indication de sa puissance. Les sorts mineurs, sorts rudimentaires que les personnages lancent presque machinalement, sont de niveau 0. Les règles propres à chaque classe d'incantateur indiquent quand les personnages correspondants ont accès aux sorts des différents niveaux.</p>"
                 },
                 "Known and Prepared Spells": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sorts connus et sorts préparés",
+                    "text": "<p>Avant de pouvoir utiliser un sort, le lanceur doit l'avoir bien en tête ou avoir accès à un objet magique qui le contient. Les personnages de certaines classes, comme le barde et l'ensorceleur, ont une liste limitée de sorts gravée dans l'esprit. Il en va de même pour de nombreux monstres recourant à la magie. D'autres lanceurs, comme les clercs et les magiciens, doivent passer par une procédure de préparation de leurs sorts. Cette opération varie d'une classe à l'autre, comme le détaillent leurs descriptions respectives.</p><p>Dans tous les cas, le nombre de sorts qui peuvent occuper simultanément l'esprit d'un personnage incantateur dépend de son niveau.</p>"
                 },
                 "Spell Slots": {
-                    "name": "",
-                    "text": ""
+                    "name": "Emplacements de sort",
+                    "text": "<p>Lancer un sort du 1<sup>er</sup> niveau ou supérieur est éreintant, c'est pourquoi tout incantateur ne peut en jeter qu'un nombre limité de sorts avant de devoir prendre du Repos. Les emplacements de sort constituent le gros du potentiel magique d'un incantateur. Chaque classe d'incantateur octroie un nombre limité d'emplacements de sort de niveaux donnés. Un Magicien de niveau 3 est ainsi doté de quatre emplacements du 1<sup>er</sup> niveau et de deux du 2<sup>e</sup> niveau.</p><p>Lorsque vous lancez un sort, vous dépensez un emplacement au moins égal à celui du sort, et « remplissez » en quelque sorte l'emplacement avec le sort. On peut voir les emplacements de sort comme des sillons d'une taille donnée, étroite pour un emplacement du 1<sup>er</sup> niveau, de plus en plus large pour ceux de niveau supérieur. Un sort du 1<sup>er</sup> niveau s'insère ainsi dans n'importe quel emplacement, mais un sort du 2<sup>e</sup> niveau ne pourra tenir que dans un emplacement du 2<sup>e</sup> niveau ou plus. Ainsi, quand une Magicienne de niveau 3 lance projectile magique, sort du 1<sup>er</sup> niveau, elle dépense l'un de ses quatre emplacements du 1<sup>er</sup> niveau, si bien qu'il lui en reste trois.</p><p>Terminer un Repos long restitue tous les emplacements de sort dépensés.</p><h3>Lancer un sort à un niveau supérieur</h3><p>@Embed[.4H9SLM95OCLfFizz inline]</p>"
                 },
                 "Casting a Spell at a Highler Level": {
-                    "name": "",
-                    "text": ""
+                    "name": "Lancer un sort à un niveau supérieur",
+                    "text": "<p>Lorsqu'un personnage lance un sort en utilisant un emplacement dont le niveau est supérieur à celui du sort, le sort est considéré pour cette incantation comme du niveau correspondant. Ainsi, lorsqu'une Magicienne lance projectile magique en utilisant un emplacement du 2<sup>e</sup> niveau, ce projectile magique est du 2<sup>e</sup> niveau. Dans les faits, le sort prend toute la place que lui offre l'emplacement.</p><p>Certains sorts, comme projectile magique et soins, produisent des effets plus puissants lorsqu'on les lance à plus haut niveau, comme l'indique leur description.</p>"
                 },
                 "Casting in Armor": {
-                    "name": "",
-                    "text": ""
+                    "name": "Incantation en armure",
+                    "text": "<p>Vous devez avoir la maîtrise de l'armure que vous portez pour lancer un sort. Sans cela, l'armure vous est trop inconfortable pour la moindre incantation.</p>"
                 },
                 "Cantrips": {
                     "name": "Sorts mineurs",
                     "text": "<p>Un sort mineur est un sort du niveau 0, qui se lance sans dépenser d'emplacement de sort.</p>"
                 },
                 "Rituals": {
-                    "name": "",
-                    "text": ""
+                    "name": "Rituels",
+                    "text": "<p>Si l'un de vos sorts préparés porte la mention « rituel », vous pouvez le lancer sous forme de rituel. Lancer le sort sous forme de rituel nécessite 10 minutes de plus que l'incantation normale. En revanche, cela ne dépense aucun emplacement, c'est pourquoi un sort lancé comme rituel ne peut l'être à un niveau supérieur à la normale.</p>"
                 },
                 "Casting Time": {
-                    "name": "",
-                    "text": ""
+                    "name": "Temps d'incantation",
+                    "text": "<p>L'incantation de la plupart des sorts demande l'action Magie, mais certains se lancent par une action Bonus ou une Réaction, ou bien au gré de 1 minute ou d'un temps plus long. La ligne Temps d'incantation d'un sort indique cet aspect.</p><h3>Déclencheurs de Réaction et d'action Bonus</h3><p>@Embed[.RP1WL9FXI3aknlxZ inline]</p><h3>Temps d'incantation supérieurs</h3><p>@Embed[.gOAIRFCyPUx42axn inline]</p>"
                 },
                 "Reaction and Bonus Action Triggers": {
-                    "name": "",
-                    "text": ""
+                    "name": "Déclencheurs de Réaction et d'action Bonus",
+                    "text": "<p>Un sort dont le temps d'incantation est d'une Réaction se lance en réponse à un déclencheur indiqué à la ligne Temps d'incantation du sort. Certains sorts présentant un temps d'incantation d'une action Bonus se lancent aussi en réponse à un déclencheur défini dans la description.</p>"
                 },
                 "Longer Casting Times": {
-                    "name": "",
-                    "text": ""
+                    "name": "Temps d'incantation supérieurs",
+                    "text": "<p>L'incantation de certains sorts (notamment ceux qu'on lance comme rituels) demande davantage de temps : plusieurs minutes, voire plusieurs heures. Quand vous lancez un sort dont le temps d'incantation est de 1 minute ou plus, vous devez entreprendre l'action &Reference[Magic] à chaque tour de l'incantation et devez maintenir votre &Reference[Concentrating] tout du long. Si votre Concentration est rompue, le sort échoue, mais vous ne dépensez aucun emplacement. Pour retenter l'incantation, vous devez recommencer depuis le début.</p>"
                 },
                 "RBYPyE5z5hAZSbH6": {
-                    "name": "",
-                    "text": ""
+                    "name": "Portée",
+                    "text": "<p>La portée d'un sort indique à quelle distance de l'incantateur les effets peuvent prendre leur origine, la description du sort précisant quels effets sont limités par cette portée.</p><p>La portée prend généralement l'une des formes suivantes :</p><p><em><strong>Distance.</strong></em> La portée est exprimée en mètres.</p><p><em><strong>Contact.</strong></em> Les effets du sort prennent leur origine sur quelque chose que l'incantateur doit toucher directement (à portée d'allonge), comme indiqué dans la description.</p><p><em><strong>Personnelle.</strong></em> Le sort est lancé sur l'incantateur ou émane de lui, comme indiqué dans la description.</p><p>Quand un sort présente des effets mobiles, ceux-ci ne sont pas contraints par la portée sauf mention contraire dans la description.</p>"
                 },
                 "Components": {
-                    "name": "",
-                    "text": ""
+                    "name": "Composantes",
+                    "text": "<p>Les composantes d'un sort correspondent aux conditions physiques dans lesquelles l'incantateur doit le lancer. La description de chaque sort indique s'il demande des composantes verbales (V), somatiques (S) ou matérielles (M). Si le lanceur est dans l'incapacité de fournir l'une ou l'autre de ces composantes, il ne peut pas lancer le sort.</p><h3>Verbale (V)</h3><p>@Embed[.6UXTNWMCQ0nSlwwx inline]</p><h3>Somatique (S)</h3><p>@Embed[.qwUNgUNilEmZkSC9 inline]</p><h3>Matérielle (M)</h3><p>@Embed[.AeH5eDS4YeM9RETC inline]</p>"
                 },
                 "Verbal (V)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Verbale (V)",
+                    "text": "<p>Une composante verbale se traduit par des psalmodies mystiques ou ésotériques, incompréhensibles pour les non-initiés. Ces paroles se prononcent à un volume normal. Les paroles seules ne constituent pas la source de puissance du sort, mais l'alliance des sons, des variations de voix et des résonances permet de réveiller la trame de la magie. Ainsi, une créature bâillonnée ou prise dans une zone de silence ne pourra pas lancer un sort doté d'une composante verbale.</p><aside class=\"notable\"><h3>Création de composantes verbales</h3><p>Si vous souhaitez formuler les composantes verbales, vous pouvez en inventer les paroles. Quelle que soit votre approche pour ce faire, le but est de trouver une formule facile à prononcer, mais dénuée de sens dans le monde réel. La méthode suivante peut faire l'affaire : prenez le nom du sort, isolez chaque lettre qui le compose en supprimant les doublons, et réordonnez ces lettres pour composer un terme imaginaire. Exemple : <em>boule de feu</em> compte trois <em>e</em> et deux <em>u</em>, mais si on garde les lettres individuelles et qu'on les réordonne, on peut obtenir les termes <em>fuol deb</em> ou <em>dofbuel</em>.</p></aside>"
                 },
                 "Somatic (S)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Somatique (S)",
+                    "text": "<p>Une composante somatique correspond à un enchaînement de gestes énergiques ou subtils et complexes. L'incantateur doit avoir au moins une main disponible pour exécuter cette gestuelle.</p>"
                 },
                 "Material (M)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Matérielle (M)",
+                    "text": "<p>L'incantation de certains sorts passe par des matériaux spécifiques, indiqués entre parenthèses à la ligne Composantes. Sauf mention contraire, ces matériaux ne sont pas détruits par le sort. L'incantateur doit avoir une main libre pour accéder à ces composantes, sachant que ce peut être la main qui lui permet d'exécuter les composantes somatiques.</p><p>Quand un sort ne détruit pas les matériaux et n'associe pas de coût à ceux-ci, l'incantateur peut recourir à une sacoche à composantes plutôt que de devoir fournir les matériaux demandés, ou bien à un focaliseur d'incantation s'il dispose d'une aptitude autorisant cette substitution. Vous devez avoir une main libre pour utiliser une sacoche à composantes et vous devez tenir un focaliseur d'incantation dans la main pour vous en servir, sauf mention contraire.</p>"
                 },
                 "Duration": {
-                    "name": "",
-                    "text": ""
+                    "name": "Durée",
+                    "text": "<p>La durée d'un sort représente l'intervalle de temps s'écoulant entre le début et la fin du sort une fois lancé. Elle prend généralement l'une des formes suivantes :</p><h3>Concentration</h3><p>@Embed[.ow58p27ctAnr4VPH inline]</p><h3>Instantanée</h3><p>@Embed[.kdlgZOpRMB6bGCod inline]</p>"
                 },
                 "Instantaneous": {
-                    "name": "",
-                    "text": ""
+                    "name": "Instantanée",
+                    "text": "<p>Une durée « instantanée » indique que le sort ne se produit qu'un instant et disparaît aussitôt.</p>"
                 },
                 "Concentration": {
                     "name": "Concentration",
                     "text": "<p>Certains sorts et effets nécessitent la Concentration pour rester actifs, comme stipulé dans leur description. Si son créateur perd sa Concentration, l'effet prend fin. Si l'effet a une durée maximale, son descriptif indique combien de temps son créateur peut se concentrer sur lui : jusqu'à 1 minute, 1 heure, ou autre durée. Le créateur peut rompre volontairement sa Concentration à tout moment (pas d'action requise). Les facteurs ci-après brisent la Concentration.</p><p><em><strong>Autre effet nécessitant la Concentration.</strong></em> Vous perdez la Concentration sur un effet dès l'instant où vous commencez à lancer un sort nécessitant la Concentration ou activez un autre effet qui la requiert.</p><p><em><strong>Dégâts.</strong></em> Si vous subissez des dégâts, vous devez réussir un jet de sauvegarde de Constitution pour maintenir votre Concentration. Le DD est égal à 10 ou à la moitié des dégâts subis (arrondir à l'inférieur), le nombre le plus élevé étant retenu, jusqu'à un DD maximal de 30.</p><p><em><strong>Neutralisé ou mort.</strong></em> Votre Concentration prend fin si vous subissez l'état &Reference[Incapacitated] ou si vous mourez.</p>"
                 },
                 "Targets": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cibles",
+                    "text": "<p>Un sort demande généralement au lanceur de choisir la ou les cibles qu'il compte affecter par sa magie. La description d'un sort indique s'il cible des créatures, des objets ou autre chose.</p><h3>Un chemin dégagé jusqu'à la cible</h3><p>@Embed[.K2lVWIOvfzThf9xe inline]</p><h3>Se cibler</h3><p>@Embed[.Yljd0J36zC8eibW5 inline]</p>"
                 },
                 "A Clear Path to the Target": {
-                    "name": "",
-                    "text": ""
+                    "name": "Un chemin dégagé jusqu'à la cible",
+                    "text": "<p>L'incantateur ne peut pas cibler un point, une créature ou un objet disposant d'un Abri total vis-à-vis de lui.</p>"
                 },
                 "Targeting Yourself": {
-                    "name": "",
-                    "text": ""
+                    "name": "Se cibler",
+                    "text": "<p>Quand un sort vous permet de cibler une créature de votre choix, vous pouvez vous prendre pour cible, sauf s'il est spécifié que cette créature doit être Hostile ou différente de vous.</p>"
                 },
                 "Areas of Effect": {
-                    "name": "",
-                    "text": ""
+                    "name": "Zones d'effet",
+                    "text": "<p>Certains sorts, comme vague tonnante, couvrent une zone appelée zone d'effet, définie dans le glossaire de règles. Cette zone détermine ce que le sort cible. La description d'un sort spécifie s'il s'accompagne d'une zone d'effet, qui prend généralement l'une des formes suivantes : Cône, Cube, Cylindre, Émanation, Ligne ou Sphère.</p><p>@Embed[.8HxbRceQQUAhyWRt inline]</p><h3>Cône</h3><p>@Embed[.DqqAOr5JnX71OCOw inline]</p><h3>Cube</h3><p>@Embed[.dRfDIwuaHmUQ06uA inline]</p><h3>Cylindre</h3><p>@Embed[.jZFp4R7tXsIqkiG3 inline]</p><h3>Ligne</h3><p>@Embed[.6DOoBgg7okm9gBc6 inline]</p><h3>Sphère</h3><p>@Embed[.npdEWb2egUPnB5Fa inline]</p>"
                 },
                 "Cone": {
                     "name": "Cône",
@@ -1152,451 +1152,451 @@
                     "text": "<p>Une Sphère est une zone d'effet qui s'étend en ligne droite dans toutes les directions à partir d'un point d'origine. L'effet qui crée une Sphère stipule la distance à laquelle elle s'étend, ce qui constitue le rayon de la Sphère.</p><p>Le point d'origine d'une Sphère est situé dans sa zone d'effet.</p>"
                 },
                 "Saving Throws": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jets de sauvegarde",
+                    "text": "<p>De nombreux sorts spécifient qu'une cible effectue un jet de sauvegarde pour éviter tout ou partie de leurs effets. La description indique alors quelle caractéristique est associée au JS et ce qui se passe en cas de réussite ou d'échec. Voici comment calculer le DD de vos sorts :</p><p style=\"text-align:center\"><strong>DD de sauvegarde des sorts</strong> = 8 + votre modificateur de caractéristique d'incantation + votre bonus de maîtrise</p>"
                 },
                 "qAFzmGZKhVvAEUF3": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jets d'attaque",
+                    "text": "<p>Certains sorts demandent au lanceur d'effectuer un jet d'attaque pour déterminer si l'effet touche une cible. Voici comment calculer le modificateur d'attaque de vos sorts :</p><p style=\"text-align:center\"><strong>Modificateur d'attaque des sorts</strong> = votre modificateur de caractéristique d'incantation + votre bonus de maîtrise</p>"
                 },
                 "Combining Spell Effects": {
-                    "name": "",
-                    "text": ""
+                    "name": "Combiner les effets",
+                    "text": "<p>Les effets de sorts différents coexistent tant que leurs durées se chevauchent. À l'inverse, les effets d'un même sort lancé plusieurs fois ne se cumulent pas. Au lieu de cela, c'est l'effet le plus puissant qui s'applique (celui qui procure le bonus le plus élevé, par exemple) tant qu'ils sont simultanément actifs. Si les incantations d'un même sort sont de puissance équivalente, c'est l'effet le plus récent qui s'impose tant qu'ils sont simultanément actifs. Ainsi, lorsque deux Clercs lancent bénédiction sur la même cible, celle-ci ne reçoit qu'une fois les bénéfices du sort et non pas deux dés supplémentaires. Si les durées des sorts se chevauchent, toutefois, l'effet se prolonge jusqu'au terme de la deuxième bénédiction.</p>"
                 },
                 "The Schools of Magic": {
-                    "name": "",
-                    "text": ""
+                    "name": "Les écoles de magie",
+                    "text": "<p>Chaque sort est associé à une école de magie. Celles-ci sont énumérées dans la table Écoles de magie. Ces catégories participent à la description des sorts ; elles n'ont pas de règles propres, mais d'autres règles s'y réfèrent.</p><p>@Embed[.849AYEWw9FHD6JNz inline]</p><p>@Embed[.HoD2MwzmVbMqj9se inline]</p><p>@Embed[.SehPXk24ySBVOwCZ inline]</p><p>@Embed[.kGp1RNuxL2SELLRC inline]</p><p>@Embed[.smEk7kvVyslFozrB inline]</p><p>@Embed[.TWyKMhZJZGqQ6uls inline]</p><p>@Embed[.W0eyiV1FBmngb6Qh inline]</p><p>@Embed[.IYWewSailtmv6qEb inline]</p>"
                 },
                 "Abjuration": {
-                    "name": "",
-                    "text": ""
+                    "name": "Abjuration",
+                    "text": "<p>Les sorts d'<strong>Abjuration</strong> empêche ou inverse les effets nocifs.</p>"
                 },
                 "Conjuration": {
-                    "name": "",
-                    "text": ""
+                    "name": "Invocation",
+                    "text": "<p>Les sorts d'<strong>Invocation</strong> transporte des créatures ou des objets.</p>"
                 },
                 "Divination": {
-                    "name": "",
-                    "text": ""
+                    "name": "Divination",
+                    "text": "<p>Les sorts de <strong>Divination</strong> révèle des informations.</p>"
                 },
                 "Enchantment": {
-                    "name": "",
-                    "text": ""
+                    "name": "Enchantement",
+                    "text": "<p>Les sorts d'<strong>Enchantement</strong> influence l'esprit.</p>"
                 },
                 "Evocation": {
-                    "name": "",
-                    "text": ""
+                    "name": "Évocation",
+                    "text": "<p>Les sorts d'<strong>Évocation</strong> canalise les énergies pour produire des effets souvent destructeurs.</p>"
                 },
                 "Illusion": {
-                    "name": "",
-                    "text": ""
+                    "name": "Illusion",
+                    "text": "<p>Les sorts d'<strong>Illusion</strong> trompe l'esprit ou les sens.</p>"
                 },
                 "Necromancy": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nécromancie",
+                    "text": "<p>Les sorts de <strong>Nécromancie</strong> manipule la vie et la mort.</p>"
                 },
                 "Transmutation": {
-                    "name": "",
-                    "text": ""
+                    "name": "Transmutation",
+                    "text": "<p>Les sorts de <strong>Transmutation</strong> transforme des créatures ou des objets.</p>"
                 },
                 "Point of Origin": {
-                    "name": "",
-                    "text": ""
+                    "name": "Point d'origine",
+                    "text": "<p>Chaque zone d'effet a un point d'origine, position depuis laquelle se déploient les énergies de l'effet. Les règles propres à chaque forme spécifient comment positionner ce point d'origine. Si toutes les lignes droites reliant le point d'origine à un endroit de la zone d'effet sont bloquées, cet endroit n'est pas inclus dans la zone d'effet. Pour bloquer une ligne, un obstacle doit offrir un &Reference[Total Cover].</p><p>Si le créateur d'une zone d'effet place celle-ci en un point qu'il ne voit pas et qu'une obstruction (comme un mur) se dresse entre lui et ce point, le point d'origine se manifeste en réalité de son côté de l'obstacle.</p>"
                 },
                 "Traps in Play (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Les pièges en jeu (2014)",
+                    "text": "<p>Quand des aventuriers tombent sur un piège, il convient de savoir comment il se déclenche et ce qu'il produit, ainsi que les possibilités que les personnages le détectent et le désarment ou l'évitent.</p><h3>Déclenchement d'un piège</h3><p>@Embed[.EnsZoNfQh0jVS5Y1 inline]</p><h3>Détection et désarmement d'un piège</h3><p>@Embed[.DZ7AhdQ94xggG4bj inline]</p><h3>Effets des pièges</h3><p>@Embed[.qvBU4XhGZuOrb8LT inline]</p><h3>Pièges complexes</h3><p>@Embed[.FjXRWwrGzsLmI83j inline]</p>"
                 },
                 "Triggering a Trap (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Déclenchement d'un piège (2014)",
+                    "text": "<p>La plupart des pièges se déclenchent quand une créature se rend quelque part ou touche quelque chose que le créateur du piège souhaitait protéger. Les déclencheurs les plus communs sont les dalles de pression et les sections factices du sol, les fils tendus, les poignées de porte et les serrures qui réagissent quand on y insère autre chose que la bonne clef. Les pièges magiques sont souvent réglés pour s'activer quand une créature pénètre dans une zone ou touche un objet. Certains pièges magiques (comme le sort @UUID[Compendium.dnd5e.spells.Item.pB7XVYwdGNcUG935]{glyphe de garde}) s'accompagnent de conditions de déclenchement plus complexes, comme un mot de passe qui peut en prévenir l'activation.</p>"
                 },
                 "Detecting and Disabling a Trap (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Détection et désarmement d'un piège (2014)",
+                    "text": "<p>En général, un élément du piège reste détectable pour qui l'inspecte soigneusement. Les personnages remarqueront peut-être un pavé instable qui dissimule une dalle de pression, un reflet suspect qui trahit la présence d'un fil tendu, de petits orifices dans les murs d'où jailliront les flammes ou autre indice révélant la présence d'un piège.</p><p>La description d'un piège spécifie les tests et DD pour le détecter ou le désarmer, voire les deux. Un personnage qui cherche activement un piège peut tenter un test de Sagesse (Perception) assorti du DD du piège. Vous pouvez aussi comparer le DD de détection du piège avec la valeur de Sagesse (Perception) passive de chaque personnage pour déterminer si un membre du groupe remarque quelque chose en passant. Si les aventuriers détectent un piège avant de le déclencher, ils auront parfois la possibilité de le désarmer, de façon permanente ou juste le temps de le contourner. Vous pouvez demander un test d'Intelligence (Investigation) à un personnage pour qu'il déduise la marche à suivre, suivi d'un test de Dextérité avec des outils de voleur pour accomplir le sabotage nécessaire.</p><p>Tout personnage peut tenter un test d'Intelligence (Arcanes) pour détecter ou désarmer un piège magique, en plus de tout autre test indiqué dans la description du piège. Les DD restent les mêmes, quel que soit le test effectué. De plus, @UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{dissipation de la magie} a une chance de désarmer la plupart des pièges magiques. La description d'un piège magique indique le DD du test de caractéristique associé à l'utilisation de <em>dissipation de la magie</em>.</p><p>Dans la plupart des cas, cette description est suffisamment claire pour que vous puissiez juger si la procédure du personnage permet de localiser le piège ou de le déjouer. Comme dans bien des situations, ne laissez pas les jets de dés prendre le pas sur la stratégie des joueurs ni sur leur astuce. Fiez-vous à votre bon sens et à la description du piège pour déterminer ce qui se passe. Aucune conception de piège ne saurait anticiper toutes les manœuvres possibles des aventuriers.</p><p>Si un personnage agit d'une manière qui a toutes les chances de révéler la présence d'un piège, nulle raison de lui demander un test de caractéristique pour le confirmer. Si un aventurier soulève par exemple un tapis qui cache une dalle de pression, il a bel et bien trouvé le déclencheur sans passer par le moindre test.</p><p>Déjouer un piège peut s'avérer plus complexe. Prenons le cas d'un coffre au trésor piégé. Si l'on ouvre le coffre sans avoir au préalable tiré sur les deux poignées latérales, un mécanisme interne fait jaillir une volée d'aiguilles empoisonnées sur toute personne qui se tient devant. Après avoir inspecté le coffre et effectué quelques tests, les personnages se demandent toujours s'il est piégé. Plutôt que d'ouvrir directement le coffre, ils positionnent un bouclier face à l'objet et tirent sur le couvercle à distance avec une longue tige de fer. Dans pareil cas, le piège s'active quand même, mais la volée d'aiguilles se plante directement dans le bouclier sans toucher personne.</p><p>Les pièges sont souvent dotés de mécanismes qui permettent de les désarmer ou de les contourner. Les monstres intelligents qui disposent des pièges dans et autour de leur antre doivent pouvoir les côtoyer sans se blesser à longueur de temps. Ces pièges peuvent être dotés de leviers cachés qui désarment leur déclencheur, à moins qu'un passage secret permette de contourner le piège.</p>"
                 },
                 "Trap Effects (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Effets des pièges (2014)",
+                    "text": "<p>Les effets des pièges vont du simple désagrément au péril mortel en recourant à divers éléments tels que flèches, pointes, lames, poisons, vapeurs toxiques, éruptions de flammes et fosses profondes. Les pièges les plus meurtriers combinent plusieurs éléments dans le but de tuer, blesser, séquestrer ou repousser les malheureux qui les activent. La description d'un piège spécifie ce qui se passe quand il est déclenché.</p><p>Le bonus d'attaque d'un piège, le DD de sauvegarde pour résister à ses effets et les dégâts qu'il inflige peuvent varier, en fonction de sa dangerosité. Reportez-vous à la table DD de sauvegarde et bonus d'attaque des pièges et à la table Gravité des dégâts par niveau qui permettent d'évaluer les pièges selon trois degrés de dangerosité.</p><p>Un piège conçu pour constituer un simple <strong>désagrément</strong> aura peu de chances de blesser grièvement les personnages des niveaux indiqués, tandis qu'un piège <strong>dangereux</strong> présente bel et bien ce risque, et même celui de les tuer. Un piège <strong>meurtrier</strong> est susceptible de tuer les personnages des niveaux indiqués.</p><table border=\"0\"><caption><h4>DD de sauvegarde et bonus d'attaque des pièges</h4></caption><thead><tr><td>Dangerosité</td><td>DD de sauvegarde</td><td>Bonus à l'attaque</td></tr></thead><tbody><tr><td>Désagrément</td><td>10–11</td><td>+3 à +5</td></tr><tr><td>Dangereux</td><td>12–15</td><td>+6 à +8</td></tr><tr><td>Meurtrier</td><td>16–20</td><td>+9 à +12</td></tr></tbody></table><table border=\"0\"><caption><h4>Gravité des dégâts par niveau</h4></caption><thead><tr><td>Niveau des personnages</td><td>Désagrément</td><td>Dangereux</td><td>Meurtrier</td></tr></thead><tbody><tr><td>1 à 4</td><td>1d10</td><td>2d10</td><td>4d10</td></tr><tr><td>5 à 10</td><td>2d10</td><td>4d10</td><td>10d10</td></tr><tr><td>11 à 16</td><td>4d10</td><td>10d10</td><td>18d10</td></tr><tr><td>17 à 20</td><td>10d10</td><td>18d10</td><td>24d10</td></tr></tbody></table>"
                 },
                 "Complex Traps (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pièges complexes (2014)",
+                    "text": "<p>Les pièges complexes fonctionnent comme des pièges standard, si ce n'est qu'ils entraînent une séquence d'actions à chaque round une fois activés. La gestion d'un piège complexe s'apparente donc davantage à une rencontre de combat.</p><p>Quand un piège complexe s'active, il joue l'initiative. La description du piège fournit son bonus d'initiative. À son tour, le piège s'active de nouveau, généralement en entreprenant une action. Il peut effectuer des attaques successives contre les intrus, créer un effet qui change au fil du temps ou engendrer un défi évolutif. Pour le reste, les pièges complexes se détectent et se désarment ou se contournent comme les autres.</p><p>Ainsi un piège qui inonde progressivement une salle se gère-t-il mieux comme piège complexe. Lorsqu'intervient le tour du piège, le niveau d'eau monte. Au bout de plusieurs rounds, toute la salle est submergée.</p>"
                 },
                 "Going Mad (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sombrer dans la folie (2014)",
+                    "text": "<p>Divers effets magiques peuvent pousser à la folie un individu sain d'esprit. Certains sorts, comme @UUID[Compendium.dnd5e.spells.Item.dSTu1MaPhBqPITwM]{contact avec les plans} ou @UUID[Compendium.dnd5e.spells.Item.B2kbmgbA2WQR00kx]{symbole}, peuvent entraîner la démence, mais vous pouvez substituer les règles de folie qui suivent aux effets décrits pour ces sorts. Maladies, poisons et certains effets planaires comme le vent psychique ou les bourrasques hurlantes du Pandémonium peuvent entraîner la folie. Certains artefacts peuvent également briser la psyché d'un personnage qui s'harmonise avec eux ou les utilise.</p><p>Résister à un effet générateur de folie passe généralement par un jet de sauvegarde de Charisme ou de Sagesse.</p>"
                 },
                 "Madness Effects (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Effets de la folie (2014)",
+                    "text": "<p>La folie peut être passagère, persistante ou à durée illimitée. La plupart des effets courants n'imposent qu'une folie passagère, qui dure tout au plus quelques minutes. Les effets plus inquiétants et ceux qui se cumulent entraînent parfois une folie persistante, voire à durée illimitée.</p><p>@Embed[.FiOvoBCuCpgyMjAX inline]</p><p>@Embed[.FximlEBSWq8TLAtX inline]</p><p>@Embed[.Ik0x5qoE14RYE6nj inline]</p>"
                 },
                 "Curing Madness (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Guérir de la folie (2014)",
+                    "text": "<p>Le sort @UUID[Compendium.dnd5e.spells.Item.3MYDjS6k9IYL0aTj]{apaisement des émotions} peut réprimer les effets de la folie, tandis que @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restauration partielle} peut débarrasser un personnage d'une folie persistante ou passagère. Selon l'origine de la folie, @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{délivrance des malédictions} ou @UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{dissipation du mal et du bien} peut aussi s'avérer efficace. Le sort @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restauration suprême} ou une magie plus puissante est nécessaire pour débarrasser un personnage d'une folie à durée illimitée.</p>"
                 },
                 "Short-Term Madness (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Folie passagère (2014)",
+                    "text": "<p>Un personnage touché par une <strong>folie passagère</strong> est soumis à un effet de la table @UUID[Compendium.dnd5e.tables.RollTable.ypk2L9feVwTx0QVj]{Folies passagères} pendant 1d10 minutes.</p>"
                 },
                 "Long-Term Madness (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Folie persistante (2014)",
+                    "text": "<p>Un personnage touché par une <strong>folie persistante</strong> est soumis à un effet de la table @UUID[Compendium.dnd5e.tables.RollTable.kJB79nI9rju6VN8J]{Folies persistantes} pendant 1d10 x 10 heures.</p>"
                 },
                 "Indefinite Madness (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Folie à durée illimitée (2014)",
+                    "text": "<p>Un personnage touché par une <strong>folie à durée illimitée</strong> reçoit une faille tirée de la table @UUID[Compendium.dnd5e.tables.RollTable.MAL5r8ZKx7BVsE9R]{Folies à durée illimitée}, qui persiste jusqu'à ce qu'on l'en soigne.</p>"
                 },
                 "Statistics for Objects": {
-                    "name": "",
-                    "text": ""
+                    "name": "Profil des objets",
+                    "text": "<p>Les objets peuvent être endommagés par les attaques et par certains sorts, selon les règles ci-dessous. Si un objet est extrêmement fragile, le MD peut autoriser une créature à le briser automatiquement par l'action &Reference[Attack] ou &Reference[Utilize].</p><p>@Embed[.KWmHLFi39glwuXQ7 inline]</p><p>@Embed[.243xmBDKcM1W2QEm inline]</p><p>@Embed[.dWO90EG5camfT34z inline]</p><p>@Embed[.HANU4fJW9LI4MIC8 inline]</p><p>@Embed[.9LJZhqvCburpags3 inline]</p>"
                 },
                 "KWmHLFi39glwuXQ7": {
-                    "name": "",
-                    "text": ""
+                    "name": "Classe d'armure",
+                    "text": "<p><em><strong>Classe d'armure.</strong></em> La table « Classe d'armure des objets » énumère la CA de divers matériaux.</p><table><caption>Classe d'armure des objets</caption><thead><tr><th><p>CA</p></th><th><p>Matériau</p></th></tr></thead><tbody><tr><td><p>11</p></td><td><p>Tissu, papier, corde</p></td></tr><tr><td><p>13</p></td><td><p>Cristal, verre, glace</p></td></tr><tr><td><p>15</p></td><td><p>Bois</p></td></tr><tr><td><p>17</p></td><td><p>Pierre</p></td></tr><tr><td><p>19</p></td><td><p>Fer, acier</p></td></tr><tr><td><p>21</p></td><td><p>Mithral</p></td></tr><tr><td><p>23</p></td><td><p>Adamantium</p></td></tr></tbody></table>"
                 },
                 "243xmBDKcM1W2QEm": {
-                    "name": "",
-                    "text": ""
+                    "name": "Points de vie",
+                    "text": "<p><em><strong>Points de vie.</strong></em> Un objet est détruit lorsqu'il tombe à 0 point de vie. La table « Points de vie des objets » propose une estimation des points de vie d'objets fragiles et robustes de taille G ou inférieure.</p><table><caption>Points de vie des objets</caption><thead><tr><th><p>Cat. de taille</p></th><th><p>Fragile</p></th><th><p>Robuste</p></th></tr></thead><tbody><tr><td><p>TP (bouteille, cadenas)</p></td><td><p>2 (1d4)</p></td><td><p>5 ([[/r 2d4]])</p></td></tr><tr><td><p>P (coffre, luth)</p></td><td><p>3 (1d6)</p></td><td><p>10 ([[/r 3d6]])</p></td></tr><tr><td><p>M (tonneau, lustre)</p></td><td><p>4 (1d8)</p></td><td><p>18 ([[/r 4d8]])</p></td></tr><tr><td><p>G (charrette, grande table)</p></td><td><p>5 (1d10)</p></td><td><p>27 ([[/r 5d10]])</p></td></tr></tbody></table>"
                 },
                 "Huge and Gargantuan Objects": {
-                    "name": "",
-                    "text": "",
-                    "tooltip": ""
+                    "name": "Objets de taille TG ou Gig",
+                    "text": "<p><em><strong>Objets de taille TG ou Gig.</strong></em> Pour décompter les points de vie d'un objet de taille TG ou Gig, scindez l'objet en sections de taille G ou inférieure, en traitant les pv de chacune indépendamment. Le MD détermine si la destruction d'une partie d'un objet entraîne l'effondrement de la structure.</p>",
+                    "tooltip": "<p>Pour décompter les points de vie d'un objet de taille TG ou Gig, scindez l'objet en sections de taille G ou inférieure, en traitant les pv de chacune indépendamment. Le MD détermine si la destruction d'une partie d'un objet entraîne l'effondrement de la structure.</p>"
                 },
                 "Objects and Damage Types": {
-                    "name": "",
-                    "text": "",
-                    "tooltip": ""
+                    "name": "Objets et types de dégâts",
+                    "text": "<p><em><strong>Types de dégâts et objets.</strong></em> Les objets ont l'Immunité contre les dégâts psychiques et de poison. Le MD peut décréter que certains types de dégâts sont plus ou moins efficaces contre un objet donné. Les dégâts contondants, par exemple, excellent lorsqu'il s'agit de fracasser quelque chose, mais ces mêmes dégâts sont inopérants pour couper quelque chose. Les objets en papier ou en tissu ont la Vulnérabilité aux dégâts de feu.</p>",
+                    "tooltip": "<p>Les objets ont l'Immunité contre les dégâts psychiques et de poison. Le MD peut décréter que certains types de dégâts sont plus ou moins efficaces contre un objet donné. Les dégâts contondants, par exemple, excellent lorsqu'il s'agit de fracasser quelque chose, mais ces mêmes dégâts sont inopérants pour couper quelque chose. Les objets en papier ou en tissu ont la Vulnérabilité aux dégâts de feu.</p>"
                 },
                 "Damage Threshold": {
-                    "name": "",
-                    "text": ""
+                    "name": "Seuil de dégâts",
+                    "text": "<p>Une créature ou un objet présentant un seuil de dégâts a l'Immunité contre tous les dégâts, sauf quand une même attaque ou un même effet lui inflige une somme de dégâts supérieure à ce seuil, auquel cas il subit pleinement les dégâts considérés. Les dégâts inférieurs à ce seuil, considérés comme superficiels, ne réduisent en rien les points de vie. Si, par exemple, un objet présente un seuil de dégâts de 10, il ne subit aucun dégât si 9 dégâts lui sont infligés, ces dégâts étant inférieurs au seuil. Si le même objet subit 11 points de dégâts, il les subit intégralement.</p>"
                 },
                 "Poison Types (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Types de poison (2014)",
+                    "text": "<p>Il existe quatre types de poison.</p><p>@Embed[.LUL48OUq6SJeMGc7 inline]</p><p>@Embed[.kXnCEqqGUWRZeZDj inline]</p><p>@Embed[.Y0vsJYSWeQcFpJ27 inline]</p><p>@Embed[.KUyN4eK1xTBzXsjP inline]</p>"
                 },
                 "Contact": {
-                    "name": "",
-                    "text": ""
+                    "name": "Contact",
+                    "text": "<p>Les poisons par contact s'enduisent sur des objets. Ils conservent leurs propriétés jusqu'à ce qu'on les touche ou qu'on lave l'objet. Une créature qui expose sa peau à un poison par contact en subit les effets.</p>"
                 },
                 "Ingested": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ingestion",
+                    "text": "<p>Pour en subir les effets, une créature doit avaler une dose entière de poison par ingestion. La dose peut s'administrer dans la nourriture ou un breuvage. Vous pouvez statuer qu'une dose partielle entraîne un effet réduit, si bien que la créature a l'Avantage à son jet de sauvegarde ou que la substance n'inflige que la moitié des dégâts en cas d'échec.</p>"
                 },
                 "Inhaled": {
-                    "name": "",
-                    "text": ""
+                    "name": "Inhalation",
+                    "text": "<p>Les vapeurs et poudres toxiques prennent effet quand on les inhale. Répandre la poudre ou les vapeurs soumet les créatures prises dans un Cube de 1,50 m à leurs effets. Le nuage qui en résulte se dissipe aussitôt après. Retenir son souffle ne sert à rien contre les poisons par inhalation : ils agissent sur les membranes nasales, les conduits lacrymaux et autres parties du corps.</p>"
                 },
                 "Injury": {
-                    "name": "",
-                    "text": ""
+                    "name": "Blessure",
+                    "text": "<p>Les poisons par blessure s'appliquent sur une arme, un projectile ou objet comparable par une action Bonus. Le poison reste actif jusqu'à ce qu'il soit administré par une blessure ou que l'objet en soit débarrassé. Une créature qui subit des dégâts tranchants ou perforants d'un objet enduit d'un tel poison s'expose à ses effets.</p>"
                 },
                 "Attunement": {
-                    "name": "",
-                    "text": ""
+                    "name": "Harmonisation",
+                    "text": "<p>Certains objets magiques nécessitent qu'une créature crée un lien avec lui (on parle alors d'Harmonisation) avant qu'elle puisse recourir à ses propriétés magiques. Une même créature ne peut pas s'harmoniser avec plus de trois objets magiques à la fois. Si vous n'êtes pas harmonisé avec un objet qui nécessite l'Harmonisation, vous recevez uniquement ses bénéfices non magiques, sauf mention contraire dans sa description. Un bouclier magique avec Harmonisation requise, par exemple, octroie les bénéfices d'un bouclier normal à une créature non harmonisée avec lui, mais aucune de ses propriétés magiques.</p><h3>S'harmoniser pendant un Repos court</h3><p>L'Harmonisation avec un objet requiert que vous consacriez l'intégralité d'un Repos court à vous concentrer sur l'objet tout en restant en contact physique étroit avec lui (cette opération ne peut pas se dérouler pendant le même Repos court consacré à en comprendre les propriétés). Cette concentration peut prendre la forme d'exercices martiaux (pour une arme), d'une méditation (pour un baguette) ou de toute autre activité pertinente. Si le Repos court est interrompu, la tentative d'Harmonisation échoue. Dans le cas contraire, à la fin du Repos court, vous êtes harmonisé avec l'objet magique et avez accès à l'ensemble de ses propriétés magiques.</p><h3>Fin de l'Harmonisation</h3><p>Votre Harmonisation avec un objet prend fin si vous ne remplissez plus les prérequis, si l'objet s'est trouvé à plus de 30 m de vous pendant 24 heures, si vous mourez ou si une autre créature s'harmonise avec l'objet. Vous pouvez en outre mettre fin volontairement à l'Harmonisation en passant un autre Repos court concentré sur l'objet, sauf dans le cas d'un objet maudit.</p>"
                 },
                 "Wearing and Wielding Items": {
-                    "name": "",
-                    "text": ""
+                    "name": "Porter et manier des objets magiques",
+                    "text": "<p>Certains objets doivent être portés ou maniés pour que l'on puisse utiliser leurs propriétés magiques. Un objet magique destiné à être porté sur le corps doit l'être à l'endroit prévu : les bottes aux pieds, les gants aux mains, les chapeaux et casques sur la tête et les anneaux au doigt. Une armure magique doit être enfilée, un bouclier attaché au bras, une cape attachée autour des épaules. Une arme doit être tenue en main.</p><p>Dans la plupart des cas, un objet magique censé être porté conviendra à une créature, quelle que soit sa taille ou sa carrure. Les vêtements magiques sont conçus pour être facilement ajustables ou s'adaptent magiquement au porteur.</p><h3>Plusieurs objets du même type</h3><p>@Embed[.rLJdvz4Mde8GkEYQ inline]</p><h3>Objets appariés</h3><p>@Embed[.rd9pCH8yFraSGN34 inline]</p>"
                 },
                 "Multiple Items of the Same Kind": {
-                    "name": "",
+                    "name": "Plusieurs objets du même type",
                     "text": ""
                 },
                 "Paired Items": {
-                    "name": "",
-                    "text": ""
+                    "name": "Objets appariés",
+                    "text": "<p>Les objets fournis par paires, tels que les bottes, brassards, gantelets et gants, n'octroient leurs bénéfices que si les deux éléments de la paire sont portés. Un personnage qui porte une botte de sept lieues à un pied et une botte elfique à l'autre, par exemple, ne retire aucun bénéfice de l'une ni de l'autre.</p>"
                 },
                 "Activating an Item (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Activer un objet magique (2014)",
+                    "text": "<p>L'activation de certains objets magiques nécessite parfois un acte spécifique de l'utilisateur, comme brandir l'objet et prononcer un mot de commande. La description de chaque catégorie d'objet ou de certains objets spécifiques détaille comment un tel objet doit être activé. Certains objets obéissent aux règles suivantes pour leur activation.</p><p>Si un objet nécessite une action pour être activé, cette action n'est pas une fonction de l'action Utiliser un objet. Un roublard ne pourra donc pas recourir à son aptitude Mains lestes pour activer l'objet.</p><h3>Mot de commande</h3><p>@Embed[.HiXixxLYesv6Ff3t inline]</p><h3>Objets à utilisation unique</h3><p>@Embed[.UEPAcZFzQ5x196zE inline]</p><h3>Sorts</h3><p>@Embed[.DABoaeeF6w31UCsj inline]</p><h3>Charges</h3><p>@Embed[.NLRXcgrpRCfsA5mO inline]</p>"
                 },
                 "Command Word (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mot de commande (2014)",
+                    "text": "<p>Un mot de commande est un mot ou une phrase qui doit être prononcé pour que l'objet fonctionne. Un objet magique qui nécessite un mot de commande ne peut pas être activé dans une zone où le son est réprimé, comme dans la zone du sort silence.</p>"
                 },
                 "Consumables (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Objets à utilisation unique (2014)",
+                    "text": "<p>Certains objets sont consommés lorsqu'ils sont activés. Potions et élixirs doivent être avalés ; les huiles, être appliquées sur le corps. Les inscriptions sur un parchemin s'effacent quand celui-ci est lu. Une fois utilisé, un objet à utilisation unique perd ses propriétés magiques.</p>"
                 },
                 "Spells (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sorts (2014)",
+                    "text": "<p>Certains objets magiques permettent à l'utilisateur de lancer un sort à partir de l'objet. Le sort est lancé au niveau de sort le plus bas possible, ne consomme aucun des emplacements de sort de l'utilisateur et ne nécessite aucune composante, sauf mention contraire dans la description de l'objet. Le sort fonctionne de façon normale en ce qui concerne le temps d'incantation, la portée et la durée, et l'utilisateur de l'objet doit se concentrer si le sort nécessite la concentration. De nombreux objets, comme les potions, ne demandent pas de lancer le sort et octroient les effets du sort avec leur durée habituelle. Certains objets font exception à cette règle, modifiant le temps d'incantation, la durée ou d'autres aspects d'un sort.</p><p>Un objet magique, comme certains bâtons, peut vous demander de recourir à votre propre caractéristique d'incantation pour lancer le sort par son intermédiaire. Si vous disposez de plusieurs caractéristiques d'incantation, choisissez celle à utiliser avec l'objet. Si vous n'avez aucune caractéristique d'incantation (comme c'est le cas d'un roublard avec l'aptitude Utilisation d'objets magiques), votre modificateur de caractéristique est de +0 pour cet objet et votre bonus de maîtrise s'applique.</p>"
                 },
                 "Charges (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Charges (2014)",
+                    "text": "<p>Certains objets magiques sont dotés de charges que l'on dépense pour activer leurs propriétés. Le nombre de charges restantes d'un objet est révélé si le sort identification est lancé, ainsi qu'à la créature qui s'harmonise avec l'objet. En outre, lorsqu'un objet récupère des charges, la créature harmonisée avec celui-ci sait combien de charges il a regagnées.</p>"
                 },
                 "Abilities (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Caractéristiques (2014)",
+                    "text": "<p>Un objet magique intelligent est doté de valeurs d'Intelligence, de Sagesse et de Charisme. Vous pouvez choisir la valeur de ces trois caractéristiques ou les déterminer au hasard. Pour les déterminer au hasard, lancez 4d6 pour chacune en ne totalisant que les trois meilleurs.</p>"
                 },
                 "Creating Sentient Magic Items (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "La création d'objets magiques intelligents (2014)",
+                    "text": "<p>Lorsque vous décidez de rendre intelligent un objet magique, vous créez la personnalité de l'objet comme pour la conception d'un PNJ, à quelques exceptions près décrites ici.</p><h4>Caractéristiques</h4><p>@Embed[.2l5215aIscQ8Y1di inline]</p><h4>Modes de communication</h4><p>@Embed[.iSNOtO9OQxN8Buf3 inline]</p><h4>Sens</h4><p>@Embed[.l4Z4cLJmlegyfY6c inline]</p><h4>Alignement</h4><p>@Embed[.SdK1Y86NLlPhjhMl inline]</p><h4>Dessein spécial</h4><p>@Embed[.0LBrn5XGigZKGfIe inline]</p>"
                 },
                 "Communication (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Modes de communication (2014)",
+                    "text": "<p>Un objet intelligent dispose de certains moyens pour communiquer, en livrant ses émotions, en transmettant le fond de ses pensées par télépathie ou en parlant à voix haute. Choisissez comment il communique ou laissez le hasard décider selon la table ci-après.</p><p>@Embed[Compendium.dnd5e.tables.RollTable.BHckoLKDwoL9d5p3]</p>"
                 },
                 "Senses (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sens (2014)",
+                    "text": "<p>L'intelligence implique d'avoir conscience de son environnement. Un objet intelligent peut le percevoir sur une distance limitée. Choisissez quels sont ses sens ou laissez le hasard décider selon la table « Sens » ci-après.</p><p>@Embed[Compendium.dnd5e.tables.RollTable.gfR9uCe42xBCCktd]</p>"
                 },
                 "Alignment (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Alignement (2014)",
+                    "text": "<p>Tout objet magique intelligent est doté d'un alignement. Son créateur ou la nature de l'objet peuvent influer sur cet alignement. Sinon, choisissez son alignement ou laissez le hasard décider selon la table « Alignement » ci-après.</p><p>@Embed[Compendium.dnd5e.tables.RollTable.NdjHJMSSVWw5fHsL]</p>"
                 },
                 "Special Purpose (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dessein spécial (2014)",
+                    "text": "<p>Vous pouvez attribuer à un objet intelligent un objectif qu'il poursuit, possiblement à l'exclusion de toute autre considération. Tant que son porteur agit en accord avec ce dessein spécial, l'objet reste disposé à coopérer. S'écarter de ce cap, toutefois, risque de provoquer un conflit entre le porteur et l'objet, voire conduire l'objet à interdire l'utilisation de ses propriétés activées. Choisissez un dessein spécial ou laissez le hasard décider selon la table « Dessein » ci-après.</p><p>@Embed[Compendium.dnd5e.tables.RollTable.b250eqNa0k8lrE9b]</p>"
                 },
                 "Conflict (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Conflits (2014)",
+                    "text": "<p>Un objet intelligent est mû par une volonté propre, façonnée par sa personnalité et son alignement. Si son porteur agit de façon contraire à l'alignement ou aux objectifs de l'objet, un conflit peut survenir. Lorsqu'un tel conflit se déclenche, l'objet effectue un test de Charisme opposé à un test de Charisme du porteur. Si l'objet sort vainqueur de cette opposition, il fait part d'une ou plusieurs des exigences suivantes :</p><ul><li>L'objet insiste pour être équipé ou porté à tout moment.</li><li>L'objet exige que son porteur se débarrasse de tout ce que l'objet trouve répugnant.</li><li>L'objet exige que son porteur se consacre à ses objectifs à l'exclusion de toute autre considération.</li><li>L'objet exige d'être donné à quelqu'un d'autre.</li></ul><p>Si son porteur refuse de se conformer aux souhaits de l'objet, celui-ci entreprend tout ou partie des actions suivantes :</p><ul><li>Rendre impossible l'harmonisation avec son porteur.</li><li>Réprimer une ou plusieurs de ses propriétés activées.</li><li>Tenter de prendre le contrôle de son porteur.</li></ul><p>Quand un objet intelligent tente de prendre le contrôle de son porteur, ce dernier effectue un jet de sauvegarde de Charisme dont le DD est égal à 12 + le modificateur de Charisme de l'objet. En cas d'échec, le porteur est charmé par l'objet pendant 1d12 heures. Tant qu'il est ainsi charmé, le porteur s'efforce d'obéir aux instructions de l'objet. Si le porteur subit des dégâts, il peut réitérer le jet de sauvegarde et met un terme à l'effet en cas de réussite. Que la tentative de contrôle de son porteur réussisse ou échoue, l'objet ne peut plus réutiliser ce pouvoir avant l'aube suivante.</p>"
                 },
                 "Size": {
-                    "name": "",
-                    "text": ""
+                    "name": "Catégorie de taille",
+                    "text": "<p>Une créature ou un objet appartient à une catégorie de taille parmi celles ci-dessous : très petite (taille TP), petite (taille P), moyenne (taille M), grande (taille G), très grande (taille TG) ou gigantesque (taille Gig). La catégorie de taille d'une créature détermine l'espace qu'elle occupe en combat. La taille d'un objet détermine ses points de vie.</p><table><caption>Tailles et espaces des créatures</caption><thead><tr><th><p>Cat. de taille</p></th><th><p>Espace (mètres)</p></th><th><p>Espace (cases)</p></th></tr></thead><tbody><tr><td><p>Très petite (TP)</p></td><td><p>75 cm de côté</p></td><td><p>4 par case</p></td></tr><tr><td><p>Petite (P)</p></td><td><p>1,50 m de côté</p></td><td><p>1 case</p></td></tr><tr><td><p>Moyenne (M)</p></td><td><p>1,50 m de côté</p></td><td><p>1 case</p></td></tr><tr><td><p>Grande (G)</p></td><td><p>3 m de côté</p></td><td><p>4 cases (2 sur 2)</p></td></tr><tr><td><p>Très grande (TG)</p></td><td><p>4,50 m de côté</p></td><td><p>9 cases (3 sur 3)</p></td></tr><tr><td><p>Gigantesque (Gig)</p></td><td><p>6 m de côté</p></td><td><p>16 cases (4 sur 4)</p></td></tr></tbody></table>"
                 },
                 "Modifying Creatures (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Modifier des créatures (2014)",
+                    "text": "<p>Malgré la pléthore de monstres qu'offrent ces pages, vous risquez d'être pris au dépourvu lorsqu'il vous faudra trouver la créature idéale pour un épisode de votre aventure. N'hésitez pas à ajuster une créature existante pour qu'elle serve plus directement vos desseins, en empruntant par exemple un trait à un autre monstre ou en recourant à une <strong>variante</strong> ou un <strong>archétype</strong>, comme ces pages en proposent. N'oubliez pas que la modification d'un monstre, notamment si vous y appliquez un archétype, risque d'influer sur son facteur de puissance.</p>"
                 },
                 "Type": {
-                    "name": "",
-                    "text": ""
+                    "name": "Type",
+                    "text": "<p>Toutes les créatures, y compris les personnages joueurs, sont associées à un type, catégorie propre au jeu. La plupart des personnages joueurs sont de type Humanoïde. Voici les types de créature du jeu :</p><ul><li><p>Aberration</p></li><li><p>Artificiel</p></li><li><p>Bête</p></li><li><p>Céleste</p></li><li><p>Dragon</p></li><li><p>Élémentaire</p></li><li><p>Fée</p></li><li><p>Fiélon</p></li><li><p>Géant</p></li><li><p>Humanoïde</p></li><li><p>Monstruosité</p></li><li><p>Mort-vivant</p></li><li><p>Plante</p></li><li><p>Vase</p></li></ul><p>Les types n'ont pas de règle en soi, mais certains éléments techniques du jeu affectent distinctement les créatures de types différents.</p>"
                 },
                 "Aberrations (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Aberrations (2014)",
+                    "text": "<p>Les <strong>aberrations</strong> sont des êtres étranges d'outre-monde. Nombre d'entre elles sont dotées de pouvoirs magiques qu'elles tirent de leur esprit insondable et non de quelque force mystique de ce monde. Les aberrations les plus emblématiques restent les aboleths, les flagelleurs mentaux, les slaads et les tyrannœils.</p>"
                 },
                 "Beasts (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Bêtes (2014)",
+                    "text": "<p>Les <strong>bêtes</strong> sont des créatures non humanoïdes qui font partie intégrante de l'écologie naturelle du monde imaginaire. Certaines disposent de pouvoirs magiques, mais l'intelligence de la plupart est très limitée et les concepts de société et de langue leur sont étrangers. On retrouve dans cette catégorie toutes les variétés animales courantes, ainsi que les versions géantes de certains de ces mêmes animaux et les dinosaures.</p>"
                 },
                 "Celestials (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Célestes (2014)",
+                    "text": "<p>Les <strong>célestes</strong> sont des créatures originaires des Plans Supérieurs. Beaucoup servent des divinités comme messagers ou agents dans les royaumes des mortels et à travers les plans. Les célestes sont bons par nature, si bien que les quelques individus qui s'éloignent de cet alignement constituent une rareté terrifiante. Cette catégorie comprend les anges, les couatls et les pégases.</p>"
                 },
                 "Constructs (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Artificiels (2014)",
+                    "text": "<p>Les <strong>artificiels</strong> ne naissent pas, on les fabrique. Certains sont programmés par leur créateur pour suivre un ensemble d'instructions rudimentaires, d'autres sont investis d'une forme de conscience et même de libre arbitre. Les golems restent les artificiels par excellence. De nombreuses créatures issues du Plan Extérieur de Méchanus, comme les modrons, sont des artificiels façonnés dans la matière brute de cette dimension par la volonté d'entités plus puissantes.</p>"
                 },
                 "Dragons (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons (2014)",
+                    "text": "<p>Les <strong>dragons</strong> sont d'imposantes créatures reptiliennes d'origine très ancienne, dotées d'un pouvoir incommensurable. Les dragons véritables, notamment les bienveillants dragons métalliques et les maléfiques dragons chromatiques, font preuve d'une intelligence supérieure et manipulent une magie innée. Cette catégorie comprend en outre des créatures cousines des dragons véritables, moins puissantes, moins intelligentes et moins magiques, telles que les vouivres et les pseudodragons.</p>"
                 },
                 "Elementals (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Élémentaires (2014)",
+                    "text": "<p>Les <strong>élémentaires</strong> sont issus des Plans Élémentaires. Certaines créatures de ce type ne sont que des masses animées d'un élément donné, notamment celles qu'on appelle tout simplement élémentaires. D'autres ont bien une structure biologique, imprégnée d'énergies élémentaires. Les variétés de génies, notamment les djinns et les éfrits, constituent les civilisations majeures des Plans Élémentaires. Les azers et les traqueurs invisibles sont aussi des élémentaires.</p>"
                 },
                 "Fey (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Fées (2014)",
+                    "text": "<p>Les <strong>fées</strong>, créatures magiques, restent intimement liées aux forces de la nature. Elles vivent au sein de bosquets crépusculaires et de forêts embrumées. En certains mondes, elles incarnent la Féerie, également appelée Plan Féerique. On en croise parfois sur les Plans Extérieurs, notamment en Arborée et sur les Terres des bêtes. Les dryades, pixies et satyres sont des fées.</p>"
                 },
                 "Fiends (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Fiélons (2014)",
+                    "text": "<p>Les <strong>fiélons</strong>, créatures malveillantes, sont originaires des Plans Inférieurs. Quelques-uns servent des divinités, mais la plupart triment sous le joug des archidiables et des princes démons. Les prêtres et mages maléfiques convoquent parfois des fiélons sur le monde matériel pour les soumettre à leur volonté. Si un céleste mauvais constitue une rareté, un fiélon bon demeure pratiquement inconcevable. Les démons, les diables, les molosses infernaux, les rakshasas et les yugoloths sont des fiélons.</p>"
                 },
                 "Giants (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Géants (2014)",
+                    "text": "<p>Les <strong>géants</strong> dominent les humains et autres humanoïdes de toute leur taille. Ils présentent une silhouette anthropomorphe, même si certains sont dotés de plusieurs têtes (ettins) ou de difformités (fomoires). On compte six variétés de géants véritables, à savoir les géants des collines, les géants des pierres, les géants du givre, les géants du feu, les géants des nuages et les géants des tempêtes. Des créatures telles que l'ogre et le troll entrent elles aussi dans la famille des géants.</p>"
                 },
                 "Humanoids (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Humanoïdes (2014)",
+                    "text": "<p>Les <strong>humanoïdes</strong> composent la population la plus vaste du monde de jeu, aussi bien le monde civilisé que le monde sauvage. La catégorie comprend les humains et une impressionnante variété d'autres espèces. Ces créatures bipèdes ont une langue et une culture, parfois des pouvoirs magiques innés (la plupart des humanoïdes ayant en outre la possibilité d'apprendre à lancer des sorts). Les espèces humanoïdes les plus courantes sont les plus adaptées pour les personnages joueurs : humains, elfes, halfelins et nains. Tout aussi nombreuses quoique bien plus sauvages et sanguinaires, et presque toujours malveillantes, sont les races des gobelinoïdes (gobelins, hobgobelins et gobelours), les orcs, les gnolls, les saurials et les kobolds.</p>"
                 },
                 "Monstrosities (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Monstruosités (2014)",
+                    "text": "<p>Les <strong>monstruosités</strong> sont des monstres au sens strict du terme ; des créatures effroyables qui n'ont rien d'ordinaire de naturel ou d'inoffensif. Certaines résultent d'expériences magiques qui ont mal tourné (c'est le cas des hibours), d'autres sont le fruit de terribles malédictions (notamment les minotaures et les yuan-tis). Il est vain d'en définir les caractéristiques communes, la catégorie servant surtout à rassembler toutes les créatures qui ne correspondent pas à un autre type.</p>"
                 },
                 "Oozes (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vases (2014)",
+                    "text": "<p>Les <strong>vases</strong>, créatures visqueuses, présentent rarement une forme fixe. La plupart vivent sous terre, dans les grottes et donjons, et se nourrissent d'ordures, de charognes et des infortunés qui croisent leur route. Le pouding noir et le cube gélatineux figurent parmi les vases les plus typiques.</p>"
                 },
                 "Plants (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Plantes (2014)",
+                    "text": "<p>Les <strong>plantes</strong>, dans ce contexte, sont des créatures végétales et non de simples spécimens de flore. La plupart sont aptes à se mouvoir et certaines sont carnivores. Le tertre errant et le sylvanien restent les plantes les plus emblématiques. Les créatures fongiques comme la spore gazeuse ou le myconide entrent aussi dans cette catégorie.</p>"
                 },
                 "Undead (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Morts-vivants (2014)",
+                    "text": "<p>Les <strong>morts-vivants</strong> sont des créatures jadis vivantes qu'une magie nécromantique ou quelque malédiction impie a plongées dans cet effroyable semblant d'existence que l'on appelle « non-vie ». La catégorie comprend les cadavres ambulants comme les vampires et les zombis, mais aussi les esprits désincarnés comme les fantômes et les spectres.</p>"
                 },
                 "Tags (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sous-types (2014)",
+                    "text": "<p>Certains monstres sont dotés d'un ou plusieurs sous-types associés à leur type, entre parenthèses. L'orc présente par exemple le type <em>humanoïde (orc)</em>. Le mot-clé entre parenthèses permet de catégoriser davantage certaines créatures. Aucune règle intrinsèque ne s'applique à ces sous-types mais il arrive qu'un élément du jeu, comme un objet magique, y fasse référence. Ainsi une lance particulièrement efficace contre les démons brillera-t-elle face à un monstre présentant le sous-type « démon ».</p>"
                 },
                 "Alignment": {
-                    "name": "",
+                    "name": "Alignement",
                     "text": ""
                 },
                 "0Dgs9HZmRIFKVeca": {
-                    "name": "",
-                    "text": ""
+                    "name": "Classe d'armure",
+                    "text": "<p>La classe d'armure (CA) est le nombre à atteindre dans le cadre d'un jet d'attaque. La CA figure le degré de difficulté pour toucher une cible.</p><p>Votre CA de base est égale à 10 + votre modificateur de Dextérité. Si une règle vous octroie un autre mode de calcul de la CA de base, c'est vous qui choisissez quelle formule de calcul employer ; vous ne pouvez pas en utiliser plus d'une à la fois.</p>"
                 },
                 "DOKv3OuN2jzjOnX8": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vitesse",
+                    "text": "<p>Chaque créature dispose d'une Vitesse, expression de la distance en mètres qu'elle peut parcourir en se déplaçant pendant son tour. <em>Lire aussi</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.a4CjDIEMeSbRaEjA]{Escalade}, @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.53c9JMqckHagYYB5]{Nage}, @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.zRZl7vdjzjqpazxn]{Reptation}, @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.aaJOlRhI1H6vAxt9]{Saut}, @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.ozHhbP8JVHCJAx0b]{Vol}.</p><h3>Escalade</h3><p>Une Vitesse d'escalade peut remplacer la Vitesse pour traverser une surface verticale sans avoir à dépenser le déplacement supplémentaire ordinairement associé à l'escalade.</p><h3>Fouissement</h3><p>Une créature dotée d'une Vitesse de fouissement peut profiter de cette Vitesse pour se mouvoir dans le sable, la terre, la boue ou la glace. La créature ne peut pas évoluer dans le roc, sauf si elle dispose d'un trait spécial qui lui permet de le faire.</p><h3>Nage</h3><p>Une Vitesse de nage permet de nager sans la dépense de déplacement supplémentaire ordinairement associée à la nage.</p><h3>Vol</h3><p>Une Vitesse de vol permet de se déplacer dans les airs. Tant que vous disposez d'une Vitesse de vol, vous restez en l'air jusqu'à ce que vous vous posiez, tombiez ou mouriez.</p>"
                 },
                 "Ability Scores": {
-                    "name": "",
-                    "text": ""
+                    "name": "Valeurs de caractéristique",
+                    "text": "<p>Toute créature dispose de six valeurs de caractéristique : Force, Dextérité, Constitution, Intelligence, Sagesse et Charisme, chacune dotée du modificateur correspondant. Ajoutez ce modificateur lorsque vous effectuez un &Reference[D20 Test] s'appuyant sur la caractéristique correspondante ou lorsqu'une règle vous demande de le faire.</p><p>Une table fournit les valeurs et modificateurs de caractéristique du monstre, et ses modificateurs de jet de sauvegarde, éléments détaillés au chapitre 1.</p>"
                 },
                 "AoykthgwEP3T0XsL": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jets de sauvegarde",
+                    "text": "<p>Un jet de sauvegarde, ou JS en abrégé, représente une tentative d'échapper à une menace ou d'y résister. Vous n'effectuez en temps normal un jet de sauvegarde que lorsqu'une règle vous y contraint, mais vous pouvez décider de rater ce JS sans faire de jet. Le résultat d'un JS est détaillé dans l'effet qui l'a provoqué. Si une cible contrainte d'effectuer un JS ne dispose pas de la valeur de caractéristique associée, elle échoue automatiquement.</p>"
                 },
                 "Skills": {
-                    "name": "",
-                    "text": ""
+                    "name": "Compétences",
+                    "text": "<p>Cette entrée dresse la liste des éventuelles maîtrises de compétence du monstre.</p>"
                 },
                 "Vulnerabilities, Resistances, and Immunities": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vulnérabilités, Résistances et Immunités",
+                    "text": "<p>Si vous présentez une <strong>Vulnérabilité</strong> à un type de dégâts, ils sont doublés contre vous. La Vulnérabilité ne s'applique qu'une seule fois à des dégâts donnés.</p><p>Si vous bénéficiez de la <strong>Résistance</strong> à un type de dégâts, ces dégâts sont réduits de moitié contre vous. La Résistance ne s'applique qu'une seule fois à des dégâts donnés.</p><p>Si vous bénéficiez de l'<strong>Immunité </strong> contre un type de dégâts ou un état, celui-ci ne vous affecte en aucune manière.</p>"
                 },
                 "Senses": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sens",
+                    "text": "<p>Cette entrée indique les sens spéciaux du monstre, comme la Vision dans le noir, ainsi que sa valeur de Perception passive.</p><h3>Vision aveugle</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.tdtmXZbUIOZGSnKT inline]</p><h3>Vision dans le noir</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.7vQ1hLQ5fS6SSUqF inline]</p><h3>Perception des vibrations</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.r64UrNusMhwJVnxb inline]</p><h3>Vision lucide</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.be7g0q1xBAwb8drv inline]</p>"
                 },
                 "Armor, Weapon, and Tool Proficiencies (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Maîtrises d'armure, d'arme et d'outils (2014)",
+                    "text": "<p>Chaque créature dispose normalement de la maîtrise de son armure, de ses armes et de ses outils. Si vous lui octroyez un matériel différent, il vous revient de décider si elle a la maîtrise de ce nouvel équipement.</p><p>Un géant des collines porte généralement une armure de peaux et manie une massue. Vous pourriez équiper un géant des collines d'une cotte de mailles et d'une hache à deux mains, et considérer qu'il a la maîtrise des deux, de l'une ou de l'autre, ou d'aucune.</p><p>Consultez le <em>Manuel des joueurs</em> pour plus de détails sur l'utilisation d'une armure ou d'une arme sans en avoir la maîtrise.</p>"
                 },
                 "Languages": {
-                    "name": "",
-                    "text": ""
+                    "name": "Langues",
+                    "text": "<p>Cette entrée énumère toutes les langues que le monstre comprend et parle.</p><h3>Télépathie</h3><p>@Embed[.geTidcFIYWuUvD2L inline]</p>"
                 },
                 "Telepathy": {
                     "name": "Télépathie",
                     "text": "<p>La télépathie est une faculté magique permettant à un créature de communiquer mentalement avec une autre créature à une portée définie. Pour saisir le sens de cette communication, sauf mention contraire, la créature contactée n'est pas tenue de maîtriser une langue commune avec le télépathe, mais elle doit comprendre au moins une langue ou être elle-même télépathe.</p><p>Le télépathe n'a pas besoin de voir la créature contactée, et peut débuter le contact télépathique ou y mettre un terme à tout moment (pas d'action requise). Le contact télépathique ne peut pas être initié et il est immédiatement rompu si le télépathe ou l'autre créature subit l'état Neutralisé. Le contact télépathique est également rompu dès que la créature contactée quitte la portée de la faculté télépathique, ou que le télépathe contacte une autre créature à portée.</p><p>Une créature non télépathe peut recevoir des messages télépathiques mais elle ne peut pas initier une telle conversation. Dès qu'une conversation télépathique a débuté, le non-télépathe peut communiquer mentalement avec le télépathe jusqu'à ce que la liaison télépathique prenne fin.</p>"
                 },
                 "Challenge": {
-                    "name": "",
-                    "text": ""
+                    "name": "Facteur de puissance",
+                    "text": "<p>Le Facteur de puissance (FP) synthétise la menace que représente un monstre opposé à un groupe de quatre personnages joueurs. Comparez le FP d'un monstre au niveau des personnages. Si son FP est plus élevé, le monstre constitue probablement un danger avéré. Si ce FP est inférieur, le monstre ne doit pas représenter une bien grande menace. Cela étant, les circonstances et le nombre de personnages joueurs peuvent modifier considérablement le niveau de menace d'un monstre en conditions de jeu « réelles ». Le <em>Guide du maître</em> fournit des conseils au MD sur l'utilisation du FP pour la préparation de rencontres de combat.</p><h3>Points d'expérience</h3><p>@Embed[.cNflBe0pZX8eAFB4 inline]</p>"
                 },
                 "Experience Points": {
-                    "name": "",
+                    "name": "Points d'expérience",
                     "text": ""
                 },
                 "Special Traits (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Traits spéciaux (2014)",
+                    "text": "<p>Les traits spéciaux (qui apparaissent après le facteur de puissance du monstre, mais avant toutes ses actions et réactions) sont des particularités susceptibles d'intervenir en combat, qui demandent quelques précisions.</p><h3>Sorts innés</h3><p>@Embed[.pyo2jnYvavIGyg0s inline]</p><h3>Sorts</h3><p>@Embed[.LrDxITNV8raUt37y inline]</p><h3>Psionique</h3><p>@Embed[.LLLopR0IZOleE1xT inline]</p>"
                 },
                 "Innate Spellcasting (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sorts innés (2014)",
+                    "text": "<p>Un monstre doté de la faculté innée de lancer des sorts dispose du trait Sorts innés. Sauf mention contraire, un sort inné du 1<sup>er</sup> niveau ou supérieur est toujours lancé au niveau le plus faible possible et ne peut être jeté à un niveau supérieur. Quand un monstre dispose d'un sort mineur et que vous avez besoin de connaître son niveau alors qu'il n'est pas indiqué, reprenez son facteur de puissance.</p><p>Un sort inné s'accompagne parfois de règles spéciales ou de restrictions. Ainsi un mage drow peut-il lancer @UUID[Compendium.dnd5e.spells.Item.MRxldJd6C4bsBo3O]{lévitation} de manière innée, mais avec la restriction « soi-même uniquement », qui indique que le sort ne peut affecter que lui.</p><p>Les sorts innés d'un monstre ne peuvent pas s'échanger avec d'autres sorts. Quand aucun sort inné d'un monstre ne passe par des jets d'attaque, le bonus d'attaque de ces sorts n'est pas indiqué.</p>"
                 },
                 "Spellcasting (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sorts (2014)",
+                    "text": "<p>Un monstre doté du trait spécial Sorts est doté d'un niveau d'incantateur et d'emplacements de sort qu'il dépense pour lancer ses sorts du 1<sup>er</sup> niveau et plus (comme expliqué dans le <em>Manuel des joueurs</em>). Le niveau d'incantateur sert également pour tout sort mineur accompagnant cette aptitude.</p><p>Le monstre dispose d'une liste de sorts connus ou préparés, tirée d'une classe donnée. La liste compte parfois des sorts issus d'une aptitude de cette classe, comme le @UUID[Compendium.dnd5e.classfeatures.Item.x637K2Icp2ZFM1TB]{Domaine divin} du clerc ou le @UUID[Compendium.dnd5e.classfeatures.Item.u6Du2P9s81SWuGbi]{Cercle druidique} du druide. Le monstre est considéré comme membre de cette classe dans le cadre de l'utilisation ou de l'harmonisation avec un objet magique nécessitant d'appartenir à une classe ou d'avoir accès à sa liste de sorts.</p><p>Un monstre peut lancer un sort de sa liste à un niveau supérieur s'il dispose d'emplacements pour ce faire. Un mage drow doté du sort du 3<sup>e</sup> niveau @UUID[Compendium.dnd5e.spells.Item.IyikgTEOTv701jgQ]{éclair} peut par exemple le lancer au 5<sup>e</sup> niveau en dépensant l'un de ses emplacements de sort du 5<sup>e</sup> niveau.</p><p>Vous pouvez modifier les sorts connus ou préparés d'un monstre, en veillant chaque fois à les remplacer par des sorts de niveau équivalent et issus de la même liste de classe. Ce faisant, la menace qu'il représente pourrait s'avérer supérieure ou inférieure à ce que laisse présager son facteur de puissance.</p>"
                 },
                 "Psionics (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Psionique (2014)",
+                    "text": "<p>Un monstre qui ne lance ses sorts qu'en comptant sur sa puissance psychique ajoute le mot-clé « psionique » à son trait Sorts ou Sorts innés. Cette mention ne s'accompagne d'aucune règle intrinsèque, mais d'autres éléments du jeu peuvent s'y référer. En général, un monstre qui présente ce mot-clé n'a besoin d'aucune composante pour lancer ses sorts.</p>"
                 },
                 "Actions": {
-                    "name": "",
-                    "text": ""
+                    "name": "Actions",
+                    "text": "<p>Le monstre peut entreprendre ces actions en plus de celles détaillées dans le présent glossaire.</p><h3>Attaques de corps à corps et à distance</h3><p>@Embed[.kwj04a1za8L4cqPw inline]</p>"
                 },
                 "Melee and Ranged Attacks": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attaques de corps à corps et à distance",
+                    "text": "<p>La section consacrée aux attaques d'un monstre commence par identifier si l'attaque est une attaque à distance ou au corps à corps, puis fournit le bonus au jet d'attaque, sa portée ou son allonge, et ce qui se produit si l'attaque touche. Une attaque est dirigée contre une seule cible, sauf mention contraire.</p>"
                 },
                 "Multiattack (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attaques multiples (2014)",
+                    "text": "<p>Une créature qui peut effectuer plus d'une attaque à son tour est dotée de l'action Attaques multiples. Elle ne peut pas recourir à Attaques multiples dans le cadre d'une attaque d'opportunité, qui ne peut être qu'une attaque de corps à corps unique.</p>"
                 },
                 "Ammunition (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Munitions (2014)",
+                    "text": "<p>Un monstre transporte assez de munitions pour ses attaques à distance. Partez du principe qu'il dispose de 2d4 projectiles pour ses attaques d'arme de lancer, et de 2d10 projectiles pour des armes à munitions comme l'arc ou l'arbalète.</p>"
                 },
                 "Ms00uWg0w77sWI4C": {
-                    "name": "",
-                    "text": ""
+                    "name": "Réactions",
+                    "text": "<p>Si le monstre dispose de Réactions spéciales, celles-ci figurent dans cette section.</p>"
                 },
                 "Limited Usage (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Usage limité (2014)",
+                    "text": "<p>Certaines aptitudes spéciales ne peuvent pas être employées à volonté.</p><p>@Embed[.GOlh1UMmEIjEQcSE inline]</p><p>@Embed[.NmdLIJPXEMZIWWQa inline]</p><p>@Embed[.saRwXXdZ2trLoGHZ inline]</p>"
                 },
                 "X/Day (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "X/jour (2014)",
+                    "text": "<p><em><strong>X/jour.</strong></em> La notation « X/jour » signifie que l'aptitude spéciale peut être utilisée un certain nombre de fois, après quoi la créature doit terminer un repos long pour récupérer ce quota. Ainsi, « 1/jour » indique une capacité spéciale qui ne peut servir qu'une fois, après quoi le monstre doit terminer un repos long pour pouvoir la réutiliser.</p>"
                 },
                 "Recharge X–Y (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Recharge X–Y (2014)",
+                    "text": "<p><em><strong>Recharge X–Y.</strong></em> Cette notation indique que le monstre peut utiliser une fois l'aptitude en question, qui a ensuite une chance de se recharger à chaque round de combat suivant. Au début de chacun des tours de la créature, lancez un d6. Si le jet est l'un des nombres compris dans l'intervalle de la notation, le monstre récupère son utilisation de l'aptitude spéciale. L'aptitude se recharge également quand la créature termine un repos court ou long.</p><p>Ainsi, « recharge 5–6 » indique que le monstre peut utiliser une fois cette aptitude. Après quoi, il lance un d6 au début de chacun de ses tours, jusqu'à ce qu'il obtienne un 5 ou un 6 indiquant qu'il peut à nouveau utiliser l'aptitude.</p>"
                 },
                 "Recharge after a Short or Long Rest (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Recharge après un repos court ou long (2014)",
+                    "text": "<p><em><strong>Recharge après un repos court ou long.</strong></em> Cette notation indique que le monstre peut recourir une fois à l'aptitude spéciale, après quoi il doit terminer un repos court ou long pour pouvoir la réutiliser.</p>"
                 },
                 "Grapple Rules for Monsters (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Règles de lutte pour les monstres (2014)",
+                    "text": "<p>De nombreux monstres sont dotés d'attaques spéciales leur permettant de rapidement agripper leur proie. Quand un monstre touche sa cible avec une telle attaque, il n'a pas besoin d'effectuer d'autre test de caractéristique pour savoir s'il parvient à agripper sa cible, sauf mention contraire.</p><p>Une créature agrippée par le monstre peut consacrer son action à tenter de se libérer. Pour ce faire, elle doit réussir un test de Dextérité (Acrobaties) ou de Force (Athlétisme) assorti du DD d'évasion indiqué dans le profil du monstre. Si ce DD n'est pas indiqué, considérez qu'il est égal à 10 + le modificateur de Force (Athlétisme) du monstre.</p>"
                 },
                 "Legendary Actions (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Actions légendaires (2014)",
+                    "text": "<p>Une créature légendaire peut entreprendre un certain nombre d'actions spéciales, appelées actions légendaires, en dehors de ses tours. Une seule option légendaire peut être utilisée à la fois, et uniquement à la fin du tour d'une autre créature. Une créature récupère les actions légendaires dépensées au début de son tour. Elle n'est pas tenue d'y recourir et ne peut s'en servir si elle est neutralisée ou incapable d'entreprendre une action. Si elle est surprise, elle doit attendre que son premier tour de combat soit passé pour y recourir.</p>"
                 },
                 "A Legendary Creature's Lair (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "L'antre d'une créature légendaire (2014)",
+                    "text": "<p>Certaines créatures légendaires présentent une section qui décrit leur antre et les effets spéciaux qu'elles peuvent y produire, par leur seule volonté ou leur seule présence. Une telle section ne concerne que les créatures légendaires qui passent beaucoup de temps dans leur antre.</p><h4>Actions d'antre</h4><p>@Embed[.07PtjpMxiRIhkBEp inline]</p><h4>Effets régionaux</h4><p>@Embed[.uj8W27NKFyzygPUd inline]</p>"
                 },
                 "Lair Actions (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Actions d'antre (2014)",
+                    "text": "<p>Quand une créature légendaire dispose d'actions d'antre, elle peut s'en servir pour contrôler la magie ambiante de sa tanière. Au rang d'initiative 20 (elle perd en cas d'égalité), la créature entreprend une action d'antre pour produire l'un des effets correspondants. Elle ne peut s'en servir si elle est neutralisée ou incapable d'entreprendre une action. Si elle est surprise, elle doit attendre que son premier tour de combat soit passé pour y recourir.</p>"
                 },
                 "Regional Effects (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Effets régionaux (2014)",
+                    "text": "<p>La seule présence d'une créature légendaire peut engendrer d'étranges et merveilleux effets sur l'environnement, comme noté dans cette section. Certains effets régionaux prennent subitement fin, d'autres se dissipent progressivement quand la créature légendaire meurt.</p>"
                 },
                 "Equipment": {
-                    "name": "",
-                    "text": ""
+                    "name": "Équipement",
+                    "text": "<p>Si le monstre possède un équipement qui peut être donné ou récupéré, il figure dans cette rubrique.</p>"
                 },
                 "Spell Scroll": {
-                    "name": "",
-                    "text": ""
+                    "name": "Parchemin de sort",
+                    "text": "<p>Un <parchemin de sort</em> renferme la formule d'un sort unique, rédigée dans un code ésotérique. Si ce sort figure dans votre liste de sorts, vous pouvez lire le parchemin pour en lancer le sort sans composantes matérielles. Sans cela, le parchemin reste illisible. Lancer le sort par le biais du parchemin requiert le temps d'incantation normal. Une fois le sort lancé, le parchemin tombe en poussière. Si l'incantation est interrompue, le parchemin n'est pas perdu.</p><p>Si le sort figure bien dans votre liste, mais qu'il est d'un niveau supérieur à ce que vous pouvez normalement lancer, vous effectuez un test de caractéristique avec votre caractéristique d'incantation pour savoir si vous parvenez à le lancer. Le DD est égal à 10 + le niveau du sort. En cas d'échec, le sort s'efface du parchemin et il ne se passe rien d'autre.</p><p>Le niveau du sort inscrit sur un parchemin détermine le DD de sauvegarde et le bonus d'attaque associés, ainsi que la rareté du parchemin, comme indiqué sur la table suivante.</p><table><thead><tr><th><p>Niveau du sort</p></th><th><p>Rareté</p></th><th><p>DD de sauvegarde</p></th><th><p>Bonus à l'attaque</p></th></tr></thead><tbody><tr><td><p>Sort mineur</p></td><td><p>Courant</p></td><td><p>13</p></td><td><p>+5</p></td></tr><tr><td><p>1<sup>er</sup></p></td><td><p>Courant</p></td><td><p>13</p></td><td><p>+5</p></td></tr><tr><td><p>2<sup>e</sup></p></td><td><p>Peu courant</p></td><td><p>13</p></td><td><p>+5</p></td></tr><tr><td><p>3<sup>e</sup></p></td><td><p>Peu courant</p></td><td><p>15</p></td><td><p>+7</p></td></tr><tr><td><p>4<sup>e</sup></p></td><td><p>Rare</p></td><td><p>15</p></td><td><p>+7</p></td></tr><tr><td><p>5<sup>e</sup></p></td><td><p>Rare</p></td><td><p>17</p></td><td><p>+9</p></td></tr><tr><td><p>6<sup>e</sup></p></td><td><p>Très rare</p></td><td><p>17</p></td><td><p>+9</p></td></tr><tr><td><p>7<sup>e</sup></p></td><td><p>Très rare</p></td><td><p>18</p></td><td><p>+10</p></td></tr><tr><td><p>8<sup>e</sup></p></td><td><p>Très rare</p></td><td><p>18</p></td><td><p>+10</p></td></tr><tr><td><p>9<sup>e</sup></p></td><td><p>Légendaire</p></td><td><p>19</p></td><td><p>+11</p></td></tr></tbody></table><p><em><strong>Copier un parchemin dans un grimoire.</strong></em> Un sort de Magicien inscrit sur un <em>parchemin de sort</em> peut être copié dans un grimoire. Pour ce faire, le copiste doit réussir un test d'Intelligence (Arcanes) assorti d'un DD égal à 10 + le niveau du sort. En cas de réussite, le sort est copié. Que ce test réussisse ou échoue, le <em>parchemin de sort</em> est détruit.</p>"
                 },
                 "Diseases (2014)": {
-                    "name": "",
-                    "text": "",
-                    "tooltip": ""
+                    "name": "Maladies (2014)",
+                    "text": "<p>Une épidémie ravage un royaume, décidant de la nouvelle mission des aventuriers : trouver un remède. Une aventurière émerge d’un tombeau d’un autre âge, condamné depuis des siècles, pour rapidement s’apercevoir qu’elle souffre d’un mal dévastateur. Un occultiste froisse une puissance ténébreuse et contracte une étrange maladie qui se propage chaque fois qu’il lance un sort.</p><p> Quand une affection se déclare au sein du groupe, elle n’a généralement qu’un impact limité sur ses ressources et ne résiste pas à une @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restauration partielle}. Il arrive que des maux plus coriaces constituent la base d’une ou plusieurs aventures et obligent les héros à trouver un remède, à juguler le développement de l’épidémie et à en affronter les conséquences.</p><p>Une maladie qui ne se limite pas à infecter quelques membres du groupe est avant tout un ressort narratif. Les règles vous permettent d’en décrire les effets et de définir comment la guérir, mais ne gèrent pas en bloc les spécificités propres à chaque maladie. Une maladie peut ne s’adresser qu’à une certaine catégorie de créatures et ne pas se transmettre aux autres, ou au contraire s’avérer plus universelle dans sa virulence. Telle épidémie pourrait ne concerner que les artificiels ou les morts-vivants, telle autre balayer tous les halfelins d’une ville sans même menacer les autres espèces. L’histoire que vous souhaitez narrer prime sur le reste.</p>",
+                    "tooltip": "<p>Une maladie qui ne se limite pas à infecter quelques membres du groupe est avant tout un ressort narratif. Les règles vous permettent d’en décrire les effets et de définir comment la guérir, mais ne gèrent pas en bloc les spécificités propres à chaque maladie. Une maladie peut ne s’adresser qu’à une certaine catégorie de créatures et ne pas se transmettre aux autres, ou au contraire s’avérer plus universelle dans sa virulence. Telle épidémie pourrait ne concerner que les artificiels ou les morts-vivants, telle autre balayer tous les halfelins d’une ville sans même menacer les autres espèces. L’histoire que vous souhaitez narrer prime sur le reste.</p>"
                 },
                 "Strength Saving Throw": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jet de sauvegarde de Force",
+                    "text": "<p>Effectuez un jet de sauvegarde de Force pour vous opposer à une force physique.</p>"
                 },
                 "Variant: Encumbrance (2014)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Variante : Encombrement (2014)",
+                    "text": "<p>Les règles de charge restent simples, à dessein. Voici une variante pour les joueurs qui souhaitent plus de précision dans la gestion de l'équipement et du fardeau qu'il peut représenter pour un personnage. Si vous recourez à cette variante, ne tenez pas compte de la colonne « Force » de la table « Armures ».</p><p>@Embed[.Ur7xWFlpVK5X8ueP inline]</p><p>@Embed[.RhVgQfF29CyStS22 inline]</p>"
                 },
                 "Charisma Saving Throw": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jet de sauvegarde de Charisme",
+                    "text": "<p>Effectuez un jet de sauvegarde de Charisme pour affirmer votre identité.</p>"
                 },
                 "Wisdom Saving Throw": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jet de sauvegarde de Sagesse",
+                    "text": "<p>Effectuez un jet de sauvegarde de Sagesse pour résister à un assaut mental.</p>"
                 },
                 "Intelligence Saving Throw": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jet de sauvegarde d'Intelligence",
+                    "text": "<p>Effectuez un jet de sauvegarde d'Intelligence pour percer une illusion.</p>"
                 },
                 "Constitution Saving Throw": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jet de sauvegarde de Constitution",
+                    "text": "<p>Effectuez un jet de sauvegarde de Constitution pour supporter un danger toxique.</p>"
                 },
                 "Dexterity Saving Throw": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jet de sauvegarde de Dextérité",
+                    "text": "<p>Effectuez un jet de sauvegarde de Dextérité pour esquiver un danger physique.</p>"
                 },
                 "Attacks Rolls and Damage": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jets d'attaque et de dégâts",
+                    "text": "<p>Vous ajoutez votre modificateur de Force à vos jets d’attaque et vos jets de dégâts lorsque vous attaquez avec une arme de corps à corps, telle qu’une masse d’armes, une hache d’armes ou une javeline. Les armes de corps à corps interviennent en combat rapproché (attaques de corps à corps), certaines pouvant également se lancer (attaques à distance).</p>"
                 },
                 "Fast Travel Pace": {
                     "name": "Allure de voyage rapide",
@@ -1651,28 +1651,28 @@
                     "text": "<p>Si vous touchez une créature avec un jet d'attaque de corps à corps avec cette arme, vous pouvez effectuer un jet d'attaque de corps à corps avec cette arme contre une deuxième créature située dans un rayon de 1,50 m de la première, et qui est elle aussi à votre portée. Si l'attaque touche, la deuxième créature subit les dégâts de l'arme, mais sans ajouter votre modificateur de caractéristique à ces dégâts, sauf si ce modificateur est négatif. Vous ne pouvez effectuer cette attaque supplémentaire qu'une seule fois par tour.</p>"
                 },
                 "Life Domain Spells": {
-                    "name": ""
+                    "name": "Sorts du Domaine de la Vie"
                 },
                 "Circle of the Land, Arid Spells": {
-                    "name": ""
+                    "name": "Cercle de la Terre, sorts arides"
                 },
                 "Circle of the Land, Polar Spells": {
-                    "name": ""
+                    "name": "Cercle de la Terre, sorts polaires"
                 },
                 "Circle of the Land, Temperate Spells": {
-                    "name": ""
+                    "name": "Cercle de la Terre, sorts tempérés"
                 },
                 "Circle of the Land, Tropical Spells": {
-                    "name": ""
+                    "name": "Cercle de la Terre, sorts tropicals"
                 },
                 "Oath of Devotion Spells": {
-                    "name": ""
+                    "name": "Sorts du Serment de Dévotion"
                 },
                 "Draconic Spells": {
-                    "name": ""
+                    "name": "Sorts draconiques"
                 },
                 "Fiend Spells": {
-                    "name": ""
+                    "name": "Sorts du Fiélon"
                 }
             }
         },
@@ -3760,27 +3760,27 @@
             }
         },
         "Rules Glossary": {
-            "name": "",
-            "flagsTitle": "",
+            "name": "Glossaire de règles",
+            "flagsTitle": "Glossaire de règles",
             "pages": {
                 "Lightly Obscured": {
                     "name": "Visibilité réduite",
                     "text": ""
                 },
                 "Heavily Obscured": {
-                    "name": "",
+                    "name": "Visibilité nulle",
                     "text": ""
                 },
                 "Bright Light": {
-                    "name": "",
+                    "name": "Lumière vive",
                     "text": ""
                 },
                 "Dim Light": {
-                    "name": "",
+                    "name": "Lumière faible",
                     "text": ""
                 },
                 "Darkness": {
-                    "name": "",
+                    "name": "Ténèbres",
                     "text": ""
                 },
                 "Blindsight": {
@@ -3796,7 +3796,7 @@
                     "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.r64UrNusMhwJVnxb inline]</p>"
                 },
                 "Truesight": {
-                    "name": "",
+                    "name": "Vision lucide",
                     "text": ""
                 },
                 "Reaction": {
