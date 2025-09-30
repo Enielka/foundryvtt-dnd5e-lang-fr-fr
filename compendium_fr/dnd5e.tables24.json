@@ -5,7 +5,7 @@
         "Creating a Character": "Création de personnage",
         "Item-Specific Tables": "Tables spécifiques aux objets",
         "Magic Items": "Objets magiques",
-        "Monster Details": "",
+        "Monster Details": "Détails du monstre",
         "Mysterious Deck": "",
         "Random Magic Item Rarity by Level": "Rareté aléatoire d'objet magique par niveau",
         "Reincarnated Lineages": "Lignages réincarnés",
@@ -225,78 +225,78 @@
             }
         },
         "Animated Object Catalysts": {
-            "name": "",
-            "description": "",
+            "name": "Catalyseurs d'animation",
+            "description": "<p>L'objet fut anime par…</p>",
             "results": {
                 "acJgzhHHoqefwwk5": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "un Céleste ou un Fiélon qui s'en sert pour protéger ou tourmenter un mortel."
                 },
                 "ADaDD8qHY3jPr8eM": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "un esprit qui en a pris possession."
                 },
                 "gjgFcvAnJ9ZzINDC": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "l'essence d'une personne transformée par une crapule surnaturelle."
                 },
                 "1HJrVrbDBg0GvgEI": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "une Fée, dans le cadre d'un jeu ou de quelque manigance."
                 },
                 "xU1bAMGOw0jj9NFf": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "le hasard, l'objet ayant acquis un semblant de vie après un siècle d'utilisation."
                 },
                 "ystEWN4dQPoovlhO": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "un mage en quête d'un gardien ou d'un serviteur."
                 },
                 "G5nigW46VXX9tJIr": {
                     "range": {
                         "0": 7,
                         "1": 7
                     },
-                    "description": ""
+                    "description": "la magie sauvage, un sort qui a mal tourné ou quelque Artefact chaotique."
                 },
                 "yLEKc6l82p0Z54dX": {
                     "range": {
                         "0": 8,
                         "1": 8
                     },
-                    "description": ""
+                    "description": "un mélange de magie et de technologie, comme l'alchimie ou une science venue d'ailleurs."
                 },
                 "cnri4p7NOw7MIyHH": {
                     "range": {
                         "0": 9,
                         "1": 9
                     },
-                    "description": ""
+                    "description": "la mélodie d'un instrument magique."
                 },
                 "WcGmq4Hq4Fk83Era": {
                     "range": {
                         "0": 10,
                         "1": 10
                     },
-                    "description": ""
+                    "description": "la volonté d'une puissante entité psychique."
                 }
             }
         },
@@ -465,50 +465,50 @@
             }
         },
         "Bandit Motivations": {
-            "name": "",
-            "description": "",
+            "name": "Motivations des bandits",
+            "description": "<p>Le bandit…</p>",
             "results": {
                 "P6HS64jiV1fDBJxh": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "appartient à une bande qui considère tout non-membre comme un ennemi."
                 },
                 "DQeWlsD3jSXWbmzI": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "s'approprie le nécessaire pour survivre."
                 },
                 "IH0BStje8oocjh7M": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "est un ancien soldat abandonné par sa nation, qui s'arroge désormais ce qu'on lui avait promis."
                 },
                 "uuI2anAewavmx8Ls": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "ne s'en prend qu'aux oppresseurs."
                 },
                 "VYJeyMFZbVkCUqsZ": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "sert à contrecœur un chef malfaisant."
                 },
                 "JHScVrRWr1yW7rtJ": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "travaille secrètement pour un gouvernement ou un potentat local afin de semer le chaos."
                 }
             }
         },
@@ -762,200 +762,200 @@
             }
         },
         "Cult Symbols": {
-            "name": "",
+            "name": "Symboles de secte",
             "results": {
                 "eQczyapVgw7ghsTk": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "<strong>Le symbole est</strong> un animal"
                 },
                 "4oIX4xma6hijPwE6": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "<strong>Le symbole est</strong> un corps céleste"
                 },
                 "fcyw9aY2fTv8mrTm": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "<strong>Le symbole est</strong> un crâne"
                 },
                 "gqSsMfDy9DztmaSz": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "<strong>Le symbole est</strong> un élément"
                 },
                 "5zaCTpcKidkYorWk": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "<strong>Le symbole est</strong> une forme géométrique"
                 },
                 "2xAo3aoUEkwxwC3z": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "<strong>Le symbole est</strong> l'icône d'une divinité"
                 },
                 "TFv0puJU2TvwU1OQ": {
                     "range": {
                         "0": 7,
                         "1": 7
                     },
-                    "description": ""
+                    "description": "<strong>Le symbole est</strong> une lettre ou un chiffre"
                 },
                 "M8I7xAjYvyqpA0Wc": {
                     "range": {
                         "0": 8,
                         "1": 8
                     },
-                    "description": ""
+                    "description": "<strong>Le symbole est</strong> un œil"
                 },
                 "gjZxheaidEWJUl9D": {
                     "range": {
                         "0": 9,
                         "1": 9
                     },
-                    "description": ""
+                    "description": "<strong>Le symbole est</strong> une partie de monstre"
                 },
                 "nJYYkFvrhChec7AR": {
                     "range": {
                         "0": 10,
                         "1": 10
                     },
-                    "description": ""
+                    "description": "<strong>Le symbole est</strong> un signe alchimique"
                 }
             }
         },
         "Cult Symbols - Depictions": {
-            "name": "",
+            "name": "Symboles de secte - Illustrations",
             "results": {
                 "t3VojlQ9SYzOjIMv": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "<strong>Illustré par</strong> une arme ou un outil"
                 },
                 "Ylv022xuwXYJrWuR": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "<strong>Illustré par</strong> des armoiries"
                 },
                 "tylGJqzFMxCXO73y": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "<strong>Illustré par</strong> un calendrier ou une carte"
                 },
                 "HbZIvVuVExJA3yIe": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "<strong>Illustré par</strong> un diagramme élaboré"
                 },
                 "lN5FL7K5EX5PXhtn": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "<strong>Illustré par</strong> une entité mystique"
                 },
                 "Zn4AbkPDI5QeQtRO": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "<strong>Illustré par</strong> une image métaphorique"
                 },
                 "2j1BqinU8Kikszlh": {
                     "range": {
                         "0": 7,
                         "1": 7
                     },
-                    "description": ""
+                    "description": "<strong>Illustré par</strong> un motif qui se répète"
                 },
                 "9ohj5XnC7WrKWkba": {
                     "range": {
                         "0": 8,
                         "1": 8
                     },
-                    "description": ""
+                    "description": "<strong>Illustré par</strong> la partie d'une équation"
                 },
                 "uOyVZ4gOm4nevqc6": {
                     "range": {
                         "0": 9,
                         "1": 9
                     },
-                    "description": ""
+                    "description": "<strong>Illustré par</strong> un pictogramme simple"
                 },
                 "xwLKWhviEaJF0bJU": {
                     "range": {
                         "0": 10,
                         "1": 10
                     },
-                    "description": ""
+                    "description": "<strong>Illustré par</strong> une série de hachures"
                 }
             }
         },
         "Cultist Agendas": {
-            "name": "",
-            "description": "",
+            "name": "Grand projet de sectateur",
+            "description": "<p>Le sectateur cherche à…</p>",
             "results": {
                 "UwUlUq22vqaHpJYD": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "brûler les mensonges réconfortants de la réalité afin de révéler au grand jour quelque « vérité » oubliée ou terrifiante."
                 },
                 "kckXc48lcginZV84": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "invoquer la divinité qu'il vénère, son héraut, son arme ou son règne ici-bas."
                 },
                 "xmkSIL75zYlZg1Ms": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "modifier la vie à grande échelle, en altérant le corps ou l'esprit des autres créatures."
                 },
                 "DeMekjWF01X9Vos6": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "opérer un changement radical à l'échelle d'un monde, par exemple en faisant sombrer les continents ou en réveillant des volcans."
                 },
                 "E0ieDl2Q0wzVbIHe": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "précipiter la fin d'un ordre dominant, d'une époque ou du monde."
                 },
                 "I1S7y6w3I0ybD6lN": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "propager leur foi via le contrôle mental ou la coercition surnaturelle."
                 }
             }
         },
@@ -1197,50 +1197,50 @@
             }
         },
         "Doppelganger Deceptions": {
-            "name": "",
-            "description": "",
+            "name": "Duperies de doppelganger",
+            "description": "<p>Le doppelganger intrigue pour…</p>",
             "results": {
                 "Fk7ie0AKIqnueZT3": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "s'arroger une position influente et servir d'agent dormant en vue d'une invasion de doppelgangers."
                 },
                 "9ZyqNuKTuDVKhj1U": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "dissimuler les preuves d'une vaste conspiration."
                 },
                 "6lzIhw9rphPjKDsW": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "espionner des magiciens pour améliorer sa propre création magique de piètre qualité."
                 },
                 "xSaolngUQ3vi6y92": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "régner par la terreur sur une communauté en incarnant un croque-mitaine légendaire."
                 },
                 "dDnReUi6TT0Cq6Yi": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "semer le chaos dans le temple d'une divinité qui l'a condamné à vivre sans véritable forme."
                 },
                 "CvndeaNbVYJM7jtU": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "usurper l'identité d'un noble et mener une vie de débauche."
                 }
             }
         },
