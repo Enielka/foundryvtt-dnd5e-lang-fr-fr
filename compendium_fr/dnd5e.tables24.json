@@ -1367,112 +1367,112 @@
             }
         },
         "Fire Elemental Compositions": {
-            "name": "",
-            "description": "",
+            "name": "Composition d'élémentaire du feu",
+            "description": "<p>Le corps de l'élémentaire du feu se présente comme…</p>",
             "results": {
                 "ZUAQEqjpkB0V8VDy": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "une colonne de flammes divines ou diaboliques."
                 },
                 "gFQuNvAW1CpFB8eU": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "des flammes principalement blanches, bleues ou d'une couleur plus inhabituelle."
                 },
                 "DtRNirvI03cC8u84": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "des formes crépitantes évoquant animaux, fiélons, squelettes, esprits follets ou autres créatures."
                 },
                 "XzM6h5LVx70Qpocf": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "la silhouette d'un humanoïde serein ou tourmenté."
                 },
                 "av3troXemZCZ4eTl": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "une suie exhalant une odeur de cèdre, de girofle, d'encens ou de chair brûlée."
                 },
                 "RojbNcb8FeK0Sk7N": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "des tourbillons de cendres et de débris incandescents."
                 },
                 "W9kQuOS9gQmlV53R": {
                     "range": {
                         "0": 7,
                         "1": 7
                     },
-                    "description": ""
+                    "description": "des vapeurs colorées en surchauffe."
                 },
                 "EHuYXEMdKEqi3w3c": {
                     "range": {
                         "0": 8,
                         "1": 8
                     },
-                    "description": ""
+                    "description": "des volutes de fumée dessinant des symboles sinistres."
                 }
             }
         },
         "Gelatinous Cube Debris": {
-            "name": "",
-            "description": "",
+            "name": "Débris de cube gélatineux",
+            "description": "<p>Dans le cube gélatineux flotte…</p>",
             "results": {
                 "GhMvBkgo2tRo61aN": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "une accumulation de bulles ou de pierres ressemblant à des yeux."
                 },
                 "3aCF7TJmE1i9tyYf": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "une arme remarquable nécessitant réparation."
                 },
                 "oqxyKvwzSAxqtp2e": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "la clef d'une porte ou d'un coffret proche."
                 },
                 "IxVpwn0yuGxfdk0Q": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "un coffre ou une mimique fraîchement piégés."
                 },
                 "tMCTssJ8dVbjTAaY": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "le squelette d'un aventurier célèbre."
                 },
                 "BYDZ2ovjp06IO4fW": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "une tablette portant un message mystérieux."
                 }
             }
         },
@@ -1663,64 +1663,64 @@
             }
         },
         "Incubus Nightmares": {
-            "name": "",
-            "description": "",
+            "name": "Cauchemars d'incube",
+            "description": "<p>Dans ses rêves, la victime de l'incube…</p>",
             "results": {
                 "jV3OuGruNiBNV0pP": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "chute, se noie ou s'asphyxie."
                 },
                 "Kxs9xm381uTxjqqT": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "est dévorée par des bêtes ou des monstres."
                 },
                 "TsHxN9YWmXAITN2j": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "est pourchassée à travers les contrées sauvages."
                 },
                 "TS6ab78PS1b2K2rE": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "reçoit la visite du porteur d'un message inquiétant ou énigmatique."
                 },
                 "H0FEwutKcvoKLGyE": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "remarque une présence tapie dans l'ombre ou une silhouette monstrueuse."
                 },
                 "I4WLZIBdDepXHwhf": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "revit un événement traumatisant de son passé."
                 },
                 "voXtAlQjLCxnpiOC": {
                     "range": {
                         "0": 7,
                         "1": 7
                     },
-                    "description": ""
+                    "description": "subit une humiliation publique dévastatrice."
                 },
                 "kEORPW2ykhHtBdzm": {
                     "range": {
                         "0": 8,
                         "1": 8
                     },
-                    "description": ""
+                    "description": "voit un membre de sa famille ou une figure d'autorité en proie à la colère."
                 }
             }
         },
