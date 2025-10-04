@@ -3168,7 +3168,7 @@
             "description": "<p>Une cruche contient jusqu'à 4 litres de liquide.</p>"
         },
         "Key": {
-            "name": "Clef",
+            "name": "La Clef",
             "description": "",
             "activities": {
                 "Card Effect": {
