@@ -3285,56 +3285,56 @@
                         "0": 8,
                         "1": 8
                     },
-                    "description": "<strong>Fléau.</strong> L'objet cherche à contrecarrer ou à détruire les créatures d'un type particulier, comme les Artificiels, les Fiélons ou les Morts-vivants."
+                    "description": "<strong>Destructeur.</strong> L'objet aspire à la destruction et pousse son utilisateur à combattre tous azimuts."
                 },
                 "SskIQAsN9L231Aip": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": "<strong>En quête de son créateur.</strong> L'objet cherche la trace de son créateur pour comprendre dans quel but il a été créé."
+                    "description": "<strong>En quête de l'âme sœur.</strong> L'objet est à la recherche d'un autre objet magique intelligent, peut-être semblable à lui-même."
                 },
                 "8DsIidU6KrIK8aA3": {
                     "range": {
                         "0": 7,
                         "1": 7
                     },
-                    "description": "<strong>En quête de son destin.</strong> L'objet est convaincu que lui-même et son porteur ont un rôle clé à jouer dans des événements à venir."
+                    "description": "<strong>En quête de gloire.</strong> L'objet cherche à se faire connaître comme le plus grand objet magique du monde, et incite à cette fin son porteur à devenir une personnalité de premier plan."
                 },
                 "XH6KU6wUB5VOaUb6": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": "<strong>Destructeur.</strong> L'objet aspire à la destruction et pousse son utilisateur à combattre tous azimuts."
+                    "description": "<strong>En quête de savoir.</strong> L'objet, avide de savoir, compte ardemment résoudre un mystère, exhumer un secret ou décrypter une prophétie obscure."
                 },
                 "7JK4YLaze4s1z8ww": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": "<strong>En quête de gloire.</strong> L'objet cherche à se faire connaître comme le plus grand objet magique du monde, et incite à cette fin son porteur à devenir une personnalité de premier plan."
+                    "description": "<strong>En quête de son créateur.</strong> L'objet cherche la trace de son créateur pour comprendre dans quel but il a été créé."
                 },
                 "FbFyLC891jvuiPLY": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": "<strong>En quête de savoir.</strong> L'objet, avide de savoir, compte ardemment résoudre un mystère, exhumer un secret ou décrypter une prophétie obscure."
+                    "description": "<strong>En quête de son destin.</strong> L'objet est convaincu que lui-même et son porteur ont un rôle clé à jouer dans des événements à venir."
                 },
                 "QKFHYR8MSe1IBVyW": {
                     "range": {
                         "0": 9,
                         "1": 9
                     },
-                    "description": "<strong>Protecteur.</strong> L'objet cherche à défendre un type particulier de créature, comme les elfes ou les loups-garous."
+                    "description": "<strong>Fléau.</strong> L'objet cherche à contrecarrer ou à détruire les créatures d'un type particulier, comme les Artificiels, les Fiélons ou les Morts-vivants."
                 },
                 "8ymxZZK5xEeJVyR8": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": "<strong>En quête de l'âme sœur.</strong> L'objet est à la recherche d'un autre objet magique intelligent, peut-être semblable à lui-même."
+                    "description": "<strong>Protecteur.</strong> L'objet cherche à défendre un type particulier de créature, comme les elfes ou les loups-garous."
                 },
                 "m3bxgqbRQWUJCSwh": {
                     "range": {
