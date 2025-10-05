@@ -4180,9 +4180,6 @@
                     "name": "Explosion finale",
                     "description": "<p>Lorsque le méphite meurt, il explose dans une déflagration de poussière. Chaque créature dans un rayon de 1,50 m de lui doit réussir un jet de sauvegarde de [[/save]] sous peine d'être &Reference[blinded]{aveuglée} pendant 1 minute. Une créature aveuglée peut réitérer le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet sur elle-même en cas de réussite.</p>",
                     "activities": {
-                        "utility": {
-                            "condition": "à la mort"
-                        },
                         "save": {
                             "condition": "à la mort"
                         }
@@ -6607,15 +6604,6 @@
                     "name": "Mur de glace",
                     "description": "<p>Le diable forme magiquement une paroi de glace opaque sur une surface solide qu'il voit dans un rayon de 18 m. Le mur, épais de 30 cm, peut atteindre jusqu'à 9 m de long et 3 m de hauteur, ou bien se présenter comme un dôme hémisphérique d'un diamètre maximal de 6 m.</p><p>À l'apparition du mur, toute créature située dans son espace en est expulsée par le chemin le plus court. La créature choisit de quel côté du mur elle termine, sauf si elle est neutralisée. Elle effectue alors un jet de sauvegarde de [[/save]] et subit 35 ([[/damage]]{10d6}) dégâts de froid en cas d'échec, la moitié en cas de réussite.</p><p>Le mur persiste pendant 1 minute, mais disparaît si le diable meurt ou est neutralisé. On peut endommager le mur et y faire une brèche ; chaque section de 3 m de côté est dotée d'une CA de 5, de 30 points de vie, de la vulnérabilité aux dégâts de feu et de l'immunité contre les dégâts d'acide, de froid, nécrotiques, psychiques et de poison. Une section détruite laisse une nappe d'air glacial dans l'espace qu'elle occupait. Chaque fois qu'une créature termine un tour durant lequel elle a traversé cette nappe, volontairement ou non, elle effectue un jet de sauvegarde de [[/save activity=1sgpSnbxz7JYshd3]] et subit 17 ([[/damage activity=1sgpSnbxz7JYshd3]]{5d6}) dégâts de froid en cas d'échec, la moitié en cas de réussite. La nappe d'air se dissipe quand le reste du mur disparaît.</p>",
                     "activities": {
-                        "attack": {
-                            "condition": "une surface solide qu'il peut voir dans un rayon de 18 mètres"
-                        },
-                        "save": {
-                            "condition": "une surface solide qu'il peut voir dans un rayon de 18 mètres"
-                        },
-                        "utility": {
-                            "condition": "une surface solide qu'il peut voir dans un rayon de 18 mètres"
-                        },
                         "Create Wall": {
                             "name": "Créer un mur",
                             "condition": "une surface solide qu'il voit dans un rayon de 18 m."
@@ -6702,20 +6690,10 @@
                     "name": "Résistance à la magie",
                     "description": "<p>Le [[lookup @name]] est<strong> avantagé</strong> aux jets de sauvegarde contre les sorts et autres effets magiques.</p>"
                 },
-                "Sting": {
-                    "name": "Dard (Morsure sous forme de bête)",
-                    "description": "<p><em>Attaque d'arme au corps à corps :</em> [[/attack]], allonge 1,50 m, une cible. <em>Touché :</em> 5 ([[/damage]]{1d4 + 3}) dégâts perforants et la cible effectue un jet de sauvegarde de [[/save]] sous peine de subir 10 ([[/damage activity=dnd5eactivity100]]{3d6}) dégâts de poison en cas d'échec, la moitié en cas de réussite.</p>",
-                    "chat": "<p>Le [[lookup @name]] attaque avec Dard (Morsure sous forme de bête).</p>"
-                },
                 "Invisibility": {
                     "name": "Invisibilité",
                     "description": "<p>Le [[lookup @name]] devient magiquement &Reference[invisible] jusqu’à ce qu’il attaque ou que sa concentration soit rompue (comme pour un sort). Tout l’équipement porté par le [[lookup @name]] est invisible.</p>",
                     "chat": "<p>Le [[lookup @name]] utilise Invisibilité.</p>"
-                },
-                "Bite (beast form only)": {
-                    "name": "Morsure (forme de bête uniquement)",
-                    "description": "<p><em>Attaque d'arme au corps à corps :</em> [[/attack]], allonge 1,50 m, une cible. <em>Touché :</em> 5 ([[/damage]]{1d4 + 3}) dégâts perforants et la cible effectue un jet de sauvegarde de [[/save]] sous peine de subir 10 ([[/damage activity=dnd5eactivity100]]{3d6}) dégâts de poison en cas d'échec, la moitié en cas de réussite.</p>",
-                    "chat": "<p>Le [[lookup @name]] attaque avec Morsure (forme de bête uniquement).</p>"
                 },
                 "Sting (Bite in Beast Form)": {
                     "name": "Dard (Morsure sous forme de bête)",
@@ -9964,9 +9942,6 @@
                     "name": "Explosion finale",
                     "description": "<p>Lorsque le méphite meurt, il explose dans une déflagration de vapeurs brûlantes. Chaque créature dans un rayon de 1,50 m du monstre doit réussir un jet de sauvegarde de [[/save]] sous peine de subir 4 ([[/damage]]{1d8}) dégâts de feu.</p>",
                     "activities": {
-                        "damage": {
-                            "condition": "à la mort"
-                        },
                         "save": {
                             "condition": "à la mort"
                         }
