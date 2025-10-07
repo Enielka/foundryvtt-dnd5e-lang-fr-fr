@@ -2065,78 +2065,78 @@
             }
         },
         "Mage Roles": {
-            "name": "",
-            "description": "",
+            "name": "Rôles de mage",
+            "description": "<p>Le mage est un…</p>",
             "results": {
                 "5VrUJXj7jGJOp4LX": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "astronome puisant sa magie dans les étoiles."
                 },
                 "P3qsL1FtB0ojfX5G": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "auteur spécialiste de l'occulte."
                 },
                 "P9nCWbVyhqiZ3HEt": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "devin conseillant les souverains."
                 },
                 "zGJ8mDaYHwdZvRhh": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "érudit étudiant les savoirs anciens."
                 },
                 "VcrmrTD2inKyfgDO": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "ingénieur en magie, créateur de merveilles."
                 },
                 "Xzhe3XULcl8gUcmI": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "mage de guerre assistant les soldats au combat."
                 },
                 "rAA5bLETx9It7Kum": {
                     "range": {
                         "0": 7,
                         "1": 7
                     },
-                    "description": ""
+                    "description": "mystique psionique dont les pouvoirs se manifestent sous forme de sorts."
                 },
                 "bOi3xdnTPmSQSbmF": {
                     "range": {
                         "0": 8,
                         "1": 8
                     },
-                    "description": ""
+                    "description": "oracle interprétant les présages."
                 },
                 "BjwL88ARDEB13mJV": {
                     "range": {
                         "0": 9,
                         "1": 9
                     },
-                    "description": ""
+                    "description": "prodige à l'héritage magique remarquable."
                 },
                 "S0ACnpu7KRmeyBlm": {
                     "range": {
                         "0": 10,
                         "1": 10
                     },
-                    "description": ""
+                    "description": "sorcier partageant sa sagesse secrète."
                 }
             }
         },
@@ -2174,36 +2174,36 @@
             }
         },
         "Minotaur Mazes": {
-            "name": "",
-            "description": "",
+            "name": "Dédales de minotaure",
+            "description": "<p>Le minotaure de Baphomet rôde dans…</p>",
             "results": {
                 "PEaB4HIGK7tvH1Gm": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "des labyrinthes reliés par des portails magiques."
                 },
                 "YsFLYI11LY9AZIDm": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "un marais toxique aux sentiers labyrinthiques."
                 },
                 "1S0bEuHPa9eED5WO": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "une mine ou un égout à plusieurs niveaux."
                 },
                 "TKKagNWsoFF9GB8P": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "les ruines enfouies d'un palais ou d'un temple."
                 }
             }
         },
@@ -2475,36 +2475,36 @@
             }
         },
         "Owlbear Den Features": {
-            "name": "",
-            "description": "",
+            "name": "Tanière de hibours",
+            "description": "<p>L'antre du hibours contient…</p>",
             "results": {
                 "MI8sYutrTB6iytoZ": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "un nid contenant 1d6 œufs de hibours."
                 },
                 "bSiYOUCrvAt3zhEt": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "des passages à travers la terre ou un arbre creux."
                 },
                 "tiFGcNsTVO3UkobM": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "des piles de boulettes régurgitées « serties » de pièces ou de quelque autre trésor."
                 },
                 "L1sRrKRRFMR7KlDh": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "des vestiges de ses anciens occupants, qu'il s'agisse de brigands, de loups ou d'un dragon."
                 }
             }
         },
@@ -2775,78 +2775,78 @@
             }
         },
         "Pseudodragon Treats": {
-            "name": "",
-            "description": "",
+            "name": "Gâteries pour pseudodragon",
+            "description": "<p>Le pseudodragon veut…</p>",
             "results": {
                 "GGmRmiYuBOPA46As": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "des accessoires flamboyants qu'il peut porter."
                 },
                 "NW0eJVPqQ8IM20cS": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "des cadeaux qui brillent, gemmes, coquilles d'ormeaux, etc."
                 },
                 "GyMn3syS7t4koiQ5": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "le dessert emblématique d'un chef cuisinier."
                 },
                 "lo3q7jK8FOOMcwte": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "entendre chaque soir une berceuse ou sa chanson préférée."
                 },
                 "3k5bVw27ov76faYZ": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "un lit moelleux et des jouets en peluche."
                 },
                 "74Jy4msjX9MBkuQw": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "des mets exotiques, par exemple une omelette à base d'œufs d'autrache ou du fromage tiré du lait de mammouth."
                 },
                 "JR2BSRI0kZ0odhoB": {
                     "range": {
                         "0": 7,
                         "1": 7
                     },
-                    "description": ""
+                    "description": "quelque chose ayant appartenu à un parent, un rival ou un maître."
                 },
                 "y3OYnTcNPR0Uk2s7": {
                     "range": {
                         "0": 8,
                         "1": 8
                     },
-                    "description": ""
+                    "description": "des soins de beauté chronophages."
                 },
                 "qcyAKQQLfLufHG1E": {
                     "range": {
                         "0": 9,
                         "1": 9
                     },
-                    "description": ""
+                    "description": "des souvenirs d'un ami ou maître disparu."
                 },
                 "xsV73bWhntV3Fdqc": {
                     "range": {
                         "0": 10,
                         "1": 10
                     },
-                    "description": ""
+                    "description": "des trophées et des titres ronflants."
                 }
             }
         },
@@ -3175,98 +3175,98 @@
             }
         },
         "Shadow Shapes": {
-            "name": "",
-            "description": "",
+            "name": "Formes d'ombre",
+            "description": "<p>L'ombre apparaît comme…</p>",
             "results": {
                 "iXjuzrYW6uGGtS28": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "un fiélon hantant un site de rituels maléfiques."
                 },
                 "6wcLN33MkD6b3Ehu": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "des mains avides tourmentant la demeure d'un pingre."
                 },
                 "ZoakeLqvDu5GfIdi": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "un prêtre inquiétant qui erre sur un site profané."
                 },
                 "nvZvlsbg2WrMIg4Z": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "le reflet de sa cible, reproduisant ses gestes en un pantomime macabre."
                 },
                 "pkMYBK2pph6EWEQs": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "un rôdeur difforme tapi dans les bois."
                 },
                 "bi8WWjkFSgbAxnky": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "un sinistre personnage de conte pourchassant ceux qui prononcent son nom."
                 }
             }
         },
         "Skeleton Pantomimes": {
-            "name": "",
-            "description": "",
+            "name": "Pantomimes de squelette",
+            "description": "<p>Livré à lui-même, le squelette…</p>",
             "results": {
                 "FyFpsLsRx0wm6q7j": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "apporte des plateaux de nourriture ou du courrier séculaire à la crypte de son défunt maître."
                 },
                 "8Is2VfOt9nOmP41O": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "s'entraîne sans fin au combat avec d'autres squelettes, jusqu'à n'être plus qu'un amas d'esquilles animées."
                 },
                 "Ac1TtjeYGtIjy8QA": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "exécute une tâche routinière : nettoyer, cuisiner, excaver ou prier."
                 },
                 "8VHT1NUKW3VqvwOK": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "monte la garde au poste qu'il défendait de son vivant."
                 },
                 "3eMsliR4wExfUMG7": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "rejoue ses derniers instants."
                 },
                 "tfALAOKNarljGG5Q": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "reproduit ses passe-temps de jadis, comme jouer la comédie, danser ou lire."
                 }
             }
         },
@@ -3396,84 +3396,84 @@
             }
         },
         "Stirge Roosts": {
-            "name": "",
-            "description": "",
+            "name": "Perchoirs de striges",
+            "description": "<p>Entre deux chasses, la strige se niche dans…</p>",
             "results": {
                 "C6NOP3kjrt4VZaZ1": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "un arbre creux ou un fourré."
                 },
                 "8i67qExMbOruy6O3": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "la dépouille d'une créature gigantesque."
                 },
                 "cCeoROoJHZgzxQFj": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "le grenier ou les meubles d'un bâtiment en ruines."
                 },
                 "olqQra3fhEyr1X3W": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "une grotte ou une étroite crevasse."
                 }
             }
         },
         "Stone Golem Orders": {
-            "name": "",
-            "description": "",
+            "name": "Instructions de golem de pierre",
+            "description": "<p>Le golem de pierre a pour ordre de…</p>",
             "results": {
                 "DQUltRa1FfVrTZMj": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "détruire un barrage ou un pont sur ordre d'une personne portant la médaille du souverain."
                 },
                 "imZNu0QYUdwTgQfn": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "guetter et combattre le type de monstre qui a tué le héros dont il reprend les traits."
                 },
                 "uDiPFGvIOJWtZ4ga": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "ne laisser passer que les personnes portant les habits rituels."
                 },
                 "Fssf4yJ9pjCUQ3pi": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "lancer lenteur sur quiconque touche la sainte relique de la cité et participer à sa capture."
                 },
                 "PCTM9pH0yk3Au71W": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "obéir à quiconque place l'écusson manquant dans sa poitrine, puis se désactiver pendant un an."
                 },
                 "tYuboNGLOdFfu2du": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "révéler un passage secret à ceux qui récitent les dernières paroles d'un dirigeant."
                 }
             }
         },
@@ -3546,50 +3546,50 @@
             }
         },
         "Succubus Temptations": {
-            "name": "",
-            "description": "",
+            "name": "Tentations de succube",
+            "description": "<p>Le ou la succube manipule sa cible en…</p>",
             "results": {
                 "CalxsfCtIh847tka": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "charmant un proche de sa proie."
                 },
                 "qWnjKkYmbsgxJEWt": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "se faisant passer pour un séduisant subalterne."
                 },
                 "7oFtYu6jzi8VXXqD": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "l'isolant de ses proches."
                 },
                 "7Ia446lLXbWlQ13d": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "orchestrant des coups de chance inespérés."
                 },
                 "NDVm6eS55EUjjwDt": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "prenant l'apparence d'un être cher disparu."
                 },
                 "6ZuEY0HhmwsInAgf": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "se présentant comme un être en détresse."
                 }
             }
         },
@@ -4470,50 +4470,50 @@
             }
         },
         "Vampire Resting Places": {
-            "name": "",
-            "description": "",
+            "name": "Refuges de vampire",
+            "description": "<p>Le refuge du vampire se trouve…</p>",
             "results": {
                 "f5gnQJfI9wUKtkFy": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "dans un cercueil rempli de terre funéraire."
                 },
                 "wP18bDcrkjEM6EwO": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "dans un lieu accessible uniquement en changeant de forme."
                 },
                 "2r4z4jm4M0F1s547": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "dans une grande jarre emplie de sang ou de vinaigre."
                 },
                 "4b3kL5Tnm3jcab1f": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "au fond d'une mare stagnante."
                 },
                 "gHjiivgWU0yyfcjA": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "à l'intérieur d'une statue ou d'une armure."
                 },
                 "ZRQzHgeLpHEcY2R8": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "parmi les racines d'un arbre mort."
                 }
             }
         },
@@ -4650,154 +4650,154 @@
             }
         },
         "Warrior Roles": {
-            "name": "",
-            "description": "",
+            "name": "Rôles de soldat",
+            "description": "<p>Le soldat est…</p>",
             "results": {
                 "KmFIgF2WZHInd9wf": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "un bretteur qui se présente comme invaincu."
                 },
                 "Gi6KNTFbMUpVFj6a": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "un cavalier monté sur une étrange monture."
                 },
                 "CEdOJy4YKwFTMru1": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "un chasseur spécialisé dans l'élimination de certains monstres."
                 },
                 "eymAU2VCtvdplvR3": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "un croisé qui se bat pour une cause divine."
                 },
                 "8MGOJBBiBfuV9YIr": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "un garde du corps au service d'un noble."
                 },
                 "M3x7CjwJ3yUZph38": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "un gardien de porte qui pose des questions absurdes."
                 },
                 "CdtwC7XoMwGbbxrJ": {
                     "range": {
                         "0": 7,
                         "1": 7
                     },
-                    "description": ""
+                    "description": "un général à la retraite, las des combats."
                 },
                 "nqx9k3EHMzKUitc2": {
                     "range": {
                         "0": 8,
                         "1": 8
                     },
-                    "description": ""
+                    "description": "un jeune mercenaire désireux de faire ses preuves."
                 },
                 "wWV9iw1VygmKkkhO": {
                     "range": {
                         "0": 9,
                         "1": 9
                     },
-                    "description": ""
+                    "description": "un vétéran endurci qui forme les nouvelles recrues."
                 },
                 "zqoQR2gy2eurj0d4": {
                     "range": {
                         "0": 10,
                         "1": 10
                     },
-                    "description": ""
+                    "description": "un volontaire armé d'une invention de son cru."
                 }
             }
         },
         "Wraith Manifestations": {
-            "name": "",
-            "description": "",
+            "name": "Manifestations d'âme-en-peine",
+            "description": "<p>L'âme-en-peine incarne…</p>",
             "results": {
                 "Rui6UyGfpVKedlWL": {
                     "range": {
                         "0": 1,
                         "1": 1
                     },
-                    "description": ""
+                    "description": "une idée blasphématoire ou un savoir maudit."
                 },
                 "FwYhqnywb4t06cIK": {
                     "range": {
                         "0": 2,
                         "1": 2
                     },
-                    "description": ""
+                    "description": "un infâme méchant qui revient une fois par siècle."
                 },
                 "I3uNNol743Mu9NkI": {
                     "range": {
                         "0": 3,
                         "1": 3
                     },
-                    "description": ""
+                    "description": "la magie blasphématoire d'un lieu maudit."
                 },
                 "sEu5FXylAOHREDEc": {
                     "range": {
                         "0": 4,
                         "1": 4
                     },
-                    "description": ""
+                    "description": "le mal exorcisé d'un scélérat repenti."
                 },
                 "ApijoNZfHoRirM0a": {
                     "range": {
                         "0": 5,
                         "1": 5
                     },
-                    "description": ""
+                    "description": "la perversion d'un Artefact impie."
                 },
                 "WjXNAEk5yEzsAdH0": {
                     "range": {
                         "0": 6,
                         "1": 6
                     },
-                    "description": ""
+                    "description": "les songes malveillants d'un dieu endormi."
                 },
                 "xxZJmMvUL6SGMUIH": {
                     "range": {
                         "0": 7,
                         "1": 7
                     },
-                    "description": ""
+                    "description": "le souvenir d'une tragédie."
                 },
                 "qWDq25Yj3cwgzZsb": {
                     "range": {
                         "0": 8,
                         "1": 8
                     },
-                    "description": ""
+                    "description": "le supplice d'une ou plusieurs âmes tourmentées."
                 },
                 "KGbamR3MSyQlKxx9": {
                     "range": {
                         "0": 9,
                         "1": 9
                     },
-                    "description": ""
+                    "description": "la terreur inspirée par une superstition locale."
                 },
                 "B1rv2fCde3JaDpPG": {
                     "range": {
                         "0": 10,
                         "1": 10
                     },
-                    "description": ""
+                    "description": "la voracité d'un royaume affamé de vie, comme la Gisombre ou le Plan Négatif."
                 }
             }
         }
