@@ -1,3448 +1,3448 @@
 {
-  "label": "",
-  "folders": {
-    "Actions": "",
-    "Attacks": "",
-    "Legendary Actions": "",
-    "Traits": ""
-  },
-  "entries": {
-    "Abduct": {
-      "name": "",
-      "description": ""
+    "label": "Aptitudes de monstres",
+    "folders": {
+        "Actions": "Actions",
+        "Attacks": "Attaques",
+        "Legendary Actions": "Actions Légendaires",
+        "Traits": "Traits"
     },
-    "Aberrant Ground": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Place Emanation": {
-          "name": ""
-        }
-      }
-    },
-    "Abyssal Glaive": {
-      "name": "",
-      "description": ""
-    },
-    "Acid Absorption": {
-      "name": "",
-      "description": "",
-      "requirements": "",
-      "effects": {
+    "entries": {
+        "Abduct": {
+            "name": "Rapt",
+            "description": "<p>Le [[lookup @name lowercase]] n'a pas besoin de dépenser de déplacement supplémentaire pour déplacer une créature qu'il agrippe.</p>"
+        },
+        "Aberrant Ground": {
+            "name": "Sol aberrant",
+            "description": "<p>Le sol dans une Émanation de [[lookup @target.template.size activity=zVznqPXgYjETqpQz]] [[lookup @target.template.units activity=zVznqPXgYjETqpQz]] centrée sur le [[lookup @name lowercase]] est un &Reference[Difficult Terrain].</p>",
+            "activities": {
+                "Place Emanation": {
+                    "name": "Placer une Émanation"
+                }
+            }
+        },
+        "Abyssal Glaive": {
+            "name": "",
+            "description": ""
+        },
         "Acid Absorption": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Acid Breath": {
-      "name": "",
-      "description": ""
-    },
-    "Acid Spray": {
-      "name": "",
-      "description": ""
-    },
-    "Adhesive (Object Form Only)": {
-      "name": "",
-      "description": "",
-      "requirements": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Acid Absorption": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Escape Check": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Grappled": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Agile": {
-      "name": "",
-      "description": ""
-    },
-    "Air Form": {
-      "name": "",
-      "description": ""
-    },
-    "Amorphous": {
-      "name": "",
-      "description": ""
-    },
-    "Amphibious": {
-      "name": "",
-      "description": ""
-    },
-    "Animate Trees": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "summon": {
-          "target": ""
-        }
-      },
-      "effects": {
+        "Acid Breath": {
+            "name": "",
+            "description": ""
+        },
+        "Acid Spray": {
+            "name": "",
+            "description": ""
+        },
+        "Adhesive (Object Form Only)": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                },
+                "Escape Check": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Agile": {
+            "name": "",
+            "description": ""
+        },
+        "Air Form": {
+            "name": "",
+            "description": ""
+        },
+        "Amorphous": {
+            "name": "",
+            "description": ""
+        },
+        "Amphibious": {
+            "name": "",
+            "description": ""
+        },
         "Animate Trees": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Antennae": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "save": {
-          "target": ""
-        }
-      },
-      "effects": {
-        "Damaged: -1 AC/Attack": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Aquatic Charge": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "target": ""
-        }
-      }
-    },
-    "Arcane Burst": {
-      "name": "",
-      "description": ""
-    },
-    "Arcane Prowl": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "target": ""
-        }
-      }
-    },
-    "Attach": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Detach Attempt": {
-          "name": "",
-          "condition": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Attached: Blinded": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Aura of Authority": {
-      "name": "",
-      "description": "",
-      "requirements": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "condition": ""
-        }
-      }
-    },
-    "Aversion to Fire": {
-      "name": "",
-      "description": "",
-      "requirements": "",
-      "effects": {
-        "Averse": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Baleful Command": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Frightened & Incapacitated": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Banish": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "save": {
-          "duration": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Banished: Incapacitated": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Barbed Hide": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "damage": {
-          "condition": "",
-          "target": ""
-        }
-      }
-    },
-    "Beak": {
-      "name": "",
-      "description": ""
-    },
-    "Beaks": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "attack": {
-          "condition": ""
+            "name": "",
+            "description": "",
+            "activities": {
+                "summon": {
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Animate Trees": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Bloodied Attack": {
-          "name": "",
-          "condition": ""
-        }
-      }
-    },
-    "Beard": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Poisoned": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Beast of Burden": {
-      "name": "",
-      "description": "",
-      "effects": {
+        "Antennae": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "save": {
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Damaged: -1 AC/Attack": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Aquatic Charge": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Arcane Burst": {
+            "name": "",
+            "description": ""
+        },
+        "Arcane Prowl": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Attach": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Detach Attempt": {
+                    "name": "",
+                    "condition": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Attached: Blinded": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Aura of Authority": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Aversion to Fire": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Averse": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Baleful Command": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Frightened & Incapacitated": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Banish": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "save": {
+                    "duration": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Banished: Incapacitated": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Barbed Hide": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "damage": {
+                    "condition": "",
+                    "target": ""
+                }
+            }
+        },
+        "Beak": {
+            "name": "",
+            "description": ""
+        },
+        "Beaks": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "attack": {
+                    "condition": ""
+                },
+                "Bloodied Attack": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Beard": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Poisoned": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
         "Beast of Burden": {
-          "name": ""
-        }
-      }
-    },
-    "Beguile": {
-      "name": "",
-      "description": ""
-    },
-    "Berserk": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Berserk Check": {
-          "name": "",
-          "roll": "",
-          "condition": ""
+            "name": "",
+            "description": "",
+            "effects": {
+                "Beast of Burden": {
+                    "name": ""
+                }
+            }
         },
-        "Calm Check": {
-          "name": "",
-          "condition": "",
-          "target": ""
-        }
-      },
-      "effects": {
+        "Beguile": {
+            "name": "",
+            "description": ""
+        },
         "Berserk": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Bite": {
-      "name": "",
-      "description": "",
-      "uname": ""
-    },
-    "Bites": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Bloodied Attack": {
-          "name": "",
-          "condition": ""
-        }
-      }
-    },
-    "Bladed Arm": {
-      "name": "",
-      "description": ""
-    },
-    "Blazing Light": {
-      "name": "",
-      "description": ""
-    },
-    "Blinding Breath": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Blinded": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Blinding Gaze": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Blinded": {
-          "name": ""
-        }
-      }
-    },
-    "Blinding Spittle": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Blinded": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Blood Frenzy": {
-      "name": "",
-      "description": ""
-    },
-    "Bloodied Frenzy": {
-      "name": "",
-      "description": "",
-      "requirements": ""
-    },
-    "Bloodied Fury": {
-      "name": "",
-      "description": "",
-      "requirements": ""
-    },
-    "Blurred Form": {
-      "name": "",
-      "description": "",
-      "requirements": ""
-    },
-    "Bone Bow": {
-      "name": "",
-      "description": ""
-    },
-    "Bone Cudgel": {
-      "name": "",
-      "description": ""
-    },
-    "Boulder": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Boulder Toss": {
-      "name": "",
-      "description": ""
-    },
-    "Bound": {
-      "name": "",
-      "description": ""
-    },
-    "Bubble Dash": {
-      "name": "",
-      "description": "",
-      "requirements": "",
-      "activities": {
-        "utility": {
-          "condition": ""
-        }
-      }
-    },
-    "Burn": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Burning": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Burning Hammer": {
-      "name": "",
-      "description": ""
-    },
-    "Burst of Ingenuity": {
-      "name": "",
-      "description": ""
-    },
-    "Cacophony": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Deafened and Disadvantaged": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Captain's Charm": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Charmed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Celestial Restoration": {
-      "name": "",
-      "description": ""
-    },
-    "Chain": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Grappled & Restrained": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Channel Negative Energy": {
-      "name": "",
-      "description": ""
-    },
-    "Charge": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "range": ""
-        }
-      }
-    },
-    "Charged Tendril": {
-      "name": "",
-      "description": ""
-    },
-    "Charging Horn": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "range": ""
-        }
-      }
-    },
-    "Charm": {
-      "name": "",
-      "description": ""
-    },
-    "Chill": {
-      "name": "",
-      "description": ""
-    },
-    "Claw": {
-      "name": "",
-      "description": ""
-    },
-    "Claws": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Escape Check": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Grappled and Restrained": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Cloaked Flight": {
-      "name": "",
-      "description": ""
-    },
-    "Cloud of Insects": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Clouded": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Cold Breath": {
-      "name": "",
-      "description": ""
-    },
-    "Cold Gale": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "save": {
-          "chatFlavor": ""
-        }
-      }
-    },
-    "Commanding Presence": {
-      "name": "",
-      "description": ""
-    },
-    "Compression": {
-      "name": "",
-      "description": ""
-    },
-    "Confer Fire Resistance": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Resistance: Fire": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Conjure Infernal Chain": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Restrained": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Constrict": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "save": {
-          "target": ""
-        },
-        "Escape Check": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Grappled and Restrained": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Consume Life": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "target": ""
-        },
-        "Wisp: Healing": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Failure: Dead": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Consume Memories": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Intelligence Saving Throw": {
-          "name": "",
-          "target": ""
-        }
-      }
-    },
-    "Corrosive Form": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Damaged: -1 Attack": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Corrupting Touch": {
-      "name": "",
-      "description": ""
-    },
-    "Coven Magic": {
-      "name": "",
-      "description": ""
-    },
-    "Create Specter": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Spirit Rises": {
-          "name": "",
-          "profiles": {
-            "Specter": {
-              "name": ""
+            "name": "",
+            "description": "",
+            "activities": {
+                "Berserk Check": {
+                    "name": "",
+                    "roll": "",
+                    "condition": ""
+                },
+                "Calm Check": {
+                    "name": "",
+                    "condition": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Berserk": {
+                    "name": "",
+                    "description": ""
+                }
             }
-          }
-        }
-      }
-    },
-    "Create Whirlwind": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
         },
-        "Damage: Start of Turn": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Restrained": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Crush": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Blinded & Suffocating": {
-          "name": "",
-          "description": ""
+        "Bite": {
+            "name": "",
+            "description": "",
+            "uname": ""
         },
-        "Self: Attack Adv./0 Speed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Cunning Action": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Cursed Touch": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Cursed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Darkness Aura": {
-      "name": "",
-      "description": ""
-    },
-    "Deadly Leap": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Death Burst": {
-      "name": "",
-      "description": "",
-      "requirements": "",
-      "activities": {
-        "save": {
-          "condition": ""
-        }
-      }
-    },
-    "Death Glare": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "target": ""
-        }
-      }
-    },
-    "Death Throes": {
-      "name": "",
-      "description": ""
-    },
-    "Deathless Agility": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Deathless Strike": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Deathly Teleport": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "damage": {
-          "range": ""
-        }
-      }
-    },
-    "Deflect Missile": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Reduce Damage": {
-          "name": "",
-          "condition": ""
+        "Bites": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Bloodied Attack": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
         },
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Demonic Restoration": {
-      "name": "",
-      "description": "",
-      "requirements": ""
-    },
-    "Destroy Metal": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "range": "",
-          "target": ""
-        }
-      }
-    },
-    "Devilish Claw": {
-      "name": "",
-      "description": ""
-    },
-    "Diabolical Restoration": {
-      "name": "",
-      "description": "",
-      "requirements": ""
-    },
-    "Disrupt Life": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Dissolving Pseudopod": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Damaged: -1 AC": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Divine Aid": {
-      "name": "",
-      "description": ""
-    },
-    "Divine Awareness": {
-      "name": "",
-      "description": ""
-    },
-    "Dominate Mind": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Dominated": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Draconic Origin": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Acid Resistance": {
-          "name": ""
+        "Bladed Arm": {
+            "name": "",
+            "description": ""
         },
-        "Cold Resistance": {
-          "name": ""
+        "Blazing Light": {
+            "name": "",
+            "description": ""
         },
-        "Fire Resistance": {
-          "name": ""
+        "Blinding Breath": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Blinded": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Poison Resistance": {
-          "name": ""
+        "Blinding Gaze": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Blinded": {
+                    "name": ""
+                }
+            }
         },
-        "Lightning Resistance": {
-          "name": ""
-        }
-      }
-    },
-    "Dragon's Breath": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Draining Kiss": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "chatFlavor": "",
-          "target": ""
-        }
-      }
-    },
-    "Draining Swipe": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "attack": {
-          "chatFlavor": ""
+        "Blinding Spittle": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Blinded": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Shadow Rises": {
-          "name": ""
+        "Blood Frenzy": {
+            "name": "",
+            "description": ""
         },
-        "STR Score -1d4": {
-          "name": "",
-          "roll": ""
-        }
-      },
-      "effects": {
-        "Hit: STR Score -1d4": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Dread Command": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Command": {
-          "name": ""
-        }
-      }
-    },
-    "Dreadful Glare": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Frightened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Earth Glide": {
-      "name": "",
-      "description": ""
-    },
-    "Eldritch Burst": {
-      "name": "",
-      "description": ""
-    },
-    "Eldritch Restoration": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Days: New Body": {
-          "name": "",
-          "roll": ""
-        }
-      }
-    },
-    "Elemental Restoration": {
-      "name": "",
-      "description": "",
-      "requirements": ""
-    },
-    "Enchanting Bow": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Charmed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Engulf": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
+        "Bloodied Frenzy": {
+            "name": "",
+            "description": "",
+            "requirements": ""
         },
-        "Engulfed: Damage": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Total Cover, Suffocating & Restrained": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Entangling Rope": {
-      "name": "",
-      "description": "",
-      "requirements": "",
-      "effects": {
-        "Restrained": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Enthralling Panache": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Charmed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Ephemeral": {
-      "name": "",
-      "description": ""
-    },
-    "Ethereal Jaunt": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Ethereal Sight": {
-      "name": "",
-      "description": ""
-    },
-    "Ethereal Stride": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Etherealness": {
-      "name": "",
-      "description": "",
-      "activities": {
+        "Bloodied Fury": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Blurred Form": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Bone Bow": {
+            "name": "",
+            "description": ""
+        },
+        "Bone Cudgel": {
+            "name": "",
+            "description": ""
+        },
+        "Boulder": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Boulder Toss": {
+            "name": "",
+            "description": ""
+        },
+        "Bound": {
+            "name": "",
+            "description": ""
+        },
+        "Bubble Dash": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "utility": {
+                    "condition": ""
+                }
+            }
+        },
+        "Burn": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Burning": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Burning Hammer": {
+            "name": "",
+            "description": ""
+        },
+        "Burst of Ingenuity": {
+            "name": "",
+            "description": ""
+        },
+        "Cacophony": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Deafened and Disadvantaged": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Captain's Charm": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Charmed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Celestial Restoration": {
+            "name": "",
+            "description": ""
+        },
+        "Chain": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Grappled & Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Channel Negative Energy": {
+            "name": "",
+            "description": ""
+        },
+        "Charge": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "range": ""
+                }
+            }
+        },
+        "Charged Tendril": {
+            "name": "",
+            "description": ""
+        },
+        "Charging Horn": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "range": ""
+                }
+            }
+        },
+        "Charm": {
+            "name": "",
+            "description": ""
+        },
+        "Chill": {
+            "name": "",
+            "description": ""
+        },
+        "Claw": {
+            "name": "",
+            "description": ""
+        },
+        "Claws": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Escape Check": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled and Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Cloaked Flight": {
+            "name": "",
+            "description": ""
+        },
+        "Cloud of Insects": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Clouded": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Cold Breath": {
+            "name": "",
+            "description": ""
+        },
+        "Cold Gale": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "save": {
+                    "chatFlavor": ""
+                }
+            }
+        },
+        "Commanding Presence": {
+            "name": "",
+            "description": ""
+        },
+        "Compression": {
+            "name": "",
+            "description": ""
+        },
+        "Confer Fire Resistance": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Resistance: Fire": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Conjure Infernal Chain": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Constrict": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "save": {
+                    "target": ""
+                },
+                "Escape Check": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled and Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Consume Life": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "target": ""
+                },
+                "Wisp: Healing": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Failure: Dead": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Consume Memories": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Intelligence Saving Throw": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Corrosive Form": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Damaged: -1 Attack": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Corrupting Touch": {
+            "name": "",
+            "description": ""
+        },
+        "Coven Magic": {
+            "name": "",
+            "description": ""
+        },
+        "Create Specter": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Spirit Rises": {
+                    "name": "",
+                    "profiles": {
+                        "Specter": {
+                            "name": ""
+                        }
+                    }
+                }
+            }
+        },
+        "Create Whirlwind": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                },
+                "Damage: Start of Turn": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Crush": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Blinded & Suffocating": {
+                    "name": "",
+                    "description": ""
+                },
+                "Self: Attack Adv./0 Speed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Cunning Action": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Cursed Touch": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Cursed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Darkness Aura": {
+            "name": "",
+            "description": ""
+        },
+        "Deadly Leap": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Death Burst": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "save": {
+                    "condition": ""
+                }
+            }
+        },
+        "Death Glare": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Death Throes": {
+            "name": "",
+            "description": ""
+        },
+        "Deathless Agility": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Deathless Strike": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Deathly Teleport": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "damage": {
+                    "range": ""
+                }
+            }
+        },
+        "Deflect Missile": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Reduce Damage": {
+                    "name": "",
+                    "condition": ""
+                },
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Demonic Restoration": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Destroy Metal": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "range": "",
+                    "target": ""
+                }
+            }
+        },
+        "Devilish Claw": {
+            "name": "",
+            "description": ""
+        },
+        "Diabolical Restoration": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Disrupt Life": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Dissolving Pseudopod": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Damaged: -1 AC": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Divine Aid": {
+            "name": "",
+            "description": ""
+        },
+        "Divine Awareness": {
+            "name": "",
+            "description": ""
+        },
+        "Dominate Mind": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Dominated": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Draconic Origin": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Acid Resistance": {
+                    "name": ""
+                },
+                "Cold Resistance": {
+                    "name": ""
+                },
+                "Fire Resistance": {
+                    "name": ""
+                },
+                "Poison Resistance": {
+                    "name": ""
+                },
+                "Lightning Resistance": {
+                    "name": ""
+                }
+            }
+        },
+        "Dragon's Breath": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Draining Kiss": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "chatFlavor": "",
+                    "target": ""
+                }
+            }
+        },
+        "Draining Swipe": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "attack": {
+                    "chatFlavor": ""
+                },
+                "Shadow Rises": {
+                    "name": ""
+                },
+                "STR Score -1d4": {
+                    "name": "",
+                    "roll": ""
+                }
+            },
+            "effects": {
+                "Hit: STR Score -1d4": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Dread Command": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Command": {
+                    "name": ""
+                }
+            }
+        },
+        "Dreadful Glare": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Earth Glide": {
+            "name": "",
+            "description": ""
+        },
+        "Eldritch Burst": {
+            "name": "",
+            "description": ""
+        },
+        "Eldritch Restoration": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Days: New Body": {
+                    "name": "",
+                    "roll": ""
+                }
+            }
+        },
+        "Elemental Restoration": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Enchanting Bow": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Charmed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Engulf": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                },
+                "Engulfed: Damage": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Total Cover, Suffocating & Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Entangling Rope": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "effects": {
+                "Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Enthralling Panache": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Charmed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Ephemeral": {
+            "name": "",
+            "description": ""
+        },
+        "Ethereal Jaunt": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Ethereal Sight": {
+            "name": "",
+            "description": ""
+        },
+        "Ethereal Stride": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
         "Etherealness": {
-          "name": ""
-        }
-      }
-    },
-    "Evasion": {
-      "name": "",
-      "description": ""
-    },
-    "Exalted Restoration": {
-      "name": "",
-      "description": ""
-    },
-    "Fear Aura": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "save": {
-          "target": ""
-        }
-      },
-      "effects": {
-        "Frightened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Fetid Cloud": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Poisoned": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Fiendish Restoration": {
-      "name": "",
-      "description": "",
-      "requirements": ""
-    },
-    "Fiendish Touch": {
-      "name": "",
-      "description": ""
-    },
-    "Fiery Bolt": {
-      "name": "",
-      "description": ""
-    },
-    "Fiery Mace": {
-      "name": "",
-      "description": ""
-    },
-    "Fiery Rays": {
-      "name": "",
-      "description": ""
-    },
-    "Fire Absorption": {
-      "name": "",
-      "description": ""
-    },
-    "Fire Aura": {
-      "name": "",
-      "description": ""
-    },
-    "Fire Breath": {
-      "name": "",
-      "description": ""
-    },
-    "Fire Form": {
-      "name": "",
-      "description": ""
-    },
-    "Fist": {
-      "name": "",
-      "description": ""
-    },
-    "Flame Spear": {
-      "name": "",
-      "description": ""
-    },
-    "Flame Sword": {
-      "name": "",
-      "description": ""
-    },
-    "Flame Whip": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "attack": {
-          "chatFlavor": ""
-        }
-      },
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Fling": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "range": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Flyby": {
-      "name": "",
-      "description": "",
-      "requirements": ""
-    },
-    "Flying Sword": {
-      "name": "",
-      "description": ""
-    },
-    "Fog Cloud": {
-      "name": "",
-      "description": ""
-    },
-    "Force Bolt": {
-      "name": "",
-      "description": ""
-    },
-    "Foreleg": {
-      "name": "",
-      "description": ""
-    },
-    "Freeze": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Use": {
-          "name": "",
-          "condition": ""
-        }
-      },
-      "effects": {
-        "Speed: -20 ft.": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Freezing Burst": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "0 ft. Speed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Frightening Gaze": {
-      "name": "",
-      "description": ""
-    },
-    "Frightful Presence": {
-      "name": "",
-      "description": ""
-    },
-    "Frost Axe": {
-      "name": "",
-      "description": ""
-    },
-    "Frost Breath": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Gibbering": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Roll d8": {
-          "name": "",
-          "roll": ""
-        }
-      }
-    },
-    "Giggling Magic": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Giggling": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Glare": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Gore": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Attack": {
-          "name": ""
-        },
-        "Moving Attack": {
-          "name": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Gouge": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Poisoned": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Grab": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Escape Check": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Grappled": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Great Bow": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Speed: -10 Ft.": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Greater Magic Resistance": {
-      "name": "",
-      "description": ""
-    },
-    "Guiding Light": {
-      "name": "",
-      "description": ""
-    },
-    "Hail of Bark": {
-      "name": "",
-      "description": ""
-    },
-    "Hammer Throw": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "attack": {
-          "chatFlavor": ""
-        }
-      },
-      "effects": {
-        "Disadv.: Attacks": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Harpoon": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "attack": {
-          "chatFlavor": ""
-        }
-      }
-    },
-    "Hasten": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Heart Sight": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Heat Aura": {
-      "name": "",
-      "description": ""
-    },
-    "Heated Blade": {
-      "name": "",
-      "description": ""
-    },
-    "Hellfire Spellcasting": {
-      "name": "",
-      "description": ""
-    },
-    "Hellish Restoration": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Revive: Days": {
-          "name": "",
-          "roll": ""
-        }
-      }
-    },
-    "Hold Breath": {
-      "name": "",
-      "description": ""
-    },
-    "Holy Burst": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Holy Mace": {
-      "name": "",
-      "description": ""
-    },
-    "Hooves": {
-      "name": "",
-      "description": ""
-    },
-    "Horrific Visage": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Frightened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Horror Nimbus": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Frightened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Hurl Flame": {
-      "name": "",
-      "description": ""
-    },
-    "Ice Spear": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Speed -10": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Ice Walk": {
-      "name": "",
-      "description": ""
-    },
-    "Ice Wall": {
-      "name": "",
-      "description": ""
-    },
-    "Ignited Illumination": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Illumination": {
-      "name": "",
-      "description": ""
-    },
-    "Illusory Appearance": {
-      "name": "",
-      "description": ""
-    },
-    "Immutable Form": {
-      "name": "",
-      "description": ""
-    },
-    "Incorporeal Movement": {
-      "name": "",
-      "description": ""
-    },
-    "Incubus Form": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Incubus": {
-          "name": "",
-          "profiles": {
-            "Incubus": {
-              "name": ""
+            "name": "",
+            "description": "",
+            "activities": {
+                "Etherealness": {
+                    "name": ""
+                }
             }
-          }
-        }
-      }
-    },
-    "Infernal Glaive": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Damage: Infernal Wound": {
-          "name": ""
         },
-        "Check: Stanch Wound": {
-          "name": ""
-        }
-      }
-    },
-    "Infernal Sting": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Poisoned": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Infernal Tail": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
+        "Evasion": {
+            "name": "",
+            "description": ""
         },
-        "Target: HP Loss": {
-          "name": ""
+        "Exalted Restoration": {
+            "name": "",
+            "description": ""
         },
-        "Stanch Wound Check": {
-          "name": ""
-        }
-      }
-    },
-    "Ink Cloud": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Blinded: Heavily Obscured": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Inscrutable": {
-      "name": "",
-      "description": ""
-    },
-    "Invisibility": {
-      "name": "",
-      "description": ""
-    },
-    "Iron Scent": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "target": ""
-        }
-      }
-    },
-    "Jumper": {
-      "name": "",
-      "description": ""
-    },
-    "Lash": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Leap": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "condition": ""
-        }
-      }
-    },
-    "Legendary Resistance": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "condition": ""
-        }
-      }
-    },
-    "Life Drain": {
-      "name": "",
-      "description": ""
-    },
-    "Light Sensitivity": {
-      "name": "",
-      "description": ""
-    },
-    "Lightning Absorption": {
-      "name": "",
-      "description": "",
-      "requirements": ""
-    },
-    "Lightning Blade": {
-      "name": "",
-      "description": ""
-    },
-    "Lightning Breath": {
-      "name": "",
-      "description": ""
-    },
-    "Lightning Storm": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Lightning Strike": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Limited Amphibiousness": {
-      "name": "",
-      "description": ""
-    },
-    "Loathsome Limbs": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Troll Limb": {
-          "name": "",
-          "profiles": {
-            "Troll Limb": {
-              "name": ""
+        "Fear Aura": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "save": {
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                }
             }
-          }
-        }
-      },
-      "effects": {
-        "Exhaustion 1": {
-          "name": "",
-          "description": ""
         },
-        "Exhaustion 2": {
-          "name": "",
-          "description": ""
+        "Fetid Cloud": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Poisoned": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Exhaustion 3": {
-          "name": "",
-          "description": ""
+        "Fiendish Restoration": {
+            "name": "",
+            "description": "",
+            "requirements": ""
         },
-        "Exhaustion 4": {
-          "name": "",
-          "description": ""
+        "Fiendish Touch": {
+            "name": "",
+            "description": ""
         },
-        "Exhaustion 5": {
-          "name": "",
-          "description": ""
+        "Fiery Bolt": {
+            "name": "",
+            "description": ""
         },
-        "Exhaustion Dead": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Luring Song": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Charmed & Incapacitated": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Magic Resistance": {
-      "name": "",
-      "description": ""
-    },
-    "Magic Rope": {
-      "name": "",
-      "description": ""
-    },
-    "Magic of the Spider Queen": {
-      "name": "",
-      "description": ""
-    },
-    "Mimicry": {
-      "name": "",
-      "description": ""
-    },
-    "Mind Invasion": {
-      "name": "",
-      "description": ""
-    },
-    "Mind Jolt": {
-      "name": "",
-      "description": ""
-    },
-    "Mind-Rending Roar": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Incapacitated": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Misty Escape": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Paralyzed": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Paralyzed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Misty Step": {
-      "name": "",
-      "description": ""
-    },
-    "Moan": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Frightened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Mockery": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Mucus Cloud": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Damage: Outside Water": {
-          "name": "",
-          "chatFlavor": ""
-        }
-      },
-      "effects": {
-        "Cursed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Multiattack": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Use": {
-          "name": ""
-        }
-      }
-    },
-    "Multiple Heads": {
-      "name": "",
-      "description": ""
-    },
-    "Necrotic Bow": {
-      "name": "",
-      "description": ""
-    },
-    "Necrotic Ray": {
-      "name": "",
-      "description": ""
-    },
-    "Necrotic Strike": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Necrotic Sword": {
-      "name": "",
-      "description": ""
-    },
-    "Needle Sword": {
-      "name": "",
-      "description": ""
-    },
-    "Nightmare": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Unconscious": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Nightmare Haunting": {
-      "name": "",
-      "description": "",
-      "requirements": "",
-      "activities": {
-        "4GGGVhvLSrHgHdb9": {
-          "target": ""
-        }
-      }
-    },
-    "Nightmare Ray": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Frightened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Nimble Escape": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Apply Hide Action to Target": {
-          "name": ""
-        }
-      }
-    },
-    "Noxious Miasma": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Damaged: −2 AC": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Ocean Spear": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Speed: -10 feet": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Onslaught": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Ooze Cube": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Total Cover": {
-          "name": ""
+        "Fiery Mace": {
+            "name": "",
+            "description": ""
         },
-        "Pull Check": {
-          "name": ""
+        "Fiery Rays": {
+            "name": "",
+            "description": ""
         },
-        "Puller Damage": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Total Cover": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Pack Tactics": {
-      "name": "",
-      "description": "",
-      "requirements": ""
-    },
-    "Pact Blade": {
-      "name": "",
-      "description": ""
-    },
-    "Paralyzing Breath": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Incapacitated": {
-          "name": "",
-          "description": ""
+        "Fire Absorption": {
+            "name": "",
+            "description": ""
         },
-        "Paralyzed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Paralyzing Tentacles": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Poisoned & Paralyzed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Paralyzing Touch": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Paralyzed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Parry": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Use": {
-          "name": "",
-          "roll": "",
-          "condition": ""
-        }
-      }
-    },
-    "Petrifying Bite": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "First Save": {
-          "name": ""
+        "Fire Aura": {
+            "name": "",
+            "description": ""
         },
-        "Second Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Restrained": {
-          "name": "",
-          "description": ""
+        "Fire Breath": {
+            "name": "",
+            "description": ""
         },
-        "Petrified": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Petrifying Breath": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Petrified": {
-          "name": "",
-          "description": ""
+        "Fire Form": {
+            "name": "",
+            "description": ""
         },
-        "Restrained": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Petrifying Gaze": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "First Save": {
-          "name": ""
+        "Fist": {
+            "name": "",
+            "description": ""
         },
-        "Second Save": {
-          "name": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Restrained": {
-          "name": "",
-          "description": ""
+        "Flame Spear": {
+            "name": "",
+            "description": ""
         },
-        "Petrified": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Phantasms": {
-      "name": "",
-      "description": ""
-    },
-    "Pincer": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Escape Check": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Grappled": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Poison Breath": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Poison Burst": {
-      "name": "",
-      "description": ""
-    },
-    "Poison Ray": {
-      "name": "",
-      "description": ""
-    },
-    "Poisonous Spittle": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Blinded": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Possession": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "save": {
-          "target": ""
-        }
-      },
-      "effects": {
-        "Incapacitated": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Pounce": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Probing Telepathy": {
-      "name": "",
-      "description": ""
-    },
-    "Proboscis": {
-      "name": "",
-      "description": ""
-    },
-    "Protection": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Protected": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Protective Magic": {
-      "name": "",
-      "description": ""
-    },
-    "Prowl (Tiger or Hybrid Form Only)": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Pseudopod": {
-      "name": "",
-      "description": ""
-    },
-    "Psychic Drain": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "heal": {
-          "target": ""
-        }
-      }
-    },
-    "Pummel": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "target": ""
-        }
-      }
-    },
-    "Pursuit": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "target": ""
-        }
-      }
-    },
-    "Quick Grapple": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "target": ""
+        "Flame Sword": {
+            "name": "",
+            "description": ""
         },
-        "Escape Check": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Grappled": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Radiant Flame": {
-      "name": "",
-      "description": ""
-    },
-    "Radiant Horn": {
-      "name": "",
-      "description": ""
-    },
-    "Radiant Sword": {
-      "name": "",
-      "description": ""
-    },
-    "Radiant Teleport": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Rake": {
-      "name": "",
-      "description": ""
-    },
-    "Ram": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "attack": {
-          "target": ""
-        }
-      },
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Rampage": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Reactive": {
-      "name": "",
-      "description": ""
-    },
-    "Reactive Heads": {
-      "name": "",
-      "description": ""
-    },
-    "Read Thoughts": {
-      "name": "",
-      "description": ""
-    },
-    "Redirect Attack": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "condition": "",
-          "target": ""
-        }
-      }
-    },
-    "Reel": {
-      "name": "",
-      "description": ""
-    },
-    "Reflective Carapace": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Roll d6": {
-          "name": "",
-          "roll": ""
-        }
-      }
-    },
-    "Reflexive Antennae": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Regeneration": {
-      "name": "",
-      "description": "",
-      "requirements": "",
-      "activities": {
-        "heal": {
-          "condition": ""
-        }
-      }
-    },
-    "Rend": {
-      "name": "",
-      "description": ""
-    },
-    "Repulsion Breath": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Restless Touch": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Cursed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Riposte": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "+3 AC": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Ritual Sickle": {
-      "name": "",
-      "description": ""
-    },
-    "Roar": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "First Roar: Save": {
-          "name": ""
+        "Flame Whip": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "attack": {
+                    "chatFlavor": ""
+                }
+            },
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Second Roar: Save": {
-          "name": ""
+        "Fling": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "range": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Third Roar: Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Frightened": {
-          "name": "",
-          "description": ""
+        "Flyby": {
+            "name": "",
+            "description": "",
+            "requirements": ""
         },
-        "Paralyzed": {
-          "name": "",
-          "description": ""
+        "Flying Sword": {
+            "name": "",
+            "description": ""
         },
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Rock": {
-      "name": "",
-      "description": ""
-    },
-    "Rock Launch": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Rotting Fist": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "HP Max Decr.": {
-          "name": "",
-          "roll": ""
-        }
-      },
-      "effects": {
-        "Cursed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Rotting Touch": {
-      "name": "",
-      "description": ""
-    },
-    "Running Leap": {
-      "name": "",
-      "description": ""
-    },
-    "Scare": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Frightened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Scorching Sands": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "1/2 Speed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Scratch": {
-      "name": "",
-      "description": ""
-    },
-    "Searing Fork": {
-      "name": "",
-      "description": ""
-    },
-    "Sense Magic": {
-      "name": "",
-      "description": ""
-    },
-    "Shadow Stealth": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Hide": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Shape-Shift": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "target": ""
-        }
-      }
-    },
-    "Shark Telepathy": {
-      "name": "",
-      "description": ""
-    },
-    "Shield Bash": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Shielded Mind": {
-      "name": "",
-      "description": ""
-    },
-    "Shimmering Shield": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Temporary Healing": {
-          "name": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Shielded": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Shock": {
-      "name": "",
-      "description": ""
-    },
-    "Shred": {
-      "name": "",
-      "description": ""
-    },
-    "Shriek": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Use": {
-          "name": ""
-        }
-      }
-    },
-    "Siege Monster": {
-      "name": "",
-      "description": ""
-    },
-    "Slam": {
-      "name": "",
-      "description": ""
-    },
-    "Slash": {
-      "name": "",
-      "description": ""
-    },
-    "Slaying Bow": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Sleep": {
-      "name": "",
-      "description": ""
-    },
-    "Sleep Breath": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "1st Save": {
-          "name": ""
+        "Fog Cloud": {
+            "name": "",
+            "description": ""
         },
-        "2nd Save": {
-          "name": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Incapacitated": {
-          "name": "",
-          "description": ""
+        "Force Bolt": {
+            "name": "",
+            "description": ""
         },
-        "Unconscious": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Slow": {
-      "name": "",
-      "description": ""
-    },
-    "Slowing Breath": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "1/2 Speed | Action Restrictions": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Smother": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Grappled: Damage": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Grappled + Other Conditions": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Snake Hair": {
-      "name": "",
-      "description": ""
-    },
-    "Sonic Boom": {
-      "name": "",
-      "description": ""
-    },
-    "Soul Bag": {
-      "name": "",
-      "description": ""
-    },
-    "Speak with Beasts and Plants": {
-      "name": "",
-      "description": ""
-    },
-    "Spell Storing": {
-      "name": "",
-      "description": ""
-    },
-    "Spellcasting": {
-      "name": "",
-      "description": ""
-    },
-    "Spider Climb": {
-      "name": "",
-      "description": ""
-    },
-    "Spirit Jar": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Days to Reform": {
-          "name": "",
-          "roll": ""
-        }
-      }
-    },
-    "Spiritual Weapon": {
-      "name": "",
-      "description": ""
-    },
-    "Split": {
-      "name": "",
-      "description": "",
-      "activities": {
+        "Foreleg": {
+            "name": "",
+            "description": ""
+        },
+        "Freeze": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Use": {
+                    "name": "",
+                    "condition": ""
+                }
+            },
+            "effects": {
+                "Speed: -20 ft.": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Freezing Burst": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "0 ft. Speed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Frightening Gaze": {
+            "name": "",
+            "description": ""
+        },
+        "Frightful Presence": {
+            "name": "",
+            "description": ""
+        },
+        "Frost Axe": {
+            "name": "",
+            "description": ""
+        },
+        "Frost Breath": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Gibbering": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Roll d8": {
+                    "name": "",
+                    "roll": ""
+                }
+            }
+        },
+        "Giggling Magic": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Giggling": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Glare": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Gore": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Attack": {
+                    "name": ""
+                },
+                "Moving Attack": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Gouge": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Poisoned": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Grab": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Escape Check": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Great Bow": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Speed: -10 Ft.": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Greater Magic Resistance": {
+            "name": "",
+            "description": ""
+        },
+        "Guiding Light": {
+            "name": "",
+            "description": ""
+        },
+        "Hail of Bark": {
+            "name": "",
+            "description": ""
+        },
+        "Hammer Throw": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "attack": {
+                    "chatFlavor": ""
+                }
+            },
+            "effects": {
+                "Disadv.: Attacks": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Harpoon": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "attack": {
+                    "chatFlavor": ""
+                }
+            }
+        },
+        "Hasten": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Heart Sight": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Heat Aura": {
+            "name": "",
+            "description": ""
+        },
+        "Heated Blade": {
+            "name": "",
+            "description": ""
+        },
+        "Hellfire Spellcasting": {
+            "name": "",
+            "description": ""
+        },
+        "Hellish Restoration": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Revive: Days": {
+                    "name": "",
+                    "roll": ""
+                }
+            }
+        },
+        "Hold Breath": {
+            "name": "",
+            "description": ""
+        },
+        "Holy Burst": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Holy Mace": {
+            "name": "",
+            "description": ""
+        },
+        "Hooves": {
+            "name": "",
+            "description": ""
+        },
+        "Horrific Visage": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Horror Nimbus": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Hurl Flame": {
+            "name": "",
+            "description": ""
+        },
+        "Ice Spear": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Speed -10": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Ice Walk": {
+            "name": "",
+            "description": ""
+        },
+        "Ice Wall": {
+            "name": "",
+            "description": ""
+        },
+        "Ignited Illumination": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Illumination": {
+            "name": "",
+            "description": ""
+        },
+        "Illusory Appearance": {
+            "name": "",
+            "description": ""
+        },
+        "Immutable Form": {
+            "name": "",
+            "description": ""
+        },
+        "Incorporeal Movement": {
+            "name": "",
+            "description": ""
+        },
+        "Incubus Form": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Incubus": {
+                    "name": "",
+                    "profiles": {
+                        "Incubus": {
+                            "name": ""
+                        }
+                    }
+                }
+            }
+        },
+        "Infernal Glaive": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Damage: Infernal Wound": {
+                    "name": ""
+                },
+                "Check: Stanch Wound": {
+                    "name": ""
+                }
+            }
+        },
+        "Infernal Sting": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Poisoned": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Infernal Tail": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                },
+                "Target: HP Loss": {
+                    "name": ""
+                },
+                "Stanch Wound Check": {
+                    "name": ""
+                }
+            }
+        },
+        "Ink Cloud": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Blinded: Heavily Obscured": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Inscrutable": {
+            "name": "",
+            "description": ""
+        },
+        "Invisibility": {
+            "name": "",
+            "description": ""
+        },
+        "Iron Scent": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Jumper": {
+            "name": "",
+            "description": ""
+        },
+        "Lash": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Leap": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Legendary Resistance": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Life Drain": {
+            "name": "",
+            "description": ""
+        },
+        "Light Sensitivity": {
+            "name": "",
+            "description": ""
+        },
+        "Lightning Absorption": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Lightning Blade": {
+            "name": "",
+            "description": ""
+        },
+        "Lightning Breath": {
+            "name": "",
+            "description": ""
+        },
+        "Lightning Storm": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Lightning Strike": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Limited Amphibiousness": {
+            "name": "",
+            "description": ""
+        },
+        "Loathsome Limbs": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Troll Limb": {
+                    "name": "",
+                    "profiles": {
+                        "Troll Limb": {
+                            "name": ""
+                        }
+                    }
+                }
+            },
+            "effects": {
+                "Exhaustion 1": {
+                    "name": "",
+                    "description": ""
+                },
+                "Exhaustion 2": {
+                    "name": "",
+                    "description": ""
+                },
+                "Exhaustion 3": {
+                    "name": "",
+                    "description": ""
+                },
+                "Exhaustion 4": {
+                    "name": "",
+                    "description": ""
+                },
+                "Exhaustion 5": {
+                    "name": "",
+                    "description": ""
+                },
+                "Exhaustion Dead": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Luring Song": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Charmed & Incapacitated": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Magic Resistance": {
+            "name": "",
+            "description": ""
+        },
+        "Magic Rope": {
+            "name": "",
+            "description": ""
+        },
+        "Magic of the Spider Queen": {
+            "name": "",
+            "description": ""
+        },
+        "Mimicry": {
+            "name": "",
+            "description": ""
+        },
+        "Mind Invasion": {
+            "name": "",
+            "description": ""
+        },
+        "Mind Jolt": {
+            "name": "",
+            "description": ""
+        },
+        "Mind-Rending Roar": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Incapacitated": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Misty Escape": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Paralyzed": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Paralyzed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Misty Step": {
+            "name": "",
+            "description": ""
+        },
+        "Moan": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Mockery": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Mucus Cloud": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Damage: Outside Water": {
+                    "name": "",
+                    "chatFlavor": ""
+                }
+            },
+            "effects": {
+                "Cursed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Multiattack": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Multiple Heads": {
+            "name": "",
+            "description": ""
+        },
+        "Necrotic Bow": {
+            "name": "",
+            "description": ""
+        },
+        "Necrotic Ray": {
+            "name": "",
+            "description": ""
+        },
+        "Necrotic Strike": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Necrotic Sword": {
+            "name": "",
+            "description": ""
+        },
+        "Needle Sword": {
+            "name": "",
+            "description": ""
+        },
+        "Nightmare": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Unconscious": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Nightmare Haunting": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "4GGGVhvLSrHgHdb9": {
+                    "target": ""
+                }
+            }
+        },
+        "Nightmare Ray": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Nimble Escape": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Apply Hide Action to Target": {
+                    "name": ""
+                }
+            }
+        },
+        "Noxious Miasma": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Damaged: −2 AC": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Ocean Spear": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Speed: -10 feet": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Onslaught": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Ooze Cube": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Total Cover": {
+                    "name": ""
+                },
+                "Pull Check": {
+                    "name": ""
+                },
+                "Puller Damage": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Total Cover": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Pack Tactics": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Pact Blade": {
+            "name": "",
+            "description": ""
+        },
+        "Paralyzing Breath": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Incapacitated": {
+                    "name": "",
+                    "description": ""
+                },
+                "Paralyzed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Paralyzing Tentacles": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Poisoned & Paralyzed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Paralyzing Touch": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Paralyzed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Parry": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Use": {
+                    "name": "",
+                    "roll": "",
+                    "condition": ""
+                }
+            }
+        },
+        "Petrifying Bite": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "First Save": {
+                    "name": ""
+                },
+                "Second Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Restrained": {
+                    "name": "",
+                    "description": ""
+                },
+                "Petrified": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Petrifying Breath": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Petrified": {
+                    "name": "",
+                    "description": ""
+                },
+                "Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Petrifying Gaze": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "First Save": {
+                    "name": ""
+                },
+                "Second Save": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Restrained": {
+                    "name": "",
+                    "description": ""
+                },
+                "Petrified": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Phantasms": {
+            "name": "",
+            "description": ""
+        },
+        "Pincer": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Escape Check": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Poison Breath": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Poison Burst": {
+            "name": "",
+            "description": ""
+        },
+        "Poison Ray": {
+            "name": "",
+            "description": ""
+        },
+        "Poisonous Spittle": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Blinded": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Possession": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "save": {
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Incapacitated": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Pounce": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Probing Telepathy": {
+            "name": "",
+            "description": ""
+        },
+        "Proboscis": {
+            "name": "",
+            "description": ""
+        },
+        "Protection": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Protected": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Protective Magic": {
+            "name": "",
+            "description": ""
+        },
+        "Prowl (Tiger or Hybrid Form Only)": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Pseudopod": {
+            "name": "",
+            "description": ""
+        },
+        "Psychic Drain": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "heal": {
+                    "target": ""
+                }
+            }
+        },
+        "Pummel": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Pursuit": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Quick Grapple": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "target": ""
+                },
+                "Escape Check": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Radiant Flame": {
+            "name": "",
+            "description": ""
+        },
+        "Radiant Horn": {
+            "name": "",
+            "description": ""
+        },
+        "Radiant Sword": {
+            "name": "",
+            "description": ""
+        },
+        "Radiant Teleport": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Rake": {
+            "name": "",
+            "description": ""
+        },
+        "Ram": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "attack": {
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Rampage": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Reactive": {
+            "name": "",
+            "description": ""
+        },
+        "Reactive Heads": {
+            "name": "",
+            "description": ""
+        },
+        "Read Thoughts": {
+            "name": "",
+            "description": ""
+        },
+        "Redirect Attack": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "condition": "",
+                    "target": ""
+                }
+            }
+        },
+        "Reel": {
+            "name": "",
+            "description": ""
+        },
+        "Reflective Carapace": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Roll d6": {
+                    "name": "",
+                    "roll": ""
+                }
+            }
+        },
+        "Reflexive Antennae": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Regeneration": {
+            "name": "",
+            "description": "",
+            "requirements": "",
+            "activities": {
+                "heal": {
+                    "condition": ""
+                }
+            }
+        },
+        "Rend": {
+            "name": "",
+            "description": ""
+        },
+        "Repulsion Breath": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Restless Touch": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Cursed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Riposte": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "+3 AC": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Ritual Sickle": {
+            "name": "",
+            "description": ""
+        },
+        "Roar": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "First Roar: Save": {
+                    "name": ""
+                },
+                "Second Roar: Save": {
+                    "name": ""
+                },
+                "Third Roar: Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                },
+                "Paralyzed": {
+                    "name": "",
+                    "description": ""
+                },
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Rock": {
+            "name": "",
+            "description": ""
+        },
+        "Rock Launch": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Rotting Fist": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "HP Max Decr.": {
+                    "name": "",
+                    "roll": ""
+                }
+            },
+            "effects": {
+                "Cursed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Rotting Touch": {
+            "name": "",
+            "description": ""
+        },
+        "Running Leap": {
+            "name": "",
+            "description": ""
+        },
+        "Scare": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Scorching Sands": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "1/2 Speed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Scratch": {
+            "name": "",
+            "description": ""
+        },
+        "Searing Fork": {
+            "name": "",
+            "description": ""
+        },
+        "Sense Magic": {
+            "name": "",
+            "description": ""
+        },
+        "Shadow Stealth": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Hide": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Shape-Shift": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Shark Telepathy": {
+            "name": "",
+            "description": ""
+        },
+        "Shield Bash": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Shielded Mind": {
+            "name": "",
+            "description": ""
+        },
+        "Shimmering Shield": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Temporary Healing": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Shielded": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Shock": {
+            "name": "",
+            "description": ""
+        },
+        "Shred": {
+            "name": "",
+            "description": ""
+        },
+        "Shriek": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Siege Monster": {
+            "name": "",
+            "description": ""
+        },
+        "Slam": {
+            "name": "",
+            "description": ""
+        },
+        "Slash": {
+            "name": "",
+            "description": ""
+        },
+        "Slaying Bow": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Sleep": {
+            "name": "",
+            "description": ""
+        },
+        "Sleep Breath": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "1st Save": {
+                    "name": ""
+                },
+                "2nd Save": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Incapacitated": {
+                    "name": "",
+                    "description": ""
+                },
+                "Unconscious": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Slow": {
+            "name": "",
+            "description": ""
+        },
+        "Slowing Breath": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "1/2 Speed | Action Restrictions": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Smother": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Grappled: Damage": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled + Other Conditions": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Snake Hair": {
+            "name": "",
+            "description": ""
+        },
+        "Sonic Boom": {
+            "name": "",
+            "description": ""
+        },
+        "Soul Bag": {
+            "name": "",
+            "description": ""
+        },
+        "Speak with Beasts and Plants": {
+            "name": "",
+            "description": ""
+        },
+        "Spell Storing": {
+            "name": "",
+            "description": ""
+        },
+        "Spellcasting": {
+            "name": "",
+            "description": ""
+        },
+        "Spider Climb": {
+            "name": "",
+            "description": ""
+        },
+        "Spirit Jar": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Days to Reform": {
+                    "name": "",
+                    "roll": ""
+                }
+            }
+        },
+        "Spiritual Weapon": {
+            "name": "",
+            "description": ""
+        },
         "Split": {
-          "name": "",
-          "condition": "",
-          "profiles": {
-            "Black Pudding": {
-              "name": ""
+            "name": "",
+            "description": "",
+            "activities": {
+                "Split": {
+                    "name": "",
+                    "condition": "",
+                    "profiles": {
+                        "Black Pudding": {
+                            "name": ""
+                        }
+                    }
+                }
             }
-          }
-        }
-      }
-    },
-    "Spores": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
         },
-        "Damage While Poisoned": {
-          "name": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Poisoned": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Standing Leap": {
-      "name": "",
-      "description": ""
-    },
-    "Steam Breath": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Stench": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Poisoned": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Sting": {
-      "name": "",
-      "description": ""
-    },
-    "Stone Club": {
-      "name": "",
-      "description": ""
-    },
-    "Storm Blade": {
-      "name": "",
-      "description": ""
-    },
-    "Storm Bolt": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Storm Sword": {
-      "name": "",
-      "description": ""
-    },
-    "Stunning Screech": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Stunned": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Succubus Form": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Shape-Shift: Succubus": {
-          "name": "",
-          "profiles": {
-            "Succubus": {
-              "name": ""
+        "Spores": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                },
+                "Damage While Poisoned": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Poisoned": {
+                    "name": "",
+                    "description": ""
+                }
             }
-          }
-        }
-      }
-    },
-    "Sunlight Sensitivity": {
-      "name": "",
-      "description": "",
-      "requirements": ""
-    },
-    "Sunlight Weakness": {
-      "name": "",
-      "description": "",
-      "requirements": ""
-    },
-    "Swallow": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "target": ""
         },
-        "Damage: Swallowed": {
-          "name": "",
-          "target": ""
+        "Standing Leap": {
+            "name": "",
+            "description": ""
         },
-        "Regurgitate: Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Blinded, Restrained, and Total Cover": {
-          "name": "",
-          "description": ""
+        "Steam Breath": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
         },
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Swarm": {
-      "name": "",
-      "description": ""
-    },
-    "Swarm of Grasping Hands": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Bloodied Attack": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Swoop": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "target": ""
-        }
-      }
-    },
-    "Tail": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Tail Spike": {
-      "name": "",
-      "description": ""
-    },
-    "Tail Stinger": {
-      "name": "",
-      "description": ""
-    },
-    "Tail Swipe": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Talons": {
-      "name": "",
-      "description": ""
-    },
-    "Telepathic Bond": {
-      "name": "",
-      "description": ""
-    },
-    "Teleport": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      }
-    },
-    "Tentacle": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Escape Check": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Grappled": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Tentacle Slam": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Stunned": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Tentacles": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Escape Check": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Grappled": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Thorn Burst": {
-      "name": "",
-      "description": ""
-    },
-    "Thunderbolt": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Blinded & Deafened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Thunderclap": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Deafened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Thundercloud": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Incapacitated": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Thunderous Bellow": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Deafened & Frightened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Thunderous Mace": {
-      "name": "",
-      "description": ""
-    },
-    "Thunderous Slam": {
-      "name": "",
-      "description": ""
-    },
-    "Touch": {
-      "name": "",
-      "description": ""
-    },
-    "Toxic Ink": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Blinded & Poisoned": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Training": {
-      "name": "",
-      "description": ""
-    },
-    "Trample": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      }
-    },
-    "Trampling Charge": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Transparent": {
-      "name": "",
-      "description": ""
-    },
-    "Trash Lob": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Poisoned": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Treasure Sense": {
-      "name": "",
-      "description": ""
-    },
-    "Tree Club": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Tree Stride": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "range": ""
-        }
-      }
-    },
-    "Troll Spawn": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Troll": {
-          "name": ""
-        }
-      }
-    },
-    "Tunneler": {
-      "name": "",
-      "description": ""
-    },
-    "Umbral Dagger": {
-      "name": "",
-      "description": "",
-      "effects": {
-        "Poisoned & Paralyzed": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Undead Fortitude": {
-      "name": "",
-      "description": ""
-    },
-    "Undead Restoration": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Days: New Body": {
-          "name": "",
-          "roll": ""
-        }
-      }
-    },
-    "Unicorn's Blessing": {
-      "name": "",
-      "description": ""
-    },
-    "Unnerving Gaze": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "condition": ""
-        }
-      },
-      "effects": {
-        "Frightened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Unsettling Visage": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Frightened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Vampire Weakness": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Damage: Running Water": {
-          "name": "",
-          "chatFlavor": ""
+        "Stench": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Poisoned": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Damage: Sunlight": {
-          "name": "",
-          "chatFlavor": ""
+        "Sting": {
+            "name": "",
+            "description": ""
         },
-        "Staked to the Heart": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Disadv. Attacks & Checks": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Vampiric Connection": {
-      "name": "",
-      "description": ""
-    },
-    "Vanish": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Invisible": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Verdant Wisp": {
-      "name": "",
-      "description": ""
-    },
-    "Vile Appearance": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "save": {
-          "target": ""
-        }
-      },
-      "effects": {
-        "Frightened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Vile Slime": {
-      "name": "",
-      "description": ""
-    },
-    "Vine Lash": {
-      "name": "",
-      "description": ""
-    },
-    "Vine Staff": {
-      "name": "",
-      "description": ""
-    },
-    "Vortex": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "range": "",
-          "target": ""
+        "Stone Club": {
+            "name": "",
+            "description": ""
         },
-        "Damage: Grappled": {
-          "name": "",
-          "target": ""
+        "Storm Blade": {
+            "name": "",
+            "description": ""
         },
-        "Escape Check": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Grappled": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "War Cry": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Temp. Healing": {
-          "name": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Attack: Advantage": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Water Breathing": {
-      "name": "",
-      "description": ""
-    },
-    "Water Form": {
-      "name": "",
-      "description": ""
-    },
-    "Water Susceptibility": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Cold Damage": {
-          "name": ""
-        }
-      }
-    },
-    "Weakening Breath": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Weakened": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Web": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Restrained": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Web Strand": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Restrained": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Web Walker": {
-      "name": "",
-      "description": ""
-    },
-    "Weight of Years": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": ""
+        "Storm Bolt": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Years Older": {
-          "name": "",
-          "roll": ""
-        }
-      },
-      "effects": {
-        "Exhaustion": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Whelm": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "range": ""
+        "Storm Sword": {
+            "name": "",
+            "description": ""
         },
-        "Damage: Start of Turn": {
-          "name": ""
+        "Stunning Screech": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Stunned": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         },
-        "Escape Check": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Grappled & Restrained": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Whirlwind": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Save": {
-          "name": "",
-          "chatFlavor": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
-    },
-    "Whirlwind of Sand": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": "",
-          "condition": "",
-          "target": ""
-        }
-      },
-      "effects": {
-        "+2 AC": {
-          "name": "",
-          "description": ""
+        "Succubus Form": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Shape-Shift: Succubus": {
+                    "name": "",
+                    "profiles": {
+                        "Succubus": {
+                            "name": ""
+                        }
+                    }
+                }
+            }
         },
-        "Blinded": {
-          "name": "",
-          "description": ""
+        "Sunlight Sensitivity": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Sunlight Weakness": {
+            "name": "",
+            "description": "",
+            "requirements": ""
+        },
+        "Swallow": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "target": ""
+                },
+                "Damage: Swallowed": {
+                    "name": "",
+                    "target": ""
+                },
+                "Regurgitate: Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Blinded, Restrained, and Total Cover": {
+                    "name": "",
+                    "description": ""
+                },
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Swarm": {
+            "name": "",
+            "description": ""
+        },
+        "Swarm of Grasping Hands": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Bloodied Attack": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Swoop": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "target": ""
+                }
+            }
+        },
+        "Tail": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Tail Spike": {
+            "name": "",
+            "description": ""
+        },
+        "Tail Stinger": {
+            "name": "",
+            "description": ""
+        },
+        "Tail Swipe": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Talons": {
+            "name": "",
+            "description": ""
+        },
+        "Telepathic Bond": {
+            "name": "",
+            "description": ""
+        },
+        "Teleport": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            }
+        },
+        "Tentacle": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Escape Check": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Tentacle Slam": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Stunned": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Tentacles": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Escape Check": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Thorn Burst": {
+            "name": "",
+            "description": ""
+        },
+        "Thunderbolt": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Blinded & Deafened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Thunderclap": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Deafened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Thundercloud": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Incapacitated": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Thunderous Bellow": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Deafened & Frightened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Thunderous Mace": {
+            "name": "",
+            "description": ""
+        },
+        "Thunderous Slam": {
+            "name": "",
+            "description": ""
+        },
+        "Touch": {
+            "name": "",
+            "description": ""
+        },
+        "Toxic Ink": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Blinded & Poisoned": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Training": {
+            "name": "",
+            "description": ""
+        },
+        "Trample": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            }
+        },
+        "Trampling Charge": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Transparent": {
+            "name": "",
+            "description": ""
+        },
+        "Trash Lob": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Poisoned": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Treasure Sense": {
+            "name": "",
+            "description": ""
+        },
+        "Tree Club": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Tree Stride": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "range": ""
+                }
+            }
+        },
+        "Troll Spawn": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Troll": {
+                    "name": ""
+                }
+            }
+        },
+        "Tunneler": {
+            "name": "",
+            "description": ""
+        },
+        "Umbral Dagger": {
+            "name": "",
+            "description": "",
+            "effects": {
+                "Poisoned & Paralyzed": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Undead Fortitude": {
+            "name": "",
+            "description": ""
+        },
+        "Undead Restoration": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Days: New Body": {
+                    "name": "",
+                    "roll": ""
+                }
+            }
+        },
+        "Unicorn's Blessing": {
+            "name": "",
+            "description": ""
+        },
+        "Unnerving Gaze": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "condition": ""
+                }
+            },
+            "effects": {
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Unsettling Visage": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Vampire Weakness": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Damage: Running Water": {
+                    "name": "",
+                    "chatFlavor": ""
+                },
+                "Damage: Sunlight": {
+                    "name": "",
+                    "chatFlavor": ""
+                },
+                "Staked to the Heart": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Disadv. Attacks & Checks": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Vampiric Connection": {
+            "name": "",
+            "description": ""
+        },
+        "Vanish": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Invisible": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Verdant Wisp": {
+            "name": "",
+            "description": ""
+        },
+        "Vile Appearance": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "save": {
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Frightened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Vile Slime": {
+            "name": "",
+            "description": ""
+        },
+        "Vine Lash": {
+            "name": "",
+            "description": ""
+        },
+        "Vine Staff": {
+            "name": "",
+            "description": ""
+        },
+        "Vortex": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "range": "",
+                    "target": ""
+                },
+                "Damage: Grappled": {
+                    "name": "",
+                    "target": ""
+                },
+                "Escape Check": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "War Cry": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Temp. Healing": {
+                    "name": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Attack: Advantage": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Water Breathing": {
+            "name": "",
+            "description": ""
+        },
+        "Water Form": {
+            "name": "",
+            "description": ""
+        },
+        "Water Susceptibility": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Cold Damage": {
+                    "name": ""
+                }
+            }
+        },
+        "Weakening Breath": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Weakened": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Web": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Web Strand": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Web Walker": {
+            "name": "",
+            "description": ""
+        },
+        "Weight of Years": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": ""
+                },
+                "Years Older": {
+                    "name": "",
+                    "roll": ""
+                }
+            },
+            "effects": {
+                "Exhaustion": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Whelm": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "range": ""
+                },
+                "Damage: Start of Turn": {
+                    "name": ""
+                },
+                "Escape Check": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Grappled & Restrained": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Whirlwind": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Save": {
+                    "name": "",
+                    "chatFlavor": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Whirlwind of Sand": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": "",
+                    "condition": "",
+                    "target": ""
+                }
+            },
+            "effects": {
+                "+2 AC": {
+                    "name": "",
+                    "description": ""
+                },
+                "Blinded": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        },
+        "Wind Swipe": {
+            "name": "",
+            "description": ""
+        },
+        "Wishes": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Cast Wish": {
+                    "name": ""
+                }
+            }
+        },
+        "Withering Sword": {
+            "name": "",
+            "description": ""
+        },
+        "Withering Touch": {
+            "name": "",
+            "description": ""
+        },
+        "World-Shaking Movement": {
+            "name": "",
+            "description": "",
+            "activities": {
+                "Expend Use": {
+                    "name": ""
+                }
+            },
+            "effects": {
+                "Prone": {
+                    "name": "",
+                    "description": ""
+                }
+            }
         }
-      }
-    },
-    "Wind Swipe": {
-      "name": "",
-      "description": ""
-    },
-    "Wishes": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Cast Wish": {
-          "name": ""
-        }
-      }
-    },
-    "Withering Sword": {
-      "name": "",
-      "description": ""
-    },
-    "Withering Touch": {
-      "name": "",
-      "description": ""
-    },
-    "World-Shaking Movement": {
-      "name": "",
-      "description": "",
-      "activities": {
-        "Expend Use": {
-          "name": ""
-        }
-      },
-      "effects": {
-        "Prone": {
-          "name": "",
-          "description": ""
-        }
-      }
     }
-  }
 }
