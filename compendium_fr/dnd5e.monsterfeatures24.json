@@ -21,114 +21,114 @@
             }
         },
         "Abyssal Glaive": {
-            "name": "",
-            "description": ""
+            "name": "Coutille abyssale",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
         },
         "Acid Absorption": {
-            "name": "",
-            "description": "",
-            "requirements": "",
+            "name": "Absorption de l'acide",
+            "description": "<p>Chaque fois que le [[lookup @name lowercase]] est soumis à des dégâts d'&Reference[Acid]{acide}, il ne subit aucun dégâts et récupère en fait autant de points de vie que les dégâts d'acide ainsi évités.</p>",
+            "requirements": "Soumis à des dégâts d'acide",
             "effects": {
                 "Acid Absorption": {
-                    "name": "",
-                    "description": ""
+                    "name": "Absorption de l'acide",
+                    "description": "<p>La créature est immunisée contre les dégâts d'acide et récupère en fait autant de points de vie que les dégâts d'acide ainsi évités.</p>"
                 }
             }
         },
         "Acid Breath": {
-            "name": "",
-            "description": ""
+            "name": "Souffle d'acide",
+            "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=qNI6W02jCUQbPpYE]], chaque créature dans une Ligne de [[lookup @target.template.size activity=qNI6W02jCUQbPpYE]] [[lookup @target.template.units activity=qNI6W02jCUQbPpYE]] de long sur [[lookup @target.template.width activity=qNI6W02jCUQbPpYE]] [[lookup @target.template.units activity=qNI6W02jCUQbPpYE]] de large.</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
         },
         "Acid Spray": {
-            "name": "",
-            "description": ""
+            "name": "Aspersion acide",
+            "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=20GU2JBM5zJfNPD1]], chaque créature dans une Ligne de [[lookup @target.template.size activity=20GU2JBM5zJfNPD1]] [[lookup @target.template.units activity=20GU2JBM5zJfNPD1]] de long sur [[lookup @target.template.width activity=20GU2JBM5zJfNPD1]] [[lookup @target.template.units activity=20GU2JBM5zJfNPD1]] de large. <em>Échec :</em> [[/damage average]]. <em>Réussite :</em> demi-dégâts.</p>"
         },
         "Adhesive (Object Form Only)": {
-            "name": "",
-            "description": "",
-            "requirements": "",
+            "name": "Engluage (forme d'objet uniquement)",
+            "description": "<p class=\"feature\">La [[lookup @name lowercase]] adhère à tout ce qui la touche. Une créature de taille TG ou inférieure à laquelle la [[lookup @name lowercase]] adhère subit l'état &Reference[Grappled apply=false] (évasion DD [[lookup @skills.ath.passive]]). Les tests de caractéristique visant à s'extraire de cette prise subissent le Désavantage.</p>",
+            "requirements": "Forme d'objet uniquement",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 },
                 "Escape Check": {
-                    "name": ""
+                    "name": "Test de libération"
                 }
             },
             "effects": {
                 "Grappled": {
-                    "name": "",
-                    "description": ""
+                    "name": "Agrippé",
+                    "description": "<p>La cible subit l'état &Reference[Grappled apply=false] (évasion DD [[/check ability=str skill=ath]], voir l'objet source pour le DD). Les tests de caractéristique visant à s'extraire de cette prise subissent le Désavantage.</p>"
                 }
             }
         },
         "Agile": {
-            "name": "",
-            "description": ""
+            "name": "Agile",
+            "description": "<p>Le [[lookup @name lowercase]] ne provoque pas d'&Reference[opportunityattacks]{attaque d'Opportunité} lorsqu'il quitte l'allonge d'un ennemi en se déplaçant.</p>"
         },
         "Air Form": {
-            "name": "",
-            "description": ""
+            "name": "Corps d'air",
+            "description": "<p>L'[[lookup @name lowercase]] peut entrer dans l'espace d'une créature et s'y arrêter. Il peut se déplacer dans un espace étroit d'une largeur minimale de 2,5 cm sans dépense supplémentaire en déplacement.</p>"
         },
         "Amorphous": {
-            "name": "",
-            "description": ""
+            "name": "Informe",
+            "description": "<p>Le [[lookup @name lowercase]] peut se déplacer dans un espace étroit d'une largeur minimale de 2,5 cm sans dépense supplémentaire en déplacement.</p>"
         },
         "Amphibious": {
-            "name": "",
-            "description": ""
+            "name": "Amphibie",
+            "description": "<p>Le [[lookup @name lowercase]] peut respirer sous l'eau comme à l'air libre.</p>"
         },
         "Animate Trees": {
-            "name": "",
-            "description": "",
+            "name": "Animation des arbres",
+            "description": "<p>Le [[lookup @name lowercase]] anime magiquement [[lookup @target.affects.special activity=EceTNjzjKWdrMNAy]] qu'il voit dans un rayon de [[lookup @range.value activity=EceTNjzjKWdrMNAy]] [[lookup @range.units activity=EceTNjzjKWdrMNAy]]. Chaque arbre reprend le profil du @UUID[Compendium.dnd-monster-manual.actors.Actor.mmTreant00000000]{sylvanien}, si ce n'est que ses valeurs d'Intelligence et de Charisme sont de 1, qu'il ne parle pas et ne dispose pas de la présente action. L'arbre joue son tour juste après le [[lookup @name lowercase]], au même rang d'initiative, et obéit à celui-ci. Cette animation dure 1 jour, mais prend fin prématurément si l'arbre ou le [[lookup @name lowercase]] meurt, ou si les deux se retrouvent éloignés de plus de 36 m. L'arbre prend alors racine, si possible.</p>",
             "activities": {
                 "summon": {
-                    "target": ""
+                    "target": "un ou deux arbres"
                 }
             },
             "effects": {
                 "Animate Trees": {
-                    "name": "",
-                    "description": ""
+                    "name": "Animation des arbres",
+                    "description": "<p>L'arbre a des valeurs d'Intelligence et de Charisme de 1, ne parle pas et ne dispose pas de l'action Animation des arbres.</p>"
                 }
             }
         },
         "Antennae": {
-            "name": "",
-            "description": "",
+            "name": "Antennes",
+            "description": "<p>L'[[lookup @name lowercase]] cible un objet en [[lookup @target.affects.special activity=dcSC7EuknnM0uoqY]], armure ou arme, porté par une créature dans un rayon de [[lookup @range.value activity=dcSC7EuknnM0uoqY]] [[lookup @range.units activity=dcSC7EuknnM0uoqY]]. <em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=dcSC7EuknnM0uoqY]], la créature porteuse de l'objet. <em>Échec :</em> l'objet subit un malus de -1 à la CA qu'il octroie (armure) ou à ses jets d'attaque (arme). L'armure est détruite si ce malus réduit sa CA à 10, et l'arme est détruite quand le malus cumulé atteint -5. On peut annuler ce malus en lançant le sort <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplMending000]{réparation}</em> sur l'arme ou l'armure concernée.</p><section class=\"secret\" id=\"secret-4QbvfWBnYI6ImcGC\"><p><strong>Note Foundry</strong></p><p>Cette aptitude fournit également un effet d'enchantement <strong>Endommagé</strong> qui modifiera l'objet ciblé. Le malus d'équipement pouvant être appliqué plusieurs fois, l'enchantement doit être glissé de l'onglet Effets de cet objet vers la feuille de l'objet ciblé.</p></section>",
             "activities": {
                 "save": {
-                    "target": ""
+                    "target": "métal non magique"
                 }
             },
             "effects": {
                 "Damaged: -1 AC/Attack": {
-                    "name": "",
-                    "description": ""
+                    "name": "Endommagé : -1 CA/Attaque",
+                    "description": "<p>L'objet subit un malus de -1 à la CA qu'il octroie (armure) ou à ses jets d'attaque (arme). L'armure est détruite si ce malus réduit sa CA à 10, et l'arme est détruite quand le malus cumulé atteint -5. On peut annuler ce malus en lançant le sort <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplMending000]{réparation}</em> sur l'arme ou l'armure concernée.</p>"
                 }
             }
         },
         "Aquatic Charge": {
-            "name": "",
-            "description": "",
+            "name": "Charge aquatique",
+            "description": "<p>Le [[lookup @name lowercase]] nage en ligne droite dans les limites de sa Vitesse de nage vers un ennemi qu'il voit.</p>",
             "activities": {
                 "Expend Use": {
-                    "name": "",
-                    "target": ""
+                    "name": "Dépenser utilisation",
+                    "target": "la cible est visible"
                 }
             }
         },
         "Arcane Burst": {
-            "name": "",
-            "description": ""
+            "name": "Jaillissement arcanique",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
         },
         "Arcane Prowl": {
-            "name": "",
-            "description": "",
+            "name": "Traque arcanique",
+            "description": "<p>Le [[lookup @name lowercase]] se téléporte en un espace inoccupé qu'il voit dans un rayon de [[lookup @range.value activity=a3RqyzU0UqzLJif0]] [[lookup @range.units activity=a3RqyzU0UqzLJif0]], et il effectue une attaque de [[/item Griffe]].</p>",
             "activities": {
                 "Expend Use": {
-                    "name": "",
-                    "target": ""
+                    "name": "Dépenser utilisation",
+                    "target": "espace inoccupé"
                 }
             }
         },
