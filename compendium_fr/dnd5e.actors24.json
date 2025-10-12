@@ -9486,7 +9486,7 @@
                 },
                 "Sting": {
                     "name": "Dard",
-                    "description": "<p><em>Attaque d'arme au corps à corps :</em> [[/attack]], allonge 1,50 m, une créature. <em>Touché :</em> 5 ([[/damage]]{1d6 + 2}) dégâts perforants plus 5 ([[/damage 2d4 poison]]{2d4}) dégâts de poison.</p>"
+                    "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 }
             }
         },
