@@ -1567,7 +1567,7 @@
                     "tooltip": "<p>Une maladie qui ne se limite pas à infecter quelques membres du groupe est avant tout un ressort narratif. Les règles vous permettent d’en décrire les effets et de définir comment la guérir, mais ne gèrent pas en bloc les spécificités propres à chaque maladie. Une maladie peut ne s’adresser qu’à une certaine catégorie de créatures et ne pas se transmettre aux autres, ou au contraire s’avérer plus universelle dans sa virulence. Telle épidémie pourrait ne concerner que les artificiels ou les morts-vivants, telle autre balayer tous les halfelins d’une ville sans même menacer les autres espèces. L’histoire que vous souhaitez narrer prime sur le reste.</p>"
                 },
                 "Strength Saving Throw": {
-                    "name": "Jet de sauvegarde de Force",
+                    "name": "JS Force",
                     "text": "<p>Effectuez un jet de sauvegarde de Force pour vous opposer à une force physique.</p>"
                 },
                 "Variant: Encumbrance (2014)": {
@@ -1575,23 +1575,23 @@
                     "text": "<p>Les règles de charge restent simples, à dessein. Voici une variante pour les joueurs qui souhaitent plus de précision dans la gestion de l'équipement et du fardeau qu'il peut représenter pour un personnage. Si vous recourez à cette variante, ne tenez pas compte de la colonne « Force » de la table « Armures ».</p><p>@Embed[.Ur7xWFlpVK5X8ueP inline]</p><p>@Embed[.RhVgQfF29CyStS22 inline]</p>"
                 },
                 "Charisma Saving Throw": {
-                    "name": "Jet de sauvegarde de Charisme",
+                    "name": "JS Charisme",
                     "text": "<p>Effectuez un jet de sauvegarde de Charisme pour affirmer votre identité.</p>"
                 },
                 "Wisdom Saving Throw": {
-                    "name": "Jet de sauvegarde de Sagesse",
+                    "name": "JS Sagesse",
                     "text": "<p>Effectuez un jet de sauvegarde de Sagesse pour résister à un assaut mental.</p>"
                 },
                 "Intelligence Saving Throw": {
-                    "name": "Jet de sauvegarde d'Intelligence",
+                    "name": "JS Intelligence",
                     "text": "<p>Effectuez un jet de sauvegarde d'Intelligence pour percer une illusion.</p>"
                 },
                 "Constitution Saving Throw": {
-                    "name": "Jet de sauvegarde de Constitution",
+                    "name": "JS Constitution",
                     "text": "<p>Effectuez un jet de sauvegarde de Constitution pour supporter un danger toxique.</p>"
                 },
                 "Dexterity Saving Throw": {
-                    "name": "Jet de sauvegarde de Dextérité",
+                    "name": "JS Dextérité",
                     "text": "<p>Effectuez un jet de sauvegarde de Dextérité pour esquiver un danger physique.</p>"
                 },
                 "Attacks Rolls and Damage": {
