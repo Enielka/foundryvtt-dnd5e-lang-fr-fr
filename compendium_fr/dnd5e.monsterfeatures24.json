@@ -133,336 +133,336 @@
             }
         },
         "Attach": {
-            "name": "",
-            "description": "",
+            "name": "Drapement",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature de taille G ou inférieure, le [[lookup @name lowercase]] l'enveloppe. Tant que le [[lookup @name lowercase]] est ainsi drapé autour de la cible, celle-ci subit l'état &Reference[Blinded apply=false] et le [[lookup @name lowercase]] ne peut pas effectuer d'attaque de Drapement sur une autre cible. En outre, le [[lookup @name lowercase]] divise par deux les dégâts qu'il subit (arrondis à l'inférieur), et la cible subit le même montant de dégâts.</p><p>Pour se décrocher, le [[lookup @name lowercase]] doit dépenser 1,50 m de déplacement. La cible ou une créature dans un rayon de [[lookup @range.value activity=6iLqAufAeEqDOlGs]] [[lookup @range.units activity=6iLqAufAeEqDOlGs]] peut entreprendre une action pour tenter de décrocher le [[lookup @name lowercase]], ce qui nécessite de réussir un test de Force (Athlétisme) DD [[lookup @check.dc.value activity=6iLqAufAeEqDOlGs]].</p>",
             "activities": {
                 "Detach Attempt": {
-                    "name": "",
-                    "condition": "",
-                    "target": ""
+                    "name": "Tentative de décrocher",
+                    "condition": "Action effectuée par la cible ou la créature se trouvant à portée",
+                    "target": "cible drapé"
                 }
             },
             "effects": {
                 "Attached: Blinded": {
-                    "name": "",
-                    "description": ""
+                    "name": "Drapé : Aveuglé",
+                    "description": "<p>Tant qu'elle est drapée, la cible subit l'état &Reference[Blinded apply=false].</p>"
                 }
             }
         },
         "Aura of Authority": {
-            "name": "",
-            "description": "",
-            "requirements": "",
+            "name": "Aura d'autorité",
+            "description": "<p>Tant qu'ils se trouvent dans une Émanation de [[lookup @target.template.size activity=dE4lg9tZyXtoCb5x]] [[lookup @target.template.units activity=dE4lg9tZyXtoCb5x]] centrée sur le [[lookup @name lowercase]] et à condition que celui-ci ne subisse pas l'état &Reference[Incapacitated apply=false], le [[lookup @name lowercase]] et ses alliés ont l'Avantage aux jets d'attaque et jets de sauvegarde.</p>",
+            "requirements": "Pas Neutralisé",
             "activities": {
                 "Expend Use": {
-                    "name": "",
-                    "condition": ""
+                    "name": "Dépenser utilisation",
+                    "condition": "ne subisse pas l'état Neutralisé"
                 }
             }
         },
         "Aversion to Fire": {
-            "name": "",
-            "description": "",
-            "requirements": "",
+            "name": "Aversion des flammes",
+            "description": "<p>Si le [[lookup @name lowercase]] subit des dégâts de feu, il subit le Désavantage aux jets d'attaque et tests de caractéristique jusqu'à la fin de son tour suivant.</p>",
+            "requirements": "Subit des dégâts de feu",
             "effects": {
                 "Averse": {
-                    "name": "",
-                    "description": ""
+                    "name": "Aversion",
+                    "description": "<p>Il subit le Désavantage aux jets d'attaque et tests de caractéristique jusqu'à la fin de son tour suivant.</p>"
                 }
             }
         },
         "Baleful Command": {
-            "name": "",
-            "description": "",
+            "name": "Injonction lugubre",
+            "description": "<p><em>JS Sagesse :</em> DD [[lookup @save.dc.value activity=SzU2lwdbqgoFMuBM]], chaque ennemi dans une Émanation de [[lookup @target.template.size activity=SzU2lwdbqgoFMuBM]] [[lookup @target.template.units activity=SzU2lwdbqgoFMuBM]] centrée sur le [[lookup @name lowercase]].</p><p><em>Échec :</em> [[/damage average]], et la cible subit l'état &Reference[Frightened apply=false] et &Reference[Incapacitated apply=false] jusqu'au début du tour suivant du [[lookup @name lowercase]].</p>",
             "effects": {
                 "Frightened & Incapacitated": {
-                    "name": "",
-                    "description": ""
+                    "name": "Effrayé et Neutralisé",
+                    "description": "<p>La cible subit l'état &Reference[Frightened apply=false] et &Reference[Incapacitated apply=false] jusqu'au début du tour suivant de l'utilisateur.</p>"
                 }
             }
         },
         "Banish": {
-            "name": "",
-            "description": "",
+            "name": "Bannissement",
+            "description": "<p><em>JS Charisme :</em> DD [[lookup @save.dc.value activity=kWKwiAYgyeKBLMNJ]], une créature que le [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=kWKwiAYgyeKBLMNJ]] [[lookup @range.units activity=kWKwiAYgyeKBLMNJ]].</p><p><em>Échec :</em> [[/damage average]] ; la cible subit l'état &Reference[Incapacitated apply=false] et elle est transportée sur un demi-plan qui ne présente pas de danger jusqu'au début du tour suivant du [[lookup @name lowercase]], puis elle réapparaît en un espace inoccupé au choix du [[lookup @name lowercase]] dans un rayon de [[lookup @range.value activity=kWKwiAYgyeKBLMNJ]] [[lookup @range.units activity=kWKwiAYgyeKBLMNJ]].</p><p><em>Échec ou réussite :</em> le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action [[lookup @duration.special activity=kWKwiAYgyeKBLMNJ]].</p>",
             "activities": {
                 "save": {
-                    "duration": "",
-                    "target": ""
+                    "duration": "jusqu'au début de son tour suivant",
+                    "target": "la cible est visible"
                 }
             },
             "effects": {
                 "Banished: Incapacitated": {
-                    "name": "",
-                    "description": ""
+                    "name": "Banni : Neutralisé",
+                    "description": "<p>La cible subit l'état &Reference[Incapacitated apply=false] et elle est transportée sur un demi-plan qui ne présente pas de danger jusqu'au début du tour suivant de l'utilisateur, puis elle réapparaît en un espace inoccupé au choix de l'utilisateur à portée de celui-ci.</p>"
                 }
             }
         },
         "Barbed Hide": {
-            "name": "",
-            "description": "",
+            "name": "Peau barbelée",
+            "description": "<p>Au début de chacun de ses tours, le [[lookup @name lowercase]] inflige [[/damage average]] à toute créature [[lookup @target.affects.special activity=1O5eyc72vPW0UxYZ]].</p>",
             "activities": {
                 "damage": {
-                    "condition": "",
-                    "target": ""
+                    "condition": "début de chacun de ses tours",
+                    "target": "qui l'agrippe ou que lui-même agrippe"
                 }
             }
         },
         "Beak": {
-            "name": "",
-            "description": ""
+            "name": "Bec",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
         },
         "Beaks": {
-            "name": "",
-            "description": "",
+            "name": "Becs",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]], ou [[/damage average activity=3m1SLqBeMGQF3UaQ]] si [[lookup @activation.condition activity=3m1SLqBeMGQF3UaQ]].</p>",
             "activities": {
                 "attack": {
-                    "condition": ""
+                    "condition": "nuée n'est pas En péril"
                 },
                 "Bloodied Attack": {
-                    "name": "",
-                    "condition": ""
+                    "name": "Attaquer En péril",
+                    "condition": "la nuée est &Reference[Bloodied apply=false]"
                 }
             }
         },
         "Beard": {
-            "name": "",
-            "description": "",
+            "name": "Barbe",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]], et la cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant du [[lookup @name lowercase]]. Tant que persiste l'empoisonnement, la cible ne peut pas récupérer de points de vie.</p>",
             "effects": {
                 "Poisoned": {
-                    "name": "",
-                    "description": ""
+                    "name": "Empoisonné",
+                    "description": "<p>La cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant de l'utilisateur. Tant que persiste l'empoisonnement, la cible ne peut pas récupérer de points de vie.</p>"
                 }
             }
         },
         "Beast of Burden": {
-            "name": "",
-            "description": "",
+            "name": "Bête de somme",
+            "description": "<p>La [[lookup @name lowercase]] est considérée comme d'une catégorie de taille de plus que la réalité lorsqu'il s'agit de déterminer sa capacité de charge.</p>",
             "effects": {
                 "Beast of Burden": {
-                    "name": ""
+                    "name": "Bête de somme"
                 }
             }
         },
         "Beguile": {
-            "name": "",
-            "description": ""
+            "name": "Subjugation",
+            "description": "<p>Le [[lookup @name lowercase]] lance <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCommand000]{injonction}</em> sans composantes de sort, le Charisme étant sa caractéristique d'incantation (DD de sauvegarde [[lookup @abilities.cha.dc]]). Le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>"
         },
         "Berserk": {
-            "name": "",
-            "description": "",
+            "name": "Folie furieuse",
+            "description": "<p>Chaque fois que le [[lookup @name lowercase]] commence son tour &Reference[Bloodied], lancez [[/r 1d6]]. Sur un résultat de 6, il devient fou. À chacun de ses tours tant qu'il est dans cet état, le [[lookup @name lowercase]] attaque la créature la plus proche qu'il voit. Si aucune créature n'est assez proche pour qu'il puisse se déplacer et l'attaquer, le [[lookup @name lowercase]] s'en prend à un objet. Une fois le [[lookup @name lowercase]] devenu fou, il le reste jusqu'à sa destruction ou qu'il ne soit plus En péril.</p><p>Le créateur du [[lookup @name lowercase]], s'il est dans un rayon de [[lookup @range.value activity=tnkOsrSwEElO2kZM]] [[lookup @range.units activity=tnkOsrSwEElO2kZM]] du [[lookup @name lowercase]] fou furieux, peut tenter de l'apaiser au prix d'une action et d'un test de [[/check ability=cha skill=per dc=@abilities.str.dc]] à condition que le [[lookup @name lowercase]] l'entende. En cas de réussite, la folie furieuse cesse pour le [[lookup @name lowercase]] jusqu'au début de son tour suivant, après quoi il est de nouveau soumis aux jets de 1d6 du trait s'il est encore En péril.</p>",
             "activities": {
                 "Berserk Check": {
-                    "name": "",
-                    "roll": "",
-                    "condition": ""
+                    "name": "Test Folie furieuse",
+                    "roll": "Folie furieuse sur un résultat de 6",
+                    "condition": "commence son tour &Reference[Bloodied]"
                 },
                 "Calm Check": {
-                    "name": "",
-                    "condition": "",
-                    "target": ""
+                    "name": "Test d'apaisement",
+                    "condition": "Action effectuée par le créateur de la créature",
+                    "target": "cette créature"
                 }
             },
             "effects": {
                 "Berserk": {
-                    "name": "",
-                    "description": ""
+                    "name": "Folie furieuse",
+                    "description": "<p>À chacun de ses tours tant qu'il est dans cet état, la créature attaque la créature la plus proche qu'il voit. Si aucune créature n'est assez proche pour qu'il puisse se déplacer et l'attaquer, la créature s'en prend à un objet. Une fois la créature devenu fou, il le reste jusqu'à sa destruction ou qu'il ne soit plus &Reference[Bloodied apply=false].</p>"
                 }
             }
         },
         "Bite": {
-            "name": "",
-            "description": "",
-            "uname": ""
+            "name": "Morsure",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
+            "uname": "Arme non identifiée"
         },
         "Bites": {
-            "name": "",
-            "description": "",
+            "name": "Morsures",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]], ou [[/damage average activity=3Yo83eZUNwX51AcE]] si [[lookup @activation.condition activity=3Yo83eZUNwX51AcE]].</p>",
             "activities": {
                 "Bloodied Attack": {
-                    "name": "",
-                    "condition": ""
+                    "name": "Attaquer En péril",
+                    "condition": "la nuée est &Reference[Bloodied]"
                 }
             }
         },
         "Bladed Arm": {
-            "name": "",
-            "description": ""
+            "name": "Lame brachiale",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
         },
         "Blazing Light": {
-            "name": "",
-            "description": ""
+            "name": "Lumière aveuglante",
+            "description": "<p>Le [[lookup @name lowercase]] recourt à Incantation pour lancer <em>[[/item Rayon ardent]]{rayon ardent}</em>.</p>"
         },
         "Blinding Breath": {
-            "name": "",
-            "description": "",
+            "name": "Souffle aveuglant",
+            "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=soAO2jRWos8FsxeU]], chaque créature dans un Cône de [[lookup @target.template.size activity=soAO2jRWos8FsxeU]] [[lookup @target.template.units activity=soAO2jRWos8FsxeU]]. <em>Échec :</em> la cible subit l'état &Reference[Blinded apply=false] jusqu'à la fin du tour suivant du [[lookup @name lowercase]].</p>",
             "effects": {
                 "Blinded": {
-                    "name": "",
-                    "description": ""
+                    "name": "Aveuglé",
+                    "description": "<p>La cible subit l'état &Reference[Blinded apply=false] jusqu'à la fin du tour suivant de l'utilisateur.</p>"
                 }
             }
         },
         "Blinding Gaze": {
-            "name": "",
-            "description": "",
+            "name": "Regard aveuglant",
+            "description": "<p><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=B6xM8C2pABIb5o7y]], une créature que le [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=B6xM8C2pABIb5o7y]] [[lookup @range.units activity=B6xM8C2pABIb5o7y]]. <em>Échec :</em> la cible subit l'état &Reference[Blinded apply=false] pendant 1 minute. <em>Échec ou réussite :</em> le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>",
             "effects": {
                 "Blinded": {
-                    "name": ""
+                    "name": "Aveuglé"
                 }
             }
         },
         "Blinding Spittle": {
-            "name": "",
-            "description": "",
+            "name": "Crachat aveuglant",
+            "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=JfU8KFZkAJxWtrhk]], chaque créature dans une Sphère de [[lookup @target.template.size activity=JfU8KFZkAJxWtrhk]] [[lookup @target.template.units activity=JfU8KFZkAJxWtrhk]] de rayon centrée sur un point dans un rayon de [[lookup @range.value activity=JfU8KFZkAJxWtrhk]] [[lookup @range.units activity=JfU8KFZkAJxWtrhk]]. <em>Échec :</em> [[/damage average]], et la cible subit l'état &Reference[Blinded apply=false] jusqu'à la fin du tour suivant du [[lookup @name lowercase]].</p>",
             "effects": {
                 "Blinded": {
-                    "name": "",
-                    "description": ""
+                    "name": "Aveuglé",
+                    "description": "<p>La cible subit l'état &Reference[Blinded apply=false] jusqu'à la fin du tour suivant de l'utilisateur.</p>"
                 }
             }
         },
         "Blood Frenzy": {
-            "name": "",
-            "description": ""
+            "name": "Frénésie sanguinaire",
+            "description": "<p>Le [[lookup @name lowercase]] a l'Avantage aux jets d'attaque contre toute créature à laquelle il manque des points de vie.</p>"
         },
         "Bloodied Frenzy": {
-            "name": "",
-            "description": "",
-            "requirements": ""
+            "name": "Frénésie du péril",
+            "description": "<p>Tant qu'il est &Reference[Bloodied], le [[lookup @name lowercase]] a l'Avantage aux jets d'attaque et jets de sauvegarde.</p>",
+            "requirements": "Tant qu'il est En péril"
         },
         "Bloodied Fury": {
-            "name": "",
-            "description": "",
-            "requirements": ""
+            "name": "Fureur du péril",
+            "description": "<p>Tant qu'il est &Reference[Bloodied], le [[lookup @name lowercase]] a l'Avantage aux jets d'attaque.</p>",
+            "requirements": "Tant qu'il est En péril"
         },
         "Blurred Form": {
-            "name": "",
-            "description": "",
-            "requirements": ""
+            "name": "Forme floue",
+            "description": "<p>Les jets d'attaque contre le [[lookup @name lowercase]] subissent le Désavantage sauf si le [[lookup @name lowercase]] subit l'état &Reference[Incapacitated apply=false].</p>",
+            "requirements": "Pas Neutralisé"
         },
         "Bone Bow": {
-            "name": "",
-            "description": ""
+            "name": "Arc en os",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
         },
         "Bone Cudgel": {
-            "name": "",
-            "description": ""
+            "name": "Gourdin en os",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
         },
         "Boulder": {
-            "name": "",
-            "description": "",
+            "name": "Rocher",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature de taille G ou inférieure, elle subit l'état &Reference[Prone].</p>",
             "effects": {
                 "Prone": {
-                    "name": "",
-                    "description": ""
+                    "name": "À terre",
+                    "description": "<p>Si la cible est une créature de taille G ou inférieure, elle subit l'état &Reference[Prone].</p>"
                 }
             }
         },
         "Boulder Toss": {
-            "name": "",
-            "description": ""
+            "name": "Jet de rocher",
+            "description": "<p>Le [[lookup @name lowercase]] projette un rocher en un point qu'il voit dans un rayon de [[lookup @range.value activity=jpC3fk7LJlhH4CDr]] [[lookup @range.units activity=jpC3fk7LJlhH4CDr]].</p><p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=jpC3fk7LJlhH4CDr]], chaque créature dans une Sphère de [[lookup @target.template.size activity=jpC3fk7LJlhH4CDr]] [[lookup @target.template.units activity=jpC3fk7LJlhH4CDr]] centrée sur ce point.</p><p><em>Échec :</em> [[/damage average]]. Si la cible est une créature de taille G ou inférieure, elle subit l'état &Reference[Prone].</p><p><em>Réussite :</em> demi-dégâts uniquement.</p>"
         },
         "Bound": {
-            "name": "",
-            "description": ""
+            "name": "Pacte magique",
+            "description": "<p>Le [[lookup @name lowercase]] est magiquement lié à une amulette. Tant que le [[lookup @name lowercase]] et son amulette sont sur le même plan d'existence, le porteur de l'amulette peut ordonner télépathiquement au [[lookup @name lowercase]] de se rendre auprès de l'objet, l'Artificiel ayant une notion précise de la distance qui le sépare de l'amulette et de sa direction. Si le [[lookup @name lowercase]] se trouve dans un rayon de 18 m du porteur de l'amulette, la moitié des dégâts subis par le porteur (arrondis au supérieur) sont en fait transférés sur le [[lookup @name lowercase]].</p>"
         },
         "Bubble Dash": {
-            "name": "",
-            "description": "",
-            "requirements": "",
+            "name": "Accélération bulleuse",
+            "description": "<p>Alors qu'il est sous l'eau, l'[[lookup @name lowercase]] se déplace à concurrence de sa Vitesse de nage sans provoquer d'&Reference[Opportunity Attacks]{attaques d'Opportunité}.</p>",
+            "requirements": "Alors qu'il est sous l'eau",
             "activities": {
                 "utility": {
-                    "condition": ""
+                    "condition": "Alors qu'il est sous l'eau"
                 }
             }
         },
         "Burn": {
-            "name": "",
-            "description": "",
+            "name": "Brûlure",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature ou un objet inflammable, elle s'&Reference[burning]{embrase}.</p>",
             "effects": {
                 "Burning": {
-                    "name": "",
-                    "description": ""
+                    "name": "Embrasement",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.mPBGM1vguT5IPzxT caption=false]</p>"
                 }
             }
         },
         "Burning Hammer": {
-            "name": "",
-            "description": ""
+            "name": "Marteau ardent",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
         },
         "Burst of Ingenuity": {
-            "name": "",
-            "description": ""
+            "name": "Accès d'ingéniosité",
+            "description": "<p><em>Déclencheur :</em> le [[lookup @name lowercase]] ou une autre créature dans un rayon de [[lookup @range.value activity=AyYipNx3cFaXA0LU]] [[lookup @range.units activity=AyYipNx3cFaXA0LU]] effectue un jet de sauvegarde ou un test de caractéristique. <em>Conséquences :</em> le sphinx ajoute 2 au jet.</p>"
         },
         "Cacophony": {
-            "name": "",
-            "description": "",
+            "name": "Cacophonie",
+            "description": "<p><em>JS Sagesse :</em> DD [[lookup @save.dc.value activity=pyvvXqoxJsjkkP38]], une créature dans l'espace de la [[lookup @name lowercase]]. <em>Échec :</em> la cible subit l'état &Reference[Deafened apply=false] jusqu'au début du tour suivant de la [[lookup @name lowercase]]. Ainsi Assourdie, la cible subit aussi le Désavantage aux tests de caractéristique et aux jets d'attaque.</p>",
             "effects": {
                 "Deafened and Disadvantaged": {
-                    "name": "",
-                    "description": ""
+                    "name": "Assourdi et Désavantagé",
+                    "description": "<p>La cible subit l'état &Reference[Deafened apply=false] jusqu'au début du tour suivant de l'utilisateur. Ainsi Assourdie, la cible subit aussi le Désavantage aux tests de caractéristique et aux jets d'attaque.</p>"
                 }
             }
         },
         "Captain's Charm": {
-            "name": "",
-            "description": "",
+            "name": "Charme du capitaine",
+            "description": "<p><em>JS Sagesse :</em> DD [[lookup @save.dc.value activity=3o27u4Ww7SmCgc8k]], une créature que le [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=3o27u4Ww7SmCgc8k]] [[lookup @range.units activity=3o27u4Ww7SmCgc8k]].</p><p><em>Échec :</em> la cible subit l'état &Reference[Charmed apply=false] jusqu'au début du tour suivant du [[lookup @name lowercase]].</p>",
             "effects": {
                 "Charmed": {
-                    "name": "",
-                    "description": ""
+                    "name": "Charmé",
+                    "description": "<p>La cible subit l'état &Reference[Charmed apply=false] jusqu'au début du tour suivant de l'utilisateur.</p>"
                 }
             }
         },
         "Celestial Restoration": {
-            "name": "",
-            "description": ""
+            "name": "Restauration céleste",
+            "description": "<p>Quand le [[lookup @name lowercase]] meurt, il revient à la vie au bout de [[/r 1d6#Jours]] jours avec tous ses points de vie, sauf si <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDispelEvil]{dissipation du mal et du bien}</em> est lancé sur son cadavre.</p>"
         },
         "Chain": {
-            "name": "",
-            "description": "",
+            "name": "Chaîne",
+            "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature de taille G ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[lookup @skills.ath.passive]]) par l'une des deux chaînes, ainsi que l'état &Reference[Restrained apply=false] tant qu'elle est Agrippée.</p>",
             "effects": {
                 "Grappled & Restrained": {
-                    "name": "",
-                    "description": ""
+                    "name": "Agrippé et Entravé",
+                    "description": "<p>Si la cible est une créature de taille G ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[/check ability=str skill=ath format=long]], voir l'objet source pour le DD) par l'une des deux chaînes, ainsi que l'état &Reference[Restrained apply=false] tant qu'elle est Agrippée.</p>"
                 }
             }
         },
         "Channel Negative Energy": {
-            "name": "",
-            "description": ""
+            "name": "Conduit d'énergie négative",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
         },
         "Charge": {
-            "name": "",
-            "description": "",
+            "name": "Charge",
+            "description": "<p>Le [[lookup @name lowercase]] se déplace à concurrence de la [[lookup @range.special activity=Y2IncZu5BjB42z7l]] en ligne droite vers un ennemi qu'il voit.</p>",
             "activities": {
                 "Expend Use": {
-                    "name": "",
-                    "range": ""
+                    "name": "Dépenser utilisation",
+                    "range": "moitié de sa Vitesse"
                 }
             }
         },
         "Charged Tendril": {
-            "name": "",
-            "description": ""
+            "name": "Vrille électrisée",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature de Taille M ou inférieure, le [[lookup @name lowercase]] la tire en ligne droite vers lui de 1,50 m.</p>"
         },
         "Charging Horn": {
-            "name": "",
-            "description": "",
+            "name": "Corne la première",
+            "description": "<p>La [[lookup @name lowercase]] se déplace à concurrence de la moitié de sa Vitesse sans provoquer d'&Reference[Opportunity Attacks]{attaques d'Opportunité}, et elle effectue une attaque de [[/item Corne radiante]].</p>",
             "activities": {
                 "Expend Use": {
-                    "name": "",
-                    "range": ""
+                    "name": "Dépenser utilisation",
+                    "range": "moitié de sa Vitesse"
                 }
             }
         },
         "Charm": {
-            "name": "",
-            "description": ""
+            "name": "Charme",
+            "description": "<p>Le [[lookup @name lowercase]] lance <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCharmPerso]{charme-personne}</em> sans composantes de sort, le Charisme étant sa caractéristique d'incantation (DD de sauvegarde [[lookup @abilities.cha.dc]]) et la durée étant de [[lookup @duration.value activity=fcRXSTOlFJShCl52]] heures. La cible &Reference[Charmed apply=false]{Charmée} est aussi un sujet consentant de la [[/item Morsure]] du [[lookup @name lowercase]], dont les dégâts ne mettent pas fin au sort. Quand le sort prend fin, la cible ignore qu'elle a été Charmée par le [[lookup @name lowercase]].</p>"
         },
         "Chill": {
-            "name": "",
-            "description": ""
+            "name": "On ne bouge plus",
+            "description": "<p>Le [[lookup @name lowercase]] recourt à [[/item Incantation]] pour lancer <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplHoldMonste]{immobilisation de monstre}</em>. Le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>"
         },
         "Claw": {
             "name": "",
