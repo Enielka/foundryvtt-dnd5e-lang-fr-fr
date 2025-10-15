@@ -465,566 +465,566 @@
             "description": "<p>Le [[lookup @name lowercase]] recourt à [[/item Incantation]] pour lancer <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplHoldMonste]{immobilisation de monstre}</em>. Le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>"
         },
         "Claw": {
-            "name": "",
-            "description": ""
+            "name": "Griffe",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
         },
         "Claws": {
-            "name": "",
-            "description": "",
+            "name": "Pinces",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature de taille G ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[lookup @skills.ath.passive]]), ainsi que l'état &Reference[Restrained apply=false] tant qu'elle est Agrippée.</p>",
             "activities": {
                 "Escape Check": {
-                    "name": ""
+                    "name": "Test de libération"
                 }
             },
             "effects": {
                 "Grappled and Restrained": {
-                    "name": "",
-                    "description": ""
+                    "name": "Agrippé et Entravé",
+                    "description": "<p>Si la cible est une créature de taille G ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[/check ability=str skill=ath format=long]], voir l'objet source pour le DD), ainsi que l'état &Reference[Restrained apply=false] tant qu'elle est Agrippée.</p><p><strong>Tests d'évasion (voir l'objet source pour le DD)</strong></p><p>[[/check skill=ath ability=str]]</p><p>[[/check skill=acr ability=dex]]</p>"
                 }
             }
         },
         "Cloaked Flight": {
-            "name": "",
-            "description": ""
+            "name": "Envol furtif",
+            "description": "<p>Le [[lookup @name lowercase]] recourt à [[/item Incantation]] pour lancer <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplInvisibili]{invisibilité}</em> sur lui-même et il peut voler à concurrence de la moitié de Vitesse de vol. Le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>"
         },
         "Cloud of Insects": {
-            "name": "",
-            "description": "",
+            "name": "Nuage d'insectes",
+            "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=0OkFhjOM80ipoNKy]], une créature que le [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=0OkFhjOM80ipoNKy]] [[lookup @range.units activity=0OkFhjOM80ipoNKy]].</p><p><em>Échec :</em> [[/damage average]], et la cible subit le Désavantage aux jets de sauvegarde visant à maintenir sa &Reference[Concentration], jusqu'à la fin de son tour suivant.</p><p><em>Échec ou réussite :</em> le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>",
             "effects": {
                 "Clouded": {
-                    "name": "",
-                    "description": ""
+                    "name": "Nuageux",
+                    "description": "<p>La cible subit le Désavantage aux jets de sauvegarde visant à maintenir sa Concentration, jusqu'à la fin de son tour suivant.</p>"
                 }
             }
         },
         "Cold Breath": {
-            "name": "",
-            "description": ""
+            "name": "Souffle glacial",
+            "description": "<p><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=8P7hmd3Nron4RAIv]], chaque créature dans un Cône de [[lookup @target.template.size activity=8P7hmd3Nron4RAIv]] [[lookup @target.template.units activity=8P7hmd3Nron4RAIv]].</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
         },
         "Cold Gale": {
-            "name": "",
-            "description": "",
+            "name": "Rafale gelée",
+            "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=pVs8BTVDNh54CZ0a]], chaque créature dans une Ligne de [[lookup @target.template.size activity=pVs8BTVDNh54CZ0a]] [[lookup @target.template.units activity=pVs8BTVDNh54CZ0a]] de long sur [[lookup @target.template.width activity=pVs8BTVDNh54CZ0a]] [[lookup @target.template.units activity=pVs8BTVDNh54CZ0a]] de large.</p><p><em>Échec :</em> [[/damage average]], et la cible est repoussée du [[lookup @name lowercase]] en ligne droite d'un maximum de 9 m.</p><p><em>Réussite :</em> demi-dégâts uniquement.</p><p><em>Échec ou réussite :</em> Le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>",
             "activities": {
                 "save": {
-                    "chatFlavor": ""
+                    "chatFlavor": "Sur une réussite : La cible est repoussée de la créature qui attaque en ligne droite d'un maximum de 9 m"
                 }
             }
         },
         "Commanding Presence": {
-            "name": "",
-            "description": ""
+            "name": "Autorité naturelle",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] recourt à [[/item Incantation]] pour lancer <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCommand000]{injonction}</em> (au 2<sup>e</sup> niveau). Le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>"
         },
         "Compression": {
-            "name": "",
-            "description": ""
+            "name": "Compression",
+            "description": "<p class=\"feature\">La [[lookup @name lowercase]] peut se déplacer dans un espace étroit d'une largeur minimale de 2,5 cm sans dépense supplémentaire en déplacement.</p>"
         },
         "Confer Fire Resistance": {
-            "name": "",
-            "description": "",
+            "name": "Protection contre les flammes",
+            "description": "<p class=\"feature\">L'[[lookup @name lowercase]] peut octroyer la Résistance aux dégâts de feu à son cavalier tant que celui-ci la chevauche.</p>",
             "effects": {
                 "Resistance: Fire": {
-                    "name": "",
-                    "description": ""
+                    "name": "Résistance : Feu",
+                    "description": "<p>La créature peut octroyer la Résistance aux dégâts de feu à son cavalier tant que celui-ci la chevauche.</p>"
                 }
             }
         },
         "Conjure Infernal Chain": {
-            "name": "",
-            "description": "",
+            "name": "Invocation de chaîne infernale",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] invoque une chaîne de feu afin d'entraver une créature.</p><p class=\"feature\"><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=9vCVJrzUZL0ra4w2]], [[lookup @target.affects.labels.statblock activity=9vCVJrzUZL0ra4w2]] que le [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=9vCVJrzUZL0ra4w2]] [[lookup @range.units activity=9vCVJrzUZL0ra4w2]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]] et la cible subit l'état &Reference[Restrained apply=false] jusqu'à la fin du tour suivant du [[lookup @name lowercase]], stade auquel la chaîne disparaît. Si la cible est de taille G ou inférieure, le [[lookup @name lowercase]] la déplace vers lui d'un maximum de 9 m en ligne droite.</p><p class=\"feature\"><em>Réussite :</em> la chaîne disparaît.</p>",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
                 "Restrained": {
-                    "name": "",
-                    "description": ""
+                    "name": "Entravé",
+                    "description": "<p>La cible subit l'état &Reference[Restrained apply=false] jusqu'à la fin du tour suivant de la créature attaquante.</p>"
                 }
             }
         },
         "Constrict": {
-            "name": "",
-            "description": "",
+            "name": "Constriction",
+            "description": "<p><em>JS Force :</em><span class=\"Heading-4\"></span> DD [[lookup @save.dc.value activity=IgOMjRxAt7UISkJq]], une créature [[lookup @target.affects.special activity=IgOMjRxAt7UISkJq]] que le [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=IgOMjRxAt7UISkJq]] [[lookup @range.units activity=IgOMjRxAt7UISkJq]]. <em>Échec :</em> [[/damage average]]. La cible subit l'état &Reference[Grappled apply=false] (évasion DD [[lookup @skills.ath.passive]]), ainsi que l'état &Reference[Restrained apply=false] tant qu'elle est Agrippée.</p>",
             "activities": {
                 "save": {
-                    "target": ""
+                    "target": "de taille G ou inférieure"
                 },
                 "Escape Check": {
-                    "name": ""
+                    "name": "Test de libération"
                 }
             },
             "effects": {
                 "Grappled and Restrained": {
-                    "name": "",
-                    "description": ""
+                    "name": "Agrippé et Entravé",
+                    "description": "<p><strong>Tests d'évasion (voir l'objet source pour le DD)</strong></p><p>[[/check skill=ath ability=str]]</p><p>[[/check skill=acr ability=dex]]</p>"
                 }
             }
         },
         "Consume Life": {
-            "name": "",
-            "description": "",
+            "name": "Festin d'essence vitale",
+            "description": "<p class=\"feature\"><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=1Hy8CdhpwQlLxDPq]], [[lookup @target.affects.special activity=1Hy8CdhpwQlLxDPq]] à 0 point de vie que le [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=1Hy8CdhpwQlLxDPq]] [[lookup @range.units activity=1Hy8CdhpwQlLxDPq]]. <em>Échec :</em> la cible meurt et le [[lookup @name lowercase]] récupère [[/healing average activity=1waYTjY3NAIGZgrI]].</p>",
             "activities": {
                 "Save": {
-                    "name": "",
-                    "target": ""
+                    "name": "Sauvegarde",
+                    "target": "une créature vivante"
                 },
                 "Wisp: Healing": {
-                    "name": ""
+                    "name": "Follet : Soins"
                 }
             },
             "effects": {
                 "Failure: Dead": {
-                    "name": "",
-                    "description": ""
+                    "name": "Échec : Mort",
+                    "description": "<p>La cible meurt si la créature qui a 0 point de vie échoue à un JS Constitution.</p>"
                 }
             }
         },
         "Consume Memories": {
-            "name": "",
-            "description": "",
+            "name": "Assimilation de mémoire",
+            "description": "<p class=\"feature\"><em>JS Intelligence :</em> DD [[lookup @save.dc.value activity=uI3HDQ1grN123Or3]], [[lookup @target.affects.labels.statblock activity=uI3HDQ1grN123Or3]] dans un rayon de [[lookup @range.value activity=uI3HDQ1grN123Or3]] [[lookup @range.units activity=uI3HDQ1grN123Or3]] [[lookup @target.affects.special activity=uI3HDQ1grN123Or3]] par l'[[lookup @name lowercase]]. <em>Échec :</em> [[/damage average]]. <em>Réussite :</em> demi-dégâts. <em>Échec ou réussite :</em> l'[[lookup @name lowercase]] acquiert les souvenirs de la cible si elle est Humanoïde et si cette action la fait tomber à 0 point de vie.</p>",
             "activities": {
                 "Intelligence Saving Throw": {
-                    "name": "",
-                    "target": ""
+                    "name": "JS Intelligence",
+                    "target": "Charmée ou Agrippée"
                 }
             }
         },
         "Corrosive Form": {
-            "name": "",
-            "description": "",
+            "name": "Masse corrosive",
+            "description": "<p class=\"feature\">Une créature qui touche le [[lookup @name lowercase]] par un jet d'attaque de corps à corps subit [[/damage average]]. Les projectiles non magiques sont détruits dès qu'ils ont touché le [[lookup @name lowercase]] et infligé le moindre dégât. Toute arme non magique qui inflige le moindre dégât au [[lookup @name lowercase]] en le touchant physiquement subit aussitôt un malus cumulatif de -1 aux jets d'attaque. L'arme est détruite si ce malus atteint -5. On peut annuler ce malus en lançant le sort <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplMending000]{réparation}</em> sur l'arme.</p><p class=\"feature\">En 1 minute, le [[lookup @name lowercase]] peut dévorer une épaisseur de 60 cm de bois ou métal non magique.</p><section id=\"secret-NtgKYdQoCuiAaxOa\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Cette aptitude fournit un effet actif <strong>Malus d'attaque</strong> qui modifie une arme ciblée. Étant donné que ce malus peut être appliqué plusieurs fois à plusieurs armes non magiques, cet effet actif doit être déplacé depuis l'onglet Effet de cet objet vers les armes de l'objet cible.</p></section>",
             "effects": {
                 "Damaged: -1 Attack": {
-                    "name": "",
-                    "description": ""
+                    "name": "Dégâts : -1 Attaque",
+                    "description": "<p>Toute arme non magique qui inflige le moindre dégât à la créature attaquante en le touchant physiquement subit aussitôt un malus cumulatif de -1 aux jets d'attaque.</p>"
                 }
             }
         },
         "Corrupting Touch": {
-            "name": "",
-            "description": ""
+            "name": "Contact corrupteur",
+            "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
         },
         "Coven Magic": {
-            "name": "",
-            "description": ""
+            "name": "Magie d'assemblée",
+            "description": "<p class=\"feature\">Tant qu'elle se trouve dans un rayon de 9 m d'au moins deux alliées guenaudes, la [[lookup @name lowercase]] peut lancer l'un des sorts suivants sans composantes matérielles, avec le temps d'incantation normal, l'Intelligence étant sa caractéristique d'incantation (DD de sauvegarde [[lookup @abilities.int.dc]]) : <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplFindFamili]{appel de familier}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplAugury0000]{augure}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplIdentify00]{identification}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplLocateObje]{localisation d'objet}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplScrying000]{scrutation}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplUnseenServ]{serviteur invisible}</em>. La [[lookup @name lowercase]] doit terminer un Repos long avant de pouvoir relancer ce sort par ce trait.</p>"
         },
         "Create Specter": {
-            "name": "",
-            "description": "",
+            "name": "Création de spectre",
+            "description": "<p class=\"feature\">L'[[lookup @name lowercase]] cible un Humanoïde dans un rayon de [[lookup @range.value activity=ypIQdXr13u7LATUP]] [[lookup @range.units activity=ypIQdXr13u7LATUP]], mort depuis moins de 1 minute. L'esprit de la cible émerge sous forme de <strong>@UUID[Compendium.dnd5e.actors24.Actor.mmSpecter0000000]{spectre}</strong> de l'espace de son cadavre ou dans l'espace inoccupé le plus proche. Le spectre est sous le contrôle de l'[[lookup @name lowercase]]. L'[[lookup @name lowercase]] ne peut ainsi contrôler plus de sept spectres à la fois.</p>",
             "activities": {
                 "Spirit Rises": {
-                    "name": "",
+                    "name": "Lever un esprit",
                     "profiles": {
                         "Specter": {
-                            "name": ""
+                            "name": "Spectre"
                         }
                     }
                 }
             }
         },
         "Create Whirlwind": {
-            "name": "",
-            "description": "",
+            "name": "Création de tourbillon",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] invoque un tourbillon en un point qu'il voit dans un rayon de 36 m. Le tourbillon emplit un Cylindre de [[lookup @target.template.size activity=TYNKL0QDItFpbR2G]] [[lookup @target.template.units activity=TYNKL0QDItFpbR2G]] de rayon et [[lookup @target.template.height activity=TYNKL0QDItFpbR2G]] [[lookup @target.template.units activity=TYNKL0QDItFpbR2G]] de haut, centré sur ce point. Le tourbillon persiste jusqu'à ce que cesse la Concentration du [[lookup @name lowercase]] sur lui. Le [[lookup @name lowercase]] peut déplacer le tourbillon d'un maximum de 6 m au début de chacun de ses tours.</p><p class=\"feature\">Chaque fois que le tourbillon pénètre dans l'espace d'une créature ou qu'une créature entre dans le tourbillon, celle-ci est soumise à l'effet suivant.</p><p class=\"feature\"><em>JS Force :</em> DD [[lookup @save.dc.value activity=TYNKL0QDItFpbR2G]] (une même créature n'effectue en aucun cas ce JS plus d'une fois par tour et le [[lookup @name lowercase]] n'est pas affecté).</p><p class=\"feature\"><em>Échec :</em> tant qu'elle est dans le tourbillon, la cible subit l'état &Reference[Restrained apply=false] et se déplace avec le tourbillon. Au début de chacun de ses tours, la cible Entravée subit [[/damage average]]. La cible réitère le JS à la fin de chacun de ses tours et met un terme à l'effet sur elle-même en cas de réussite.</p>",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 },
                 "Damage: Start of Turn": {
-                    "name": ""
+                    "name": "Dégâts : Début du tour"
                 }
             },
             "effects": {
                 "Restrained": {
-                    "name": "",
-                    "description": ""
+                    "name": "Entravé",
+                    "description": "<p>La cible subit l'état &Reference[Restrained apply=false] et se déplace avec le tourbillon.</p><p>La cible réitère le JS à la fin de chacun de ses tours et met un terme à l'effet sur elle-même en cas de réussite.</p>"
                 }
             }
         },
         "Crush": {
-            "name": "",
-            "description": "",
+            "name": "Écrasement",
+            "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]], et la [[lookup @name lowercase]] se fixe à la cible. Si la cible est une créature de taille M ou inférieure et si la [[lookup @name lowercase]] avait l'Avantage au jet d'attaque, elle recouvre la cible qui subit l'état &Reference[Blinded apply=false] et s'&Reference[suffocating apply=false]{asphyxie} tant que la [[lookup @name lowercase]] reste ainsi fixée à elle.</p><p class=\"feature\">Tant qu'elle est fixée à une cible, la [[lookup @name lowercase]] ne peut attaquer que cette cible mais elle a l'Avantage à ses jets d'attaque contre elle. Sa Vitesse passe à 0, elle ne peut profiter d'aucun bonus de Vitesse et suit les déplacements de sa cible.</p><p class=\"feature\">Une créature peut entreprendre une action pour tenter de détacher la [[lookup @name lowercase]] fixée à elle, ce qui nécessite de réussir un [[/check format=long]]. À son tour, la [[lookup @name lowercase]] peut se détacher en y consacrant 1,50 m de déplacement.</p>",
             "effects": {
                 "Blinded & Suffocating": {
-                    "name": "",
-                    "description": ""
+                    "name": "Aveuglé et Asphyxie",
+                    "description": "<p>La cible subit l'état &Reference[Blinded apply=false] et s'&Reference[suffocating apply=false]{asphyxie} tant que la créature attaquante reste ainsi fixée à elle.</p>"
                 },
                 "Self: Attack Adv./0 Speed": {
-                    "name": "",
-                    "description": ""
+                    "name": "Soi-même : Avantage à l'attaque/Vitesse à 0",
+                    "description": "<p>Tant qu'elle est fixée à une cible, la [[lookup @name lowercase]] ne peut attaquer que cette cible mais elle a l'Avantage à ses jets d'attaque contre elle. Sa Vitesse passe à 0, elle ne peut profiter d'aucun bonus de Vitesse et suit les déplacements de sa cible.</p>"
                 }
             }
         },
         "Cunning Action": {
-            "name": "",
-            "description": "",
+            "name": "Ruse",
+            "description": "<p class=\"feature\">L'[[lookup @name lowercase]] entreprend l'action &Reference[Disengage apply=false], &Reference[Hide apply=false] ou &Reference[Dash apply=false].</p>",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
         "Cursed Touch": {
-            "name": "",
-            "description": "",
+            "name": "Contact maudit",
+            "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature, elle est maudite. Une cible ainsi maudite ne tire aucun bénéfice lorsqu'elle termine un Repos court ou long.</p>",
             "effects": {
                 "Cursed": {
-                    "name": "",
-                    "description": ""
+                    "name": "Maudit",
+                    "description": "<p>Une cible ainsi maudite ne tire aucun bénéfice lorsqu'elle termine un Repos court ou long.</p>"
                 }
             }
         },
         "Darkness Aura": {
-            "name": "",
-            "description": ""
+            "name": "Aura de ténèbres",
+            "description": "<p>Des ténèbres magiques emplissent une Émanation de [[lookup @target.template.size activity=amat5Ii4NydseA0h]] [[lookup @target.template.units activity=amat5Ii4NydseA0h]] centrée sur la [[lookup @name lowercase]]. Cet effet persiste tant que la [[lookup @name lowercase]] maintient sa Concentration, à concurrence de [[lookup @duration.value activity=amat5Ii4NydseA0h]] minutes. La Vision dans le noir échoue à percer cette zone, qu'aucune source de lumière ne parvient à éclairer.</p>"
         },
         "Deadly Leap": {
-            "name": "",
-            "description": "",
+            "name": "Saut meurtrier",
+            "description": "<p class=\"feature\">Au prix de 1,50 m de déplacement, la [[lookup @name lowercase]] saute en un espace situé dans un rayon de 4,50 m et contenant une ou plusieurs créatures de taille G ou inférieure.</p><p class=\"feature\"><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=IPCXEQoTuaAG5l52]], chaque créature dans l'espace de destination de la [[lookup @name lowercase]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]], et la cible subit l'état &Reference[Prone apply=false].</p><p class=\"feature\"><em>Réussite :</em> demi-dégâts, et la cible est repoussée sur 1,50 m en ligne droite de la [[lookup @name lowercase]].</p>",
             "activities": {
                 "Save": {
-                    "name": "",
-                    "target": ""
+                    "name": "Sauvegarde",
+                    "target": "dans l'espace de destination de la créature"
                 }
             },
             "effects": {
                 "Prone": {
-                    "name": "",
-                    "description": ""
+                    "name": "À terre",
+                    "description": "<p>La cible subit l'état &Reference[Prone apply=false].</p>"
                 }
             }
         },
         "Death Burst": {
-            "name": "",
-            "description": "",
-            "requirements": "",
+            "name": "Explosion finale",
+            "description": "<p>Le [[lookup @name lowercase]] explose [[lookup @activation.condition activity=1SfqWSp7RSyHgG4b]]. <em>JS Dextérité : </em>DD [[lookup @save.dc.value activity=1SfqWSp7RSyHgG4b]], chaque créature dans une Émanation de [[lookup @target.template.size activity=1SfqWSp7RSyHgG4b]] [[lookup @target.template.units activity=1SfqWSp7RSyHgG4b]] centrée sur le [[lookup @name lowercase]]. <em>Échec : </em>[[/damage average]]. <em>Réussite :</em> demi-dégâts.</p>",
+            "requirements": "Quand il meurt",
             "activities": {
                 "save": {
-                    "condition": ""
+                    "condition": "quand il meurt"
                 }
             }
         },
         "Death Glare": {
-            "name": "",
-            "description": "",
+            "name": "Regard mortel",
+            "description": "<p class=\"feature\"><em>JS Sagesse :</em> DD [[lookup @save.dc.value activity=3uA75vqvubgY300I]], [[lookup @target.affects.special activity=3uA75vqvubgY300I]] que la [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=3uA75vqvubgY300I]] [[lookup @range.units activity=3uA75vqvubgY300I]].</p><p class=\"feature\"><em>Échec :</em> si la cible a 20 points de vie ou moins, elle tombe à 0 point de vie. Sinon, la cible subit [[/damage average]].</p>",
             "activities": {
                 "Save": {
-                    "name": "",
-                    "target": ""
+                    "name": "Sauvegarde",
+                    "target": "une créature Effrayée"
                 }
             }
         },
         "Death Throes": {
-            "name": "",
-            "description": ""
+            "name": "Spasmes d'agonie",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] explose quand il meurt.</p><p class=\"feature\"><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=jTq2czA8KQITUK4c]], chaque créature dans une Émanation de [[lookup @target.template.size activity=jTq2czA8KQITUK4c]] [[lookup @target.template.units activity=jTq2czA8KQITUK4c]] centrée sur le [[lookup @name lowercase]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]].</p><p class=\"feature\"><em>Réussite :</em> demi-dégâts.</p><p class=\"feature\"><em>Échec ou réussite :</em> si le [[lookup @name lowercase]] meurt hors des Abysses, il acquiert aussitôt un nouveau corps et revient à la vie avec tous ses pv quelque part dans les Abysses.</p>"
         },
         "Deathless Agility": {
-            "name": "",
-            "description": "",
+            "name": "Agilité immortelle",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] effectue l'action &Reference[Disengage] ou &Reference[Dash].</p>",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
         "Deathless Strike": {
-            "name": "",
-            "description": "",
+            "name": "Frappe immortelle",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] se déplace à concurrence de la moitié de sa Vitesse et effectue une attaque de Frappe funéraire.</p>",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
         "Deathly Teleport": {
-            "name": "",
-            "description": "",
+            "name": "Téléportation funeste",
+            "description": "<p class=\"feature\">La [[lookup @name lowercase]] se téléporte [[lookup @range.special activity=zvj61Na7MlcIN2xw]] dans un rayon de [[lookup @range.value activity=zvj61Na7MlcIN2xw]] [[lookup @range.units activity=zvj61Na7MlcIN2xw]], et chaque créature dans un rayon de [[lookup @target.template.size activity=zvj61Na7MlcIN2xw]] [[lookup @target.template.units activity=zvj61Na7MlcIN2xw]] de l'espace qu'elle quitte subit [[/damage average]].</p>",
             "activities": {
                 "damage": {
-                    "range": ""
+                    "range": "en un espace inoccupé qu'elle voit"
                 }
             }
         },
         "Deflect Missile": {
-            "name": "",
-            "description": "",
+            "name": "Parade de projectile",
+            "description": "<p class=\"feature\"><em>Déclencheur :</em> le [[lookup @name lowercase]] est [[lookup @activation.condition activity=9T8cNbSBVACrrmRI]].</p><p class=\"feature\"><em>Conséquences :</em> le [[lookup @name lowercase]] réduit les dégâts infligés par l'attaque de [[/healing average]] ; si ces dégâts sont réduits à 0, le [[lookup @name lowercase]] peut réorienter une partie de l'impact.</p><p class=\"feature\"><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=x0MjUmnv2OPAbm6y]], une créature que le [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=x0MjUmnv2OPAbm6y]] [[lookup @range.units activity=x0MjUmnv2OPAbm6y]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]].</p>",
             "activities": {
                 "Reduce Damage": {
-                    "name": "",
-                    "condition": ""
+                    "name": "Réduire les dégâts",
+                    "condition": "touché par un jet d'attaque à distance qui lui inflige des dégâts contondants, perforants ou tranchants"
                 },
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
         "Demonic Restoration": {
-            "name": "",
-            "description": "",
-            "requirements": ""
+            "name": "Restauration démoniaque",
+            "description": "<p>Si le [[lookup @name lowercase]] meurt hors des Abysses, son corps se dissout en ichor et il en acquiert aussitôt un nouveau en revenant à la vie avec tous ses pv, quelque part dans les Abysses.</p>",
+            "requirements": "Meurt hors des Abysses"
         },
         "Destroy Metal": {
-            "name": "",
-            "description": "",
+            "name": "Destruction du métal",
+            "description": "<p class=\"feature\">L'[[lookup @name lowercase]] [[lookup @range.special activity=GDJtelEYYTgc9jwr]] dans un rayon de [[lookup @range.value activity=GDJtelEYYTgc9jwr]] [[lookup @range.units activity=GDJtelEYYTgc9jwr]] [[lookup @target.affects.special activity=GDJtelEYYTgc9jwr]]. Ce contact détruit un Cube de 30 cm de l'objet.</p>",
             "activities": {
                 "Expend Use": {
-                    "name": "",
-                    "range": "",
-                    "target": ""
+                    "name": "Dépenser utilisation",
+                    "range": "touche un objet en métal non magique",
+                    "target": "qui n'est porté par personne"
                 }
             }
         },
         "Devilish Claw": {
-            "name": "",
-            "description": ""
+            "name": "Griffe diabolique",
+            "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]].</p>"
         },
         "Diabolical Restoration": {
-            "name": "",
-            "description": "",
-            "requirements": ""
+            "name": "Restauration diabolique",
+            "description": "<p>Si le [[lookup @name lowercase]] meurt hors des Neuf Enfers, son corps disparaît dans un nuage de fumée sulfureuse et il en acquiert aussitôt un nouveau en revenant à la vie avec tous ses pv, quelque part dans les Neuf Enfers.</p>",
+            "requirements": "Meurt hors des Neuf Enfers"
         },
         "Disrupt Life": {
-            "name": "",
-            "description": "",
+            "name": "Trouble vital",
+            "description": "<p class=\"feature\"><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=qSz7l1czwIc5j9gP]], chaque créature autre qu'un Mort-vivant dans une Émanation de [[lookup @target.template.size activity=qSz7l1czwIc5j9gP]] [[lookup @target.template.units activity=qSz7l1czwIc5j9gP]] centrée sur la [[lookup @name lowercase]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]].</p><p class=\"feature\"><em>Réussite :</em> demi-dégâts.</p><p class=\"feature\"><em>Échec ou réussite :</em> la [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
         "Dissolving Pseudopod": {
-            "name": "",
-            "description": "",
+            "name": "Pseudopode caustique",
+            "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]]. Toute armure non magique portée par la cible subit un malus cumulatif de -1 à la CA qu'elle confère. L'armure est détruite si ce malus réduit sa CA à 10. On peut annuler ce malus en lançant le sort <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplMending000]{réparation}</em> sur l'armure.</p>",
             "effects": {
                 "Damaged: -1 AC": {
-                    "name": "",
-                    "description": ""
+                    "name": "Endommagé : -1 CA",
+                    "description": "<p>Toute armure non magique portée par la cible subit un malus cumulatif de -1 à la CA qu'elle confère. L'armure est détruite si ce malus réduit sa CA à 10.</p>"
                 }
             }
         },
         "Divine Aid": {
-            "name": "",
-            "description": ""
+            "name": "Soutien divin",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] lance <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplBless00000]{bénédiction}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDispelMagi]{dissipation de la magie}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplHealingWor]{mot de guérison}</em> ou <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplLesserRest]{restauration partielle}</em>, avec la même caractéristique d'incantation que pour Incantation.</p>"
         },
         "Divine Awareness": {
-            "name": "",
-            "description": ""
+            "name": "Vigilance divine",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] reconnaît un mensonge quand il en entend un.</p>"
         },
         "Dominate Mind": {
-            "name": "",
-            "description": "",
+            "name": "Domination d'esprit",
+            "description": "<p><em>JS Sagesse :</em> DD [[lookup @save.dc.value activity=zdXAMnjaOcsVmLZP]], une créature que l'[[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=zdXAMnjaOcsVmLZP]] [[lookup @range.units activity=zdXAMnjaOcsVmLZP]].</p><p><em>Échec :</em> la cible subit l'état &Reference[Charmed apply=false] jusqu'à ce que l'[[lookup @name lowercase]] meure ou soit sur un autre plan d'existence qu'elle. Ainsi Charmée, la cible se comporte en alliée de l'[[lookup @name lowercase]] ; elle est directement sous son contrôle tant qu'elle reste dans un rayon de [[lookup @target.template.size activity=zdXAMnjaOcsVmLZP]] [[lookup @target.template.units activity=zdXAMnjaOcsVmLZP]] de lui. L'[[lookup @name lowercase]] et la cible peuvent en outre communiquer télépathiquement l'un avec l'autre, quelle que soit la distance qui les sépare.</p><p>La cible réitère le JS chaque fois qu'elle subit des dégâts, ainsi qu'à la fin de toute période de 24 heures passée à plus de 1,5 km de l'[[lookup @name lowercase]], et met un terme à l'effet sur elle-même en cas de réussite.</p>",
             "effects": {
                 "Dominated": {
-                    "name": "",
-                    "description": ""
+                    "name": "Dominé",
+                    "description": "<p>La cible subit l'état &Reference[Charmed apply=false]. Ainsi Charmée, la cible se comporte en alliée du dominateur ; elle est directement sous son contrôle tant qu'elle reste dans un rayon de 18 m de lui. Les deux peuvent en outre communiquer télépathiquement l'un avec l'autre, quelle que soit la distance qui les sépare.</p>"
                 }
             }
         },
         "Draconic Origin": {
-            "name": "",
-            "description": "",
+            "name": "Origine draconique",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] est lié à un type de dragon associé à l'un des types de dégâts suivants (au choix du MD) : acide, feu, foudre, froid ou poison. Ce choix influe sur d'autres aspects du profil.</p><section class=\"secret\" id=\"secret-9qS4XvlccQjIsypM\"><p><strong>Note Foundry</strong></p><p>Cette aptitude fournit un effet actif permettant de gérer les <strong>Résistances aux dégâts</strong> dans l'onglet Effets de la fiche de personnage. Les résistances indiquées devront être activées/désactivées manuellement.</p></section>",
             "effects": {
                 "Acid Resistance": {
-                    "name": ""
+                    "name": "Résistance à l'acide"
                 },
                 "Cold Resistance": {
-                    "name": ""
+                    "name": "Résistance au froid"
                 },
                 "Fire Resistance": {
-                    "name": ""
+                    "name": "Résistance au feu"
                 },
                 "Poison Resistance": {
-                    "name": ""
+                    "name": "Résistance au poison"
                 },
                 "Lightning Resistance": {
-                    "name": ""
+                    "name": "Résistance à la foudre"
                 }
             }
         },
         "Dragon's Breath": {
-            "name": "",
-            "description": "",
+            "name": "Souffle du dragon",
+            "description": "<p class=\"feature\"><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=YfxQb5tcONgLb2nD]], chaque créature dans un Cône de [[lookup @target.template.size activity=YfxQb5tcONgLb2nD]] [[lookup @target.template.units activity=YfxQb5tcONgLb2nD]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]] du type choisi pour le trait Origine draconique.</p><p class=\"feature\"><em>Réussite :</em> demi-dégâts.</p>",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
         "Draining Kiss": {
-            "name": "",
-            "description": "",
+            "name": "Baiser dévitalisant",
+            "description": "<p class=\"feature\"><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=kFyuof0SS3nohP0f]], une créature dans un rayon de [[lookup @range.value activity=kFyuof0SS3nohP0f]] [[lookup @range.units activity=kFyuof0SS3nohP0f]], Charmée par la [[lookup @name lowercase]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]].</p><p class=\"feature\"><em>Réussite :</em> demi-dégâts.</p><p class=\"feature\"><em>Échec ou réussite :</em> le maximum de points de vie de la cible est réduit d'un montant égal aux dégâts subis.</p>",
             "activities": {
                 "Save": {
-                    "name": "",
-                    "chatFlavor": "",
-                    "target": ""
+                    "name": "Sauvegarde",
+                    "chatFlavor": "Échec ou réussite : le maximum de points de vie de la cible est réduit d'un montant égal aux dégâts subis.",
+                    "target": "Charmée par la créature"
                 }
             }
         },
         "Draining Swipe": {
-            "name": "",
-            "description": "",
+            "name": "Caresse dévitalisante",
+            "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]], et la valeur de Force de la cible est réduite de [[/r 1d4]]. La cible meurt si l'effet fait tomber cette valeur à 0. Si un Humanoïde est tué par cette attaque, une <strong>@UUID[Compendium.dnd5e.actors24.Actor.mmShadow00000000]{ombre}</strong> émerge de son cadavre [[/r 1d4]] heures plus tard.</p><section id=\"secret-qqwbOYJqDuTP2N5e\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Cette aptitude fournit un effet actif dans l'onglet Effets permettant de modifier la valeur de Force du personnage joueur. Comme cette réduction de Force peut être appliquée plusieurs fois, le MJ doit faire glisser l'effet actif dans l'onglet Effets de cette aptitude vers la fiche de personnage du joueur. À partir de là, le MJ doit se rendre dans l'onglet Effets de la fiche du personnage pour modifier la valeur de l'effet précédée du signe négatif, par exemple -3. Actuellement, elle est réglée sur -1.</p></section>",
             "activities": {
                 "attack": {
-                    "chatFlavor": ""
+                    "chatFlavor": "Au toucher : La valeur de For de la cible est réduite"
                 },
                 "Shadow Rises": {
-                    "name": ""
+                    "name": "Lever une ombre"
                 },
                 "STR Score -1d4": {
-                    "name": "",
-                    "roll": ""
+                    "name": "Valeur de For -1d4",
+                    "roll": "Réduction : Valeur de For"
                 }
             },
             "effects": {
                 "Hit: STR Score -1d4": {
-                    "name": "",
-                    "description": ""
+                    "name": "Touché : Valeur de For -1d4",
+                    "description": "<p>La valeur de Force de la cible est réduite de [[/r 1d4]].</p>"
                 }
             }
         },
         "Dread Command": {
-            "name": "",
-            "description": "",
+            "name": "Injonction effroyable",
+            "description": "<p class=\"feature\">La [[lookup @name lowercase]] lance <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCommand000]{injonction}</em> (au 2<sup>e</sup> niveau), avec la même caractéristique d'incantation que pour Incantation. La [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>",
             "activities": {
                 "Command": {
-                    "name": ""
+                    "name": "Injonction"
                 }
             }
         },
         "Dreadful Glare": {
-            "name": "",
-            "description": "",
+            "name": "Regard effroyable",
+            "description": "<p class=\"feature\"><em>JS Sagesse :</em> DD [[lookup @save.dc.value activity=8LmlZfevSQkOxGSN]], une créature que la [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=8LmlZfevSQkOxGSN]] [[lookup @range.units activity=8LmlZfevSQkOxGSN]]. <em>Échec :</em> la cible subit l'état &Reference[Frightened apply=false] jusqu'à la fin du tour suivant de la [[lookup @name lowercase]]. <em>Réussite :</em> la cible est immunisée contre le Regard effroyable de cette [[lookup @name lowercase]] pendant 24 heures.</p>",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
                 "Frightened": {
-                    "name": "",
-                    "description": ""
+                    "name": "Effrayé",
+                    "description": "<p>La cible subit l'état &Reference[Frightened apply=false] jusqu'à la fin du tour suivant de la créature attaquante.</p>"
                 }
             }
         },
         "Earth Glide": {
-            "name": "",
-            "description": ""
+            "name": "Déplacement tellurique",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] peut se déplacer par fouissement dans la pierre et la terre brutes et non magiques. Ce faisant, il laisse intacte la structure de ce qu'il traverse.</p>"
         },
         "Eldritch Burst": {
-            "name": "",
-            "description": ""
+            "name": "Explosion occulte",
+            "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]].</p>"
         },
         "Eldritch Restoration": {
-            "name": "",
-            "description": "",
+            "name": "Restauration occulte",
+            "description": "<p class=\"feature\">S'il est détruit, l'[[lookup @name lowercase]] acquiert un nouveau corps en [[/r 5d10]] jours et revient à la vie avec tous ses pv dans le Royaume Lointain (ou en un autre lieu choisi par le MD).</p>",
             "activities": {
                 "Days: New Body": {
-                    "name": "",
-                    "roll": ""
+                    "name": "Jours : Nouveau corps",
+                    "roll": "Jours : Nouveau corps"
                 }
             }
         },
         "Elemental Restoration": {
-            "name": "",
-            "description": "",
-            "requirements": ""
+            "name": "Restauration élémentaire",
+            "description": "<p class=\"feature\">Si le [[lookup @name lowercase]] [[lookup @item.requirements]], son corps se réduit en poussière terreuse et il en acquiert un nouveau en [[/r 1d4#Jours]] jours, pour revenir à la vie avec tous ses pv quelque part dans le Plan de la Terre.</p>",
+            "requirements": "meurt hors du Plan Élémentaire de la Terre"
         },
         "Enchanting Bow": {
-            "name": "",
-            "description": "",
+            "name": "Arc enchanté",
+            "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]], et la cible subit l'état &Reference[Charmed apply=false] jusqu'au début du tour suivant de l'[[lookup @name lowercase]].</p>",
             "effects": {
                 "Charmed": {
-                    "name": "",
-                    "description": ""
+                    "name": "Charmé",
+                    "description": "<p>La cible subit l'état &Reference[Charmed apply=false] jusqu'au début du tour suivant de la créature attaquante.</p>"
                 }
             }
         },
         "Engulf": {
-            "name": "",
-            "description": "",
+            "name": "Enveloppement",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] se déplace dans les limites de sa Vitesse, avec la possibilité de traverser les espaces occupés par des objets et créatures de taille TG ou inférieure.</p><p class=\"feature\"><em>JS Force :</em> DD [[lookup @save.dc.value activity=5o0Bh8PQaojx5XMx]], chaque créature ou objet dans l'espace duquel le [[lookup @name lowercase]] pénètre pour la première fois de ce déplacement.</p><p class=\"feature\"><em>Échec :</em> la cible est enveloppée. Tant qu'elle est enveloppée, la cible bénéficie d'un &Reference[Total Cover] contre les attaques et autres effets émanant de l'extérieur du [[lookup @name lowercase]] et, quand celui-ci se déplace, la cible l'accompagne. Tout objet non magique est détruit s'il passe 1 minute ainsi enveloppé.</p><p class=\"feature\">Ainsi enveloppée, une créature subit [[/damage average activity=Exfa4q7O4SvXjGt7]] au début de chacun de ses tours, s'&Reference[Suffocating]{asphyxie}, subit l'état &Reference[Restrained apply=false] et réitère le JS à la fin de chacun de ses tours. Une créature enveloppée qui tombe à 0 point de vie est réduite en cendres, qui sont recrachées dans la Mer Astrale.</p><p class=\"feature\"><em>Réussite :</em> la cible s'évade dans l'espace inoccupé le plus proche.</p>",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 },
                 "Engulfed: Damage": {
-                    "name": ""
+                    "name": "Enveloppé : Dégâts"
                 }
             },
             "effects": {
                 "Total Cover, Suffocating & Restrained": {
-                    "name": "",
-                    "description": ""
+                    "name": "Abri total, Asphyxie et Entravé",
+                    "description": "<p>Au début de chacun de ses tours, s'&Reference[Suffocating]{asphyxie}, subit l'état &Reference[Restrained apply=false] et réitère le JS à la fin de chacun de ses tours.</p>"
                 }
             }
         },
         "Entangling Rope": {
-            "name": "",
-            "description": "",
-            "requirements": "",
+            "name": "Rets implacables",
+            "description": "<p class=\"feature\"><em>JS Force :</em> DD [[lookup @save.dc.value activity=n8nEah4vbrEPphNF]], une créature que l'[[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=n8nEah4vbrEPphNF]] [[lookup @range.units activity=n8nEah4vbrEPphNF]]. <em>Échec :</em> [[/damage average]], et la cible subit l'état &Reference[Restrained apply=false] jusqu'à ce que la corde soit détruite, que l'[[lookup @name lowercase]] la libère par une action Bonus ou que l'[[lookup @name lowercase]] recoure de nouveau à Rets implacables.</p>",
+            "requirements": "Corde magique requise",
             "effects": {
                 "Restrained": {
-                    "name": "",
-                    "description": ""
+                    "name": "Entravé",
+                    "description": "<p>La cible subit l'état &Reference[Restrained apply=false] jusqu'à ce que la corde soit détruite.</p>"
                 }
             }
         },
         "Enthralling Panache": {
-            "name": "",
-            "description": "",
+            "name": "Panache envoûtant",
+            "description": "<p class=\"feature\"><em>JS Sagesse :</em> DD [[lookup @save.dc.value activity=66IPjaLIJqqwvmrL]], [[lookup @target.affects.labels.statblock activity=66IPjaLIJqqwvmrL]] que le [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=66IPjaLIJqqwvmrL]] [[lookup @range.units activity=66IPjaLIJqqwvmrL]].</p><p class=\"feature\"><em>Échec :</em> la cible subit l'état &Reference[Charmed apply=false] jusqu'au début du tour suivant du [[lookup @name lowercase]].</p>",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
                 "Charmed": {
-                    "name": "",
-                    "description": ""
+                    "name": "Charmé",
+                    "description": "<p>La cible subit l'état &Reference[Charmed apply=false] jusqu'au début du tour suivant de la créature attaquante.</p>"
                 }
             }
         },
         "Ephemeral": {
-            "name": "",
-            "description": ""
+            "name": "Fugace",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] ne peut rien porter.</p>"
         },
         "Ethereal Jaunt": {
-            "name": "",
-            "description": "",
+            "name": "Saut éthéré",
+            "description": "<p class=\"feature\">L'[[lookup @name lowercase]] se téléporte du Plan Matériel vers le Plan Éthéré ou vice versa.</p>",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
         "Ethereal Sight": {
-            "name": "",
-            "description": ""
+            "name": "Vision éthérée",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] voit sur un rayon de 18 m dans le Plan Éthéré quand il est sur le Plan Matériel.</p>"
         },
         "Ethereal Stride": {
-            "name": "",
-            "description": "",
+            "name": "Chevauchée éthérée",
+            "description": "<p class=\"feature\">L'[[lookup @name lowercase]] et un maximum de [[lookup @target.affects.labels.statblock activity=0EfvhIXAIPlYUiNE]] dans un rayon de [[lookup @range.value activity=0EfvhIXAIPlYUiNE]] [[lookup @range.units activity=0EfvhIXAIPlYUiNE]] se téléportent sur le Plan Éthéré depuis le Plan Matériel, ou inversement.</p>",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
         "Etherealness": {
-            "name": "",
-            "description": "",
+            "name": "Forme éthérée",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] lance le sort <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplEtherealne]{forme éthérée}</em> sans composantes de sort, le Charisme étant sa caractéristique d'incantation. Le [[lookup @name lowercase]] est visible depuis le Plan Matériel tant qu'il se trouve à la Frontière éthérée, et inversement, mais ne peut ni affecter, ni être affecté par quoi que ce soit depuis l'autre plan.</p>",
             "activities": {
                 "Etherealness": {
-                    "name": ""
+                    "name": "Forme éthérée"
                 }
             }
         },
         "Evasion": {
-            "name": "",
-            "description": ""
+            "name": "Esquive totale",
+            "description": "<p class=\"feature\">Si l'[[lookup @name lowercase]] est soumis à un effet qui lui permet d'effectuer un jet de sauvegarde de Dextérité pour réduire les dégâts de moitié, il ne subit en fait aucun dégât en cas de JS réussi, et seulement la moitié en cas d'échec. Il ne peut pas recourir à ce trait s'il subit l'état &Reference[Incapacitated apply=false].</p>"
         },
         "Exalted Restoration": {
-            "name": "",
-            "description": ""
+            "name": "Restauration exaltée",
+            "description": "<p class=\"feature\">Si le [[lookup @name lowercase]] meurt hors du Mont Céleste, son corps disparaît et il en acquiert aussitôt un nouveau en revenant à la vie avec tous ses pv, quelque part sur le Mont Céleste.</p>"
         },
         "Fear Aura": {
             "name": "",
@@ -1036,7 +1036,7 @@
             },
             "effects": {
                 "Frightened": {
-                    "name": "",
+                    "name": "Effrayé",
                     "description": ""
                 }
             }
@@ -1110,7 +1110,7 @@
             },
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -1120,14 +1120,14 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": "",
+                    "name": "Sauvegarde",
                     "range": "",
                     "target": ""
                 }
             },
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -1174,7 +1174,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -1201,7 +1201,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
@@ -1220,7 +1220,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -1235,7 +1235,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
@@ -1253,7 +1253,7 @@
             },
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -1334,7 +1334,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
@@ -1343,7 +1343,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
@@ -1378,7 +1378,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
@@ -1395,12 +1395,12 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
                 "Frightened": {
-                    "name": "",
+                    "name": "Effrayé",
                     "description": ""
                 }
             }
@@ -1410,12 +1410,12 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
                 "Frightened": {
-                    "name": "",
+                    "name": "Effrayé",
                     "description": ""
                 }
             }
@@ -1447,7 +1447,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
@@ -1508,7 +1508,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 },
                 "Target: HP Loss": {
                     "name": ""
@@ -1523,7 +1523,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             },
             "effects": {
@@ -1546,7 +1546,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": "",
+                    "name": "Dépenser utilisation",
                     "target": ""
                 }
             }
@@ -1560,7 +1560,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
@@ -1569,7 +1569,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": "",
+                    "name": "Dépenser utilisation",
                     "condition": ""
                 }
             }
@@ -1579,7 +1579,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": "",
+                    "name": "Dépenser utilisation",
                     "condition": ""
                 }
             }
@@ -1610,7 +1610,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
@@ -1619,7 +1619,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
@@ -1672,7 +1672,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": "",
+                    "name": "Sauvegarde",
                     "target": ""
                 }
             },
@@ -1712,7 +1712,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -1746,12 +1746,12 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
                 "Frightened": {
-                    "name": "",
+                    "name": "Effrayé",
                     "description": ""
                 }
             }
@@ -1761,7 +1761,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
@@ -1807,7 +1807,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
@@ -1824,7 +1824,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -1849,7 +1849,7 @@
             "description": "",
             "effects": {
                 "Frightened": {
-                    "name": "",
+                    "name": "Effrayé",
                     "description": ""
                 }
             }
@@ -1859,7 +1859,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             },
             "effects": {
@@ -1873,7 +1873,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -1898,7 +1898,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
@@ -1937,7 +1937,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -1956,7 +1956,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -2000,7 +2000,7 @@
             },
             "effects": {
                 "Restrained": {
-                    "name": "",
+                    "name": "Entravé",
                     "description": ""
                 },
                 "Petrified": {
@@ -2014,7 +2014,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -2023,7 +2023,7 @@
                     "description": ""
                 },
                 "Restrained": {
-                    "name": "",
+                    "name": "Entravé",
                     "description": ""
                 }
             }
@@ -2042,7 +2042,7 @@
             },
             "effects": {
                 "Restrained": {
-                    "name": "",
+                    "name": "Entravé",
                     "description": ""
                 },
                 "Petrified": {
@@ -2075,7 +2075,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
@@ -2092,7 +2092,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -2122,7 +2122,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
@@ -2153,7 +2153,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
@@ -2175,7 +2175,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": "",
+                    "name": "Sauvegarde",
                     "target": ""
                 }
             }
@@ -2185,7 +2185,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": "",
+                    "name": "Dépenser utilisation",
                     "target": ""
                 }
             }
@@ -2195,7 +2195,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": "",
+                    "name": "Sauvegarde",
                     "target": ""
                 },
                 "Escape Check": {
@@ -2226,7 +2226,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
@@ -2244,7 +2244,7 @@
             },
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -2254,7 +2254,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
@@ -2275,7 +2275,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": "",
+                    "name": "Dépenser utilisation",
                     "condition": "",
                     "target": ""
                 }
@@ -2300,7 +2300,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
@@ -2323,12 +2323,12 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -2348,7 +2348,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             },
             "effects": {
@@ -2378,7 +2378,7 @@
             },
             "effects": {
                 "Frightened": {
-                    "name": "",
+                    "name": "Effrayé",
                     "description": ""
                 },
                 "Paralyzed": {
@@ -2386,7 +2386,7 @@
                     "description": ""
                 },
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -2400,7 +2400,7 @@
             "description": "",
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -2434,7 +2434,7 @@
             "description": "",
             "effects": {
                 "Frightened": {
-                    "name": "",
+                    "name": "Effrayé",
                     "description": ""
                 }
             }
@@ -2444,7 +2444,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -2471,7 +2471,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             },
             "effects": {
@@ -2486,7 +2486,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": "",
+                    "name": "Dépenser utilisation",
                     "target": ""
                 }
             }
@@ -2500,12 +2500,12 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -2564,7 +2564,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
@@ -2686,7 +2686,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 },
                 "Damage While Poisoned": {
                     "name": "",
@@ -2709,7 +2709,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
@@ -2740,7 +2740,7 @@
             "description": "",
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -2788,7 +2788,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": "",
+                    "name": "Sauvegarde",
                     "target": ""
                 },
                 "Damage: Swallowed": {
@@ -2805,7 +2805,7 @@
                     "description": ""
                 },
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -2824,7 +2824,7 @@
             },
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -2834,7 +2834,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": "",
+                    "name": "Dépenser utilisation",
                     "target": ""
                 }
             }
@@ -2844,7 +2844,7 @@
             "description": "",
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -2862,7 +2862,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
@@ -2879,7 +2879,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             }
         },
@@ -2903,7 +2903,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": "",
+                    "name": "Sauvegarde",
                     "target": ""
                 }
             },
@@ -2948,7 +2948,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -2973,7 +2973,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": "",
+                    "name": "Sauvegarde",
                     "target": ""
                 }
             },
@@ -3001,7 +3001,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -3020,7 +3020,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             }
         },
@@ -3029,13 +3029,13 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": "",
+                    "name": "Sauvegarde",
                     "target": ""
                 }
             },
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -3063,7 +3063,7 @@
             "description": "",
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -3073,7 +3073,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": "",
+                    "name": "Dépenser utilisation",
                     "range": ""
                 }
             }
@@ -3124,13 +3124,13 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": "",
+                    "name": "Sauvegarde",
                     "condition": ""
                 }
             },
             "effects": {
                 "Frightened": {
-                    "name": "",
+                    "name": "Effrayé",
                     "description": ""
                 }
             }
@@ -3140,12 +3140,12 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
                 "Frightened": {
-                    "name": "",
+                    "name": "Effrayé",
                     "description": ""
                 }
             }
@@ -3182,7 +3182,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             },
             "effects": {
@@ -3206,7 +3206,7 @@
             },
             "effects": {
                 "Frightened": {
-                    "name": "",
+                    "name": "Effrayé",
                     "description": ""
                 }
             }
@@ -3228,7 +3228,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": "",
+                    "name": "Sauvegarde",
                     "range": "",
                     "target": ""
                 },
@@ -3285,7 +3285,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
@@ -3300,12 +3300,12 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
                 "Restrained": {
-                    "name": "",
+                    "name": "Entravé",
                     "description": ""
                 }
             }
@@ -3315,12 +3315,12 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 }
             },
             "effects": {
                 "Restrained": {
-                    "name": "",
+                    "name": "Entravé",
                     "description": ""
                 }
             }
@@ -3334,7 +3334,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": ""
+                    "name": "Sauvegarde"
                 },
                 "Years Older": {
                     "name": "",
@@ -3353,7 +3353,7 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": "",
+                    "name": "Sauvegarde",
                     "range": ""
                 },
                 "Damage: Start of Turn": {
@@ -3375,14 +3375,14 @@
             "description": "",
             "activities": {
                 "Save": {
-                    "name": "",
+                    "name": "Sauvegarde",
                     "chatFlavor": "",
                     "target": ""
                 }
             },
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
@@ -3392,7 +3392,7 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": "",
+                    "name": "Dépenser utilisation",
                     "condition": "",
                     "target": ""
                 }
@@ -3434,12 +3434,12 @@
             "description": "",
             "activities": {
                 "Expend Use": {
-                    "name": ""
+                    "name": "Dépenser utilisation"
                 }
             },
             "effects": {
                 "Prone": {
-                    "name": "",
+                    "name": "À terre",
                     "description": ""
                 }
             }
