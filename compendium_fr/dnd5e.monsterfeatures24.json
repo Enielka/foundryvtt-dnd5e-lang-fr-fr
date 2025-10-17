@@ -595,7 +595,7 @@
             "description": "<p class=\"feature\">Une créature qui touche le [[lookup @name lowercase]] par un jet d'attaque de corps à corps subit [[/damage average]]. Les projectiles non magiques sont détruits dès qu'ils ont touché le [[lookup @name lowercase]] et infligé le moindre dégât. Toute arme non magique qui inflige le moindre dégât au [[lookup @name lowercase]] en le touchant physiquement subit aussitôt un malus cumulatif de -1 aux jets d'attaque. L'arme est détruite si ce malus atteint -5. On peut annuler ce malus en lançant le sort <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplMending000]{réparation}</em> sur l'arme.</p><p class=\"feature\">En 1 minute, le [[lookup @name lowercase]] peut dévorer une épaisseur de 60 cm de bois ou métal non magique.</p><section id=\"secret-NtgKYdQoCuiAaxOa\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Cette aptitude fournit un effet actif <strong>Malus d'attaque</strong> qui modifie une arme ciblée. Étant donné que ce malus peut être appliqué plusieurs fois à plusieurs armes non magiques, cet effet actif doit être déplacé depuis l'onglet Effet de cet objet vers les armes de l'objet cible.</p></section>",
             "effects": {
                 "Damaged: -1 Attack": {
-                    "name": "Dégâts : -1 Attaque",
+                    "name": "Endommagé : -1 Attaque",
                     "description": "<p>Toute arme non magique qui inflige le moindre dégât à la créature attaquante en le touchant physiquement subit aussitôt un malus cumulatif de -1 aux jets d'attaque.</p>"
                 }
             }
