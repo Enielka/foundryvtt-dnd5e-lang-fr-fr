@@ -8758,7 +8758,7 @@
                     "effects": {
                         "Poisoned": {
                             "name": "Empoisonné",
-                            "description": "<p>La cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant de la créature qui attaque.</p>"
+                            "description": "<p>La cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant de la créature attaquante.</p>"
                         }
                     },
                     "uname": "Arme non identifiée"
@@ -9482,7 +9482,7 @@
                 "Flyby": {
                     "name": "Repli aérien",
                     "description": "<p>La [[lookup @name lowercase]] ne provoque pas d'&Reference[OpportunityAttacks]{attaque d'Opportunité} lorsqu'elle quitte la zone d'allonge d'un ennemi en volant.</p>",
-                    "requirements": "quitte la zone d'allonge d'un ennemi en volant"
+                    "requirements": "Quitte la zone d'allonge d'un ennemi en volant"
                 },
                 "Sting": {
                     "name": "Dard",
