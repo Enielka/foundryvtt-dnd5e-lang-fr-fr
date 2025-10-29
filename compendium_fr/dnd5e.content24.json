@@ -12,7 +12,7 @@
         "DM's Toolbox": "Boîte à outils du MD",
         "Gameplay Toolbox": "",
         "Magic Items": "Objets magiques",
-        "Monsters": ""
+        "Monsters": "Monstres"
     },
     "entries": {
         "Actions": {
@@ -37,387 +37,387 @@
             }
         },
         "Animals": {
-            "name": "",
+            "name": "Animaux",
             "pages": {
                 "Allosaurus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Allosaure",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmAllosaurus0000 statblock caption=false cite=true]</p>"
                 },
                 "Ankylosaurus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ankylosaure",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmAnkylosaurus00 statblock caption=false cite=true]</p>"
                 },
                 "Ape": {
-                    "name": "",
-                    "text": ""
+                    "name": "Grand singe",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmApe00000000000 statblock caption=false cite=true]</p>"
                 },
                 "Baboon": {
-                    "name": "",
-                    "text": ""
+                    "name": "Babouin",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBaboon00000000 statblock caption=false cite=true]</p>"
                 },
                 "Archelon": {
-                    "name": "",
-                    "text": ""
+                    "name": "Archélon",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmArchelon000000 statblock caption=false cite=true]</p>"
                 },
                 "Badger": {
-                    "name": "",
-                    "text": ""
+                    "name": "Blaireau",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBadger00000000 statblock caption=false cite=true]</p>"
                 },
                 "Bat": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chauve-souris",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBat00000000000 statblock caption=false cite=true]</p>"
                 },
                 "Black Bear": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ours noir",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBlackBear00000 statblock caption=false cite=true]</p>"
                 },
                 "Camel": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chameau",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmCamel000000000 statblock caption=false cite=true]</p>"
                 },
                 "Blood Hawk": {
-                    "name": "",
-                    "text": ""
+                    "name": "Faucon de sang",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBloodHawk00000 statblock caption=false cite=true]</p>"
                 },
                 "Boar": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sanglier",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBoar0000000000 statblock caption=false cite=true]</p>"
                 },
                 "Brown Bear": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ours brun",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBrownBear00000 statblock caption=false cite=true]</p>"
                 },
                 "Constrictor Snake": {
-                    "name": "",
-                    "text": ""
+                    "name": "Serpent constricteur",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmConstrictorSna statblock caption=false cite=true]</p>"
                 },
                 "Cat": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chat",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmCat00000000000 statblock caption=false cite=true]</p>"
                 },
                 "Crocodile": {
-                    "name": "",
-                    "text": ""
+                    "name": "Crocodile",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmCrocodile00000 statblock caption=false cite=true]</p>"
                 },
                 "Crab": {
-                    "name": "",
-                    "text": ""
+                    "name": "Crabe",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmCrab0000000000 statblock caption=false cite=true]</p>"
                 },
                 "Deer": {
-                    "name": "",
-                    "text": ""
+                    "name": "Petit cervidé",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmDeer0000000000 statblock caption=false cite=true]</p>"
                 },
                 "Eagle": {
-                    "name": "",
-                    "text": ""
+                    "name": "Aigle",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmEagle000000000 statblock caption=false cite=true]</p>"
                 },
                 "Dire Wolf": {
-                    "name": "",
-                    "text": ""
+                    "name": "Loup sanguinaire",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmDireWolf000000 statblock caption=false cite=true]</p>"
                 },
                 "Elk": {
-                    "name": "",
-                    "text": ""
+                    "name": "Grand cervidé",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmElk00000000000 statblock caption=false cite=true]</p>"
                 },
                 "Draft Horse": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cheval de trait",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmDraftHorse0000 statblock caption=false cite=true]</p>"
                 },
                 "Elephant": {
-                    "name": "",
-                    "text": ""
+                    "name": "Éléphant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmElephant000000 statblock caption=false cite=true]</p>"
                 },
                 "Frog": {
-                    "name": "",
-                    "text": ""
+                    "name": "Grenouille",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmFrog0000000000 statblock caption=false cite=true]</p>"
                 },
                 "Flying Snake": {
-                    "name": "",
-                    "text": ""
+                    "name": "Serpent volant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmFlyingSnake000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Ape": {
-                    "name": "",
-                    "text": ""
+                    "name": "Singe géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantApe000000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Badger": {
-                    "name": "",
-                    "text": ""
+                    "name": "Blaireau géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantBadger000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Bat": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chauve-souris géante",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantBat000000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Boar": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sanglier géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantBoar00000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Centipede": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mille-pattes géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantCentipede statblock caption=false cite=true]</p>"
                 },
                 "Giant Crab": {
-                    "name": "",
-                    "text": ""
+                    "name": "Crabe géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantCrab00000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Constrictor Snake": {
-                    "name": "",
-                    "text": ""
+                    "name": "Serpent constricteur géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantConstrict statblock caption=false cite=true]</p>"
                 },
                 "Giant Elk": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cervidé géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantElk000000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Crocodile": {
-                    "name": "",
-                    "text": ""
+                    "name": "Crocodile géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantCrocodile statblock caption=false cite=true]</p>"
                 },
                 "Giant Eagle": {
-                    "name": "",
-                    "text": ""
+                    "name": "Aigle géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantEagle0000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Fire Beetle": {
-                    "name": "",
-                    "text": ""
+                    "name": "Scarabée de feu géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantFireBeetl statblock caption=false cite=true]</p>"
                 },
                 "Giant Frog": {
-                    "name": "",
-                    "text": ""
+                    "name": "Grenouille géante",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantFrog00000 statblock caption=false cite=true classes=\"long-statblock\"]</p>"
                 },
                 "Giant Hyena": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hyène géante",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantHyena0000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Goat": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chèvre géante",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantGoat00000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Lizard": {
-                    "name": "",
-                    "text": ""
+                    "name": "Lézard géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantLizard000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Octopus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pieuvre géante",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantOctopus00 statblock classes=\"tall-statblock\" caption=false cite=true]</p>"
                 },
                 "Giant Rat": {
-                    "name": "",
-                    "text": ""
+                    "name": "Rat géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantRat000000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Seahorse": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hippocampe géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantSeahorse0 statblock caption=false cite=true]</p>"
                 },
                 "Giant Scorpion": {
-                    "name": "",
-                    "text": ""
+                    "name": "Scorpion géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantScorpion0 statblock caption=false cite=true]</p>"
                 },
                 "Giant Owl": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chouette géante",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantOwl000000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Shark": {
-                    "name": "",
-                    "text": ""
+                    "name": "Requin géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantShark0000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Spider": {
-                    "name": "",
-                    "text": ""
+                    "name": "Araignée géante",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantSpider000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Venomous Snake": {
-                    "name": "",
-                    "text": ""
+                    "name": "Serpent venimeux géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantVenomousS statblock caption=false cite=true]</p>"
                 },
                 "Giant Toad": {
-                    "name": "",
-                    "text": ""
+                    "name": "Crapaud géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantToad00000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Vulture": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vautour géant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantVulture00 statblock caption=false cite=true]</p>"
                 },
                 "Giant Weasel": {
-                    "name": "",
-                    "text": ""
+                    "name": "Belette géante",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantWeasel000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Wasp": {
-                    "name": "",
-                    "text": ""
+                    "name": "Guêpe géante",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantWasp00000 statblock caption=false cite=true]</p>"
                 },
                 "Giant Wolf Spider": {
-                    "name": "",
-                    "text": ""
+                    "name": "Araignée-loup géante",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGiantWolfSpide statblock caption=false cite=true]</p>"
                 },
                 "Goat": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chèvre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGoat0000000000 statblock caption=false cite=true]</p>"
                 },
                 "Hunter Shark": {
-                    "name": "",
-                    "text": ""
+                    "name": "Requin-chasseur",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHunterShark000 statblock caption=false cite=true]</p>"
                 },
                 "Hawk": {
-                    "name": "",
-                    "text": ""
+                    "name": "Faucon",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHawk0000000000 statblock caption=false cite=true]</p>"
                 },
                 "Hyena": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hyène",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHyena000000000 statblock caption=false cite=true]</p>"
                 },
                 "Hippopotamus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hippopotame",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHippopotamus00 statblock caption=false cite=true]</p>"
                 },
                 "Jackal": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chacal",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmJackal00000000 statblock caption=false cite=true]</p>"
                 },
                 "Killer Whale": {
-                    "name": "",
-                    "text": ""
+                    "name": "Épaulard",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmKillerWhale000 statblock caption=false cite=true]</p>"
                 },
                 "Lizard": {
-                    "name": "",
-                    "text": ""
+                    "name": "Lézard",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmLizard00000000 statblock caption=false cite=true]</p>"
                 },
                 "Mule": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mule",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmMule0000000000 statblock caption=false cite=true]</p>"
                 },
                 "Lion": {
-                    "name": "",
-                    "text": ""
+                    "name": "Lion",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmLion0000000000 statblock caption=false cite=true]</p>"
                 },
                 "Mammoth": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mammouth",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmMammoth0000000 statblock caption=false cite=true]</p>"
                 },
                 "Mastiff": {
-                    "name": "",
-                    "text": ""
+                    "name": "Molosse",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmMastiff0000000 statblock caption=false cite=true]</p>"
                 },
                 "Octopus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pieuvre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmOctopus0000000 statblock caption=false cite=true]</p>"
                 },
                 "Plesiosaurus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Plésiosaure",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmPlesiosaurus00 statblock caption=false cite=true]</p>"
                 },
                 "Owl": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chouette",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmOwl00000000000 statblock caption=false cite=true]</p>"
                 },
                 "Piranha": {
-                    "name": "",
-                    "text": ""
+                    "name": "Piranha",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmPiranha0000000 statblock caption=false cite=true]</p>"
                 },
                 "Panther": {
-                    "name": "",
-                    "text": ""
+                    "name": "Panthère",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmPanther0000000 statblock caption=false cite=true]</p>"
                 },
                 "Polar Bear": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ours polaire",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmPolarBear00000 statblock caption=false cite=true]</p>"
                 },
                 "Pony": {
-                    "name": "",
-                    "text": ""
+                    "name": "Poney",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmPony0000000000 statblock caption=false cite=true]</p>"
                 },
                 "Pteranodon": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ptéranodon",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmPteranodon0000 statblock caption=false cite=true]</p>"
                 },
                 "Rat": {
-                    "name": "",
-                    "text": ""
+                    "name": "Rat",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmRat00000000000 statblock caption=false cite=true]</p>"
                 },
                 "Raven": {
-                    "name": "",
-                    "text": ""
+                    "name": "Corbeau",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmRaven000000000 statblock caption=false cite=true]</p>"
                 },
                 "Reef Shark": {
-                    "name": "",
-                    "text": ""
+                    "name": "Requin de récif",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmReefShark00000 statblock caption=false cite=true]</p>"
                 },
                 "Riding Horse": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cheval de selle",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmRidingHorse000 statblock caption=false cite=true]</p>"
                 },
                 "Rhinoceros": {
-                    "name": "",
-                    "text": ""
+                    "name": "Rhinocéros",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmRhinoceros0000 statblock caption=false cite=true]</p>"
                 },
                 "Saber-Toothed Tiger": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tigre à dents de sabre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSabertoothedTi statblock caption=false cite=true]</p>"
                 },
                 "Scorpion": {
-                    "name": "",
-                    "text": ""
+                    "name": "Scorpion",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmScorpion000000 statblock caption=false cite=true]</p>"
                 },
                 "Swarm of Insects": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nuée d'insectes",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSwarmOfInsects statblock caption=false cite=true]</p>"
                 },
                 "Seahorse": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hippocampe",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSeahorse000000 statblock caption=false cite=true]</p>"
                 },
                 "Swarm of Bats": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nuée de chauves-souris",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSwarmOfBats000 statblock caption=false cite=true]</p>"
                 },
                 "Spider": {
-                    "name": "",
-                    "text": ""
+                    "name": "Araignée",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSpider00000000 statblock caption=false cite=true]</p>"
                 },
                 "Swarm of Rats": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nuée de rats",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSwarmOfRats000 statblock caption=false cite=true]</p>"
                 },
                 "Tiger": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tigre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmTiger000000000 statblock caption=false cite=true]</p>"
                 },
                 "Swarm of Ravens": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nuée de corbeaux",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSwarmOfRavens0 statblock caption=false cite=true]</p>"
                 },
                 "Swarm of Piranhas": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nuée de piranhas",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSwarmOfPiranha statblock caption=false cite=true]</p>"
                 },
                 "Triceratops": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tricératops",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmTriceratops000 statblock caption=false cite=true]</p>"
                 },
                 "Swarm of Venomous Snakes": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nuée de serpents venimeux",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSwarmOfVenomou statblock caption=false cite=true]</p>"
                 },
                 "Vulture": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vautour",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmVulture0000000 statblock caption=false cite=true]</p>"
                 },
                 "Tyrannosaurus Rex": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tyrannosaure",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmTyrannosaurusR statblock caption=false cite=true]</p>"
                 },
                 "Venomous Snake": {
-                    "name": "",
-                    "text": ""
+                    "name": "Serpent venimeux",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmVenomousSnake0 statblock caption=false cite=true]</p>"
                 },
                 "Warhorse": {
-                    "name": "",
-                    "text": ""
+                    "name": "Destrier",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWarhorse000000 statblock caption=false cite=true]</p>"
                 },
                 "Weasel": {
-                    "name": "",
-                    "text": ""
+                    "name": "Belette",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWeasel00000000 statblock caption=false cite=true]</p>"
                 },
                 "Wolf": {
-                    "name": "",
-                    "text": ""
+                    "name": "Loup",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWolf0000000000 statblock caption=false cite=true]</p>"
                 }
             }
         },
@@ -1677,76 +1677,76 @@
             }
         },
         "Appendix: Background Details": {
-            "name": "",
+            "name": "Annexe. Détails d'historique",
             "pages": {
                 "Acolyte": {
-                    "name": "",
-                    "text": ""
+                    "name": "Acolyte",
+                    "text": "<p>Vous étiez au service d'un temple, situé en ville ou isolé dans quelque bosquet sacré. Vous y accomplissiez des rites religieux en l'honneur d'une divinité ou d'un panthéon. Vous avez servi sous la tutelle d'un prêtre et étudié la religion. Grâce à l'instruction prodiguée par ce prêtre et à votre propre dévotion, vous avez également appris à canaliser un minimum de puissance divine au service de votre lieu de culte et des fidèles qui venaient y prier.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Criminal": {
-                    "name": "",
-                    "text": ""
+                    "name": "Criminel",
+                    "text": "<p>Vous gagniez votre pain dans les ruelles sombres, en coupant des bourses ou en cambriolant des échoppes. Peut-être faisiez-vous partie d'une petite bande de malfrats partageant les mêmes idées et veillant les uns sur les autres. Ou peut-être étiez-vous un loup solitaire, luttant seul contre la guilde de voleurs locale et d'autres brigands plus redoutables encore.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Sage": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sage",
+                    "text": "<p>Vos années de formation ont été consacrées à voyager de manoir en monastère, où vous accomplissiez divers menus travaux et services en échange de l'accès à la bibliothèque. Vous avez passé de longues soirées plongé dans l'étude des livres et des parchemins, à engranger le savoir du multivers et quelques rudiments de magie, et vous aspirez à davantage.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Soldier": {
-                    "name": "",
-                    "text": ""
+                    "name": "Soldat",
+                    "text": "<p>Formé aux rudiments de la guerre sitôt adulte, vous ne gardez que de rares et précieux souvenirs de ce que fut votre vie avant le métier des armes. Vous avez la bataille dans le sang. Il vous arrive de vous surprendre à exécuter par réflexe vos tout premiers exercices de combat. Vous avez fini par mettre à profit cet entraînement sur le champ de bataille, en faisant la guerre pour protéger le royaume.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 }
             }
         },
         "Appendix: Class Details": {
-            "name": "",
+            "name": "Annexe : Détails de classe",
             "pages": {
                 "Barbarian": {
-                    "name": "",
-                    "text": ""
+                    "name": "Barbare",
+                    "text": "<blockquote><p>Combattant farouche animé par la rage primale</p></blockquote><p>Les Barbares sont de puissants combattants animés par les forces primitives du multivers, qu'ils manifestent sous forme de Rage. Cette Rage ne se limite pas à la colère ni une simple émotion, mais incarne la férocité du prédateur, la fureur de la tempête et le tumulte des mers.</p><p>Certains Barbares personnifient leur Rage par un esprit féroce ou un ancêtre vénéré. D'autres y voient un lien avec les tourments du monde, comme l'enchevêtrement confus de la magie sauvage ou l'expression de leur identité profonde. Pour chacun d'entre eux, cette Rage alimente non seulement leurs talents martiaux, mais aussi leurs réflexes extraordinaires et leurs sens aiguisés.</p><p>Les Barbares sont souvent les protecteurs et meneurs de leur communauté. Ils foncent tête baissée vers les menaces pour épargner cette tâche à celles et ceux qu'ils protègent. Cette témérité les destine à une vie d'aventure.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Bard": {
-                    "name": "",
-                    "text": ""
+                    "name": "Barde",
+                    "text": "<blockquote><p>Musicien, danseur et mage exaltant</p></blockquote><p>Les Bardes, qui invoquent la magie au gré de la musique, de la danse et des vers, excellent dans l'inspiration d'autrui, l'apaisement des maux, la démoralisation de l'adversaire et les illusions. Les Bardes estiment que le multivers fut façonné par le Verbe de la création, et que les vestiges de ces paroles originelles résonnent et scintillent encore sur chaque plan d'existence. La magie bardique tente d'exploiter ces mots, qui transcendent tout idiome.</p><p>Tout est susceptible d'inspirer une mélodie ou un récit nouveaux, c'est pourquoi les Bardes se montrent souvent fascinés. Ils deviennent maîtres en bien des choses, et pratiquent notamment la musique, la magie et l'art de la plaisanterie.</p><p>Leur vie se consacre aux voyages, à l'accumulation de savoir et au conte, et dépend des bonnes grâces du public, comme tous les gens du spectacle. Pour autant, l'étendue des connaissances des Bardes et leur maîtrise de la magie en font des êtres à part.</p><aside class=\"notable\"><h3>Le répertoire du Barde</h3><p>Votre Barde bat-il la cadence sur un tambour quand il chante les exploits des héros du passé ? Gratte son luth en donnant la sérénade ? Pousse l'aria avec une intensité saisissante ? Récite avec emphase des monologues de tragédies classiques ? Reprend les enchainements rythmiques d'une danse populaire pour orchestrer les mouvements de ses alliés dans la bataille ? Compose des poèmes grivois ?</p><p>Si vous jouez un Barde, songez à votre mode artistique de prédilection, aux ambiances que vous aimez installer et aux thèmes qui inspirent vos créations. Vos poèmes sont-ils portés par l'évocation de la beauté naturelle ou se complaisent-ils dans la langueur de la perte ? Préférez-vous les cantiques envolés ou les chants de taverne tapageurs ? Un penchant pour les complaintes ou pour les célébrations de joie ? Pour les gigues allègres ou les chorégraphies les plus sophistiquées ? Vous focalisez-vous sur un type de représentation ou avez-vous comme ambition de tous les maîtriser ?</p></aside><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Cleric": {
-                    "name": "",
-                    "text": ""
+                    "name": "Clerc",
+                    "text": "<blockquote><p>Prêtre tirant des miracles du pouvoir divin</p></blockquote><p>Puisant leur pouvoir dans les royaumes divins, les Clercs en tirent des miracles. Béni par une divinité, un panthéon ou autre entité immortelle, le Clerc peut invoquer la magie divine des Plans Extérieurs où vivent les dieux pour galvaniser le peuple et combattre l'ennemi.</p><p>Leur pouvoir étant un don divin, les Clercs s'associent traditionnellement à des temples honorant leur divinité ou la puissance immortelle qui leur octroie leur magie. Le contrôle de cette magie divine ne demande pas de formation spécifique, mais bien des Clercs apprennent des prières et des rites pour mieux puiser dans les énergies des Plans Extérieurs.</p><p>Il ne suffit pas d'être membre d'un temple ou d'un sanctuaire pour être Clerc. Certains prêtres ont pour vocation de servir humblement leur culte, par la prière et les rituels, aucunement par la magie. Bien des mortels prétendent parler au nom de leur dieu, mais rares sont ceux qui savent canaliser sa puissance comme un Clerc.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Druid": {
-                    "name": "",
-                    "text": ""
+                    "name": "Druide",
+                    "text": "<blockquote><p>Prêtre de la nature primitive</p></blockquote><p>Les Druides sont membres d'ordres ancestraux qui invoquent les forces de la nature. Ils pratiquent la magie de la faune, de la flore et des quatre éléments pour soigner, adopter des formes animales et contrôler la destruction élémentaire.</p><p>Tous révèrent la nature plus que tout, mais certains tirent directement leur magie de dame Nature, d'autres de divinités qui lui sont liées ou d'une combinaison des deux. Les Druides se réunissent généralement pour mener des rites marquant le passage des saisons et autres cycles naturels.</p><p>Les Druides veillent sur la fragile harmonie qui perpétue la vie des plantes et des bêtes, harmonie avec la nature qu'il convient de respecter par son mode de vie. Ils sont souvent les gardiens de sites sacrés et de vastes contrées de nature préservée, mais lorsque se présente un véritable danger, les Druides n'hésitent pas à lutter plus activement contre la menace en tant qu'aventuriers.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Fighter": {
-                    "name": "",
-                    "text": ""
+                    "name": "Guerrier",
+                    "text": "<blockquote><p>Maître de toutes les armes et armures</p></blockquote><p>Nombreux sont les champs de bataille dominés par les Guerriers. Qu'ils soient chevaliers errants, champions de la couronne, soldats d'élite ou mercenaires endurcis, ils partagent cette maîtrise hors pair des armes et armures. Et ils ont vu la mort de près, aussi bien pour l'avoir donnée que bravée.</p><p>Les Guerriers maîtrisent diverses armes et leurs techniques. Un Guerrier bien préparé a toujours le bon outil à portée de main, quel que soit le combat. De même, il saura se servir de tout type d'armure. Outre ces rudiments, chaque Guerrier se spécialise dans certains styles de combat. Certains optent pour ľ'arc, d'autres préferent se battre avec une arme dans chaque main, et d'autres encore apprennent à renforcer leurs talents martiaux de magie. Cette alliance de fondamentaux solides et de discipline de fer en fait des combattants remarquables.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Monk": {
-                    "name": "",
-                    "text": ""
+                    "name": "Moine",
+                    "text": "<blockquote><p>Artiste martial d'une intensité surnaturelle</p></blockquote><p>Entraînement martial rigoureux et discipline mentale permettent aux Moines de s'aligner avec le multivers et de puiser dans leur réserve intérieure de pouvoir. Les conceptualisations de ce pouvoir sont différentes selon les Moines : souffle, énergie, force vitale, essence, identité profonde, etc. Que ce pouvoir soit canalisé dans le cadre d'une démonstration d'efficacité au combat ou d'une manifestation plus subtile de défense et de Vitesse, il imprègne tous les gestes du Moine.</p><p>Les Moines consacrent leur puissance intérieure à la création d'effets extraordinaires, voire surnaturels. Ils agrémentent leurs attaques de célérité et puissance, avec ou sans armes. Entre les mains d'un Moine, la plus rudimentaire des armes peut devenir un merveilleux outil de maîtrise martiale.</p><p>Nombreux sont les Moines pour qui une vie d'ascèse et de retraite permet de mieux cultiver l'engagement mental et physique nécessaire à l'apprivoisement de leur pouvoir. D'autres préfèrent s'immerger dans l'ébullition débordante de la vie, pour justement alimenter leur détermination et leur discipline.</p><p>Les Moines voient généralement les aventures comme des épreuves au fil de leur développement mental et physique. Ils sont animés par le désir d'accomplir une mission plus noble que la simple liquidation de monstres ou le pillage de trésors ; ils aspirent à se transformer en armes vivantes.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Paladin": {
-                    "name": "",
-                    "text": ""
+                    "name": "Paladin",
+                    "text": "<blockquote><p>Combattant vertueux sous serment sacré</p></blockquote><p>Tous les Paladins sont unis par leurs serments respectifs contre les forces du mal et de la corruption. Qu'il soit prêté devant l'autel d'une divinité, dans une clairière sacrée en présence des esprits de la nature ou à l'occasion d'un désespoir profond avec des défunts comme seuls témoins, le serment d'un Paladin est un lien puissant. C'est cette source de pouvoir qui fait d'un combattant vertueux un champion béni.</p><p>Les Paladins suivent une formation qui leur inculque les techniques de combat et la maîtrise de diverses armes et armures. Ces compétences martiales passent toutefois après les pouvoirs magiques dont ils héritent : le pouvoir de soigner ceux qui souffrent, de châtier les impies et de protéger les opprimés ainsi que leurs compagnons de lutte.</p><p>L'existence d'un Paladin est, par définition, tout entière tournée vers l'aventure, chaque Paladin allant en première ligne dans la bataille cosmique contre les forces de l'anéantissement. Si les Guerriers sont l'exception dans une armée de métier, plus rares encore sont ceux et celles qui peuvent prétendre à la vocation de Paladin. En répondant à l'appel, ces sujets bénis renoncent à ce qui les occupait auparavant pour prendre les armes et manier la magie divine.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Ranger": {
-                    "name": "",
-                    "text": ""
+                    "name": "Rôdeur",
+                    "text": "<blockquote><p>Combattant itinérant, imprégné de magie primale</p></blockquote><p>Loin de l'animation des villes, que cela soit sous le couvert d'une forêt impénétrable ou sur la plaine infinie, les Rôdeurs veillent sans relâche sur la nature inviolée. Le Rôdeur apprend à traquer ses proies comme le ferait un prédateur, se déplaçant sans bruit, mettant à profit le moindre taillis ou obstacle pour rester à couvert.</p><p>Grâce à leur lien avec la nature, les Rôdeurs peuvent en outre lancer des sorts qui puisent dans la puissance indomptée des éléments. Le Rôdeur exerce ses talents et sa magie afin de protéger le monde des ravages des monstres et des tyrans.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Rogue": {
-                    "name": "",
-                    "text": ""
+                    "name": "Roublard",
+                    "text": "<blockquote><p>Prodige d'adresse, expert en discrétion et subterfuge</p></blockquote><p>Les Roublards comptent sur leur adresse, leur discrétion et les points faibles de l'adversaire pour prendre le dessus dans toutes les situations. Ils ont le don de trouver la solution à presque tous les problèmes. Certains vont jusqu'à apprendre des tours de magie pour compléter leur arsenal. Beaucoup se concentrent sur la discrétion, d'autres sur la tromperie, d'autres encore sur les compétences utiles lors de l'exploration d'un donjon : escalade, détection et désarmement des pièges, crochetage des serrures.</p><p>Au combat, les Roublards misent davantage sur les coups bas que sur la force brute. Ils préfèrent porter une frappe précise à tenter d'épuiser l'adversaire sous un déluge de coups.</p><p>Si certains Roublards ont débuté leur carrière en tant que criminels, d'autres ont mis leur ruse au service de la lutte contre le crime. Quelle que soit la relation d'un Roublard avec la loi, aucun criminel ordinaire ou défenseur de l'ordre n'arrive à la cheville des plus grands Roublards.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>This is Free Rules content that isn't covered under the Creative Commons license and may not be re-distributed outside of the game system.</p></div>"
                 },
                 "Sorcerer": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ensorceleur",
+                    "text": "<blockquote><p>Mage éblouissant, débordant de magie innée</p></blockquote><p>L'Ensorceleur manipule une magie innée qui est gravée dans son être. Si certains Ensorceleurs sont bien en peine de mettre un nom sur l'origine de ce pouvoir, d'autres le font remonter à des événements étranges de leur histoire personnelle ou familiale. La bénédiction d'un dragon ou d'une dryade à la naissance du bébé, ou la foudre frappant dans un ciel sans nuage, peuvent suffire à faire éclore le don très spécial d'Ensorceleur. Ce don peut aussi être celui d'une divinité, provenir d'une exposition à quelque magie étrange émanant d'un autre plan d'existence ou entrouvrir une fenêtre sur la mécanique intime du réel. Quelle qu'en soit l'origine, il en résulte une marque indélébile sur l'Ensorceleur, fruit d'une magie bouillonnante qui se transmet de génération en génération.</p><p>Les Ensorceleurs n'apprennent pas la magie ; la puissance arcanique réside dans leur être, brute et indomptée. Tout l'art de l'Ensorceleur consiste à apprendre à canaliser cette magie innée, afin de découvrir comment libérer son pouvoir par des biais stupéfiants. À mesure qu'un Ensorceleur dompte sa magie innée, il s'harmonise plus finement avec l'origine de celle-ci et développe des pouvoirs qui sont le reflet de sa nature.</p><p>Les Ensorceleurs sont rares. Si certaines lignées en produisent un par génération, la plupart du temps, les talents d'un Ensorceleur lui apparaissent de façon spontanée. Les individus qui possèdent un tel pouvoir découvrent bien vite que cette magie n'aime pas rester au repos. La magie d'un Ensorceleur demande à être employée.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Warlock": {
-                    "name": "",
-                    "text": ""
+                    "name": "Occultiste",
+                    "text": "<blockquote><p>Hermétiste galvanisé par un pacte d'outre-monde</p></blockquote><p>Les Occultistes sont en quête du savoir que recèle la trame du multivers. Ils entament souvent leurs recherches de puissance magique en se plongeant dans des ouvrages de sapience interdite, tâtent à des invocations conçues pour siphonner la puissance d'entités extraplanaires ou partent en quête de lieux de pouvoir où l'influence de tels êtres est perceptible. En un rien de temps, chaque Occultiste est immanquablement entraîné à sceller un pacte contraignant avec un puissant protecteur. Puisant dans le savoir ancestral d'êtres tels que les anges, archifées, démons, diables, guenaudes et entités d'outre-monde du Royaume Lointain, les Occultistes réunissent divers secrets profanes afin de raffermir leur pouvoir personnel.</p><p>Les Occultistes considèrent leur protecteur comme une ressource, un moyen de parvenir à la toute-puissance magique. Certains Occultistes respectent, vénèrent ou même chérissent leur protecteur ; d'autres le servent à contrecœur ; d'autres encore cherchent à saper son autorité tout en exerçant le pouvoir que ce dernier leur octroie.</p><p>Une fois le pacte conclu, la soif de connaissances et de pouvoir d'un Occultiste ne peut être étanchée par de simples études. Beaucoup consacrent le plus clair de leur temps à rechercher un plus grand pouvoir et des connaissances plus approfondies, ce qui implique bien souvent de partir à l'aventure.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Wizard": {
-                    "name": "",
-                    "text": ""
+                    "name": "Magicien",
+                    "text": "<blockquote><p>Mage érudit aux pouvoirs arcaniques</p></blockquote><p>Le Magicien se définit par son étude exhaustive des arcanes de la magie. Son arsenal comprend des sorts de feu explosifs, des arcs de foudre, des tromperies subtiles et autres métamorphoses spectaculaires. Sa magie lui permet d'invoquer des monstres depuis d'autres plans d'existence, d'entrevoir l'avenir ou de former des barrières protectrices. Les sorts de Magicien les plus puissants transmutent la matière, font tomber des météores et ouvrent des portails vers d'autres mondes.</p><p>La plupart des Magiciens ont une approche érudite de la magie. Ils examinent ses fondements théoriques, en particulier la catégorisation des sorts en écoles de magie. Les Magiciens de légende que sont Bigby, Tasha, Mordenkainen et Yolane se sont appuyés sur ces études pour inventer des sorts emblématiques, aujourd'hui utilisés dans tout le multivers.</p><p>Les moins excentriques d'entre eux travaillent comme sages ou professeurs. D'autres Magiciens font commerce de leur art en tant que conseillers, servent dans une armée ou mènent une existence tout entière vouée au crime ou à la domination.</p><p>Mais l'attrait du savoir finit par être entendu par les moins aventureux des Magiciens, qui renoncent alors à la sécurité des rayonnages et des laboratoires pour plonger au cœur de ruines et de cités perdues. De nombreux Magiciens sont convaincus que leurs homologues des temps anciens maîtrisaient des arcanes oubliés, des secrets dont la redécouverte pourrait ouvrir les portes d'un pouvoir plus immense que ce qu'offre la magie contemporaine.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 }
             }
         },
@@ -2144,121 +2144,121 @@
             }
         },
         "Appendix: Species Details": {
-            "name": "",
+            "name": "Annexe. Détails des espèces",
             "pages": {
                 "Dragonborn": {
-                    "name": "",
-                    "text": ""
+                    "name": "Drakéide",
+                    "text": "<p>Les ancêtres des drakéides sont sortis d'œufs de dragons chromatiques et métalliques. Selon la légende, ces œufs auraient reçu la bénédiction des dieux-dragons Bahamut et Tiamat, qui souhaitaient peupler le multivers d'êtres mortels créés à leur image. Une autre version affirme que ce sont les dragons qui ont créé le premier drakéide sans la bénédiction de leurs dieux tutélaires. Quelle que soit leur origine véritable, les drakéides ont élu domicile sur le Plan Matériel.</p><p>Les drakéides ressemblent à des dragons bipèdes dénués d'ailes (écailleux, yeux de couleur vive, ossature épaisse et cornes sur la tête). Leur coloration, ainsi que d'autres aspects, rappellent leurs ancêtres draconiques.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Dwarf": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nain",
+                    "text": "<p>Façonnés par une divinité de la forge, les nains sont sortis de terre dans les temps anciens. Appelé différemment selon les mondes (Moradin, Réorx ou autre), ce dieu créateur a donné aux nains une affinité pour la pierre, le métal et pour la vie souterraine. Il les a en outre rendus solides comme le roc, puisqu'ils jouissent d'une longévité d'environ 350 ans.</p><p>Trapus et souvent barbus, les premiers nains creusèrent des villes et des forteresses à flanc de montagne ou sous la terre. Les plus anciennes légendes racontent leur confrontation avec les monstres des montagnes et d'Outreterre, géants immenses et autres horreurs souterraines. Inspirés par ces récits, les nains de toutes les cultures louent la bravoure, en particulier lorsqu'il est question de petits qui l'emportent sur les puissants.</p><p>Sur certains mondes du multivers, les premières colonies de nains ont été construites dans des collines ou des montagnes, et les familles qui en descendent s'appellent respectivement nains des collines et nains des montagnes. Les univers Greyhawk et Dragonlance comptent de telles communautés.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Elf": {
-                    "name": "",
-                    "text": ""
+                    "name": "Elfe",
+                    "text": "<p>Créés par le dieu Corellon, les premiers elfes pouvaient changer de forme à volonté. Ils ont perdu ce pouvoir lorsque Corellon les a maudits pour avoir comploté avec la déesse Lolth, qui tentait vainement de détrôner Corellon. Quand Lolth fut précipitée dans les Abysses, beaucoup d'elfes renoncèrent à elle et gagnèrent le pardon de Corellon, mais ce que leur dieu tutélaire leur avait repris fut perdu à jamais.</p><p>Désormais incapables de se métamorphoser à volonté, les elfes se sont retirés en Féerie, où leur chagrin fut accentué par l'influence de ce plan d'existence. Au fil du temps, la curiosité en poussa beaucoup à partir explorer d'autres plans d'existence, y compris les mondes du Plan Matériel.</p><p>Les elfes ont les oreilles pointues et n'ont pas de pilosité faciale ni corporelle. Ils vivent environ 750 ans et ne dorment jamais, entrant en transe lorsqu'ils ont besoin de prendre du repos. Dans cet état, ils demeurent conscients de ce qui les environne tout en s'immergeant dans leurs souvenirs et la méditation.</p><p>L'environnement transforme subtilement les elfes après qu'ils l'ont habité pendant un millénaire ou davantage, et leur octroie certains types de magie. Drows, hauts-elfes et elfes sylvestres sont des exemples d'elfes ayant subi ce type d'imprégnation.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Elf, Drow": {
-                    "name": "",
-                    "text": ""
+                    "name": "Elfe, Drow",
+                    "text": "<p>Les drows, qui habitent le plus souvent en Outreterre, ont été façonnés par ce monde souterrain. Certains drows, à titre individuel ou en groupe constitué, bien qu'ayant totalement renoncé à l'Outreterre, en conservent la magie. Dans le cadre de campagne d'Éberron, par exemple, les drows vivent en forêt pluviale et dans les ruines cyclopéennes du continent de Xen'drik.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Elf, High": {
-                    "name": "",
-                    "text": ""
+                    "name": "Elfe, Haut",
+                    "text": "<p>Les hauts-elfes ont été imprégnés de la magie des passages successifs entre Féerie et Plan Matériel. Sur certains mondes, ils se désignent eux-mêmes par d'autres noms. Ils se nomment par exemple elfes du soleil ou de la lune dans le cadre de campagne des Forgotten Realms, silvanesti et qualinesti dans celui de Dragonlance, et aereni sur Éberron.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Elf, Wood": {
-                    "name": "",
-                    "text": ""
+                    "name": "Elfe, sylvestre",
+                    "text": "<p>Les elfes sylvestres portent en eux la magie des forêts vierges. Ils sont connus sous de nombreux autres noms, notamment elfes sauvages, elfes verts et elfes forestiers. Les grugach sont des elfes sylvestres reclus du monde de Greyhawk, tandis que les kagonesti et les tairnadal sont leur équivalent respectif de Dragonlance et d'Éberron.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Gnome": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gnome",
+                    "text": "<p>Les gnomes sont des êtres magiques créés par les dieux de l'invention, des illusions et de la vie souterraine. Les premiers gnomes étaient rarement vus par les autres peuples en raison de leur nature discrète et de leur propension à résider dans des terriers en forêt. Leur déficit de taille, ils le compensaient par la ruse. Ils déroutaient les prédateurs au moyen de pièges et de tunnels labyrinthiques. Ils ont également appris la magie auprès de dieux comme Garl Brilledor, Baervan Ermiterrant et Baravar Sombretoge, qui leur rendaient visite sous un déguisement. Cette magie a fini par créer les lignages des gnomes des forêts et des gnomes des roches.</p><p>Les gnomes sont un peuple de petite taille aux grands yeux et aux oreilles pointues, qui vivent environ 425 ans. De nombreux gnomes aiment avoir un toit au-dessus de leur tête, quitte à ce que ce « toit » se résume à un chapeau.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Goliath": {
-                    "name": "",
-                    "text": ""
+                    "name": "Goliath",
+                    "text": "<p>Plus grands que la plupart des autres peuples, les goliaths sont de lointains descendants des géants. Chaque goliath porte les faveurs des tout premiers géants. Ces faveurs se manifestent de façon surnaturelle, par exemple en leur permettant de grandir en un clin d'œil afin d'approcher un court instant le gabarit de leurs imposants ancêtres.</p><p>Les goliaths jouissent d'une apparence physique qui rappelle leur ascendance gigante. Certains goliaths, par exemple, ressemblent à des géants des pierres, d'autres à des géants du feu. Quels que soient les géants qu'ils considèrent comme leurs ancêtres directs, les goliaths ont forgé leur propre sillon dans le multivers sans se soucier des querelles millénaires qui ont signé la perte des géants, et s'efforcent de tutoyer des sommets supérieurs à ceux atteints par ces mêmes ancêtres.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Halfling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Halfelin",
+                    "text": "<p>Chéris et guidés par des dieux qui accordent de l'importance à la vie, à la maison et au foyer, les halfelins gravitent autour de havres bucoliques où famille et communauté sont le ciment de l'existence. Cela étant, maints halfelins ayant le goût des exploits et de l'aventure, ils se tournent tout naturellement vers la découverte, partent explorer le vaste monde et nouent de nouvelles amitiés en cours de route. Leur taille, semblable à celle d'un enfant humain, les aide à se fondre dans la foule et à se faufiler dans les moindres recoins.</p><p>Quiconque ayant côtoyé des halfelins, surtout s'ils sont aventuriers, a pu voir à l'œuvre la fameuse « chance des halfelins ». Dès qu'un halfelin est en danger de mort, c'est comme si quelque force invisible jouait en sa faveur. De nombreux halfelins croient au pouvoir de la chance et attribuent ce don inhabituel à un ou plusieurs de leurs dieux bienveillants, par exemple Yondalla, Brandobaris ou Charmalaine. Ce même don pourrait expliquer leur grande longévité (environ 150 ans).</p><p>On trouve toute sorte de communautés halfelines. Pour chaque comté isolé dans une région à l'écart du monde, il existe un syndicat du crime comme le Clan Boromar d'Éberron ou une bande de halfelins farouchement territoriaux, comme ceux du cadre de campagne Dark Sun.</p><p>Les halfelins qui préfèrent vivre sous terre sont parfois appelés Cœur-vaillant ou Forts. Les halfelins nomades, ainsi que ceux qui vivent parmi les humains et autres « grandes gens », sont quant à eux baptisés Pied-léger ou Grands.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Human": {
-                    "name": "",
-                    "text": ""
+                    "name": "Humain",
+                    "text": "<p>Présents dans l'ensemble du multivers et aussi divers que nombreux, les humains s'efforcent d'accomplir le maximum au cours du temps qui leur est imparti. Ils font preuve d'une ambition et d'une ingéniosité qui sont applaudies, respectées et craintes sur de nombreux mondes.</p><p>Les humains jouissent d'une apparence aussi variée que les terriens, et vénèrent de nombreux dieux. Si les érudits sont en désaccord à propos des origines de l'espèce humaine, l'un des premiers rassemblements humains aurait eu lieu à Sigil, métropole en forme de tore située au centre du multivers et berceau du commun. C'est depuis cette ville que les humains se seraient disséminés aux quatre coins du multivers, avec dans leurs bagages le cosmopolitisme propre à la Cité des portes.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Orc": {
-                    "name": "",
-                    "text": ""
+                    "name": "Orc",
+                    "text": "<p>Les orcs sont la création de Gruumsh, un dieu puissant qui sillonnait jadis les grands espaces du Plan Matériel. Gruumsh a doté ses enfants de présents pour les aider à parcourir les plaines infinies, les vastes cavernes et les mers agitées, ainsi qu'à affronter les monstres qui y rôdent. Même lorsqu'ils se tournent vers d'autres dieux, les orcs conservent les dons de Gruumsh : endurance, détermination et capacité à voir dans les Ténèbres.</p><p>L'orc moyen est grand et puissamment bâti. Il a la peau grise, des oreilles très pointues et des canines inférieures proéminentes qui font songer à de petites défenses. Sur certains mondes, les jeunes orcs se voient narrer les grands voyages et exploits de leurs ancêtres. Inspirés par ces récits, maints orcs s'interrogent : Gruumsh les sommera-t-il d'égaler les hauts faits d'autrefois... et seront-ils dignes de ses faveurs ? D'autres orcs, heureux de savoir que ces vieilles histoires appartiennent à un passé révolu, s'attachent à chercher leur voie propre.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Tiefling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tieffelin",
+                    "text": "<p>Les tieffelins sont natifs des Plans Inférieurs ou ont un ancêtre fiélon qui en est originaire. Un tieffelin (prononcé tièf-LIN) est lié par le sang à un diable, un démon ou un autre fiélon. Héritage fiélon du tieffelin, ce lien avec les Plans Inférieurs s'accompagne d'une promesse de pouvoir, mais n'a aucun effet direct sur la boussole morale des individus.</p><p>Chaque tieffelin décide s'il vénère ou déplore cet héritage.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Tiefling, Abyssal": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tieffelin, Abyssal",
+                    "text": "<p>L'entropie des Abysses, le chaos du Pandémonium et le désespoir des Carcères « parlent » aux tieffelins qui ont reçu l'héritage abyssal. Cornes, fourrure, défenses et odeur corporelle distinctive sont les traits physiques communs à ces tieffelins, dont la plupart ont du sang de démon qui coule dans leurs veines.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Tiefling, Chthonic": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tieffelin, Chtonien",
+                    "text": "<p>Les tieffelins qui ont reçu l'héritage chtonien ressentent non seulement l'attraction des Carcères, mais aussi l'avidité de la Géhenne et la noirceur de l'Hadès. Certains ont un aspect cadavérique. D'autres possèdent la beauté surnaturelle d'une succube, ou entretiennent un air de famille avec la guenaude nocturne, le yugoloth ou quelque autre ancêtre fiélon Neutre Mauvais.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Tiefling, Infernal": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tieffelin, Infernal",
+                    "text": "<p>L'héritage infernal relie les tieffelins non seulement à la Géhenne, mais aussi aux Neuf Enfers et aux champs de bataille désolés de l'Achéron. Cornes, épines, queue fourchue, yeux mordorés et vague relent de soufre ou de fumée sont des traits physiques propres à ces tieffelins, dont beaucoup ont un démon pour ancêtre.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 }
             }
         },
         "Barbarian": {
-            "name": "",
+            "name": "Barbare",
             "pages": {
                 "Path of the Berserker": {
-                    "name": "",
-                    "description": ""
+                    "name": "Voie du Berserker",
+                    "description": "<blockquote><p>Convertissez la Rage en déchaînement de violence</p></blockquote><p>Les Barbares qui empruntent la @UUID[Compendium.dnd5e.classes24.Item.phbbrbBerserker0]{Voie du Berserker} transforment l'essentiel de leur Rage en violence. C'est la voie de la fureur débridée, dans laquelle on se laisse dominer et animer par la Rage pour s'abandonner dans le chaos des batailles.</p>"
                 },
                 "Barbarian": {
-                    "name": "",
-                    "subclassHeader": "",
-                    "description": "",
-                    "subclass": ""
+                    "name": "Barbare",
+                    "subclassHeader": "Sous-classes de Barbare",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbbrbBarbarian0 inline classes=\"free-rules-embed\"]</p><h2>Devenir Barbare…</h2><h3>En tant que personnage de niveau 1</h3><ul><li><p>Recevez tous les traits de l'encadré Traits de base du Barbare.</p></li><li><p>Recevez les aptitudes de niveau 1 du Barbare, qui figurent dans la table Aptitudes du Barbare.</p></li></ul><h3>En tant que personnage multiclassé</h3><ul><li><p>Recevez les traits suivants de l'encadré Traits de base du Barbare : Dé de vie, maîtrise des armes de guerre et port des boucliers.</p></li><li><p>Recevez les aptitudes de niveau 1 du Barbare, qui figurent dans la table Aptitudes du Barbare.</p></li></ul>",
+                    "subclass": "<p>Une sous-classe de Barbare est une spécialisation qui vous octroie des aptitudes à certains niveaux de Barbare, comme spécifié dans la sous-classe. Cette section présente la sous-classe @UUID[Compendium.dnd5e.content24.JournalEntry.phbBarbarian0000.JournalEntryPage.GvRPKO7EAbXB7TXM]{Voie du Berserker}.</p>"
                 }
             }
         },
         "Bard": {
-            "name": "",
+            "name": "Barde",
             "pages": {
                 "Bard": {
-                    "name": "",
-                    "description": "",
-                    "subclass": ""
+                    "name": "Barde",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbbrdBard000000 inline classes=\"free-rules-embed\"]</p> <h2>Devenir Barde…</h2><h3>En tant que personnage de niveau 1</h3><ul><li><p>Recevez tous les traits de l'encadré Traits de base du Barde.</p></li><li><p>Recevez les aptitudes de niveau 1 du Barde, qui figurent dans la table Aptitudes du Barde.</p></li></ul><h3>En tant que personnage multiclassé</h3><ul><li><p>Recevez les traits suivants de l'encadré Traits de base du Barde : Dé de vie, maîtrise d'une compétence au choix, maîtrise d'un instrument de musique au choix et formation aux armures légères.</p></li><li><p>Recevez les aptitudes de niveau 1 du Barde, qui figurent dans la table Aptitudes du Barde. Référez-vous aux règles du multiclassage, au chapitre 2, pour déterminer vos emplacements de sort disponibles.</p></li></ul>",
+                    "subclass": "<p>Une sous-classe de Barde est une spécialisation qui vous octroie des aptitudes à certains niveaux de Barde, comme spécifié dans la sous-classe. Cette section présente la sous-classe @UUID[Compendium.dnd5e.content24.JournalEntry.phbBard000000000.JournalEntryPage.AK8mgYdk1zOiIU0w]{Collège du Savoir}.</p>"
                 },
                 "College of Lore": {
-                    "name": "",
-                    "description": ""
+                    "name": "Collège du Savoir",
+                    "description": "<blockquote><p>Sondez les profondeurs du savoir magique</p></blockquote><p>Les Bardes du @UUID[Compendium.dnd5e.classes24.Item.phbbrdLore000000]{Collège du Savoir} récoltent leurs sorts et secrets de sources aussi diverses que les tomes académiques, les rites mystiques et les contes paysans. Les membres du collège se réunissent au sein de bibliothèques et universités pour s'échanger leurs trésors de sapience. Ils se rencontrent aussi à l'occasion de festivals ou lors d'une réunion entre gens de pouvoir, où il leur est loisible de dénoncer la corruption, de démêler les mensonges et de railler ces figures d'autorité gonflées d'importance.</p>"
                 }
             }
         },
         "Character Backgrounds": {
-            "name": "",
+            "name": "Historiques de personnage",
             "pages": {
                 "Overview": {
-                    "name": "",
-                    "text": ""
+                    "name": "Aperçu",
+                    "text": "<p>Les quatre historiques sont présentés dans cette section dans l'ordre alphabétique :</p><ul class=\"columns-two\"><li>@UUID[.7DAvTQlrw7OTsgpX]{Acolyte}</li><li>@UUID[.PnqnUJNaPQUZPlLR]{Criminel}</li><li>@UUID[.Vsc9EKUUGboSI6jy]{Sage}</li><li>@UUID[.l8iMjw1XZgyqWFFf]{Soldat}</li></ul>"
                 },
                 "Acolyte": {
-                    "name": "",
-                    "text": ""
+                    "name": "Acolyte",
+                    "text": "<p>@Embed[Compendium.dnd5e.origins24.Item.phbbgAcolyte0000 caption=false]</p>"
                 },
                 "Criminal": {
-                    "name": "",
-                    "text": ""
+                    "name": "Criminel",
+                    "text": "<p>@Embed[Compendium.dnd5e.origins24.Item.phbbgCriminal000 caption=false]</p>"
                 },
                 "Sage": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sage",
+                    "text": "<p>@Embed[Compendium.dnd5e.origins24.Item.phbbgSage0000000 caption=false]</p>"
                 },
                 "Soldier": {
-                    "name": "",
-                    "text": ""
+                    "name": "Soldat",
+                    "text": "<p>@Embed[Compendium.dnd5e.origins24.Item.phbbgSoldier0000 caption=false]</p>"
                 }
             }
         },
@@ -2378,26 +2378,26 @@
             }
         },
         "Classes": {
-            "name": "",
-            "flagsTitle": "",
+            "name": "Classes",
+            "flagsTitle": "Classes de personnage",
             "pages": {
                 "Overview": {
-                    "name": "",
-                    "text": ""
+                    "name": "Aperçu",
+                    "text": "<p>Vous trouverez des informations détaillées sur chacune des classes dans leurs journaux respectifs :</p><p><strong>@UUID[Compendium.dnd5e.content24.JournalEntry.phbBarbarian0000.JournalEntryPage.z2RxKBICH6e6SkUT]{Barbare}</strong></p><p><strong>@UUID[Compendium.dnd5e.content24.JournalEntry.phbBard000000000.JournalEntryPage.V8pqIWlaL9GhY61t]{Barde}</strong></p><p><strong>@UUID[Compendium.dnd5e.content24.JournalEntry.phbCleric0000000.JournalEntryPage.acPyA6A4DQBSnuZB]{Clerc}</strong></p><p><strong>@UUID[Compendium.dnd5e.content24.JournalEntry.phbDruid00000000.JournalEntryPage.UCOh3zlvGxyk5jLr]{Druide}</strong></p><p><strong>@UUID[Compendium.dnd5e.content24.JournalEntry.phbSorcerer00000.JournalEntryPage.fsqRUA4acVXH4I3O]{Ensorceleur}</strong></p><p><strong>@UUID[Compendium.dnd5e.content24.JournalEntry.phbFighter000000.JournalEntryPage.wDELe3k25FQvYdrq]{Guerrier}</strong></p><p><strong>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWizard0000000.JournalEntryPage.g7cMRWzsgAsEF7zC]{Magicien}</strong></p><p><strong>@UUID[Compendium.dnd5e.content24.JournalEntry.phbMonk000000000.JournalEntryPage.P8IgUhHYBAq0Zcwp]{Moine}</strong></p><p><strong>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWarlock000000.JournalEntryPage.znue6EaGDDXgeQb0]{Occultiste}</strong></p><p><strong>@UUID[Compendium.dnd5e.content24.JournalEntry.phbPaladin000000.JournalEntryPage.A34CXe4HdzXHoBEl]{Paladin}</strong></p><p><strong>@UUID[Compendium.dnd5e.content24.JournalEntry.phbRanger0000000.JournalEntryPage.fgzoeAJE4EEUSOYQ]{Rôdeur}</strong></p><p><strong>@UUID[Compendium.dnd5e.content24.JournalEntry.phbRogue00000000.JournalEntryPage.gJV8iDqdNhRMLi5r]{Roublard}</strong></p>"
                 }
             }
         },
         "Cleric": {
-            "name": "",
+            "name": "Clerc",
             "pages": {
                 "Cleric": {
-                    "name": "",
-                    "description": "",
-                    "subclass": ""
+                    "name": "Clerc",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbclcCleric0000 inline classes=\"free-rules-embed\"]</p><h2>Devenir Clerc…</h2><h3>En tant que personnage de niveau 1</h3><p>Recevez tous les traits de l'encadré Traits de base du Clerc.</p><ul><li><p>Recevez les aptitudes de niveau 1 du Clerc, qui figurent dans la table Aptitudes du Clerc.</p></li></ul><h3>En tant que personnage multiclassé</h3><ul><li><p>Recevez les traits suivants de l'encadré Traits de base du Clerc : Dé de vie, formation aux armures légères et intermédiaires, et port des boucliers.</p></li><li><p>Recevez les aptitudes de niveau 1 du Clerc, qui figurent dans la table Aptitudes du Clerc. Référez-vous aux règles du multiclassage, au chapitre 2, pour déterminer vos emplacements de sort disponibles.</p></li></ul>",
+                    "subclass": "<p>Une sous-classe de Clerc est une spécialisation qui vous octroie des aptitudes à certains niveaux de Clerc, comme spécifié dans la sous-classe. Cette section présente la sous-classe @UUID[Compendium.dnd5e.content24.JournalEntry.phbCleric0000000.JournalEntryPage.aGYpgynZ3nkBCPaT]{Domaine de la Vie}.</p>"
                 },
                 "Life Domain": {
-                    "name": "",
-                    "description": ""
+                    "name": "Domaine de la Vie",
+                    "description": "<blockquote><p>Apaisez les peines de ce monde</p></blockquote><p>Le @UUID[Compendium.dnd5e.classes24.Item.phbclcLifeDomain]{Domaine de la Vie} se concentre sur les énergies positives qui préservent toute vie à travers le multivers. Les Clercs qui puisent dans ce domaine excellent en guérison, en profitant de cette force vitale pour soigner de nombreuses blessures.</p><p>L'existence même compte sur les énergies positives associées à ce domaine, si bien que tout Clerc, quelle que soit sa confession, peut le choisir. Ce domaine est grandement associé aux divinités agricoles, aux dieux de la guérison ou de l'endurance, du foyer et de la communauté. Les ordres religieux dévoués aux soins prisent aussi la magie de ce domaine.</p>"
                 }
             }
         },
@@ -2568,16 +2568,16 @@
             }
         },
         "Druid": {
-            "name": "",
+            "name": "Druide",
             "pages": {
                 "Druid": {
-                    "name": "",
-                    "description": "",
-                    "subclass": ""
+                    "name": "Druide",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbdrdDruid00000 inline classes=\"free-rules-embed\"]</p><h2>Devenir Druide…</h2><h3>En tant que personnage de niveau 1</h3><ul><li><p>Recevez tous les traits de l'encadré Traits de base du Druide.</p></li><li><p>Recevez les aptitudes de niveau 1 du Druide, qui figurent dans la table Aptitudes du Druide.</p></li></ul><h3>En tant que personnage multiclassé</h3><ul><li><p>Recevez les traits suivants de l'encadré Traits de base du Druide : Dé de vie, formation aux armures légères et port des boucliers.</p></li><li><p>Recevez les aptitudes de niveau 1 du Druide, qui figurent dans la table Aptitudes du Druide. Référez-vous aux règles du multiclassage, au chapitre 2, pour déterminer vos emplacements de sort disponibles.</p></li></ul>",
+                    "subclass": "<p>Une sous-classe de Druide est une spécialisation qui vous octroie des aptitudes à certains niveaux de Druide, comme spécifié dans la sous-classe. Cette section présente la sous-classe @UUID[Compendium.dnd5e.content24.JournalEntry.phbDruid00000000.JournalEntryPage.Ysgeru1iCA7CCe3x]{Cercle de la Terre}.</p>"
                 },
                 "Circle of Land": {
-                    "name": "",
-                    "description": ""
+                    "name": "Cercle de la Terre",
+                    "description": "<blockquote><p>Glorifiez le lien avec le monde naturel</p></blockquote><p>Le @UUID[Compendium.dnd5e.classes24.Item.phbdrdCirland000]{Cercle de la Terre} accueille les mystes et les sages qui veillent sur les rites et savoirs ancestraux. Ces Druides se rassemblent dans des cercles sacrés faits d'arbres ou de menhirs pour se murmurer des secrets primitifs en langue druidique. Les membres les plus sagaces du cercle officient comme grands prêtres de leur communauté.</p>"
                 }
             }
         },
@@ -2732,16 +2732,16 @@
             }
         },
         "Fighter": {
-            "name": "",
+            "name": "Guerrier",
             "pages": {
                 "Fighter": {
-                    "name": "",
-                    "description": "",
-                    "subclass": ""
+                    "name": "Guerrier",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbftrFighter000 inline classes=\"free-rules-embed\"]</p><h2>Devenir Guerrier…</h2><h3>En tant que personnage de niveau 1</h3><ul><li><p>Recevez tous les traits de l'encadré Traits de base du Guerrier.</p></li><li><p>Recevez les aptitudes de niveau 1 du Guerrier, qui figurent dans la table Aptitudes du Guerrier.</p></li></ul><h3>En tant que personnage multiclassé</h3><ul><li><p>Recevez les traits suivants de l'encadré Traits de base du Guerrier : Dé de vie, maîtrise des armes de guerre, formation aux armures légères, intermédiaires et aux boucliers.</p></li><li><p>Recevez les aptitudes de niveau 1 du Guerrier, qui figurent dans la table Aptitudes du Guerrier.</p></li></ul>",
+                    "subclass": "<p>Une sous-classe de Guerrier est une spécialisation qui vous octroie des aptitudes à certains niveaux de Guerrier, comme spécifié dans la sous-classe. Cette section présente la sous-classe @UUID[Compendium.dnd5e.content24.JournalEntry.phbFighter000000.JournalEntryPage.oIre3TldjyfnGzQr]{Champion}.</p>"
                 },
                 "Champion": {
-                    "name": "",
-                    "description": ""
+                    "name": "Champion",
+                    "description": "<blockquote><p>Visez l'excellence physique au combat</p></blockquote><p>Un @UUID[Compendium.dnd5e.classes24.Item.phbftrChampion00]{Champion} cherche à tirer le meilleur parti de ses qualités martiales au service obstiné de la victoire. Les Champions conjuguent entraînement draconien et condition physique d'exception pour asséner des coups dévastateurs et endurer les périls, et enfin en récolter les lauriers. Qu'ils s'engagent dans une épreuve purement physique ou une bataille sanguinaire, ils n'ont qu'un objectif : le triomphe.</p>"
                 }
             }
         },
@@ -2792,15 +2792,15 @@
             }
         },
         "How to Use a Monster": {
-            "name": "",
+            "name": "Gestion des monstres",
             "pages": {
                 "Introduction": {
-                    "name": "",
-                    "text": ""
+                    "name": "Introduction",
+                    "text": "<p>Chaque monstre est une aventure en puissance. Vous allez découvrir dans ce bestiaire de Dungeons & Dragons un éventail fascinant de créatures, des plus majestueuses aux plus sinistres. À vous de définir vos préférés et de vous les approprier.</p><p>Le <em>Manuel des monstres</em> complète, avec le <em>Manuel des joueurs</em> et le <em>Guide du maître</em>, le triptyque essentiel de D&D dans sa version 2024. Destiné aux maîtres et maîtresse du donjon (MD), il fournit les profils des monstres ; toutes ces créatures contrôlées par le MD, qu'elle soient alliées ou ennemies. Ces profils de jeu sont présentés sous un format condensé. L'ouvrage présente les sections de montres par ordre alphabétique, les animaux apparaissent en annexe A. Reportez-vous à l'index si vous peinez à retrouver un montre donnée.</p><p>Les aventures officielle de D&D font souvent référence aux monstres de ce livre. Vous-même pouvez les reprendre pour vos propres histoires, en les agençant au besoin selon les règles de conception de monstres et de rencontre du <em>Guide du maître</em>. L'annexe B et ses listes de monstres vous aideront à élaborer vos aventures.</p><aside class=\"notable\" style=\"width:99%;margin-top:0.7em\"><h4>Ce qui change dans la version de 2025</h4><p>Voici la version 2025 du <em>Manuel des monstres</em> de la cinquième édition. Si vous avez déjà lu la version 2014, le présent ouvrage sera d'autant plus facile à assimiler, étant donné que les bases du jeu et du bestiaire restent les mêmes. L'ouvrage propose toutefois de nouveaux éléments et en révise de nombreux ; les monstres de cette version remplacent ceux des livres plus anciens. Notamment :</p><p><strong>Davantage de monstres.</strong> Vous trouverez plus de 500 profils dans ces pages.</p><p><strong>De nouveaux monstres.</strong> Des dizaines de monstres inédits attendent les personnages de tous les niveaux, notamment les plus hauts.</p><p><strong>Règles épurées.</strong> Chaque profil de jeu à été mis à jour : plus pratique et équilibré.</p><p><strong>Profils améliorés.</strong> La nouvelle conception des profils met en exergue les aspects essentiels en cours de partie.</p><p><strong>Groupes polyvalents.</strong> Les personnages non-joueurs figurent désormais aux côtés d'autres monstres. Ce sont des Humanoïdes d'espèce quelconque.</p><p><strong>Répartition améliorée.</strong> Les monstres sont désormais classés alphabétiquement. Seules les variations d'un même monstre sont regroupées.</p><p><strong>Listes étoffées.</strong> L'annexe B reprend et étoffe les listes de monstres du <em>Guide du maître</em> de 2014.</p><p>Chaque monstre du <em>Manuel des monstres</em> de 2014 figure dans le présent ouvrage ou est remplacé par une créature de FP équivalent indiqué dans l'annexe B.</p></aside><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Monster Entries": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sections de monstre",
+                    "text": "<p>Pour l'essentiel, l'ouvrage se compose de sections de monstre dont le titre est suivi des informations suivantes.</p><h2>Habitat</h2><p>L'habitat d'un monstre indique son environnement de prédilection. Vous trouverez en annexe B des listes de monstres organisées par habitat.</p><h2>Trésor</h2><p>Cette entrée indique si le monstre accumule du trésor et, le cas échéant, le genre de butin qu'il affectionne. Ces préférences se déclinent comme suit :</p><ul><li><p><strong>Libre.</strong> Le monstre peut accumuler du trésor monétaire, mais aussi tout type d'objets magiques.</p></li><li><p><strong>Individuel.</strong> Le monstre ne dispose pas de cache au trésor, mais il est peut-être doté d'un trésor monétaire.</p></li><li><p><strong>Trésor thématique (Arcanes, Armements, Reliques ou Ustensiles).</strong> La cache au trésor du monstre compte des objets magiques associés au thème indiqué. Vous trouverez dans le <em>Guide du maître</em> le détail des caches au trésor adaptées à chaque thème.</p></li><li><p><strong>Aucun.</strong> Le monstre n'a que faire des trésors. S'il en possède un, c'est tout à fait fortuit.</p></li></ul><p>Tout trésor détenu par un monstre s'ajoute au matériel indiqué à la ligne Équipement de son profil.</p><p>Le <em>Guide du maître</em> fournit plus de détails sur les trésors de monstres.</p><h2>Description</h2><p>Juste après ces détails d'introduction, on trouve des renseignements propres au monstre, quel que soit le site où on le croise dans le multivers. Adaptez ces informations selon les besoins de vos aventures.</p><h2>Antres spéciaux</h2><p>Certains monstres engendrent des changements sur les environs de leur antre. Dans pareil cas, des effets régionaux apparaissent dans la section liée à son antre. Le profil de jeu détaille aussi parfois comment le monstre s'avère plus puissant dans son antre.</p><h2>Profil de jeu</h2><p>Chaque section de monstre comprend au moins un profil de jeu. Ces profils sont abordés dans la section qui suit.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Monster Conversions": {
                     "name": "",
@@ -2905,70 +2905,70 @@
             }
         },
         "Magic Items": {
-            "name": "",
-            "flagsTitle": "",
+            "name": "Objets magiques",
+            "flagsTitle": "Objets magiques",
             "pages": {
                 "Magic Item Categories": {
-                    "name": "",
+                    "name": "Catégories d'objets magiques",
                     "text": ""
                 },
                 "Magic Item Rarity": {
-                    "name": "",
+                    "name": "Rareté d'un objet magique",
                     "text": ""
                 },
                 "Activating a Magic Item": {
-                    "name": "",
-                    "text": ""
+                    "name": "Activation d'un objet magique",
+                    "text": "<p>L'action Magie est généralement requise pour activer un objet magique. Dans certains cas, l'utilisateur devra aussi accomplir quelque chose de spécial. La description de chaque catégorie d'objet ou de certains objets spécifiques détaille comment un tel objet doit être activé. L'activation de certains objets obéit aux règles suivantes.</p><h2>Mot de commande</h2><p>Un mot de commande est un mot ou une courte phrase qui doit être prononcé (oralement ou en langue des signes) pour que l'objet fonctionne. Les mots de commande doivent être prononcés de façon audible et ne fonctionnent pas dans les endroits où le son est réprimé, comme dans la zone d'effet du sort <em>silence</em>.</p><h2>Objets à utilisation unique</h2><p>Certains objets sont consommés, à savoir détruits, lorsqu'ils sont activés. Une <em>potion de guérison</em>, par exemple, doit être avalée, tandis que les écrits s'effacent d'un parchemin quand on le lit. Une fois utilisé, un objet à utilisation unique perd ses propriétés magiques.</p><h2>Sorts lancés depuis un objet</h2><p>Certains objets magiques permettent à l'utilisateur de lancer un sort à partir de l'objet. Le sort est lancé au niveau de sort et de lanceur le plus bas possible, ne consomme aucun des emplacements de sort de l'utilisateur et ne nécessite aucune composante, sauf mention contraire dans la description de l'objet. Le sort fonctionne de façon normale en ce qui concerne le temps d'incantation, la portée et la durée, et l'utilisateur de l'objet doit se concentrer si le sort nécessite la Concentration. De nombreux objets, comme les potions, ne demandent pas de lancer le sort et octroient les effets du sort avec sa durée habituelle. Certains objets font exception à cette règle, modifiant le temps d'incantation, la durée ou d'autres aspects d'un sort.</p><p>Un objet magique peut nécessiter que l'utilisateur emploie sa propre caractéristique d'incantation quand il lance un sort par son biais. Si cet utilisateur présente plus d'une caractéristique d'incantation, il choisit laquelle employer avec l'objet. Si l'utilisateur est dépourvu de caractéristique d'incantation, son modificateur de caractéristique d'incantation est de +0 pour l'objet et son bonus de maîtrise s'applique.</p><h2>Charges</h2><p>Certains objets magiques sont dotés de charges que l'on dépense pour activer leurs propriétés. Le nombre de charges restantes d'un objet est révélé lorsque le sort <em>identification</em> est lancé sur lui. Une créature harmonisée avec un objet sait combien il lui reste de charges et quand et combien il en récupère le cas échéant.</p>"
                 },
                 "\"The Next Dawn\"": {
-                    "name": "",
-                    "text": ""
+                    "name": "« L'aube suivante »",
+                    "text": "<p>Il est fréquent qu'un objet magique dispose de charges ou de propriétés qui se rechargent à l'aube suivante ou à un autre horaire spécifié. Si un tel objet se trouve sur un monde ou plan d'existence différent où l'événement spécifié ne se produit pas, il appartient au MD de déterminer quand l'objet se recharge.</p>"
                 },
                 "Cursed Items": {
-                    "name": "",
-                    "text": ""
+                    "name": "Objets maudits",
+                    "text": "<p>La description d'un objet magique précise s'il est porteur d'une malédiction. La plupart des méthodes d'identification d'objet, y compris le sort <em>identification</em>, ne révèlent pas une telle malédiction.</p><p>L'Harmonisation avec un objet maudit ne peut pas être interrompue volontairement sauf si la malédiction a été levée au préalable, par exemple avec le sort <em>délivrance des malédictions</em>.</p>"
                 },
                 "Magic Item Resilience": {
-                    "name": "",
-                    "text": ""
+                    "name": "Résilience des objets magiques",
+                    "text": "<p>Un objet magique est au moins aussi solide qu'un objet non magique du même type. De nombreux objets magiques, autres que les potions et les parchemins, sont dotés de la Résistance à tous les dégâts.</p><p>Un Artefact ne peut être détruit que par un moyen spécial. Il est sinon insensible à toute forme de dégâts. Apprendre à détruire un Artefact nécessite souvent des recherches ou l'accomplissement d'une quête.</p>"
                 },
                 "Overview": {
-                    "name": "",
-                    "text": ""
+                    "name": "Aperçu",
+                    "text": "<p>Les objets magiques se dénichent dans les caches des monstres vaincus et dans les chambres fortes d'un autre âge. De tels objets octroient des pouvoirs auxquels un personnage aurait sans cela difficilement accès, ou complètent les aptitudes de leur détenteur par le biais d'une magie extraordinaire.</p>"
                 },
                 "Crafting Magic Items": {
-                    "name": "",
+                    "name": "Fabrication d'objets magiques",
                     "text": ""
                 },
                 "Sentient Magic Items": {
-                    "name": "",
+                    "name": "Objets magiques intelligents",
                     "text": ""
                 }
             }
         },
         "Monk": {
-            "name": "",
+            "name": "Moine",
             "pages": {
                 "Monk": {
-                    "name": "",
-                    "description": "",
-                    "subclass": ""
+                    "name": "Moine",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbmnkMonk000000 inline classes=\"free-rules-embed\"]</p><h2>Devenir Moine…</h2><h3>En tant que personnage de niveau 1</h3><ul><li><p>Recevez tous les traits de l'encadré Traits de base du Moine.</p></li><li><p>Recevez les aptitudes de niveau 1 du Moine, qui figurent dans la table Aptitudes du Moine.</p></li></ul><h3>En tant que personnage multiclassé</h3><ul><li><p>Recevez le trait Dé de vie de l'encadré Traits de base du Moine.</p></li><li><p>Recevez les aptitudes de niveau 1 du Moine, qui figurent dans la table Aptitudes du Moine.</p></li></ul>",
+                    "subclass": "<p>Une sous-classe de Moine est une spécialisation qui vous octroie des aptitudes à certains niveaux de Moine, comme spécifié dans la sous-classe. Cette section présente la sous-classe @UUID[Compendium.dnd5e.content24.JournalEntry.phbMonk000000000.JournalEntryPage.qha7pVaUwH2gYdk1]{Credo de la Paume}.</p>"
                 },
                 "Warrior of the Open Hand": {
-                    "name": "",
-                    "description": ""
+                    "name": "Credo de la Paume",
+                    "description": "<blockquote><p>Maîtrisez les techniques du combat à mains nues</p></blockquote><p>Les Moines du @UUID[Compendium.dnd5e.classes24.Item.phbmnkOpenHandWa]{Credo de la Paume} excellent au combat à mains nues. Ils apprennent à bousculer et faire tomber leurs adversaires et à manipuler leur propre énergie pour consolider leur corps.</p>"
                 }
             }
         },
         "Monsters": {
-            "name": "",
+            "name": "Monstres",
             "pages": {
                 "Stat Block Overview": {
-                    "name": "",
-                    "text": ""
+                    "name": "Le profil de jeu",
+                    "text": "<p>Chaque monstre s'accompagne d'un profil de jeu incluant les règles propres à sa gestion. Ces profils se répartissent comme suit :</p><ul><li><p><strong>Nom et détails génériques.</strong> Le nom du monstre est suivi de son type de créature (avec d'éventuels mots-clés), de sa catégorie de taille et de son alignement.</p></li><li><p><strong>Base de combat.</strong> La classe d'armure, les points de vie, les Vitesses et l'Initiative apparaissent ici.</p></li><li><p><strong>Valeurs de caractéristiques.</strong> Les valeurs de caractéristiques, les modificateurs correspondant et ses jets de sauvegardes sont indiqués ici.</p></li><li><p><strong>Autres détails.</strong> Les sens, les langues et le FP du monstre apparaissent ici. Pour certains monstres, d'autres détails figurent aussi, comme ses maîtrises de compétences, ses Résistances, ses Immunités et son équipement. Quand un monstre est dépourvu de tels éléments, ces entrées sont absentes.</p></li><li><p><strong>Traits.</strong> Apparaissent ici les particularités du monstre qui sont actives en permanence ou dans certaines situations.</p></li><li><p><strong>Actions.</strong> Le monstre peut entreprendre les actions répertoriées ici en plus de celle détaillées dans le <em>Manuel des joueurs</em>.</p></li><li><p><strong>Actions Bonus.</strong> Cette section indique les éventuelles actions Bonus du monstre.</p></li><li><p><strong>Réactions et actions Légendaires.</strong> Ces sections fournissent les éventuelles Réactions et actions Légendaires du monstre. Les monstre donné en exemple n'en est pas doté.</p></li></ul>"
                 },
                 "Parts of a Stat Block": {
-                    "name": "",
+                    "name": "Entrées d'un profil",
                     "text": ""
                 }
             }
@@ -3704,16 +3704,16 @@
             }
         },
         "Paladin": {
-            "name": "",
+            "name": "Paladin",
             "pages": {
                 "Paladin": {
-                    "name": "",
-                    "description": "",
-                    "subclass": ""
+                    "name": "Paladin",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbpdnPaladin000 inline classes=\"free-rules-embed\"]</p><aside class=\"notable\"><h3>Rompre votre serment</h3><p>Les Paladins ont beau s'efforcer de respecter une éthique très exigeante, même le plus dévoué d'entre eux reste un être faillible. Il arrive qu'un Paladin transgresse son serment.</p><p>Un Paladin qui a rompu un vœu cherche généralement à obtenir l'absolution, en passant une nuit à veiller en signe de pénitence ou en se pliant à un jeûne expiatoire. Après un tel rite de pardon, ce Paladin prend un nouveau départ.</p><p>Si votre Paladin viole son serment sans chercher à faire amende honorable, parlez-en à votre MJ. Votre Paladin devrait probablement choisir une sous-classe plus appropriée, voire abandonner la classe et en adopter une autre.</p></aside><h2>Devenir Paladin…</h2><h3>En tant que personnage de niveau 1</h3><ul><li><p>Recevez tous les traits de l'encadré Traits de base du Paladin.</p></li><li><p>Recevez les aptitudes de niveau 1 du Paladin, qui figurent dans la table Aptitudes du Paladin.</p></li></ul><h3>En tant que personnage multiclassé</h3><ul><li><p>Recevez les traits suivants de l'encadré Traits de base du Paladin : Dé de vie, maîtrise des armes de guerre, formation aux armures légères, intermédiaires et aux boucliers.</p></li><li><p>Recevez les aptitudes de niveau 1 du Paladin, qui figurent dans la table Aptitudes du Paladin. Référez-vous aux règles du multiclassage, au chapitre 2, pour déterminer vos emplacements de sort disponibles.</p></li></ul>",
+                    "subclass": "<p>Une sous-classe de Paladin est une spécialisation qui vous octroie des aptitudes à certains niveaux de Paladin, comme spécifié dans la sous-classe. Cette section présente la sous-classe @UUID[Compendium.dnd5e.content24.JournalEntry.phbPaladin000000.JournalEntryPage.dw8zIx4aur7rRtx3]{Serment de Dévotion}.</p>"
                 },
                 "Oath of Devotion": {
-                    "name": "",
-                    "description": ""
+                    "name": "Serment de Dévotion",
+                    "description": "<blockquote><p>Défendez les idéaux d'ordre et de justice</p></blockquote><p>Le @UUID[Compendium.dnd5e.classes24.Item.phbpdnOathOfDevo]{Serment de Dévotion} lie les Paladins aux idéaux de justice et d'ordre. Ces Paladins sont la vivante incarnation du preux chevalier en armure rutilante. Ils respectent un code de conduite des plus rigoureux et certains, pour le meilleur ou le pire, imposent au reste du monde cette même rigueur.</p><p>Beaucoup de ceux qui prêtent ce serment sont les fidèles serviteurs d'une divinité Loyale Bonne et mesurent leur propre dévotion à l'aune des préceptes de ce dieu. Certains considèrent les anges comme leur idéal et intègrent des images d'ailes angéliques à leur casque ou à leurs armoiries.</p><p>Ces Paladins partagent les préceptes suivants :</p><ul><li><p>Faire en sorte que sa parole ait toujours valeur de promesse.</p></li><li><p>Veiller sur les faibles et ne jamais avoir peur d'agir.</p></li><li><p>Servir d'exemple en accomplissant des actes honorables.</p></li></ul>"
                 }
             }
         },
@@ -3732,30 +3732,30 @@
             }
         },
         "Ranger": {
-            "name": "",
+            "name": "Rôdeur",
             "pages": {
                 "Ranger": {
-                    "name": "",
-                    "description": "",
-                    "subclass": ""
+                    "name": "Rôdeur",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwzdWizard0000 inline classes=\"free-rules-embed\"]</p><h2>Devenir Rôdeur…</h2><h3>En tant que personnage de niveau 1</h3><ul><li><p>Recevez tous les traits de l'encadré Traits de base du Rôdeur.</p></li><li><p>Recevez les aptitudes de niveau 1 du Rôdeur, qui figurent dans la table Aptitudes du Rôdeur.</p></li></ul><h3>En tant que personnage multiclassé</h3><ul><li><p>Recevez les traits suivants de l'encadré Traits de base du Rôdeur : Dé de vie, maîtrise des armes de guerre, maitrise d'une compétence de votre choix dans la liste des compétences de Rôdeur, formation aux armures légères, intermédiaires et port des boucliers.</p></li><li><p>Recevez les aptitudes de niveau 1 du Rôdeur, qui figurent dans la table Aptitudes du Rôdeur. Référez-vous aux règles du multiclassage, au chapitre 2, pour déterminer vos emplacements de sort disponibles.</p></li></ul>",
+                    "subclass": "<p>Une sous-classe de Rôdeur est une spécialisation qui vous octroie des aptitudes à certains niveaux de Rôdeur, comme spécifié dans la sous-classe. Cette section présente la sous-classe @UUID[Compendium.dnd5e.content24.JournalEntry.phbRanger0000000.JournalEntryPage.80h94evzbL3MwLk1]{Chasseur}.</p>"
                 },
                 "Hunter": {
-                    "name": "",
-                    "description": ""
+                    "name": "Chasseur",
+                    "description": "<blockquote><p>Protégez la nature et les braves gens de la destruction</p></blockquote><p>Vous traquez des proies en pleine nature ou ailleurs, utilisant vos capacités de @UUID[Compendium.dnd5e.classes24.Item.phbrgrHunter0000]{chasseur} pour protéger la faune, la flore et les braves gens partout où menacent les forces de la destruction.</p>"
                 }
             }
         },
         "Rogue": {
-            "name": "",
+            "name": "Roublard",
             "pages": {
                 "Rogue": {
-                    "name": "",
-                    "description": "",
-                    "subclass": ""
+                    "name": "Roublard",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgeRogue00000 inline classes=\"free-rules-embed\"]</p><h2>Devenir Roublard…</h2>En tant que personnage de niveau 1</h3><ul><li><p>Recevez tous les traits de l'encadré Traits de base du Roublard.</p></li><li><p>Recevez les aptitudes de niveau 1 du Roublard, qui figurent dans la table Aptitudes du Roublard.</p></li></ul><h3>En tant que personnage multiclassé</h3><ul><li><p>Recevez les traits suivants de l'encadré Traits de base du Roublard : Dé de vie, maîtrise d'une compétence de votre choix dans la liste des compétences du Roublard, maîtrise des outils de voleur et formation aux armures légères.</p></li><li><p>Recevez les aptitudes de niveau 1 du Roublard, qui figurent dans la table Aptitudes du Roublard.</p></li></ul>",
+                    "subclass": "<p>Une sous-classe de Roublard est une spécialisation qui vous octroie des aptitudes à certains niveaux de Roublard, comme spécifié dans la sous-classe. Cette section présente la sous-classe @UUID[Compendium.dnd5e.content24.JournalEntry.phbRogue00000000.JournalEntryPage.BiqRuwpBfYi32N2p]{Voleur}.</p>"
                 },
                 "Thief": {
-                    "name": "",
-                    "description": ""
+                    "name": "Voleur",
+                    "description": "<blockquote><p>Chassez les trésors dans la peau de l'aventurier classique</p></blockquote><p>Mélange de cambrioleur, de chasseur de trésor et d'explorateur, vous êtes la parfaite incarnation de l'aventurier (sous-classe @UUID[Compendium.dnd5e.classes24.Item.phbrgeThief00000]{Voleur}). En plus d'améliorer votre agilité et votre discrétion, vous recevez des aptitudes utiles pour l'exploration des ruines et tirer le meilleur parti des objets magiques que vous y trouvez.</p>"
                 }
             }
         },
@@ -4428,20 +4428,20 @@
             }
         },
         "Sorcerer": {
-            "name": "",
+            "name": "Ensorceleur",
             "pages": {
                 "Sorcerer": {
-                    "name": "",
-                    "description": "",
-                    "subclass": ""
+                    "name": "Ensorceleur",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbscrSorcerer00 inline classes=\"free-rules-embed\"]</p><h2>Devenir Ensorceleur…</h2><h3>En tant que personnage de niveau 1</h3><ul><li><p>Recevez tous les traits de l'encadré Traits de base de l'Ensorceleur.</p></li><li><p>Recevez les aptitudes de niveau 1 de l'Ensorceleur, qui figurent dans la table Aptitudes de l'Ensorceleur.</p></li></ul><h3>En tant que personnage multiclassé</h3><ul><li><p>Recevez le trait Dé de vie de l'encadré Traits de base de l'Ensorceleur.</p></li><li><p>Recevez les aptitudes de niveau 1 de l'Ensorceleur, qui figurent dans la table Aptitudes de l'Ensorceleur. Référez-vous aux règles du multiclassage, au chapitre 2, pour déterminer vos emplacements de sort disponibles.</p></li></ul>",
+                    "subclass": "<p>Une sous-classe d'Ensorceleur est une spécialisation qui vous octroie des aptitudes à certains niveaux d'Ensorceleur, comme spécifié dans la sous-classe. Cette section présente la sous-classe @UUID[Compendium.dnd5e.content24.JournalEntry.phbSorcerer00000.JournalEntryPage.h9Qhn4HyJyAnK5b9]{Sorcellerie draconique}.</p>"
                 },
                 "Draconic Sorcery": {
-                    "name": "",
-                    "description": ""
+                    "name": "Sorcellerie draconique",
+                    "description": "<blockquote><p>Respirez la magie des dragons</p></blockquote><p>Votre magie innée est le cadeau d'un dragon. Il se peut qu'un dragon vénérable, sentant la mort arriver, vous ait légué, à vous-même ou à un ancêtre, une partie de son pouvoir magique. Vous pourriez aussi avoir absorbé de la magie en un lieu imprégné de puissance draconique. À moins que vous ayez manipulé par mégarde un trésor provenant de l'antre d'un dragon, nimbé de pouvoir draconique. Vous pouvez enfin avoir un dragon comme ancêtre (sous-classe @UUID[Compendium.dnd5e.classes24.Item.phbscrDraconicSo]{Sorcellerie Draconique}).</p>"
                 },
                 "Metamagic Options": {
-                    "name": "",
-                    "text": ""
+                    "name": "Options de Métamagie",
+                    "text": "<p>Les options ci-après sont disponibles pour votre aptitude Métamagie. Elles sont présentées par ordre alphabétique.</p><hr /><h3>@UUID[Compendium.dnd5e.classes24.Item.phbmmoQuickenedS]{Sort accéléré}</h3><p>@Embed[Compendium.dnd5e.classes24.Item.phbmmoQuickenedS inline]</p><hr /><h3>@UUID[Compendium.dnd5e.classes24.Item.phbmmoDistantSpe]{Sort ample}</h3><p>@Embed[Compendium.dnd5e.classes24.Item.phbmmoDistantSpe inline]</p><hr /><h3>@UUID[Compendium.dnd5e.classes24.Item.phbmmoSeekingSpe]{Sort chercheur}</h3><p>@Embed[Compendium.dnd5e.classes24.Item.phbmmoSeekingSpe inline]</p><hr /><h3>@UUID[Compendium.dnd5e.classes24.Item.phbmmoExtendedSp]{Sort étendu}</h3><p>@Embed[Compendium.dnd5e.classes24.Item.phbmmoExtendedSp inline]</p><hr /><h3>@UUID[Compendium.dnd5e.classes24.Item.phbmmoHeightened]{Sort intensifié}</h3><p>@Embed[Compendium.dnd5e.classes24.Item.phbmmoHeightened inline]</p><hr /><h3>@UUID[Compendium.dnd5e.classes24.Item.phbmmoTwinnedSpe]{Sort jumeau}</h3><p>@Embed[Compendium.dnd5e.classes24.Item.phbmmoTwinnedSpe inline]</p><hr /><h3>@UUID[Compendium.dnd5e.classes24.Item.phbmmoCarefulSpe]{Sort prévenant}</h3><p>@Embed[Compendium.dnd5e.classes24.Item.phbmmoCarefulSpe inline]</p><hr /><h3>@UUID[Compendium.dnd5e.classes24.Item.phbmmoEmpoweredS]{Sort renforcé}</h3><p>@Embed[Compendium.dnd5e.classes24.Item.phbmmoEmpoweredS inline]</p><hr /><h3>@UUID[Compendium.dnd5e.classes24.Item.phbmmoSubtleSpel]{Sort subtil}</h3><p>@Embed[Compendium.dnd5e.classes24.Item.phbmmoSubtleSpel inline]</p><hr /><h3>@UUID[Compendium.dnd5e.classes24.Item.phbmmoTransmuted]{Sort transmuté}</h3><p>@Embed[Compendium.dnd5e.classes24.Item.phbmmoTransmuted inline]</p>"
                 }
             }
         },
@@ -4548,63 +4548,63 @@
             }
         },
         "Tracking Sheets": {
-            "name": "",
+            "name": "Fiches de suivi",
             "pages": {
                 "Settlement Tracker": {
-                    "name": "",
-                    "text": ""
+                    "name": "Suivi de communauté",
+                    "text": "<div class=\"srd-tracker\"><div class=\"inline\"><h3 class=\"label\">Nom de la communauté :</h3><div class=\"field\"><p></p></div></div><div class=\"settlement-size highlight\"><div class=\"inline\"><div class=\"field bubble\"><p></p></div><h5 class=\"label\">VILLAGE<br />(500 habitants max.)</h5></div><div class=\"inline\"><div class=\"field bubble\"><p></p></div><h5 class=\"label\">BOURGADE<br />(501 à 5 000 hab.)</h5></div><div class=\"inline\"><div class=\"field bubble\"><p></p></div><h5 class=\"label\">VILLE<br />(plus de 5 000 hab.)</h5></div></div><div class=\"inline\"><h3 class=\"label\">Taille de la communauté</h3><div class=\"field\"><p></p></div></div><h3>Traits distinctifs</h3><div class=\"field block\"><p></p></div><h3>Célèbre pour</h3><div class=\"field block\"><p></p></div><h3>Calamité actuelle</h3><div class=\"field block\"><p></p></div><h3>Dirigeant</h3><div class=\"field block\"><p></p></div><div class=\"flex-around\"><div class=\"col\"><h4>Individus notables</h4><div class=\"field block\"><p></p></div></div><div class=\"col\"><h4>Lieux dignes d'intérêt</h4><div class=\"field block\"><p></p></div></div></div><div class=\"inline\"><h5>Valeur en po de l'objet le plus cher à la vente :</h5><div class=\"field\"><p></p></div></div></div><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Game Expectations": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attentes de jeu",
+                    "text": "<div class=\"srd-tracker\"><div class=\"inline\"><h3 class=\"label\">Nom du MD :</h3><div class=\"field\"><p></p></div></div><div class=\"inline\"><h3 class=\"label\">Nom de la joueuse/du joueur :</h3><div class=\"field\"><p></p></div></div><h3 style=\"text-align:center\">Thème et ambiance de la partie</h3><div class=\"field block\"><p></p></div><h3 style=\"text-align:center\">Éléments sensibles potentiels</h3><p class=\"highlight\">Exemples : araignées, serpents, démons, romance, contrôle mental</p><div class=\"field block\"><p></p></div><div class=\"highlight\"><p>X Borne stricte : ne pas mentionner ni inclure</p><p>? Borne souple : utiliser avec parcimonie ou hors champ</p></div><h3 style=\"text-align:center\">Attentes des joueurs</h3><p class=\"highlight\">Que souhaitez-vous voir dans cette campagne ?</p><div class=\"field block\"><p></p></div><h3 style=\"text-align:center\">À éviter à la table</h3><p class=\"highlight\">Exemples : cris, jurons, alcool, dés partagés</p><div class=\"field block\"><p></p></div></div><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Travel Stage": {
-                    "name": "",
-                    "text": ""
+                    "name": "Agenda de voyage",
+                    "text": "<div class=\"srd-tracker\"><div class=\"flex-around\"><div class=\"inline\"><h4>Origine :</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Destination :</h4><div class=\"field\"><p></p></div></div></div><hr /><h2 class=\"highlight\">Étape 1</h2><div class=\"travel-info\"><div class=\"flex-around\"><div class=\"inline\"><h4>Début :</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Fin :</h4><div class=\"field\"><p></p></div></div></div><div class=\"flex-around\"><div class=\"inline\"><h4>Distance :</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Environnement :</h4><div class=\"field\"><p></p></div></div></div><div class=\"inline\"><h4>Météo :</h4><div class=\"field\"><p></p></div></div><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><h4>Rapide</h4><div class=\"field\"><p></p></div><h5>jours/heures</h5></div><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><h4>Normale</h4><div class=\"field\"><p></p></div><h5>jours/heures</h5></div><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><h4>Lente</h4><div class=\"field\"><p></p></div><h5>jours/heures</h5></div></div><div class=\"flex-around\"><div class=\"col\" style=\"align-self:start\"><h3>Notes narratives</h3><div class=\"field block\"><p></p></div></div><div class=\"col\" style=\"align-self:start\"><h3>Défis</h3><div class=\"field block\"><p></p></div><div class=\"inline\"><h5 class=\"label\">Temps écoulé (j/h)</h5><div class=\"field\"><p></p></div></div></div></div><hr /><h2 class=\"highlight\">Étape 2</h2><div class=\"travel-info\"><div class=\"flex-around\"><div class=\"inline\"><h4>Début :</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Fin :</h4><div class=\"field\"><p></p></div></div></div><div class=\"flex-around\"><div class=\"inline\"><h4>Distance :</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Environnement :</h4><div class=\"field\"><p></p></div></div></div><div class=\"inline\"><h4>Météo :</h4><div class=\"field\"><p></p></div></div><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><h4>Rapide</h4><div class=\"field\"><p></p></div><h5>jours/heures</h5></div><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><h4>Normale</h4><div class=\"field\"><p></p></div><h5>jours/heures</h5></div><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><h4>Lente</h4><div class=\"field\"><p></p></div><h5>jours/heures</h5></div></div><div class=\"flex-around\"><div class=\"col\" style=\"align-self:start\"><h3>Notes narratives</h3><div class=\"field block\"><p></p></div></div><div class=\"col\" style=\"align-self:start\"><h3>Défis</h3><div class=\"field block\"><p></p></div><div class=\"inline\"><h5 class=\"label\">Temps écoulé (j/h)</h5><div class=\"field\"><p></p></div></div></div></div><hr /><h2 class=\"highlight\">Étape 3</h2><div class=\"travel-info\"><div class=\"flex-around\"><div class=\"inline\"><h4>Début :</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Fin :</h4><div class=\"field\"><p></p></div></div></div><div class=\"flex-around\"><div class=\"inline\"><h4>Distance :</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Environnement :</h4><div class=\"field\"><p></p></div></div></div><div class=\"inline\"><h4>Météo :</h4><div class=\"field\"><p></p></div></div><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><h4>Rapide</h4><div class=\"field\"><p></p></div><h5>jours/heures</h5></div><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><h4>Normale</h4><div class=\"field\"><p></p></div><h5>jours/heures</h5></div><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><h4>Lente</h4><div class=\"field\"><p></p></div><h5>jours/heures</h5></div></div><div class=\"flex-around\"><div class=\"col\" style=\"align-self:start\"><h3>Notes narratives</h3><div class=\"field block\"><p></p></div></div><div class=\"col\" style=\"align-self:start\"><h3>Défis</h3><div class=\"field block\"><p></p></div><div class=\"inline\"><h5 class=\"label\">Temps écoulé (j/h)</h5><div class=\"field\"><p></p></div></div></div></div></div><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Campaign Journal": {
-                    "name": "",
-                    "text": ""
+                    "name": "Journal de campagne",
+                    "text": "<div class=\"srd-tracker\"><div class=\"flex-around\"><div class=\"inline\"><h3 class=\"label\">Séance numéro :</h3><div class=\"field\"><p></p></div></div><div class=\"inline\"><h3 class=\"label\">Date de la séance :</h3><div class=\"field\"><p></p></div></div></div><div class=\"inline\"><h3 class=\"label\">Titre de la séance/aventure :</h3><div class=\"field\"><p></p></div></div><p class=\"highlight\">Événements notables des séances passées qui pourraient influer sur cette partie :</p><div class=\"field block\"><p></p></div><p class=\"highlight\">Résumé de ce qui est prévu pour cette séance :</p><div class=\"field block\"><p></p></div><p class=\"highlight\">Notes additionnelles :</p><div class=\"field block\"><p></p></div></div><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Campaign Conflicts": {
-                    "name": "",
-                    "text": ""
+                    "name": "Conflits de campagne",
+                    "text": "<div class=\"srd-tracker\"><h2 class=\"label\">Conflit 1</h2><p>Aventuriers contre</p><div class=\"field block\"><p></p></div><h2 class=\"label\">Conflit 2</h2><p>Aventuriers contre</p><div class=\"field block\"><p></p></div><h2 class=\"label\">Conflit 3</h2><p>Aventuriers contre</p><div class=\"field block\"><p></p></div></div><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Magic Item Tracker": {
-                    "name": "",
-                    "text": ""
+                    "name": "Suivi des objets magiques",
+                    "text": "<div class=\"srd-tracker\"><table><caption>Niveaux 1 à 4</caption><thead><tr><th>Raretés</th><th>Objets</th></tr></thead><tbody><tr><td style=\"width:122px\">6 Courants</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">4 Peu courants</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">1 Rare</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div></div></td></tr></tbody></table><table><caption>Niveaux 5 à 10</caption><thead><tr><th>Raretés</th><th>Objets</th></tr></thead><tbody><tr><td style=\"width:122px\">10 Courants</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">17 Peu courants</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">6 Rares</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">1 Très rare</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div></div></td></tr></tbody></table><table><caption>Niveaux 11 à 16</caption><thead><tr><th>Raretés</th><th>Objets</th></tr></thead><tbody><tr><td style=\"width:122px\">3 Courants</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">7 Peu courants</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">11 Rares</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">7 Très rares</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">2 Légendaires</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr></tbody></table><table><caption>Levels 17-20</caption><thead><tr><th>Raretés</th><th>Objets</th></tr></thead><tbody><tr><td style=\"width:122px\">5 Rares</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">11 Très rares</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">9 Légendaires</td><td><div class=\"inline wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr></tbody></table></div><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 }
             }
         },
         "Warlock": {
-            "name": "",
+            "name": "Occultiste",
             "pages": {
                 "Warlock": {
-                    "name": "",
-                    "description": "",
-                    "subclass": ""
+                    "name": "Occultiste",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwlkWarlock000 inline classes=\"free-rules-embed\"]</p><h2>Devenir Occultiste…</h2><h3>En tant que personnage de niveau 1</h3><ul><li><p>Recevez tous les traits de l'encadré Traits de base de l'Occultiste.</p></li><li><p>Recevez les aptitudes de niveau 1 de l'Occultiste, qui figurent dans la table Aptitudes de l'Occultiste.</p></li></ul><h3>En tant que personnage multiclassé</h3><ul><li><p>Recevez les traits suivants de l'encadré Traits de base de l'Occultiste : Dé de vie et formation aux armures légères.</p></li><li><p>Recevez les aptitudes de niveau 1 de l'Occultiste, qui figurent dans la table Aptitudes de l'Occultiste. Référez-vous aux règles du multiclassage, au chapitre 2, pour déterminer vos emplacements de sort disponibles.</p></li></ul>",
+                    "subclass": "<p>Une sous-classe d'Occultiste est une spécialisation qui vous octroie des aptitudes à certains niveaux d'Occultiste, comme spécifié dans la sous-classe. Cette section présente la sous-classe @UUID[Compendium.dnd5e.content24.JournalEntry.phbWarlock000000.JournalEntryPage.4km6CWhHArWi0klF]{Protecteur Fiélon}.</p>"
                 },
                 "Fiend Patron": {
-                    "name": "",
-                    "description": ""
+                    "name": "Protecteur Fiélon",
+                    "description": "<blockquote><p>Concluez un accord avec les Plans Inférieurs</p></blockquote><p>Ce pacte vous permet de puiser dans les Plans Inférieurs, les royaumes de la perdition. Vous avez conclu un marché avec un seigneur démon tel Démogorgon ou Orcus ; un archidiable comme Asmodée ; ou encore un diantre-fosse, un balor, un yugoloth ou une guenaude nocturne particulièrement puissante. Les visées de ce protecteur sont maléfiques : corruption ou destruction de toute chose, y compris vous-même, et votre destin personnel peuvent vous opposer à ces mêmes objectifs (sous-classe @UUID[Compendium.dnd5e.classes24.Item.phbwlkFiendPatro]{Protecteur fiélon}).</p>"
                 },
                 "Eldritch Invocation Options": {
-                    "name": "",
+                    "name": "Options de Manifestation occulte",
                     "text": ""
                 }
             }
         },
         "Wizard": {
-            "name": "",
+            "name": "Magicien",
             "pages": {
                 "Wizard": {
-                    "name": "",
-                    "description": "",
-                    "subclass": ""
+                    "name": "Magicien",
+                    "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwzdWizard0000 inline classes=\"free-rules-embed\"]</p><h2>Devenir Magicien…</h2><h3>En tant que personnage de niveau 1</h3><ul><li><p>Recevez tous les traits de l'encadré Traits de base du Magicien.</p></li><li><p>Recevez les aptitudes de niveau 1 du Magicien, qui figurent dans la table Aptitudes du Magicien.</p></li></ul><h3>En tant que personnage multiclassé</h3><ul><li><p>Recevez le trait Dé de vie de l'encadré Traits de base du Magicien.</p></li><li><p>Recevez les aptitudes de niveau 1 du Magicien, qui figurent dans la table Aptitudes du Magicien. Référez-vous aux règles du multiclassage, au chapitre 2, pour déterminer vos emplacements de sort disponibles.</p></li></ul><aside class=\"notable\"><p><strong>Étoffer et remplacer son grimoire</strong></p><p>Les sorts que vous ajoutez à votre grimoire à mesure que vous gagnez des niveaux reflètent vos recherches magiques en cours, mais vous pourriez aussi trouver d'autres sorts à incorporer au grimoire au fil de vos aventures. Vous pourriez par exemple découvrir un sort de Magicien inscrit sur un parchemin de sort, et le recopier dans votre grimoire.</p><p><strong>Recopier un sort.</strong> Chaque fois que vous trouvez un sort de Magicien du 1<sup>er</sup> niveau ou plus, vous pouvez le recopier dans votre grimoire s'il est d'un niveau que vous pouvez préparer et si vous disposez du temps nécessaire. Cette opération nécessite 2 heures et 50 po par niveau du sort. Par la suite, vous pouvez le préparer comme les autres sorts inscrits dans votre grimoire.</p><p><strong>Faire une copie du grimoire.</strong> Vous pouvez copier un sort de votre grimoire dans un autre. La procédure est la même que pour recopier un nouveau sort dans votre grimoire mais elle s'avère plus rapide, car vous savez déjà lancer ce sort. 1 heure et 10 po par niveau du sort recopié suffisent.</p><p>Si vous perdez votre grimoire, vous pouvez recourir à cette même opération pour retranscrire les sorts de Magicien que vous avez préparés dans un nouveau grimoire. Pour le reste, il vous faudra trouver de nouveaux sorts (ou remettre la main sur ceux que vous avez perdus). C'est pourquoi de nombreux Magiciens conservent un grimoire de secours.</p></aside>",
+                    "subclass": "<p>Une sous-classe de Magicien est une spécialisation qui vous octroie des aptitudes à certains niveaux de Magicien, comme spécifié dans la sous-classe. Cette section présente la sous-classe @UUID[Compendium.dnd5e.content24.JournalEntry.phbWizard0000000.JournalEntryPage.F5Nlk4mkB1nUUaob]{Évocateur}.</p>"
                 },
                 "Evoker": {
-                    "name": "",
-                    "description": ""
+                    "name": "Évocateur",
+                    "description": "<blockquote><p>Créez des effets élémentaires détonants</p></blockquote><p>Vos études magiques ont essentiellement porté sur les effets élémentaires les plus puissants : gel intense, flammes ardentes, tonnerre roulant, crépitements de la foudre et corrosions de l'acide. Certains @UUID[Compendium.dnd5e.classes24.Item.phbwzdEvoker0000]{évocateurs} œuvrent au service d'armées comme artilleurs spécialisés. D'autres utilisent leur pouvoir pour protéger autrui, tandis que d'autres encore cherchent avant tout à briller.</p>"
                 }
             }
         },
