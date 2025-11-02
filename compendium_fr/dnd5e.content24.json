@@ -1754,8 +1754,8 @@
             "name": "Annexe. Détails du monstre",
             "pages": {
                 "Animated Objects": {
-                    "name": "",
-                    "text": ""
+                    "name": "Objets animés",
+                    "text": "<p class=\"creature-flavor\"><em>Quand s'éveillent les objets du quotidien</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Urbain ; <strong>Trésor :</strong> aucun</p><p>La magie peut insuffler la vie aux objets les plus ordinaires pour leur assigner des tâches simples. Ces objets animés, qu'il s'agisse de modestes outils ou de décorations anodines, peuvent se muer en défenseurs de leur créateur. Ils obéissent aux directives élémentaires de la force ou du mage qui leur a donné vie. Livrés à eux-mêmes, ils peuvent monter une garde millénaire ou répéter inlassablement une tâche jusqu'à l'usure.</p><p>Pour déterminer la magie animant un objet ambulant, inspirez-vous de la table « Catalyseurs d'animation ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmAnimatedObject rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Animated Flying Sword": {
                     "name": "",
