@@ -1758,388 +1758,388 @@
                     "text": "<p class=\"creature-flavor\"><em>Quand s'éveillent les objets du quotidien</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Urbain ; <strong>Trésor :</strong> aucun</p><p>La magie peut insuffler la vie aux objets les plus ordinaires pour leur assigner des tâches simples. Ces objets animés, qu'il s'agisse de modestes outils ou de décorations anodines, peuvent se muer en défenseurs de leur créateur. Ils obéissent aux directives élémentaires de la force ou du mage qui leur a donné vie. Livrés à eux-mêmes, ils peuvent monter une garde millénaire ou répéter inlassablement une tâche jusqu'à l'usure.</p><p>Pour déterminer la magie animant un objet ambulant, inspirez-vous de la table « Catalyseurs d'animation ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmAnimatedObject rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Animated Flying Sword": {
-                    "name": "",
-                    "text": ""
+                    "name": "Épée volante",
+                    "text": "<aside class=\"quote\"><p>Les épées volantes fendent l'air, comme maniées par d'invisibles bretteurs. Qu'il s'agisse d'une lame récemment forgée ou d'une constellation de fragments brisés, le comportement de l'objet demeure identique. D'autres armes du <em>Manuel des joueurs</em> peuvent également s'animer et reprendre ce profil ou s'en inspirer.</p></aside><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Bandits": {
-                    "name": "",
-                    "text": ""
+                    "name": "Bandits",
+                    "text": "<p class=\"creature-flavor\"><em>Criminels et autres canailles</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> libre</p><p>Les bandits arrivent à leurs fins en menaçant autrui de violence. Ces hors-la-loi regroupent aussi bien des membres de gangs que des desperados ou des mercenaires sans foi ni loi. Pour autant, tous ne sont pas motivés par l'appât du gain. Certains sont poussés au crime par des lois injustes, le désespoir ou les menaces de chefs impitoyables.</p><p>Pour déterminer circonstances qui ont poussé un tel personnage au crime, inspirez-vous de la table « Motivations des bandits ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmBanditMotivati rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Bandit": {
-                    "name": "",
-                    "text": ""
+                    "name": "Bandit",
+                    "text": "<p>Les simples bandits sont des vauriens inexpérimentés qui suivent généralement les ordres de brigands plus haut placés.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Berserkers": {
-                    "name": "",
-                    "text": ""
+                    "name": "Berserkers",
+                    "text": "<p class=\"creature-flavor\"><em>Envahisseurs déchaînés, combattants impétueux</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> Armement, individuel</p><p>Enivrés par l'adrénaline du combat, les berserkers sont des envahisseurs téméraires, des combattants d'arène et autres guerriers féroces.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Berserker": {
-                    "name": "",
-                    "text": ""
+                    "name": "Berserker",
+                    "text": "<p>Les berserkers combattent pour la gloire personnelle, à moins de rejoindre des troupes surmotivées ou des hordes vociférantes.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Black Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons noirs",
+                    "text": "<p class=\"creature-flavor\"><em>Dragons de la décrépitude et du désespoir</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Marais ; <strong>Trésor :</strong> Reliques</p><p>Les dragons noirs se repaissent du malheur d'autrui et sèment la désolation sur leur passage. Là où les autres dragons chromatiques convoitent pouvoir et richesses, ces êtres maléfiques n'aspirent qu'à une chose : anéantir le monde qui les entoure pour régner sur ses cendres.</p><p>Créatures cauchemardesques aux cornes sinueuses, les dragons noirs arborent une face émaciée qui n'est pas sans rappeler les plus hideux des démons. Ils hantent les marais putrides, les ruines rongées par le temps et les terres souillées par la magie noire ou la corruption. Leur souffle acide ravage leurs domaines, efface les traits des statues millénaires et inflige des plaies suppurantes à la nature.</p><p>Ces dragons amassent les symboles d'espoir ternis et les reliques d'empires déchus. Plus un trésor est convoité, plus ils le chérissent — particulièrement s'ils sont responsables de sa disparition.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Black Dragon Wyrmling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragonnet noir",
+                    "text": "<p>Les dragonnets noirs rôdent dans les fondrières et les cours d'eau pollués, en quête de proies et de créatures qu'ils pourront aisément dominer. Si les plus âgés finissent par revendiquer leur propre territoire, les fraîchement éclos se traquent mutuellement, cherchent à établir leur domination sur le reste de la couvée et massacrent les rivaux qu'ils ne peuvent soumettre.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Blink Dog": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chien esquiveur",
+                    "text": "<p class=\"creature-flavor\"><em>Insaisissable canidé de Féerie</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Forêt, Planaire (Féerie) ; <strong>Trésor :</strong> aucun</p><p>Les chiens esquiveurs scintillent d'une magie qui leur permet de se téléporter, en « s'esquivant » d'un endroit à l'autre. Ils usent de ce pouvoir pour pourchasser leurs proies, dérouter leurs adversaires et exprimer leur joie. On les trouve souvent en compagnie des habitants de la Féerie, comme les centaures et les pixies, participant notamment à de turbulentes chasses entre les mondes.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Bugbears": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gobelours",
+                    "text": "<p class=\"creature-flavor\"><em>Brutes gobelinoïdes en maraude</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Forêt, Plaine, Planaire (Féerie), Outreterre ; <strong>Trésor :</strong> Armement, individuel</p><p>Les gobelours sont l'incarnation de la terreur qu'inspirent les terres sauvages et leur menace inhérente. Discrets par nature, ils font souvent disparaître les ennemis qui se risquent sur leur territoire.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Bugbear Stalker": {
-                    "name": "",
-                    "text": ""
+                    "name": "Traqueur gobelours",
+                    "text": "<p>Les traqueurs gobelours ont pour habitude de capturer vivantes leurs proies, en saisissant toute occasion d'emprisonner et de terroriser les autres créatures.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Bugbear Warrior": {
-                    "name": "",
-                    "text": ""
+                    "name": "Combattant gobelours",
+                    "text": "<p>Les combattants gobelours se mettent au service de quiconque leur offre trésors, nourriture ou une chance de pourchasser une proie dangereuse.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Bullywugs": {
-                    "name": "",
-                    "text": ""
+                    "name": "Brutaciens",
+                    "text": "<p class=\"creature-flavor\"><em>Amateurs amphibies des marais et de la vase</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Marais ; <strong>Trésor :</strong> Ustensiles, individuel</p><p>Fées des bourbiers, les brutaciens protègent les terres sauvages humides, jusqu'à se considérer comme les élus cosmiques dans ce rôle. Ces créatures de taille humaine ressemblent à des crapauds ou des grenouilles, et cultivent d'étroites relations avec les créatures du marais.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Bullywug Bog Sage": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sage du marais brutacien",
+                    "text": "<p>Les sages du marais brutaciens canalisent la magie des marais afin de rendre l'ennemi malade et d'entrer en communication avec les plantes.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Bullywug Warrior": {
-                    "name": "",
-                    "text": ""
+                    "name": "Combattant brutacien",
+                    "text": "<p>Les combattants brutaciens excellent en déplacement en milieu humide et en embuscade. Il est fréquent de les rencontrer avec une meute de grenouilles géantes domestiquées.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Carrion Crawler": {
-                    "name": "",
-                    "text": ""
+                    "name": "Charognard rampant",
+                    "text": "<p class=\"creature-flavor\"><em>Nécrophage des catacombes</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre, Urbain ; <strong>Trésor :</strong> aucun</p><p>Friands de chair avariée, les charognards rampants gravitent autour des charniers et des cimetières. Ces créatures parfois appelées « vers charognards » s'y régalent de viande en état de putréfaction avancée, sans souci aucun quant à l'origine et la fraîcheur du macabre festin.</p><p>L'abdomen annelé du charognard rampant rappelle celui du ver gris en version gigantesque. Sous leurs mâchoires complexes s'agitent huit tentacules longs et fins. Toute créature saisie par ces tentacules risque la paralysie et la dévoration.</p><p>Les charognards rampants sillonnent les égouts, champs de bataille, nécropoles et marigots fétides en quête de cadavres, accrochés au plafond afin de tendre une embuscade aux proies plus petites et d'échapper aux chasseurs concurrents. Ils sont attirés par la lumière et l'odeur du sang, qu'ils associent à la nourriture.</p><p>Ces charognards évitent d'ingérer tout ce qui n'est pas organique. Explorer une crypte où les armures funéraires ont été vidées de leurs défunts ou des catacombes étonnamment récurées, c'est à coup sûr s'exposer à la voracité des charognards rampants.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Commoner": {
-                    "name": "",
-                    "text": ""
+                    "name": "Roturier",
+                    "text": "<p class=\"creature-flavor\"><em>Peuple du quotidien</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> Individuel</p><p>Les roturiers constituent la vaste majorité des gens qui ne courent pas après les talents magiques et l'entraînement rigoureux nécessaires pour partir à l'aventure. Certains sont généreux et serviables, d'autres plus méfiants lorsqu'il s'agit de partager ce qu'ils possèdent. Piochez dans la liste de métiers et statuts ci-après pour mettre en scène les roturiers qui peuplent vos aventures :</p><div style=\"columns:100px\"><p style=\"margin-top:0\">Artiste</p><p>Aubergiste</p><p>Berger</p><p>Boucher</p><p>Bouffon</p><p>Boulanger</p><p>Charpentier</p><p>Chasseur</p><p>Commère</p><p>Cordonnier</p><p>Crieur public</p><p>Cuisiner</p><p>Domestique</p><p>Émeutier</p><p>Ermite</p><p>Étudiant</p><p>Fabricant de flèches</p><p>Fermier</p><p>Forgeron</p><p>Jeune</p><p>Lanternier</p><p>Maçon</p><p>Marchand</p><p>Mineur</p><p>Naufragé</p><p>Orpailleur</p><p>Ouvrier<p></p>Patient</p><p>Pêcheur</p><p>Pèlerin</p><p>Prisonnier</p><p>Résurrectionniste</p><p>Scribe</p><p>Tailleur</p><p>Tanneur</p><p>Tavernier</p><p>Teinturier</p><p>Tisserand</p><p>Voyou</p></div><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Copper Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons de cuivre",
+                    "text": "<p class=\"creature-flavor\"><em>Dragons de la curiosité et de la communauté</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Collines ; <strong>Trésor :</strong> Arcanes</p><p>Inlassablement amicaux et curieux, la plupart des dragons de cuivre considèrent le monde comme un lieu d'émerveillement aux possibilités infinies. Ces dragons casaniers sont des puits de patience, d'hospitalité et d'humour qui s'efforcent d'adoucir la vie (ou au minimum l'humeur) de quiconque croise leur route. Contraints de combattre pour défendre leur vie ou celle de leurs amis, ces dragons privilégient le souffle engourdissant et les attaques physiques pour soumettre l'ennemi. C'est seulement en cas de péril ou d'émotion extrême qu'ils font usage de leur souffle d'acide dévastateur.</p><p>Les dragons de cuivre vivent en général dans des cavernes au sein de collines ou formations rocheuses pittoresques, si possible quand il s'agit d'un site remarquable. Si ces dragons affectionnent les cadeaux, ils ne s'intéressent guère aux trésors dépourvus de sens, quelle que soit leur valeur. À leurs yeux, un présent chargé de sentiments forts ou des souvenirs qu'ils symbolisent primera toujours sur les chefs-d'œuvre et les reliques magiques.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Copper Dragon Wyrmling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragonnet de cuivre",
+                    "text": "<p>Les dragonnets de cuivre s'aventurent dans le vaste monde en quête d'amis et de merveilles. Certains s'attirent des ennuis ; celles et ceux qui les aident en pareilles circonstances peuvent devenir leurs amis pour la vie.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Cultists": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sectateurs",
+                    "text": "<p class=\"creature-flavor\"><em>Prophètes de malheur et fanatiques</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> individuel, Reliques</p><p>Les sectateurs manient la magie et recourent aux mesures les plus extrêmes pour répandre leurs croyances radicales. Certains mènent en secret leurs quêtes de savoirs ésotériques, d'autres forment de ténébreuses cabales œuvrant à provoquer des catastrophes terrifiantes. Souvent, ces fanatiques suivent d'obscures traditions mystiques ou se perdent dans l'interprétation de prophéties anciennes. Ils vénèrent quelque entité surnaturelle : divinité, créature d'outre-monde, ténébreux esprit manipulateur ou force plus étrange encore. Pour déterminer le but que cherche à atteindre un tel personnage, inspirez-vous de la table « Grand projet de sectateur ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmCultistAgendas rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Cult Members": {
-                    "name": "",
-                    "text": ""
+                    "name": "Membres de secte",
+                    "text": "<p>Les sectes sont souvent hiérarchisées, avec à leur tête un chef charismatique ou tyrannique. Si ses membres œuvrent parfois de façon indépendante, ils prennent leurs ordres auprès de supérieurs dotés de plus grands pouvoirs surnaturels. Toute secte peut avoir en son sein les typologies de membre ci-après.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Occult Symbols": {
-                    "name": "",
-                    "text": ""
+                    "name": "Symboles occultes",
+                    "text": "<aside class=\"quote\"><p>Redoutable et redouté Tharizdun, puissance de l'Œil Élémentaire Ancestral et maître de toutes les forces de destruction, je suis le champion du Mal Élémentaire, prêt à exaucer tes souhaits.</p><p class=\"quote-author\">—Rites de la secte du Mal Élémentaire</p></aside><p>Les sectes désignent fréquemment un symbole illustrant leur croyance. Ce symbole peut marquer des objets importants pour le culte, ainsi que la tenue ou le corps des adeptes eux-mêmes. Un tel symbole peut être compris par le plus grand nombre ou n'avoir de sens que pour les sectateurs. Pour déterminer l'icône de la secte, inspirez-vous de la table « Symboles de secte », les deux colonnes étant indépendantes.</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmCultSymbols000 caption=false]</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmCultSymbolsDep caption=false]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Cultist": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sectateur",
+                    "text": "<p>Les sectateurs sont tout entiers dévoués à leurs chefs et aux maîtres d'outre-monde. Si ce zèle ne leur octroie aucun pouvoir magique, il est le gage d'une détermination sans faille face à l'ennemi. Les sectateurs accomplissent les missions ordinaires de la secte, ce qui peut comprendre l'évangélisation, des actes criminels ou la participation à des cérémonies sacrificielles.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Cultist Fanatic": {
-                    "name": "",
-                    "text": ""
+                    "name": "Fanatique de secte",
+                    "text": "<p>Les fanatiques de secte dirigent de petites unités au sein d'un ensemble plus vaste. Plus au fait des mystères de la foi que les simples sectateurs, ils bénéficient de ce fait de pouvoirs magiques octroyés par l'entité qu'ils vénèrent.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Darkmantle": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mante obscure",
+                    "text": "<div><p class=\"creature-flavor\"><em>Prédateur à l'affût, accroché au plafond</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre ; <strong>Trésor :</strong> aucun</p><p>Improbables chasseresses souterraines, les mantes obscures se drapent dans des ténèbres magiques, leur étrange anatomie leur permettant de passer pour de simples stalactites. Dès qu'une proie passe en dessous, la mante obscure à l'affût se laisse choir en déployant ses tentacules dans le but d'aveugler sa victime, de l'asphyxier et de la broyer.</p><p>Vague cousines des perforateurs et des enlaceurs, les mantes obscures chassent souvent à proximité de ces monstres. Des érudits ont tenté d'établir des similitudes entre ces créatures, tant en ce qui concerne les origines que le cycle de vie, mais leurs efforts sont contrariés par la physiologie surnaturelle et le caractère dangereux de ces monstres.</p></div><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Doppelganger": {
-                    "name": "",
-                    "text": ""
+                    "name": "Doppelganger",
+                    "text": "<p class=\"creature-flavor\"><em>Métamorphe maître de l'infiltration</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre, Urbain ; <strong>Trésor :</strong> individuel</p><p>Les doppelgangers sont des êtres surnaturels capables de prendre l'apparence de n'importe quel humanoïde. Leurs dons de lecture des pensées leur permettent de créer des déguisements quasi parfaits et d'arracher leurs secrets aux esprits mal protégés. Il leur arrive d'user de leur talent de métamorphose de manière plus directe et d'adopter des formes terrifiantes pour épouvanter leurs adversaires.</p><p>Les motivations d'un doppelganger peuvent découler de ses mystérieuses origines magiques ou répondre à des objectifs plus mercenaires. Pour déterminer les intrigues du monstre, inspirez-vous de la table « Duperies de doppelganger ».</p><aside class=\"quote-left\"><p>Quand on se rencontre soi-même, on se rend souvent compte qu'on n'est pas aussi charmante qu'on le pensait.</p><p class=\"quote-author\">—Quelqu'un se présentant sous le nom de Lorhirin de Bastide-Terrifor</p></aside><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmDoppelgangerDe rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Fire Elemental": {
-                    "name": "",
-                    "text": ""
+                    "name": "Élémentaire du feu",
+                    "text": "<p class=\"creature-flavor\"><em>Esprit primordial de la chaleur et des flammes</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Désert, Planaire (Plan Élémentaire du Feu) ; <strong>Trésor :</strong> aucun</p><p>Les élémentaires du feu se manifestent lorsque les esprits du Plan Élémentaire du Feu investissent flammes, braises ardentes et volutes brûlantes. Bien que principalement composés de flammes et de particules, ces êtres possèdent une forme tangible. Leurs membres aux contours fluctuants embrasent d'un contact leurs adversaires et toute matière inflammable. Leur silhouette ardente oscille généralement entre l'orange et le rouge, mais d'autres teintes existent. Sur le Plan Matériel, la plupart sont invoqués par magie, mais certains surgissent près des failles qui relient leur plan d'origine aux profondeurs des déserts, aux volcans, aux incendies ou aux fleuves de magma.</p><p>La nature de leurs flammes varie. Pour déterminer les particularités d'un tel monstre, inspirez-vous de la table « Composition d'élémentaire du feu ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmFireElementalC rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Gelatinous Cube": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cube gélatineux",
+                    "text": "<p class=\"creature-flavor\"><em>Bloc de vase récurant les donjons</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre ; <strong>Trésor :</strong> libre</p><p>Masses tremblotantes de gelée acide, les cubes gélatineux se déplacent en oscillant à travers cavernes étroites et donjons, où ils engloutissent tout sur leur passage. Ces Vases sont naturellement transparentes, presque indétectables quand elles sont immobiles. Les créatures et objets piégés dans leur substance visqueuse se dissolvent peu à peu. Des détritus non digérés flottent parfois dans le cube gélatineux, vestiges de ses repas passés. Pour déterminer le contenu d'une telle Vase, inspirez-vous de la table « Débris de cube gélatineux ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmGelatinousCube rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Gnolls": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gnolls",
+                    "text": "<p class=\"creature-flavor\"><em>Fiélons en quête perpétuelle de chair fraîche</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Collines, Désert, Forêt, Plaine ;<br /><strong>Trésor :</strong> Armement, individuel</p><p>Les premiers gnolls sont nés de hyènes qui se nourrissaient de chair souillée par les Abysses. Cette corruption teintée de violence a ravi le seigneur démon Yeenoghu, qui les a encouragés à proliférer et à se répandre dans tout le multivers. Depuis lors, les gnolls sont les serviteurs de Yeenoghu, avec pour unique raison d'être l'anéantissement de toute vie en ricanant et le macabre festin qui s'ensuit.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Gnoll Warrior": {
-                    "name": "",
-                    "text": ""
+                    "name": "Combattant gnoll",
+                    "text": "<p>Les combattants gnolls ont beau adorer les massacres sans fin, ils se lassent rapidement des proies qu'ils tuent et des trésors qu'ils pillent. Cela étant, rien ne les mettant plus en rage que l'idée qu'un autre s'approprie ce qui leur appartient, ils détruisent tout ce qu'ils ne peuvent emporter.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Goblins": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gobelins",
+                    "text": "<p class=\"creature-flavor\"><em>Filous et fauteurs de troubles sauvages</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Collines, Forêt, Plaine, Planaire (Achéron, Féerie), Outreterre ; <strong>Trésor :</strong> individuel, Ustensiles</p><p>Les gobelins sont l'incarnation de l'imprudence et du chaos nés de la Féerie. Ils aiment faire des ravages, de la façon la plus bruyante, désordonnée et tordue possible. Leurs raids sont autant d'occasions de mettre le feu aux granges et de tourmenter le bétail que de participer à de plus vastes stratagèmes.</p><p>Ils obéissent à ceux qui échafaudent les plans les plus farfelus. Il peut s'agir d'un chef gobelin machiavélique, d'un mage extravagant ou de quiconque a les moyens de crier plus fort qu'eux. Hobgobelins et autres humanoïdes belliqueux dirigent parfois des bandes de gobelins grincheux qu'ils poussent au brigandage, au sabotage ou à la guerre.</p><p>Maglubiyet, divinité autoproclamée des gobelins, hobgobelins et gobelours, commande à ses légions innombrables de gobelinoïdes sur le champ de bataille infini d'Achéron. Jadis, témoin du potentiel destructeur des gobelinoïdes, il transplanta une partie de leur population de la Féerie vers son royaume des Plans extérieurs. Depuis lors, des hordes de ces gobelins à l'esprit plus martial ont prospéré, et certains ont trouvé la voie menant aux mondes du Plan Matériel. Ces féroces envahisseurs sèment la dévastation pour favoriser les conquêtes de leur divinité.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Goblin Minion": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sbire gobelin",
+                    "text": "<p>Les sbires gobelins, ravis de participer aux subtiles manigances de les chefs, sont prompts à fuir dès que l'ennemi se montre un tant soit peu teigneux.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Goblin Warrior": {
-                    "name": "",
-                    "text": ""
+                    "name": "Combattant gobelin",
+                    "text": "<p>Les combattants gobelins sont des fauteurs de troubles patentés. Ceux qui sont au service du Maglubiyet, plus disciplinés que la moyenne, sont enclins au repli stratégique quand celui-ci permet de tendre une embuscade.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Goblin Boss": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chef gobelin",
+                    "text": "<p>Le chef gobelin est souvent le plus imaginatif, bagarreur et turbulent du lot. Chanceux, lâche et cruel à la fois, un tel chef parvient à échapper aux mauvais coups aux dépens de ses troupes.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Gray Oozes": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vases grises",
+                    "text": "<p class=\"creature-flavor\"><em>Créatures visqueuses affamées, fruit d'erreurs magiques</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre ; <strong>Trésor :</strong> aucun</p><p>Les vases grises sont des prédateurs corrosifs indétectables dans un environnement de pierre.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Gray Ooze": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vase grise",
+                    "text": "<p>Les vases grises apparaissent dans les zones affectées par une magie imprévisible. La création fortuite d'une vase grise peut aussi se produire lorsqu'un mage échoue à lier un esprit élémentaire à la structure d'un artificiel.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Guards": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gardes",
+                    "text": "<p class=\"creature-flavor\"><em>Sentinelles et membres du guet</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> Armement, individuel</p><aside class=\"quote clear-both\"><p>Les gardes veillent sur la population, les lieux et les choses, soit parce qu'ils sont payés pour le faire, soit par sens du devoir. La vigilance et l'engagement avec lesquels ils accomplissent leur mission dépend du sujet. Certains donnent l'alerte au premier signe de danger et font leur devoir au péril de leur vie. D'autres détalent s'ils estiment que leur solde n'est pas à la hauteur du danger.</p></aside><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Guard": {
-                    "name": "",
-                    "text": ""
+                    "name": "Garde",
+                    "text": "<p>Un garde a l'œil aiguisé, mais manque souvent d'entraînement martial. Il peut faire office de videur, de sentinelle, de membre du guet ou de soldat attentif.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Guard Captain": {
-                    "name": "",
-                    "text": ""
+                    "name": "Capitaine de la garde",
+                    "text": "<p>Un capitaine de la garde est souvent un professionnel aguerri. Il s'agira par exemple d'un garde du corps émérite, du protecteur d'un trésor magique, d'un vétéran au sein du guet ou de quelque surveillant similaire.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Hobgoblins": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hobgobelins",
+                    "text": "<p class=\"creature-flavor\"><em>Conquérants de tous les horizons</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Collines, Désert, Forêt, Montagnes, Outreterre, Plaine, Planaire (Achéron) ; <strong>Trésor :</strong> Armement, individuel</p><p>Les hobgobelins incarnent le besoin primaire de croître et de conquérir, qu'ils expriment en soumettant le monde à leur volonté. Isolé, un hobgobelin revendique un territoire boisé qu'il pille méthodiquement. En groupe, ils forment une société martiale et hiérarchisée, vouée tout entière à la conquête, au pillage des ressources et au zèle expansionniste.</p><p>Les hobgobelins soumettent à cet effet animaux, monstres et Fées destructrices, en particulier les gobelins et les gobelours. Des hobgobelins peuvent conclure une alliance avec un dragon, un seigneur de guerre, voire servir quelque dieu belliqueux ou une autre créature puissante qui leur promet le contrôle de nouveaux horizons. Dès que des hobgobelins ont maté un territoire, ils se lancent dans de nouvelles conquêtes, quitte à devoir écumer les mers, l'Outreterre, les étoiles ou les autres plans d'existence.</p><p>Maints hobgobelins vénèrent Maglubiyet, divinité violente dont la soif de conquêtes n'a d'égale que la leur. Les hobgobelins disciples de Maglubiyet abondent sur le champ de bataille infini d'Achéron, où ils trouvent ample matière à étancher leur soif de domination. Ces hobgobelins obsédés par la guerre recourent à des tactiques élaborées et à des armes étranges, qu'ils emploient aussi parfois sur les mondes du Plan Matériel.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Hobgoblin Warrior": {
-                    "name": "",
-                    "text": ""
+                    "name": "Combattant hobgobelin",
+                    "text": "<p>Les combattants hobgobelins chassent et pillent seuls ou accompagnés de molosses, worgs, bandes de gobelins et alliés divers. Ils recourent à des tactiques simples et exploitent à merveille les avantages que fournissent leurs alliés. Sacrifier un compagnon pour sortir victorieux ne leur pose aucun problème.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Hobgoblin Captain": {
-                    "name": "",
-                    "text": ""
+                    "name": "Capitaine hobgobelin",
+                    "text": "<p>Le capitaine hobgobelin est un fin tacticien. Il conduit ses alliés à la victoire en recourant à ses compétences martiales et en ralliant les troupes, quitte à devoir employer la menace. Un capitaine hobgobelin commande généralement un détachement de hobgobelins ou une bande de monstres plus faibles.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Imp": {
-                    "name": "",
-                    "text": ""
+                    "name": "Diablotin",
+                    "text": "<p class=\"creature-flavor\"><em>Diable de la mesquinerie et de la méfiance</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> aucun</p><p>Réputés pour leur couardise et leur côté lèche-bottes, les diablotins sont utiles aux diables et aux mages maléfiques. Leur capacité à changer de forme et à devenir invisibles fait d'eux des espions redoutables, particulièrement aptes à échapper au danger. Un diablotin chargé d'espionner une autre créature rapporte ses découvertes à son maître, mais omet volontiers des détails importants ou présente les événements sous le pire jour possible, afin d'inciter ce même maître à suivre ses conseils diaboliques.</p><p>Un diablotin sans maître prend un malin plaisir à manipuler les autres créatures en flattant leur ego. Il prendra volontiers le contrôle de bandes de monstres plus faibles ou se fera passer pour un guide secourable afin de pousser les puissants à servir leurs sombres desseins.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Incubus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Incube",
+                    "text": "<div><p class=\"creature-flavor\"><em>Traqueur des songes, voleur d'essence vitale</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Planaire (Plans Inférieurs), Urbain ; <strong>Trésor :</strong> libre</p><p>Les incubes se repaissent de la vulnérabilité des mortels plongés dans leurs rêves. Ces créatures s'insinuent dans les demeures des dormeurs pour se nourrir de leurs songes, qu'ils métamorphosent en cauchemars terrifiants. Nuit après nuit, l'incube revient tourmenter sa proie jusqu'à ce qu'elle succombe. Il part alors en quête de nouvelles victimes, jetant volontiers son dévolu sur les êtres chers de ses anciennes cibles.</p><p>Les incubes peuvent prendre l'apparence des succubes et vice versa. Ils adoptent la forme qui leur permet de manipuler leurs adversaires, que ce soit dans les rêves ou la réalité.</p><p>Les victimes d'un incube souffrent de cauchemars récurrents. Pour déterminer ces terreurs nocturnes, inspirez-vous de la table « Cauchemars d'incube ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmIncubusNightma rollable classes=\"caption-top\"]</p></div><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Knights": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chevaliers",
+                    "text": "<p class=\"creature-flavor\"><em>Maîtres d'armes et héros itinérants</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> Armement, individuel</p><p>Les chevaliers sont des combattants d'élite dont la maîtrise des armes s'est forgée au feu des batailles. Nombre d'entre eux servent un souverain, une religion ou un ordre voué à une cause.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Knight": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chevalier",
+                    "text": "<p>Sur le champ de bataille, les chevaliers mènent souvent leurs troupes au combat ou intègrent des unités d'élite. À leurs côtés se tiennent des écuyers, simples soldats ou roturiers moins versés dans l'art de la guerre.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Kobolds": {
-                    "name": "",
-                    "text": ""
+                    "name": "Kobolds",
+                    "text": "<p class=\"creature-flavor\"><em>Filous au service des dragons chromatiques</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Arctique, Collines, Désert, Forêt, Littoral, Marais, Montagnes, Outreterre, Urbain ; <strong>Trésor :</strong> Armement</p><p>Cousins pusillanimes des dragons chromatiques, les kobolds servent leurs suzerains draconiques comme guerriers et domestiques. Ces nuisibles débrouillards singent le comportement de leurs maîtres dragons. Si leur petite taille et leur témérité font d'eux de piètres imitateurs, les kobolds compensent leur manque de férocité par un zèle et une ingéniosité sans bornes. Ils excellent tout particulièrement dans l'art de concevoir des pièges et de tendre des embuscades.</p><p>Les écailles des kobolds rappellent celles des dragons chromatiques qui vivent à proximité de leurs galeries. Il arrive, en de rares occasions, que certains kobolds arborent des traits évocateurs des dragons métalliques ou d'autres créatures draconiques.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Kobold Warrior": {
-                    "name": "",
-                    "text": ""
+                    "name": "Combattant kobold",
+                    "text": "<p>Les combattants kobolds pratiquent la guerre d'usure, en multipliant les raids contre l'ennemi et en défendant leur territoire par des attaques éclair. Pour se prémunir du danger, ils parsèment leur chemin de pièges aussi rudimentaires qu'efficaces.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Mages": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mages",
+                    "text": "<p class=\"creature-flavor\"><em>Érudits en magie et lanceurs de sorts</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> Arcanes, individuel</p><p>Les mages manient les prodiges magiques, qu'ils soient seigneurs incantateurs ou sorciers solitaires. Leur étude des secrets mystiques leur confère une compréhension unique des monstres, légendes, présages et autres savoirs. Pour faciliter leurs recherches ou accroître leur puissance magique, ils s'entourent souvent d'alliés ou engagent des assistants.</p><p>Pour déterminer le style de personnage qu'il représente, inspirez-vous de la table « Rôles de mage ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmMageRoles00000 rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Mage": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mage",
+                    "text": "<aside class=\"quote\"><p>Les mages sont des lanceurs de sorts accomplis dont la magie a façonné l'existence. Leurs pouvoirs leur permettent de protéger ou dominer autrui, à moins qu'ils ne préfèrent se consacrer à la recherche magique et la quête de secrets mystiques.</p></aside><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Mephits": {
-                    "name": "",
-                    "text": ""
+                    "name": "Méphites",
+                    "text": "<p class=\"creature-flavor\"><em>Petits vandales élémentaires</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Planaire (Plans Élémentaires) ; <strong>Trésor :</strong> aucun</p><p>Les méphites sont des farceurs malveillants qui peuplent les Plans Élémentaires. Les six types les plus répandus ressemblent à des gargouilles ailées de la taille d'un halfelin. Leurs traits sont grotesques et leur corps se compose de deux éléments. La plupart mènent une existence égocentrique sur leur plan d'origine, où ils laissent libre cours à leur sens de l'humour tordu ou à leur ego démesuré. Certains servent de messagers ou d'espions pour des génies ou des mages.</p><p>Les méphites détestent quitter les zones aux conditions élémentaires extrêmes où ils résident. S'ils se retrouvent sur le Plan Matériel ou dans d'autres royaumes, ils se vengent par des farces cruelles ou tourmentent les créatures plus faibles qu'eux. À leur mort, ils explosent dans une déflagration de magie élémentaire.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Steam Mephit": {
-                    "name": "",
-                    "text": ""
+                    "name": "Méphite vaporeux",
+                    "text": "<p>Ces arrogants méphites sont faits de chaleur et de vapeur d'eau. Ils négocient diverses faveurs par de belles promesses, qu'ils se hâtent ensuite de renier.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Mimic": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mimique",
+                    "text": "<p class=\"creature-flavor\"><em>Métamorphe déguisé en objet anodin</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre, Urbain ; <strong>Trésor :</strong> libre</p><p>Sous leur forme naturelle, les mimiques ne sont guère que des estomacs ambulants, avec un corps visqueux couvert d'yeux et de dents étranges. Elles peuvent modifier leur couleur, leur texture et leurs dimensions pour prendre l'apparence d'objets inanimés de taille comparable. Ce déguisement leur sert à la fois de camouflage et d'appât. Quand la proie s'approche, la mimique passe à l'attaque avec ses pseudopodes collants et sa gueule garnie de crocs. Une fois ses victimes dévorées, la mimique change généralement de poste et de forme, dans l'attente de son prochain repas.</p><p>Puisez parmi les formes de mimique suivantes pour trouver l'inspiration :</p><div style=\"columns:3\"><p style=\"margin-top:0\">Animal empaillé</p><p>Arbuste taillé</p><p>Autel</p><p>Barre de navire</p><p>Chaise</p><p>Chaudron</p><p>Cloche</p><p>Coffre</p><p>Échelle</p><p>Gâteau démesuré</p><p>Gemme géante</p><p>Lit de camp</p><p>Lustre</p><p>Mannequin</p><p>Miroir</p><p>Obélisque</p><p>Pancarte</p><p>Panneau de contrôle</p><p>Pierre tombale</p><p>Plante en pot</p><p>Porte</p><p>Pupitre</p><p>Rangée de livres</p><p>Râtelier d'armes</p><p>Rocher</p><p>Sarcophage</p><p>Sculpture</p><p>Souche</p><p>Stalagmite</p><p>Table</p><p>Tapis</p><p>Tapisserie</p><p>Tas d'os</p><p>Tas de feuilles</p><p>Tonnelet</p><p>Trône</p></div><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Minotaur of Baphomet": {
-                    "name": "",
-                    "text": ""
+                    "name": "Minotaure de Baphomet",
+                    "text": "<div><p class=\"creature-flavor\"><em>Champion sanguinaire du seigneur démon des Bêtes</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre ; <strong>Trésor :</strong> Armement</p><p>Baphomet, seigneur démon des Bêtes, revendique la création des minotaures et exige leur vénération. Si la plupart vivent affranchis de son influence, ceux qui le servent deviennent des minotaures de Baphomet. Ces brutes ressemblent davantage que leurs congénères à leur colossal maître cornu et sèment le chaos au nom de cet ignoble immortel. Il arrive que d'autres créatures, victimes de malédictions lancées par des mages ou des divinités vengeresses, se transforment en de tels monstres.</p><p>Les minotaures de Baphomet hantent souvent des labyrinthes, où ils guident leurs alliés vers des sanctuaires cachés et traquent les intrus. Pour déterminer la nature du domaine du monstre, inspirez-vous de la table « Dédales de minotaure ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmMinotaurMazes0 rollable classes=\"caption-top\"]</p></div><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Nobles": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nobles",
+                    "text": "<p class=\"creature-flavor\"><em>Membre de la noblesse fortunée</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> Individuel</p><p>La catégorie des nobles englobe une grande variété d'individus ayant une forte influence sociale. Elle comprend les dirigeants, marchands fortunés, bureaucrates au cœur de pierre et autres membre de l'élite oisive.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Noble": {
-                    "name": "",
-                    "text": ""
+                    "name": "Noble",
+                    "text": "<p>Parmi les avantages sociaux d'un noble, on compte l'accès à une éducation et une formation souvent plus poussées que la plupart des gens du peuple, et l'expérience des aristocrates en matière de négoce ou de politique fait d'eux d'habiles interlocuteurs.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Nothic": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nothic",
+                    "text": "<p class=\"creature-flavor\"><em>Témoin de l'étrange</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre ; <strong>Trésor :</strong> Arcanes</p><p>Dévorés par la soif de savoir interdit, les nothics sont des chercheurs de sapience maudits qui doivent leur transformation à quelque secret inavouable. Le corps de ces anciens érudits a subi une métamorphose qui fait d'eux des créatures d'outre-monde, dont la tête est invariablement dotée d'un œil cyclopéen qui ne cille jamais. Les nothics ne gardent aucun souvenir de leur vie passée et n'ont qu'un seul but : faire main basse sur les secrets mystérieux et autres vérités dérangeantes. Ils cherchent la révélation au milieu de ruines oubliées, et recourent à leur vision surnaturelle pour percer les travestissements magiques, décomposer la chair des ennemis et dérober les secrets de quiconque ose interrompre leurs investigations.</p><p>Si certains nothics cherchent à mettre un terme à la malédiction qui a fait d'eux des monstres, beaucoup font peu de cas de cette irrémédiable transformation.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Ogres": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ogres",
+                    "text": "<p class=\"creature-flavor\"><em>Gigantesques pillards enragés</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Arctique, Collines, Désert, Forêt, Marais, Montagnes, Outreterre, Plaine ; <strong>Trésor :</strong> Armement</p><p>Les ogres sont des pillards massifs et gloutons, fruit de forces surnaturelles maléfiques. De ruines lugubres en arrière-pays désolés, ils fondent sur les communautés vulnérables et tendent des embuscades aux voyageurs. Les ogres convoitent ce qui se mange et ce qui brille, mais détruisent avec hargne objets d'art, appareils mécaniques et autres créations délicates. Il leur arrive d'enlever des victimes pour les dévorer plus tard et, bien plus rarement, d'épargner un saltimbanque ayant piqué leur intérêt.</p><p>Les origines des ogres remontent à des divinités mauvaises comme Erythnul, Takhisis et Vaprak. Ils sortent magiquement de terre sur les territoires corrompus par quelque dieu maléfique, magie noire ou malédiction ancestrale. Certains portent la trace des lieux où ils ont émergé : callosités rocheuses, excroissances moussues ou morsure du gel.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Ogre": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ogre",
+                    "text": "<p>Les ogres sont des brutes de 3 m qui écrasent leurs proies et s'emparent du butin qui leur plaît. Un pillard ogre s'allie volontiers avec les forces du mal pour peu qu'on lui promette nourriture, richesses et combats à foison.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Owlbears": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hibours",
+                    "text": "<p class=\"creature-flavor\"><em>Prédateurs perfectionnés magiquement</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Forêt ; <strong>Trésor :</strong> aucun</p><p>Créés aux temps anciens par des mages malavisés, les hibours ou ours-hiboux ont un gabarit de plantigrade, une vue perçante d'oiseau, un plumage épais et un bec impressionnant. Faisant fi de leurs origines magiques, les hibours se sont multipliés dans les contrées sauvages du multivers entier.</p><p>Chaque hibours réside dans un antre distinct. Pour connaître les traits propres à la tanière d'un ours-hibou, inspirez-vous de la table « Tanière de hibours ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmOwlbearDenFeat rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Owlbear": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hibours",
+                    "text": "<p>Chasseurs tenaces, les hibours peuvent suivre leur proie sur des kilomètres sans jamais renoncer.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Pirates": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pirates",
+                    "text": "<p class=\"creature-flavor\"><em>Flibustiers et chasseurs de trésor</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> individuel, Ustensiles</p><p>Le terme « pirate » englobe un vaste éventail de marins au long cours : écumeurs sans pitié, flibustiers que rien n'arrête, chasseurs de trésors maudits, en résumé quiconque cherche à devenir riche et célèbre en haute mer.</p><p>Le pirate peut être un allié, un ennemi, un personnage imprévisible ou toute combinaison de ces possibilités. S'ils sont un fléau pour les marchands et les villages côtiers, ils n'ignorent rien des secrets de la mer et savent comment échapper aux périls maritimes. Certains pirates insolites visent plus haut que les vagues à bord d'aéronefs, de nefs transplanaires et véhicules plus étranges encore, afin d'aller explorer et piller les royaumes les plus incroyables.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Pirate": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pirate",
+                    "text": "<p>Combattant émérite, le pirate est aussi un marin accompli qui sait naviguer et entretenir un navire. Si certains obéissent loyalement aux ordres de leur capitaine, d'autres placent la cupidité, les superstitions ou la survie au-dessus du devoir.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Pirate Captain": {
-                    "name": "",
-                    "text": ""
+                    "name": "Capitaine pirate",
+                    "text": "<p>Un capitaine pirate commande à un équipage pirate, trace le cap et désigne les cibles. Les capitaines cultivent la réputation effrayante et la mise en scène, se présentent comme des personnages truculents pour terroriser l'ennemi, s'assurer la docilité de l'équipage et attirer les nouvelles recrues. Plus d'un possède un nom de guerre haut en couleurs, souvent inspiré par ses exploits et son caractère.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Pseudodragon": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pseudodragon",
+                    "text": "<p class=\"creature-flavor\"><em>Un dragon capricieux, pas plus grand qu'une poupée</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Collines, Désert, Forêt, Littoral, Montagnes, Urbain ; <strong>Trésor :</strong> Arcanes</p><p>Les pseudodragons résident en pleine nature, de préférence là où la vie est facile et où les proies sont petites et lentes. Ils y mènent l'existence d'un grand ver satisfait, créant un antre minuscule au milieu d'arbres centenaires et de falaises escarpées. Ils garnissent cet antre de cailloux brillants, de coquillages colorés et autres trésors négligés ayant retenu leur attention, butin dérisoire sur lequel ils veillent jalousement.</p><p>Le pseudodragon grandit jusqu'au gabarit d'un gros chat domestique, la plupart présentant des écailles brun-roux. Les écailles de certains spécimens ont une autre couleur ou un motif différent, reflet de leurs cousins draconiques de plus grande taille.</p><p>Nombre de mages tentent de s'attirer les bonnes grâces de ces créatures, espérant en faire leurs familiers. Cette créature intelligente qui résiste à la magie fait un excellent compagnon. Elle est considérée comme une marque de prestige dans certains cercles de lanceurs de sorts.</p><p>La plupart des pseudodragons affectionnent les plaisirs raffinés de l'existence. Ces dragons miniatures se montrent souvent disposés à aider ceux qui les gâtent. À l'inverse, un mage qui traite mal son familier pseudodragon risque d'être abandonné sans préavis. Pour déterminer le cadeau préféré de la créature, inspirez-vous de la table « Gâteries pour pseudodragon ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmPseudodragonTr rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Quasit": {
-                    "name": "",
-                    "text": ""
+                    "name": "Quasit",
+                    "text": "<p class=\"creature-flavor\"><em>Démon de la discorde et du désordre</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Planaire (Abysses) ; <strong>Trésor :</strong> aucun</p><p>Destructeurs infatigables, les quasits sèment la discorde à coups de farces cruelles, de sabotage et d'embuscades. Ce démon minuscule recourt au chaos et à la violence pour terroriser autrui. Transformé en créature inoffensive mais de mauvais augure ou devenu invisible, le quasit s'immisce en des lieux où il peut espionner pour le compte d'un maître maléfique ou poser des pièges retors. Les quasits adorent se cacher dans les endroits enténébrés et surgir quand on les attend le moins pour empoisonner l'adversaire de leurs griffes.</p><p>Ils sont souvent méprisés et sous-estimés par les autres démons. Cela les incite à faire leurs preuves en commettant les actes les plus cruels et à chercher la voie menant au Plan Matériel. Au milieu des mortels, un quasit sème le chaos à tout va et s'acoquine volontiers avec aussi vil que lui, sectateur violent ou mage maléfique.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Red Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons rouges",
+                    "text": "<p class=\"creature-flavor\"><em>Dragons de la cupidité et des destructions</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Collines, Montagnes ; <strong>Trésor :</strong> libre</p><p>Les dragons rouges s'emparent de tout ce qui leur fait envie et réduisent en cendres quiconque se met en travers de leur chemin. Ces dragons chromatiques désirent toujours plus : plus de magie, de territoire, de trésor, ou quel que soit l'objet de leur ambition cruelle.</p><p>Un dragon rouge installe de préférence son antre sur les pentes dangereuses d'un volcan actif. C'est ici qu'il amasse et protège jalousement ses trésors, et garde à l'esprit le contenu exact de son butin ainsi que l'emplacement où il a « récupéré » tel ou tel élément. Si jamais quelque chose manque à l'appel, le dragon rouge entre dans une rage folle. Il ne trouvera le repos que lorsque tout son trésor aura retrouvé sa place et que les voleurs auront péri par les flammes.</p><p>Les dragons rouges sont convaincus d'être l'élite insurpassable du peuple dragon et, par extension, les créatures parfaites. À leurs yeux, piller et conquérir sont leurs droits imprescriptibles : un trésor ne trouvera pas de place plus juste que dans son antre, et tout créature à son service doit se sentir infiniment honorée.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Red Dragon Wyrmling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragonnet rouge",
+                    "text": "<p>Les dragonnets rouges sont des destructeurs-nés. Depuis leur plus jeune âge, ils adorent enflammer objets et créatures. Il leur arrive de refréner cette envie de carboniser pour terroriser des créatures jusqu'à ce qu'elles obéissent à leurs ordres et leur apportent des présents.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Scouts": {
-                    "name": "",
-                    "text": ""
+                    "name": "Éclaireurs",
+                    "text": "<p class=\"creature-flavor\"><em>Guetteurs et vadrouilleurs</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> individuel, Ustensiles</p><p>Les éclaireurs sont des combattants des contrées sauvages, versés dans l'art de la chasse et du pistage. On trouve parmi eux des explorateurs et des trappeurs, mais certains endossent des rôles plus martiaux comme archers, chasseurs de primes ou cavaliers.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Scout": {
-                    "name": "",
-                    "text": ""
+                    "name": "Éclaireur",
+                    "text": "<p>Les éclaireurs excellent au tir à l'arc et font preuve d'une conscience aiguë de leur environnement. Ils connaissent souvent plusieurs régions dans leurs moindres détails, notamment les créatures, repères et dangers locaux.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Shadow": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ombre",
+                    "text": "<p class=\"creature-flavor\"><em>Spectre ténébreux, buveur de vie</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre, Planaire (Gisombre), Urbain ; <strong>Trésor :</strong> aucun</p><p>Les ombres sont des Morts-vivants intangibles qui se repaissent de la force vitale des vivants. Elles nourrissent une rancœur tenace envers ces derniers, jalousant cette vitalité et ce potentiel perdus à jamais.</p><p>Ces entités spectrales se tapissent dans les recoins sombres et désolés, avec une préférence pour les lieux qui ont marqué leur existence passée ou les sites imprégnés par la mort, la magie néfaste ou la Gisombre. Leurs victimes se relèvent sous forme de nouvelles ombres, tout aussi affamées de vivants.</p><p>Une ombre peut revêtir l'apparence de sa silhouette mortelle ou adopter des formes plus menaçantes. Pour déterminer la forme et le domaine du monstre, inspirez-vous de la table « Formes d'ombre ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmShadowShapes00 rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Silver Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons d'argent",
+                    "text": "<p class=\"creature-flavor\"><em>Dragons du courage et de l'équité</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Montagnes, Urbain ; <strong>Trésor :</strong> Arcanes</p><p>Les dragons d'argent œuvrent à préserver la paix et à encourager la grandeur d'âme. Ils s'efforcent de montrer l'exemple par leur droiture tout en restant vigilants face au mal.</p><p>Ces dragons élisent traditionnellement domicile dans les montagnes enneigées, mais leurs aspirations et leur nature sociable poussent certains d'entre eux à vivre au sein de sociétés cosmopolites. Sous forme humanoïde, ils nouent des alliances avec les artistes, les historiens, les chevaliers et les dirigeants raisonnables qui s'appuient sur le passé pour bâtir un avenir meilleur.</p><p>Les dragons d'argent puisent leur inspiration dans les héros légendaires et nourrissent de nobles ambitions. La plupart collectionnent des trésors en lien avec ces centres d'intérêt : chroniques historiques, œuvres d'art anciennes et équipement de champions illustres.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Silver Dragon Wyrmling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragonnet d'argent",
+                    "text": "<p>Les dragonnets d'argent vivent généralement auprès d'un ou plusieurs parents ou mentors. Ils acquièrent une vaste connaissance du monde et de son histoire avant de voler de leurs propres ailes.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Skeletons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Squelettes",
+                    "text": "<p class=\"creature-flavor\"><em>Le Mal sans chair et en os</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre, Planaire (Gisombre), Urbain ; <strong>Trésor :</strong> aucun</p><p>Les squelettes se dressent à l'appel des nécromants et des esprits maléfiques. Qu'ils soient les vestiges d'une mort ancienne ou des os frais liés à de funestes desseins, ils accomplissent leur tâche sans relâche pour les forces qui les ont ranimés et servent souvent de gardiens, de soldats ou d'ouvriers. Rarement, des squelettes sont animés sans recevoir de directive particulière. Pour déterminer le comportement d'un squelette sans instructions, inspirez- vous de la table « Pantomimes de squelette ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmSkeletonPantom rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Skeleton": {
-                    "name": "",
-                    "text": ""
+                    "name": "Squelette",
+                    "text": "<p>Les squelettes sont des ossements d'Humanoïdes animés qui conservent l'équipement de leur vie passée. Ils disposent de facultés rudimentaires et affichent une agilité supérieure à celle des zombis et autres cadavres titubants. S'ils ne peuvent pas élaborer leurs propres plans, ils savent néanmoins éviter les obstacles évidents et les situations autodestructrices.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Slaadi": {
-                    "name": "",
-                    "text": ""
+                    "name": "Slaads",
+                    "text": "<p class=\"creature-flavor\"><em>Hordes du chaos issues des Limbes</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Planaire (Limbes) ; <strong>Trésor :</strong> libre</p><p>Les slaads, créatures imprévisibles, dévorent et prolifèrent à travers le Chaos changeant des Limbes. Ces êtres extraplanaires à l'apparence de crapauds incarnent l'infini potentiel de leur plan d'origine. Si les slaads ne sont pas foncièrement mauvais, leurs pulsions sauvages mènent souvent à la destruction. Nombre d'entre eux obéissent à un besoin impérieux de se reproduire par des moyens surnaturels. Ce processus s'avère hélas généralement fatal pour les autres créatures.</p><p>Les slaads ne connaissent aucune structure sociale. Les plus forts dominent simplement les plus faibles. Les slaads bleus et rouges sèment le chaos à travers les Limbes et s'infiltrent dans d'autres mondes sous les ordres des slaads verts. Les slaads les plus puissants entretiennent des liens avec la Pierre de frai, source de magie chaotique dont sont issus les premiers slaads. Cette Pierre se cache au cœur des Limbes. Les légendes attribuent ses origines au seigneur des modrons, Primus, ou aux terrifiants seigneurs slaads comme Ssendam, la terreur amiboïde dorée, et Ygorl, le squelette ailé. Ces seigneurs slaads et leurs semblables complotent pour répandre leur espèce à travers le multivers.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Slaad Tadpole": {
-                    "name": "",
-                    "text": ""
+                    "name": "Têtard slaad",
+                    "text": "<aside class=\"quote\"><p>Les têtards slaads sont des nouveau-nés voraces. Ils éclosent d'œufs implantés dans des hôtes vivants par les slaads rouges, mais pullulent aussi naturellement dans les Limbes et d'autres royaumes chaotiques. Dans la plupart des cas, un têtard slaad se transforme en slaad bleu (ou en slaad vert si son hôte pouvait lancer des sorts du 3<sup>e</sup> niveau ou supérieur) dans les 2d12 heures suivant son éclosion.</p></aside><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Sphinxes": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sphinx",
+                    "text": "<p class=\"creature-flavor\"><em>Collectionneurs et gardiens des secrets</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Désert, Planaire (Plans Supérieurs) ; <strong>Trésor :</strong> Arcanes</p><p>Les sphinx veillent sur les secrets du multivers. Formés à partir des esprits de sages et d'explorateurs, ils connaissent le pouvoir de la vérité et l'importance de la préserver. Ils ne partagent leur sagesse qu'avec ceux qui prouvent leur sapience ou triomphent d'épreuves, comme des énigmes ou des combats contre des monstres redoutables. Au fil de leur existence, les sphinx peuvent changer de forme à mesure qu'ils acquièrent une compréhension plus subtile des mystères cosmiques.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Sphinx of Wonder": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sphinx merveilleux",
+                    "text": "<p>Guère plus grand qu'un lionceau, ce sphinx arbore un plumage aux couleurs éclatantes. Il en naît un chaque fois qu'une idée inédite voit le jour sur le Plan Matériel. Une soif de connaissance insatiable anime ces créatures, chacune vouant sa vie à un domaine particulier, qu'il s'agisse d'un type de récit ou d'une branche du savoir. Un sceau unique orne leur front, reflet du savoir qui les fascine. Il arrive que l'un de ces sphinx se lie d'amitié avec un érudit mortel et mette ses talents au service de ses recherches.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Sprite": {
-                    "name": "",
-                    "text": ""
+                    "name": "Esprit follet",
+                    "text": "<p class=\"creature-flavor\"><em>Insaisissable défenseur des royaumes féeriques</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Forêt, Planaire (Féerie) ; <strong>Trésor :</strong> Armement</p><p>Les esprits follets habitent les forêts mystiques imprégnées de la magie de la Féerie, où ils vivent en harmonie avec la plupart des Fées et des amis de la nature. Ces esprits sauvages d'une trentaine de centimètres, portés par des ailes diaphanes, ressemblent à des elfes aux traits fantaisistes marqués.</p><p>Les esprits follets perçoivent la bonté ou la noirceur innée des autres créatures. Les visiteurs bien intentionnés peuvent se voir convier à de minuscules festins et célébrations. Les êtres malfaisants, quant à eux, subissent les pires farces et les assauts ingénieux de ces gardiens invisibles. Ces sentinelles des bois enchantent les flèches de leurs arcs miniatures d'une magie envoûtante capable de percer le cœur du plus redoutable adversaire.</p><p>Les esprits follets s'opposent à toute créature qui menace les sites de beauté et magie naturelles. Cette mission les oppose parfois aux colons, aux monstres comme les ettercaps, ainsi qu'aux vandales que sont les gobelinoïdes et les guenaudes. Ils apportent souvent leur aide aux créatures bienveillantes de la forêt, notamment les sylvaniens et les licornes, quand il s'agit de défendre leur territoire.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Stirges": {
-                    "name": "",
-                    "text": ""
+                    "name": "Striges",
+                    "text": "<p class=\"creature-flavor\"><em>Suceurs de sang tenaces et redoutés</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Collines, Désert, Forêt, Marais, Montagnes, Outreterre, Plaine, Urbain ; <strong>Trésor :</strong> aucun</p><p>Ces nuisibles de la taille d'une chauve-souris sont armés d'une longue trompe par laquelle ils s'accrochent à leurs proies pour aspirer leur force vitale. Ces créatures atteignent leur pic d'activité la nuit avant de se terrer dans les ombres durant la journée. Dérangées, elles prennent les airs pour se défendre farouchement. Pour déterminer où ces créatures font leur nid, inspirez-vous de la table « Perchoirs de striges ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmStirgeRoosts00 rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Stirge": {
-                    "name": "",
-                    "text": ""
+                    "name": "Strige",
+                    "text": "<p>Une strige isolée constitue rarement plus qu'une nuisance, mais plusieurs peuvent s'avérer mortelles si elles s'accrochent à leur victime avant que celle-ci puisse s'en débarrasser.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Stone Golem": {
-                    "name": "",
-                    "text": ""
+                    "name": "Golem de pierre",
+                    "text": "<p class=\"creature-flavor\"><em>Gardien des lieux sacrés et historiques</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> aucun</p><p>Les golems de pierre revêtent des formes variées : sculptures patinées de divinités anciennes, statues réalistes de héros, ou toute autre forme née de l'imagination de leurs créateurs. Quel que soit leur aspect ou la roche dont ils sont faits, la magie qui les anime renforce leur corps et leur permet d'obéir aux ordres de leurs créateurs pendant des siècles.</p><p>Ces gardiens sont généralement créés pour protéger des lieux importants aux yeux d'un groupe : monument commémoratif, tombe d'un dirigeant ou sanctuaire religieux. Pour déterminer les consignes d'un tel Artificiel, inspirez-vous de la table « Instructions de golem de pierre ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmStoneGolemOrde rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Succubus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Succube",
+                    "text": "<p class=\"creature-flavor\"><em>Séductrice ou séducteur siphonneurs de vie</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Planaire (Plans Inférieurs), Urbain ;<br /><strong>Trésor :</strong> Ustensiles</p><p>Les succubes se repaissent du corps des mortels et exploitent leurs désirs les plus profonds. Ils ou elles savourent la corruption des âmes vertueuses et la souffrance qu'engendre la déchéance de leurs victimes. Une fois leurs proies totalement exposées, ils les achèvent d'un baiser qui draine leur essence vitale.</p><p>Par des rituels fiélons, les succubes peuvent se transformer en incubes afin de manipuler leurs proies tant dans leurs rêves que dans la réalité. Ils peuvent aussi changer d'apparence pour tourmenter leurs victimes. Ces tentateurs et tentatrices sont capables de dominer les Humanoïdes, mais préfèrent généralement user de ce pouvoir pour agrémenter leur influence ou se défendre plutôt que pour exercer un contrôle direct. Pour déterminer comment le ou la succube tourmente ses victimes, inspirez-vous de la table « Tentations de succube ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmSuccubusTempta rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Toughs": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gros-bras",
+                    "text": "<p class=\"creature-flavor\"><em>Brutes et bagarreurs</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> Armement</p><p>Gardes du corps, fauteurs de troubles ou manœuvres, les gros-bras comptent sur leur force physique pour intimider leurs adversaires. Il peut s'agir de criminels robustes, de piliers de taverne turbulents, d'ouvriers aguerris ou de quiconque compte sur ses muscles pour arriver à ses fins.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Tough": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gros-bras",
+                    "text": "<p>Les gros-bras sévissent parfois en groupe sous les ordres d'un chef, mais certains préfèrent agir seuls pour extorquer les plus faibles.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Tough Boss": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chef gros-bras",
+                    "text": "<p>Les chefs gros-bras mettent à profit leur jugeote des rues, leurs talents de bagarreur et leur réputation pour soumettre autrui à leurs ordres.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Vampires": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vampires",
+                    "text": "<p class=\"creature-flavor\"><em>Seigneurs de la nuit buveurs de sang</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre, Urbain ; <strong>Trésor :</strong> libre</p><p>Les vampires dissimulent leur nature immortelle et maudite, en se faisant passer pour des mortels afin de se repaître du sang des vivants. Les plus jeunes d'entre eux ne sont guère que des serviteurs assoiffés de sang à la solde de leurs créateurs, tandis que les plus anciens jouissent d'une ruse redoutable et de la maîtrise des forces surnaturelles de la nuit.</p><p>Les vampires Morts-vivants sommeillent en leur retraite durant la journée, à l'abri de leurs ennemis et des rayons brûlants du soleil. Pour déterminer le sinistre sanctuaire d'un tel monstre, inspirez-vous de la table « Refuges de vampire ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmVampireResting rollable classes=\"caption-top clear-both\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Vampire Familiar": {
-                    "name": "",
-                    "text": ""
+                    "name": "Familier de vampire",
+                    "text": "<p>Les familiers de vampire sont des êtres vivants qui servent les vampires, certains de leur plein gré, d'autres sous la contrainte de ces maîtres immortels. Ils canalisent l'énergie de la mort à travers leurs armes, pour neutraliser leurs candides victimes et les offrir impuissantes à leur maître vampire.</p><p>Nombre de familiers de vampire aspirent à devenir eux-mêmes des vampires, tandis que d'autres servent sous l'emprise d'un charme magique ou en vertu d'un sinistre pacte. Dans tous les cas, ces serviteurs de vampire portent les stigmates de la corruption vampirique : un teint cadavérique, des réflexes surnaturels et les marques des morsures répétées de leur maître. Un familier de vampire perd ses capacités surnaturelles et retrouve son état d'Humanoïde si son maître vampire est détruit.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Warriors": {
-                    "name": "",
-                    "text": ""
+                    "name": "Soldats",
+                    "text": "<p class=\"creature-flavor\"><em>Castagneurs professionnels</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> libre ; <strong>Trésor :</strong> Armement</p><p>Les soldats vivent de leurs prouesses et talents martiaux. Certains excellent dans l'art de la tactique, d'autres tirent parti des particularités du terrain pour mener leurs batailles. Ils unissent souvent leurs forces, que ce soit au sein d'armées régulières ou d'unités poursuivant des objectifs spécifiques.</p><p>Pour déterminer le parcours d'un tel combattant, inspirez-vous de la table « Rôles de soldat ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmWarriorRoles00 rollable classes=\"caption-top\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Warrior Infantry": {
-                    "name": "",
-                    "text": ""
+                    "name": "Fantassin",
+                    "text": "<p>Les fantassins sont des recrues en formation ou de simples soldats du rang. Ils sont rompus à l'affrontement de menaces ordinaires, non magiques.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Worgs": {
-                    "name": "",
-                    "text": ""
+                    "name": "Worgs",
+                    "text": "<p class=\"creature-flavor\"><em>Ravageurs lupins malfaisants</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Collines, Forêt, Plaine, Planaire (Féerie) ; <strong>Trésor :</strong> aucun</p><p>Les worgs sont des prédateurs redoutables qu'on peut confondre de prime abord avec des loups géants. Ces chasseurs doués de raison parlent et se plaisent à tourmenter leurs proies en savourant la peur qui imprègne leur chair.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Worg": {
-                    "name": "",
-                    "text": ""
+                    "name": "Worg",
+                    "text": "<p>Des meutes de worgs écument les frontières hostiles et les terres maudites. Ils s'allient parfois aux gobelinoïdes et aux gnolls, à qui ils peuvent servir de montures.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Wraith": {
-                    "name": "",
-                    "text": ""
+                    "name": "Âme-en-peine",
+                    "text": "<p class=\"creature-flavor\"><em>Quintessence du mal</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre, Planaire (Gisombre) ; <strong>Trésor :</strong> aucun</p><p>Les âmes-en-peine sont des êtres spectraux maléfiques, avides incarnations de la cruauté et de la terreur. Nées des âmes de tyrans, de moments d'atroce souffrance ou d'abominations magiques, elles répandent les tourments de la non-vie. Les Humanoïdes qui périssent à proximité d'un tel monstre risquent d'être emprisonnés par leur essence corrompue et de renaître en spectres asservis à leur volonté funeste.</p><p>Les âmes-en-peine hantent les donjons oubliés, les ruines maudites et les terres souillées par l'influence des plans maléfiques. Ces domaines hantés gardent souvent la trace des tragédies ou de la magie néfaste qui leur a donné naissance.</p><p>Une âme-en-peine peut naître d'un puissant esprit maléfique ou d'autres forces funestes. Pour déterminer le maléfice associé à un tel Mort-vivant, inspirez-vous de la table « Manifestations d'âme-en-peine ».</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.mmWraithManifest rollable classes=\"caption-top clear-both\"]</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Zombies": {
-                    "name": "",
-                    "text": ""
+                    "name": "Zombis",
+                    "text": "<p class=\"creature-flavor\"><em>Cadavres ambulants infatigables</em></p><p class=\"habitat-treasure\"><strong>Habitat :</strong> Outreterre, Planaire (Gisombre), Urbain ; <strong>Trésor :</strong> aucun</p><p>Les zombis sont des cadavres animés, privés de conscience, souvent marqués par l'horreur de la décomposition et d'une mort violente. Ils servent les forces surnaturelles qui les agitent, le plus souvent des nécromants maléfiques ou des esprits fiélons. Les zombis font preuve d'une implacable détermination et d'une résilience redoutable, leur chair morte restant active après des blessures atroces. S'ils peuvent obéir à des ordres simples, ce sont leurs pulsions primales qui guident leurs actes plutôt que la pensée. Ils exécutent les instructions par un labeur incessant ou en rossant leurs adversaires, mais le moindre obstacle ou imprévu suffit à les dérouter.</p><p>La création des zombis requiert en général des cadavres d'Humanoïdes, mais les dépouilles d'autres créatures peuvent également subir ce funeste sort. Ces zombis monstrueux conservent parfois la force qui était la leur de leur vivant, voire une part de leurs capacités surnaturelles, bien qu'ils n'en fassent usage qu'avec une maladresse manifeste.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Zombie": {
-                    "name": "",
-                    "text": ""
+                    "name": "Zombi",
+                    "text": "<p>Les zombis d'Humanoïdes servent communément de gardiens, serviteurs ou soldats aux incantateurs maléfiques. Dans de rares cas, une magie infâme peut provoquer une animation massive des morts et libérer des hordes de zombis qui terrorisent les vivants.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 },
                 "Ogre Zombie": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ogre zombi",
+                    "text": "<p>Les ogres zombis servent d'ouvriers infatigables et d'armes de guerre immortelles. Leur stature colossale leur permet de briser les barrières qui arrêteraient des zombis plus menus.</p><div class=\"fvtt advice hide-in-embed\"><figure class=\"icon\"><img src=\"icons/svg/door-locked-outline.svg\" class=\"round\" /></figure><p>Il s'agit d'un contenu de Règles gratuites qui n'est pas couvert par la licence Creative Commons et qui ne peut pas être redistribué en dehors du système de jeu.</p></div>"
                 }
             }
         },
