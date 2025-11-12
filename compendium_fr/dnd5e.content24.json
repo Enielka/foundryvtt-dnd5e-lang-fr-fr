@@ -2977,712 +2977,712 @@
             "name": "Monstres de A à Z",
             "pages": {
                 "Berserkers": {
-                    "name": "",
-                    "text": ""
+                    "name": "Berserkers",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBerserker00000 caption=false cite=true statblock]</p>"
                 },
                 "Blink Dog": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chien esquiveur",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBlinkDog000000 caption=false cite=true statblock]</p>"
                 },
                 "Black Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons noirs",
+                    "text": "<h2>Dragonnet noir</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmBlackDragonWyr caption=false cite=true statblock]</p></div><h2>Jeune dragon noir</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmYoungBlackDrag caption=false cite=true statblock]</p></div><h2>Dragon noir adulte</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAdultBlackDrag caption=false cite=true statblock classes=\"double-column\"]</p></div><h2>Dragon noir vénérable</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAncientBlackDr caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Bugbears": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gobelours",
+                    "text": "<h2>Combattant gobelours</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmBugbearWarrior caption=false cite=true statblock]</p><h2>Traqueur gobelours</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmBugbearStalker caption=false cite=true statblock]</p>"
                 },
                 "Cultists": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sectateurs",
+                    "text": "<h2>Sectateur</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmCultist0000000 caption=false cite=true statblock]</p></div><h2>Fanatique de secte</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmCultistFanatic caption=false cite=true statblock]</p></div>"
                 },
                 "Commoner": {
-                    "name": "",
-                    "text": ""
+                    "name": "Roturier",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmCommoner000000 caption=false cite=true statblock]</p>"
                 },
                 "Darkmantle": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mante obscure",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmDarkmantle0000 caption=false cite=true statblock classes=\"clear-both\"]</p>"
                 },
                 "Copper Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons de cuivre",
+                    "text": "<h2>Dragonnet de cuivre</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmCopperDragonWy caption=false cite=true statblock]</p></div><h2>Jeune dragon de cuivre</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmYoungCopperDra caption=false cite=true statblock]</p></div><h2>Dragon de cuivre adulte</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAdultCopperDra caption=false cite=true statblock classes=\"double-column\"]</p></div><h2>Dragon de cuivre vénérable</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAncientCopperD caption=false cite=true statblock classes=\"double-column\"]</p></div>"
                 },
                 "Doppelganger": {
-                    "name": "",
-                    "text": ""
+                    "name": "Doppelganger",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmDoppelganger00 caption=false cite=true statblock]</p>"
                 },
                 "Fire Elemental": {
-                    "name": "",
-                    "text": ""
+                    "name": "Élémentaire du feu",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmFireElemental0 caption=false cite=true statblock]</p>"
                 },
                 "Gelatinous Cube": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cube gélatineux",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGelatinousCube caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Goblins": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gobelins",
+                    "text": "<h2>Sbire gobelin</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmGoblinMinion00 caption=false cite=true statblock]</p></div><h2>Combattant gobelin</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmGoblinWarrior0 caption=false cite=true statblock]</p></div><h2>Chef gobelin</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmGoblinBoss0000 caption=false cite=true statblock]</p></div>"
                 },
                 "Gnoll": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gnoll",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGnollWarrior00 caption=false cite=true statblock]</p>"
                 },
                 "Gray Ooze": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vase grise",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGrayOoze000000 caption=false cite=true statblock]</p>"
                 },
                 "Guards": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gardes",
+                    "text": "<h2>Garde</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmGuard000000000 caption=false cite=true statblock]</p><h2>Capitaine de la garde</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmGuardCaptain00 caption=false cite=true statblock]</p>"
                 },
                 "Hobgoblins": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hobgobelins",
+                    "text": "<h2>Combattant hobgobelin</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmHobgoblinWarri caption=false cite=true statblock]</p><h2>Capitaine hobgobelin</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmHobgoblinCapta caption=false cite=true statblock]</p></div>"
                 },
                 "Imp": {
-                    "name": "",
-                    "text": ""
+                    "name": "Diablotin",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmImp00000000000 caption=false cite=true statblock classes=\"clear-both\"]</p>"
                 },
                 "Incubus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Incube",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmIncubus0000000 caption=false cite=true statblock]</p>"
                 },
                 "Kobolds": {
-                    "name": "",
-                    "text": ""
+                    "name": "Kobolds",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmKoboldWarrior0 caption=false cite=true statblock]</p>"
                 },
                 "Knights": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chevaliers",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmKnight00000000 caption=false cite=true statblock]</p>"
                 },
                 "Mages": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mages",
+                    "text": "<h2>Mage</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmMage0000000000 caption=false cite=true statblock]</p></div><h2>Archimage</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmArchmage000000 caption=false cite=true statblock]</p></div>"
                 },
                 "Mephits": {
-                    "name": "",
-                    "text": ""
+                    "name": "Méphites",
+                    "text": "<h2>Méphite gelé</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmIceMephit00000 caption=false cite=true statblock]</p></div><h2>Méphite magmatique</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmMagmaMephit000 caption=false cite=true statblock]</p></div><h2>Méphite poussiéreux</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmDustMephit0000 caption=false cite=true statblock]</p></div><h2>Méphite vaporeux</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmSteamMephit000 caption=false cite=true statblock]</p></div>"
                 },
                 "Mimic": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mimique",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmMimic000000000 caption=false cite=true statblock]</p>"
                 },
                 "Minotaur of Baphomet": {
-                    "name": "",
-                    "text": ""
+                    "name": "Minotaure de Baphomet",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmMinotaurOfBaph caption=false cite=true statblock]</p>"
                 },
                 "Noble": {
-                    "name": "",
-                    "text": ""
+                    "name": "Noble",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmNoble000000000 caption=false cite=true statblock]</p>"
                 },
                 "Ogre": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ogre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmOgre0000000000 caption=false cite=true statblock]</p>"
                 },
                 "Owlbear": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hibours",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmOwlbear0000000 caption=false cite=true statblock]</p>"
                 },
                 "Pirates": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pirates",
+                    "text": "<h2>Pirate</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmPirate00000000 caption=false cite=true statblock]</p></div><h2>Capitaine pirate</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmPirateCaptain0 caption=false cite=true statblock]</p></div>"
                 },
                 "Quasit": {
-                    "name": "",
-                    "text": ""
+                    "name": "Quasit",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmQuasit00000000 caption=false cite=true statblock classes=\"clear-both\"]</p>"
                 },
                 "Red Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons rouges",
+                    "text": "<h2>Dragonnet rouge</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmRedDragonWyrml caption=false cite=true statblock]</p></div><h2>Jeune dragon rouge</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmYoungRedDragon caption=false cite=true statblock]</p></div><h2>Dragon rouge adulte</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAdultRedDragon caption=false cite=true statblock classes=\"double-column\"]</p></div><h2>Dragon rouge vénérable</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAncientRedDrag caption=false cite=true statblock classes=\"double-column\"]</p></div>"
                 },
                 "Pseudodragon": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pseudodragon",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmPseudodragon00 caption=false cite=true statblock]</p>"
                 },
                 "Shadow": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ombre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmShadow00000000 caption=false cite=true statblock]</p>"
                 },
                 "Scout": {
-                    "name": "",
-                    "text": ""
+                    "name": "Éclaireur",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmScout000000000 caption=false cite=true statblock]</p>"
                 },
                 "Skeletons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Squelettes",
+                    "text": "<h2>Squelette</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmSkeleton000000 caption=false cite=true statblock]</p></div><h2>Destrier squelette</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmWarhorseSkelet caption=false cite=true statblock]</p></div><h2>Minotaure squelette</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmMinotaurSkelet caption=false cite=true statblock]</p></div>"
                 },
                 "Silver Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons d'argent",
+                    "text": "<h2>Dragonnet d'argent</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmSilverDragonWy caption=false cite=true statblock]</p></div><h2>Jeune dragon d'argent</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmYoungSilverDra caption=false cite=true statblock]</p></div><h2>Dragon d'argent adulte</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAdultSilverDra caption=false cite=true statblock classes=\"double-column\"]</p></div><h2>Dragon d'argent vénérable</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAncientSilverD caption=false cite=true statblock classes=\"double-column\"]</p></div>"
                 },
                 "Sprite": {
-                    "name": "",
-                    "text": ""
+                    "name": "Esprit follet",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSprite00000000 caption=false cite=true statblock]</p>"
                 },
                 "Stirge": {
-                    "name": "",
-                    "text": ""
+                    "name": "Strige",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmStirge00000000 caption=false cite=true statblock]</p>"
                 },
                 "Stone Golem": {
-                    "name": "",
-                    "text": ""
+                    "name": "Golem de pierre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmStoneGolem0000 caption=false cite=true statblock]</p>"
                 },
                 "Succubus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Succube",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSuccubus000000 caption=false cite=true statblock]</p>"
                 },
                 "Sphinxes": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sphinx",
+                    "text": "<h2>Sphinx merveilleux</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmSphinxOfWonder caption=false cite=true statblock]</p></div><h2>Sphinx érudit</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmSphinxOfLore00 caption=false cite=true statblock classes=\"double-column\"]</p></div><h2>Sphinx valeureux</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmSphinxOfValor0 caption=false cite=true statblock classes=\"double-column\"]</p></div>"
                 },
                 "Toughs": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gros-bras",
+                    "text": "<h2>Gros-bras</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmTough000000000 caption=false cite=true statblock]</p></div><h2>Chef gros-bras</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmToughBoss00000 caption=false cite=true statblock]</p></div>"
                 },
                 "Warriors": {
-                    "name": "",
-                    "text": ""
+                    "name": "Soldats",
+                    "text": "<h2>Fantassin</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmWarriorInfantr caption=false cite=true statblock]</p><h2>Vétéran</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmWarriorVeteran caption=false cite=true statblock]</p></div>"
                 },
                 "Vampires": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vampires",
+                    "text": "<h2>Familier de vampire</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmVampireFamilia caption=false cite=true statblock]</p><h2>Vampirien</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmVampireSpawn00 caption=false cite=true statblock]</p><h2>Vampire</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmVampire0000000 caption=false cite=true statblock classes=\"double-column\"]</p></div>"
                 },
                 "Worg": {
-                    "name": "",
-                    "text": ""
+                    "name": "Worg",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWorg0000000000 caption=false cite=true statblock]</p>"
                 },
                 "Wraith": {
-                    "name": "",
-                    "text": ""
+                    "name": "Âme-en-peine",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWraith00000000 caption=false cite=true statblock]</p>"
                 },
                 "Zombies": {
-                    "name": "",
-                    "text": ""
+                    "name": "Zombis",
+                    "text": "<h2>Zombi</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmZombie00000000 caption=false cite=true statblock]</p></div><h2>Ogre zombi</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmOgreZombie0000 caption=false cite=true statblock]</p></div>"
                 },
                 "Aboleth": {
-                    "name": "",
-                    "text": ""
+                    "name": "Aboleth",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmAboleth0000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Air Elemental": {
-                    "name": "",
-                    "text": ""
+                    "name": "Élémentaire de l'air",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmAirElemental00 caption=false cite=true statblock]</p>"
                 },
                 "Animated Objects": {
-                    "name": "",
-                    "text": ""
+                    "name": "Objets animés",
+                    "text": "<h2>Armure animée</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAnimatedArmor0 caption=false cite=true statblock]</p><h2>Épée volante</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAnimatedFlying caption=false cite=true statblock]</p><h2>Tapis étrangleur</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAnimatedRugOfS caption=false cite=true statblock]</p></div>"
                 },
                 "Ankheg": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ankheg",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmAnkheg00000000 caption=false cite=true statblock]</p>"
                 },
                 "Assassin": {
-                    "name": "",
-                    "text": ""
+                    "name": "Assassin",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmAssassin000000 caption=false cite=true statblock]</p>"
                 },
                 "Awakened Plants": {
-                    "name": "",
-                    "text": ""
+                    "name": "Plantes éveillées",
+                    "text": "<h2>Arbre éveillé</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAwakenedTree00 caption=false cite=true statblock]</p></div><h2>Arbuste éveillé</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAwakenedShrub0 caption=false cite=true statblock]</p></div>"
                 },
                 "Axe Beak": {
-                    "name": "",
-                    "text": ""
+                    "name": "Autrache",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmAxeBeak0000000 caption=false cite=true statblock]</p>"
                 },
                 "Azer Sentinel": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sentinelle azer",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmAzerSentinel00 caption=false cite=true statblock]</p>"
                 },
                 "Balor": {
-                    "name": "",
-                    "text": ""
+                    "name": "Balor",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBalor000000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Bandits": {
-                    "name": "",
-                    "text": ""
+                    "name": "Bandits",
+                    "text": "<h2>Bandit</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmBandit00000000 caption=false cite=true statblock]</p></div><h2>Chef de bande</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmBanditCaptain0 caption=false cite=true statblock]</p></div>"
                 },
                 "Barbed Devil": {
-                    "name": "",
-                    "text": ""
+                    "name": "Diable barbelé",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBarbedDevil000 caption=false cite=true statblock]</p>"
                 },
                 "Basilisk": {
-                    "name": "",
-                    "text": ""
+                    "name": "Basilic",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBasilisk000000 caption=false cite=true statblock]</p>"
                 },
                 "Bearded Devil": {
-                    "name": "",
-                    "text": ""
+                    "name": "Diable barbu",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBeardedDevil00 caption=false cite=true statblock]</p>"
                 },
                 "Behir": {
-                    "name": "",
-                    "text": ""
+                    "name": "Béhir",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBehir000000000 caption=false cite=true statblock]</p>"
                 },
                 "Black Pudding": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pouding noir",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBlackPudding00 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Blue Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons bleus",
+                    "text": "<h2>Dragonnet bleu</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmBlueDragonWyrm caption=false cite=true statblock]</p><h2>Jeune dragon bleu</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmYoungBlueDrago caption=false cite=true statblock]</p></div><h2>Dragon bleu adulte</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAdultBlueDrago caption=false cite=true statblock classes=\"double-column\"]</p></div><h2>Dragon bleu vénérable</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAncientBlueDra caption=false cite=true statblock classes=\"double-column\"]</p></div>"
                 },
                 "Bone Devil": {
-                    "name": "",
-                    "text": ""
+                    "name": "Diable osseux",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBoneDevil00000 caption=false cite=true statblock]</p>"
                 },
                 "Brass Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons d'airain",
+                    "text": "<h2>Dragonnet d'airain</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmBrassDragonWyr caption=false cite=true statblock]</p></div><h2>Jeune dragon d'airain</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmYoungBrassDrag caption=false cite=true statblock]</p></div><h2>Dragon d'airain adulte</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAdultBrassDrag caption=false cite=true statblock classes=\"double-column\"]</p></div><h2>Dragon d'airain vénérable</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAncientBrassDr caption=false cite=true statblock classes=\"double-column\"]</p></div>"
                 },
                 "Bronze Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons de bronze",
+                    "text": "<h2>Dragonnet de bronze</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmBronzeDragonWy caption=false cite=true statblock]</p></div><h2>Jeune dragon de bronze</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmYoungBronzeDra caption=false cite=true statblock]</p></div><h2>Dragon de bronze adulte</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAdultBronzeDra caption=false cite=true statblock classes=\"double-column\"]</p></div><h2>Dragon de bronze vénérable</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAncientBronzeD caption=false cite=true statblock classes=\"double-column\"]</p></div>"
                 },
                 "Bulette": {
-                    "name": "",
-                    "text": ""
+                    "name": "Bulette",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmBulette0000000 caption=false cite=true statblock]</p>"
                 },
                 "Centaur": {
-                    "name": "",
-                    "text": ""
+                    "name": "Centaure",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmCentaurTrooper caption=false cite=true statblock]</p>"
                 },
                 "Chain Devil": {
-                    "name": "",
-                    "text": ""
+                    "name": "Diable des chaînes",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmChainDevil0000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Chimera": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chimère",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmChimera0000000 caption=false cite=true statblock]</p>"
                 },
                 "Chuul": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chuul",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmChuul000000000 caption=false cite=true statblock]</p>"
                 },
                 "Clay Golem": {
-                    "name": "",
-                    "text": ""
+                    "name": "Golem d'argile",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmClayGolem00000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Cloaker": {
-                    "name": "",
-                    "text": ""
+                    "name": "Manteleur",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmCloaker0000000 caption=false cite=true statblock]</p>"
                 },
                 "Cloud Giant": {
-                    "name": "",
-                    "text": ""
+                    "name": "Géant des nuages",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmCloudGiant0000 caption=false cite=true statblock]</p>"
                 },
                 "Cockatrice": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cockatrice",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmCockatrice0000 caption=false cite=true statblock]</p>"
                 },
                 "Couatl": {
-                    "name": "",
-                    "text": ""
+                    "name": "Couatl",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmCouatl00000000 caption=false cite=true statblock]</p>"
                 },
                 "Crawling Claws": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sénestres",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSwarmOfCrawlin caption=false cite=true statblock]</p>"
                 },
                 "Death Dog": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chien du trépas",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmDeathDog000000 caption=false cite=true statblock]</p>"
                 },
                 "Deva": {
-                    "name": "",
-                    "text": ""
+                    "name": "Déva",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmDeva0000000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Djinni": {
-                    "name": "",
-                    "text": ""
+                    "name": "Djinn",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmDjinni00000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Dragon Turtle": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragon-tortue",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmDragonTurtle00 caption=false cite=true statblock]</p>"
                 },
                 "Dretch": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dretch",
+                    "text": "<div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmDretch00000000 caption=false cite=true statblock]</p></div>"
                 },
                 "Drider": {
-                    "name": "",
-                    "text": ""
+                    "name": "Drider",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmDrider00000000 caption=false cite=true statblock]</p>"
                 },
                 "Druid": {
-                    "name": "",
-                    "text": ""
+                    "name": "Druide",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmDruid000000000 caption=false cite=true statblock]</p>"
                 },
                 "Dryad": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dryade",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmDryad000000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Earth Elemental": {
-                    "name": "",
-                    "text": ""
+                    "name": "Élémentaire de la terre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmEarthElemental caption=false cite=true statblock]</p>"
                 },
                 "Efreeti": {
-                    "name": "",
-                    "text": ""
+                    "name": "Éfrit",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmEfreeti0000000 caption=false cite=true statblock classes=\"double-column clear-both\"]</p>"
                 },
                 "Erinyes": {
-                    "name": "",
-                    "text": ""
+                    "name": "Érinye",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmErinyes0000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Ettercap": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ettercap",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmEttercap000000 caption=false cite=true statblock]</p>"
                 },
                 "Ettin": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ettin",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmEttin000000000 caption=false cite=true statblock]</p>"
                 },
                 "Fire Giant": {
-                    "name": "",
-                    "text": ""
+                    "name": "Géant du feu",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmFireGiant00000 caption=false cite=true statblock]</p>"
                 },
                 "Flesh Golem": {
-                    "name": "",
-                    "text": ""
+                    "name": "Golem de chair",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmFleshGolem0000 caption=false cite=true statblock]</p>"
                 },
                 "Frost Giant": {
-                    "name": "",
-                    "text": ""
+                    "name": "Géant du givre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmFrostGiant0000 caption=false cite=true statblock]</p>"
                 },
                 "Fungi": {
-                    "name": "",
-                    "text": ""
+                    "name": "Champignons",
+                    "text": "<h2>Criard</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmShriekerFungus caption=false cite=true statblock]</p></div><h2>Thallophyte violette</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmVioletFungus00 caption=false cite=true statblock]</p>"
                 },
                 "Gargoyle": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gargouille",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGargoyle000000 caption=false cite=true statblock]</p>"
                 },
                 "Ghast": {
-                    "name": "",
-                    "text": ""
+                    "name": "Blême",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGhast000000000 caption=false cite=true statblock]</p>"
                 },
                 "Ghost": {
-                    "name": "",
-                    "text": ""
+                    "name": "Fantôme",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGhost000000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Ghoul": {
-                    "name": "",
-                    "text": ""
+                    "name": "Goule",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGhoul000000000 statblock caption=false cite=false classes=\"clear-both\"]</p>"
                 },
                 "Gibbering Mouther": {
-                    "name": "",
-                    "text": ""
+                    "name": "Babélien",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGibberingMouth caption=false cite=true statblock]</p>"
                 },
                 "Glabrezu": {
-                    "name": "",
-                    "text": ""
+                    "name": "Glabrezu",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGlabrezu000000 caption=false cite=true statblock]</p>"
                 },
                 "Gladiator": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gladiateur",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGladiator00000 caption=false cite=true statblock]</p>"
                 },
                 "Gold Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons d'or",
+                    "text": "<h2>Dragonnet d'or</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmGoldDragonWyrm caption=false cite=true statblock]</p></div><h2>Jeune dragon d'or</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmYoungGoldDrago caption=false cite=true statblock]</p></div><h2>Dragon d'or adulte</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAdultGoldDrago caption=false cite=true statblock classes=\"double-column\"]</p></div><h2>Dragon d'or vénérable</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAncientGoldDra caption=false cite=true statblock classes=\"double-column\"]</p></div>"
                 },
                 "Gorgon": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gorgone",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGorgon00000000 caption=false cite=true statblock]</p>"
                 },
                 "Green Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons verts",
+                    "text": "<h2>Dragonnet vert</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmGreenDragonWyr caption=false cite=true statblock]</p></div><h2>Jeune dragon vert</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmYoungGreenDrag caption=false cite=true statblock]</p></div><h2>Dragon vert adulte</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAdultGreenDrag caption=false cite=true statblock classes=\"double-column\"]</p></div><h2>Dragon vert vénérable</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAncientGreenDr caption=false cite=true statblock classes=\"double-column\"]</p></div>"
                 },
                 "Green Hag": {
-                    "name": "",
-                    "text": ""
+                    "name": "Guenaude verte",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGreenHag000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Grick": {
-                    "name": "",
-                    "text": ""
+                    "name": "Grick",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGrick000000000 caption=false cite=true statblock]</p>"
                 },
                 "Griffon": {
-                    "name": "",
-                    "text": ""
+                    "name": "Griffon",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGriffon0000000 caption=false cite=true statblock]</p>"
                 },
                 "Grimlock": {
-                    "name": "",
-                    "text": ""
+                    "name": "Torve",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGrimlock000000 caption=false cite=true statblock]</p>"
                 },
                 "Guardian Naga": {
-                    "name": "",
-                    "text": ""
+                    "name": "Naga gardien",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmGuardianNaga00 caption=false cite=true statblock]</p>"
                 },
                 "Half-Dragon": {
-                    "name": "",
-                    "text": ""
+                    "name": "Demi-dragon",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHalfdragon0000 caption=false cite=true statblock]</p>"
                 },
                 "Harpy": {
-                    "name": "",
-                    "text": ""
+                    "name": "Harpie",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHarpy000000000 caption=false cite=true statblock]</p>"
                 },
                 "Hell Hound": {
-                    "name": "",
-                    "text": ""
+                    "name": "Molosse infernal",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHellHound00000 caption=false cite=true statblock]</p>"
                 },
                 "Hezrou": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hezrou",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHezrou00000000 caption=false cite=true statblock]</p>"
                 },
                 "Hill Giant": {
-                    "name": "",
-                    "text": ""
+                    "name": "Géant des collines",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHillGiant00000 caption=false cite=true statblock]</p>"
                 },
                 "Hippogriff": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hippogriffe",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHippogriff0000 caption=false cite=true statblock]</p>"
                 },
                 "Homunculus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Homoncule",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHomunculus0000 caption=false cite=true statblock]</p>"
                 },
                 "Horned Devil": {
-                    "name": "",
-                    "text": ""
+                    "name": "Diable cornu",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHornedDevil000 caption=false cite=true statblock classes=\"left three\"]</p>"
                 },
                 "Hydra": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hydre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmHydra000000000 caption=false cite=true statblock]</p>"
                 },
                 "Ice Devil": {
-                    "name": "",
-                    "text": ""
+                    "name": "Diable gelé",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmIceDevil000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Invisible Stalker": {
-                    "name": "",
-                    "text": ""
+                    "name": "Traqueur invisible",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmInvisibleStalk caption=false cite=true statblock]</p>"
                 },
                 "Iron Golem": {
-                    "name": "",
-                    "text": ""
+                    "name": "Golem de fer",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmIronGolem00000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Kraken": {
-                    "name": "",
-                    "text": ""
+                    "name": "Kraken",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmKraken00000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Lamia": {
-                    "name": "",
-                    "text": ""
+                    "name": "Lamie",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmLamia000000000 caption=false cite=true statblock]</p>"
                 },
                 "Lemure": {
-                    "name": "",
-                    "text": ""
+                    "name": "Lémure",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmLemure00000000 caption=false cite=true statblock]</p>"
                 },
                 "Lich": {
-                    "name": "",
-                    "text": ""
+                    "name": "Liche",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmLich0000000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Magmin": {
-                    "name": "",
-                    "text": ""
+                    "name": "Magmatique",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmMagmin00000000 caption=false cite=true statblock]</p>"
                 },
                 "Manticore": {
-                    "name": "",
-                    "text": ""
+                    "name": "Manticore",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmManticore00000 caption=false cite=true statblock]</p>"
                 },
                 "Marilith": {
-                    "name": "",
-                    "text": ""
+                    "name": "Marilith",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmMarilith000000 caption=false cite=true statblock]</p>"
                 },
                 "Medusa": {
-                    "name": "",
-                    "text": ""
+                    "name": "Méduse",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmMedusa00000000 caption=false cite=true statblock]</p>"
                 },
                 "Merfolk": {
-                    "name": "",
-                    "text": ""
+                    "name": "Thalasséens",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmMerfolkSkirmis caption=false cite=true statblock]</p>"
                 },
                 "Merrow": {
-                    "name": "",
-                    "text": ""
+                    "name": "Merrow",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmMerrow00000000 caption=false cite=true statblock classes=\"clear-both\"]</p>"
                 },
                 "Mummies": {
-                    "name": "",
-                    "text": ""
+                    "name": "Momies",
+                    "text": "<h2>Momie</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmMummy000000000 caption=false cite=true statblock]</p></div><h2>Momie auguste</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmMummyLord00000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Nalfeshnee": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nalfeshnie",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmNalfeshnee0000 caption=false cite=true statblock classes=\"clear-both\"]</p>"
                 },
                 "Night Hag": {
-                    "name": "",
-                    "text": ""
+                    "name": "Guenaude nocturne",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmNightHag000000 caption=false cite=true statblock classes=\"double-column left\"]</p>"
                 },
                 "Nightmare": {
-                    "name": "",
-                    "text": ""
+                    "name": "Horriflamme",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmNightmare00000 caption=false cite=true statblock]</p>"
                 },
                 "Ochre Jelly": {
-                    "name": "",
-                    "text": ""
+                    "name": "Gelée ocre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmOchreJelly0000 caption=false cite=true statblock]</p>"
                 },
                 "Oni": {
-                    "name": "",
-                    "text": ""
+                    "name": "Oni",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmOni00000000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Otyugh": {
-                    "name": "",
-                    "text": ""
+                    "name": "Otyugh",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmOtyugh00000000 caption=false cite=true statblock]</p>"
                 },
                 "Pegasus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pégase",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmPegasus0000000 caption=false cite=true statblock]</p>"
                 },
                 "Phase Spider": {
-                    "name": "",
-                    "text": ""
+                    "name": "Araignée de phase",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmPhaseSpider000 caption=false cite=true statblock]</p>"
                 },
                 "Pit Fiend": {
-                    "name": "",
-                    "text": ""
+                    "name": "Diantrefosse",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmPitFiend000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Planetar": {
-                    "name": "",
-                    "text": ""
+                    "name": "Planétar",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmPlanetar000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Priests": {
-                    "name": "",
-                    "text": ""
+                    "name": "Prêtres",
+                    "text": "<h2>Acolyte</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmPriestAcolyte0 caption=false cite=true statblock]</p></div><h2>Prêtre</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmPriest00000000 caption=false cite=true statblock]</p></div>"
                 },
                 "Purple Worm": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ver pourpre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmPurpleWorm0000 caption=false cite=true statblock classes=\"clear-both\"]</p>"
                 },
                 "Rakshasa": {
-                    "name": "",
-                    "text": ""
+                    "name": "Rakshasa",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmRakshasa000000 caption=false cite=true statblock]</p>"
                 },
                 "Remorhaz": {
-                    "name": "",
-                    "text": ""
+                    "name": "Remorhaz",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmRemorhaz000000 caption=false cite=true statblock]</p>"
                 },
                 "Roc": {
-                    "name": "",
-                    "text": ""
+                    "name": "Rukh",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmRoc00000000000 caption=false cite=true statblock]</p>"
                 },
                 "Roper": {
-                    "name": "",
-                    "text": ""
+                    "name": "Enlaceur",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmRoper000000000 caption=false cite=true statblock]</p>"
                 },
                 "Rust Monster": {
-                    "name": "",
-                    "text": ""
+                    "name": "Oxydeur",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmRustMonster000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Sahuagin": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sahuagins",
+                    "text": "<h2>Combattant sahuagin</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmSahuaginWarrio caption=false cite=true statblock]</p>"
                 },
                 "Salamanders": {
-                    "name": "",
-                    "text": ""
+                    "name": "Salamandres",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSalamander0000 caption=false cite=true statblock]</p>"
                 },
                 "Satyrs": {
-                    "name": "",
-                    "text": ""
+                    "name": "Satyres",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSatyr000000000 caption=false cite=true statblock]</p>"
                 },
                 "Sea Hag": {
-                    "name": "",
-                    "text": ""
+                    "name": "Guenaude marine",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSeaHag00000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Shambling Mound": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tertre errant",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmShamblingMound caption=false cite=true statblock]</p>"
                 },
                 "Shield Guardian": {
-                    "name": "",
-                    "text": ""
+                    "name": "Garde animé",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmShieldGuardian caption=false cite=true statblock]</p>"
                 },
                 "Solar": {
-                    "name": "",
-                    "text": ""
+                    "name": "Solar",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSolar000000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Specter": {
-                    "name": "",
-                    "text": ""
+                    "name": "Spectre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSpecter0000000 caption=false cite=true statblock]</p>"
                 },
                 "Spirit Naga": {
-                    "name": "",
-                    "text": ""
+                    "name": "Naga corrupteur",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSpiritNaga0000 caption=false cite=true statblock]</p>"
                 },
                 "Spy": {
-                    "name": "",
-                    "text": ""
+                    "name": "Espion",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmSpy00000000000 caption=false cite=true statblock]</p>"
                 },
                 "Stone Giant": {
-                    "name": "",
-                    "text": ""
+                    "name": "Géant des pierres",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmStoneGiant0000 caption=false cite=true statblock]</p>"
                 },
                 "Storm Giant": {
-                    "name": "",
-                    "text": ""
+                    "name": "Géant des tempêtes",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmStormGiant0000 caption=false cite=true statblock classes=\"left three\"]</p>"
                 },
                 "Tarrasque": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tarasque",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmTarrasque00000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Treant": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sylvanien",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmTreant00000000 caption=false cite=true statblock]</p>"
                 },
                 "Troll": {
-                    "name": "",
-                    "text": ""
+                    "name": "Troll",
+                    "text": "<h2>Troll</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmTroll000000000 caption=false cite=true statblock]</p><h2>Abattis de troll</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmTrollLimb00000 caption=false cite=true statblock]</p>"
                 },
                 "Unicorn": {
-                    "name": "",
-                    "text": ""
+                    "name": "Licorne",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmUnicorn0000000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Water Elemental": {
-                    "name": "",
-                    "text": ""
+                    "name": "Élémentaire de l'eau",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWaterElemental caption=false cite=true statblock]</p>"
                 },
                 "Werebear": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ours-garou",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWerebear000000 caption=false cite=true statblock classes=\"left three\"]</p>"
                 },
                 "Wereboar": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sanglier-garou",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWereboar000000 caption=false cite=true statblock]</p>"
                 },
                 "Wererat": {
-                    "name": "",
-                    "text": ""
+                    "name": "Rat-garou",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWererat0000000 caption=false cite=true statblock]</p>"
                 },
                 "Weretiger": {
-                    "name": "",
-                    "text": ""
+                    "name": "Tigre-garou",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWeretiger00000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Werewolf": {
-                    "name": "",
-                    "text": ""
+                    "name": "Loup-garou",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWerewolf000000 caption=false cite=true statblock classes=\"left three\"]</p>"
                 },
                 "White Dragons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dragons blancs",
+                    "text": "<h2>Dragonnet blanc</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmWhiteDragonWyr caption=false cite=true statblock]</p></div><h2>Jeune dragon blanc</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmYoungWhiteDrag caption=false cite=true statblock]</p></div><h2>Dragon blanc adulte</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAdultWhiteDrag caption=false cite=true statblock classes=\"double-column\"]</p></div><h2>Dragon blanc vénérable</h2><div class=\"space-between top wrap\"><p>@Embed[Compendium.dnd5e.actors24.Actor.mmAncientWhiteDr caption=false cite=true statblock classes=\"double-column\"]</p></div>"
                 },
                 "Wight": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nécronte",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWight000000000 caption=false cite=true statblock]</p>"
                 },
                 "Will-o'-Wisp": {
-                    "name": "",
-                    "text": ""
+                    "name": "Feu follet",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWillowisp00000 caption=false cite=true statblock classes=\"double-column\"]</p>"
                 },
                 "Winter Wolf": {
-                    "name": "",
-                    "text": ""
+                    "name": "Loup arctique",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWinterWolf0000 caption=false cite=true statblock]</p>"
                 },
                 "Wyvern": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vouivre",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmWyvern00000000 caption=false cite=true statblock]</p>"
                 },
                 "Xorn": {
-                    "name": "",
-                    "text": ""
+                    "name": "Xorn",
+                    "text": "<p>@Embed[Compendium.dnd5e.actors24.Actor.mmXorn0000000000 caption=false cite=true statblock]</p>"
                 },
                 "Vrock": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vrock",
+                    "text": "<h2>Vrock</h2><p>@Embed[Compendium.dnd5e.actors24.Actor.mmVrock000000000 caption=false cite=true statblock]</p>"
                 }
             }
         },
