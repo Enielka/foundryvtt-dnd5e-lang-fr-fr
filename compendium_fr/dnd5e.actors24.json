@@ -32,7 +32,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Amphibious": {
@@ -147,7 +146,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -295,7 +293,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Legendary Resistance": {
                     "name": "",
@@ -461,7 +458,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Legendary Resistance": {
                     "name": "",
@@ -662,7 +658,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -850,7 +845,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Legendary Resistance": {
                     "name": "",
@@ -1015,7 +1009,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Legendary Resistance": {
                     "name": "",
@@ -1170,7 +1163,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -1289,7 +1281,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Legendary Resistance": {
                     "name": "",
@@ -1390,7 +1381,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Legendary Resistance": {
                     "name": "",
@@ -1555,7 +1545,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Ice Walk": {
                     "name": "",
@@ -1636,7 +1625,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Air Form": {
                     "name": "",
@@ -1682,7 +1670,6 @@
         "Allosaurus": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Bite": {
@@ -1705,7 +1692,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -1876,7 +1862,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Legendary Resistance": {
                     "name": "",
@@ -2035,7 +2020,6 @@
         "Ancient Brass Dragon": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "items": {
                 "Legendary Resistance": {
                     "name": "",
@@ -2239,7 +2223,6 @@
         "Ancient Bronze Dragon": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -2490,7 +2473,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Legendary Resistance": {
                     "name": "",
@@ -2669,7 +2651,6 @@
         "Ancient Gold Dragon": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Amphibious": {
@@ -2843,7 +2824,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Amphibious": {
@@ -2976,7 +2956,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Legendary Resistance": {
@@ -3122,7 +3101,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Multiattack": {
@@ -3323,7 +3301,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Ice Walk": {
@@ -3405,7 +3382,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Slam": {
                     "name": "",
@@ -3426,7 +3402,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Slash": {
                     "name": "",
@@ -3438,7 +3413,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Smother": {
                     "name": "",
@@ -3461,7 +3435,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Tunneler": {
                     "name": "",
@@ -3494,7 +3467,6 @@
         "Ankylosaurus": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -3521,7 +3493,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -3672,7 +3643,6 @@
         "Archelon": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -3697,7 +3667,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "languages": "",
             "items": {
@@ -4017,7 +3986,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Shortsword": {
                     "name": "",
@@ -4064,7 +4032,6 @@
             "name": "Avatar de la Mort",
             "tokenName": "Avatar de la Mort",
             "description": "",
-            "alignment": "Neutre Mauvais",
             "languages": "toutes les langues connues de la créature qui l'a convoqué",
             "items": {
                 "Incorporeal Movement": {
@@ -4102,7 +4069,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Rake": {
@@ -4114,7 +4080,6 @@
         "Awakened Tree": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Slam": {
@@ -4127,7 +4092,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Beak": {
                     "name": "",
@@ -4139,7 +4103,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Fire Aura": {
                     "name": "",
@@ -4164,7 +4127,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pack Tactics": {
                     "name": "",
@@ -4181,7 +4143,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -4193,7 +4154,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Death Throes": {
@@ -4262,7 +4222,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Scimitar": {
                     "name": "",
@@ -4281,7 +4240,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Scimitar": {
                     "name": "",
@@ -4320,7 +4278,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Barbed Hide": {
@@ -4380,7 +4337,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -4415,7 +4371,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -4427,7 +4382,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Magic Resistance": {
@@ -4471,7 +4425,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -4541,7 +4494,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Greataxe": {
                     "name": "",
@@ -4561,7 +4513,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -4582,7 +4533,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Amphibious": {
@@ -4612,7 +4562,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amorphous": {
                     "name": "",
@@ -4663,7 +4612,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Bite": {
@@ -4685,7 +4633,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pack Tactics": {
                     "name": "",
@@ -4707,7 +4654,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Multiattack": {
@@ -4733,7 +4679,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bloodied Fury": {
                     "name": "",
@@ -4766,7 +4711,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Diabolical Restoration": {
@@ -4807,7 +4751,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Fire Breath": {
@@ -4847,7 +4790,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Multiattack": {
@@ -4892,7 +4834,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -4923,7 +4864,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Javelin": {
@@ -4980,7 +4920,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Light Hammer": {
@@ -5020,7 +4959,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -5067,7 +5005,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Component Pouch": {
@@ -5187,7 +5124,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Amphibious": {
@@ -5218,7 +5154,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -5297,7 +5232,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spider Climb": {
                     "name": "",
@@ -5337,7 +5271,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Jumper": {
                     "name": "",
@@ -5353,7 +5286,6 @@
             "name": "Monture céleste",
             "tokenName": "Monture d'outre-monde",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFindSteed0 caption=false]</p>",
-            "alignment": "Neutre",
             "subtype": "Monture d'outre-monde",
             "customType": "Céleste, Fée ou Fiélon (à votre convenance)",
             "languages": "télépathie 1,5 km (fonctionne uniquement avec vous)",
@@ -5377,7 +5309,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pike": {
                     "name": "",
@@ -5421,7 +5352,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Diabolical Restoration": {
@@ -5494,7 +5424,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Multiattack": {
@@ -5539,7 +5468,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -5594,7 +5522,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Acid Absorption": {
@@ -5655,7 +5582,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Light Sensitivity": {
                     "name": "",
@@ -5734,7 +5660,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -5867,7 +5792,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Petrifying Bite": {
                     "name": "",
@@ -5897,7 +5821,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Club": {
                     "name": "",
@@ -6068,7 +5991,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -6098,7 +6020,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Rend": {
@@ -6125,7 +6046,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Shielded Mind": {
                     "name": "",
@@ -6327,7 +6247,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -6343,7 +6262,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Hold Breath": {
                     "name": "",
@@ -6370,7 +6288,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Leather Armor": {
                     "name": ""
@@ -6385,7 +6302,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pact Blade": {
                     "name": "",
@@ -6535,7 +6451,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Crush": {
                     "name": "",
@@ -6561,7 +6476,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -6594,7 +6508,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Agile": {
                     "name": "",
@@ -6616,7 +6529,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Exalted Restoration": {
                     "name": "",
@@ -6723,7 +6635,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pack Tactics": {
                     "name": "",
@@ -6746,7 +6657,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Elemental Restoration": {
@@ -6978,7 +6888,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Multiattack": {
@@ -7052,7 +6961,6 @@
             "name": "Esprit draconique",
             "tokenName": "Esprit draconique",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplSummonDrag caption=false]</p>",
-            "alignment": "Neutre",
             "languages": "comprend les langues que vous connaissez",
             "items": {
                 "Shared Resistances": {
@@ -7121,7 +7029,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Hooves": {
                     "name": "",
@@ -7133,7 +7040,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -7177,7 +7083,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Rend": {
@@ -7200,7 +7105,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spider Climb": {
                     "name": "",
@@ -7275,7 +7179,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Studded Leather Armor": {
@@ -7399,7 +7302,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Magic Resistance": {
                     "name": "",
@@ -7518,7 +7420,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Death Burst": {
                     "name": "",
@@ -7568,7 +7469,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Talons": {
                     "name": "",
@@ -7580,7 +7480,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Earth Glide": {
                     "name": "",
@@ -7619,7 +7518,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Elemental Restoration": {
@@ -7807,7 +7705,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -7849,7 +7746,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Ram": {
                     "name": "",
@@ -7876,7 +7772,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Diabolical Restoration": {
@@ -7933,7 +7828,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spider Climb": {
                     "name": "",
@@ -7996,7 +7890,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Battleaxe": {
                     "name": "",
@@ -8050,7 +7943,6 @@
             "name": "Monture féerique",
             "tokenName": "Monture d'outre-monde",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFindSteed0 caption=false]</p>",
-            "alignment": "Neutre",
             "subtype": "Monture d'outre-monde",
             "customType": "Céleste, Fée ou Fiélon (à votre convenance)",
             "languages": "télépathie 1,5 km (fonctionne uniquement avec vous)",
@@ -8079,7 +7971,6 @@
             "name": "Monture fiélonne",
             "tokenName": "Monture d'outre-monde",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFindSteed0 caption=false]</p>",
-            "alignment": "Neutre",
             "subtype": "Monture d'outre-monde",
             "customType": "Céleste, Fée ou Fiélon (à votre convenance)",
             "languages": "télépathie 1,5 km (fonctionne uniquement avec vous)",
@@ -8108,7 +7999,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Fire Aura": {
                     "name": "",
@@ -8156,7 +8046,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -8217,7 +8106,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Aversion to Fire": {
@@ -8308,7 +8196,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Flyby": {
                     "name": "",
@@ -8325,7 +8212,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -8345,7 +8231,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -8397,7 +8282,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Flyby": {
                     "name": "",
@@ -8423,7 +8307,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Ooze Cube": {
                     "name": "",
@@ -8478,7 +8361,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Stench": {
                     "name": "",
@@ -8510,7 +8392,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Ethereal Sight": {
@@ -8596,7 +8477,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -8632,7 +8512,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -8667,7 +8546,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -8679,7 +8557,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -8691,7 +8568,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bloodied Fury": {
                     "name": "",
@@ -8723,7 +8599,6 @@
             "name": "Mille-pattes géant",
             "tokenName": "Mille-pattes géant",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-            "alignment": "Non alignée",
             "items": {
                 "Spider Climb": {
                     "name": "Pattes d'araignée",
@@ -8769,7 +8644,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -8808,7 +8682,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -8838,7 +8711,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Hold Breath": {
                     "name": "",
@@ -8887,7 +8759,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -8908,7 +8779,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Ram": {
                     "name": "",
@@ -8931,7 +8801,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -8945,14 +8814,12 @@
         },
         "Giant Fly": {
             "name": "Mouche géante",
-            "tokenName": "Mouche géante",
-            "alignment": "Non alignée"
+            "tokenName": "Mouche géante"
         },
         "Giant Frog": {
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -9007,7 +8874,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Ram": {
                     "name": "",
@@ -9034,7 +8900,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -9055,7 +8920,6 @@
             "name": "Insecte géant",
             "tokenName": "Insecte géant",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplGiantInsec caption=false]</p>",
-            "alignment": "Non alignée",
             "languages": "Comprend les langues que vous connaissez",
             "items": {
                 "Spider Climb": {
@@ -9103,7 +8967,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spider Climb": {
                     "name": "",
@@ -9119,7 +8982,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Water Breathing": {
                     "name": "",
@@ -9155,7 +9017,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Flyby": {
                     "name": "",
@@ -9220,7 +9081,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pack Tactics": {
                     "name": "",
@@ -9237,7 +9097,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -9273,7 +9132,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Ram": {
                     "name": "",
@@ -9309,7 +9167,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Water Breathing": {
                     "name": "",
@@ -9339,7 +9196,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spider Climb": {
                     "name": "",
@@ -9374,7 +9230,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -9425,7 +9280,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -9437,7 +9291,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pack Tactics": {
                     "name": "",
@@ -9460,7 +9313,6 @@
             "name": "Guêpe géante",
             "tokenName": "Guêpe géante",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-            "alignment": "Non alignée",
             "items": {
                 "Spider Climb": {
                     "name": "Pattes d'araignée",
@@ -9494,7 +9346,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -9506,7 +9357,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spider Climb": {
                     "name": "",
@@ -9522,7 +9372,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Aberrant Ground": {
                     "name": "",
@@ -9569,7 +9418,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Demonic Restoration": {
@@ -9710,7 +9558,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spear": {
                     "name": "",
@@ -9764,7 +9611,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Rend": {
                     "name": "",
@@ -9780,7 +9626,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Ram": {
                     "name": "",
@@ -9799,7 +9644,6 @@
         "Goat of Traveling": {
             "name": "Chèvre voyageuse",
             "tokenName": "Chèvre voyageuse",
-            "alignment": "Non alignée",
             "items": {
                 "Hooves": {
                     "name": "Sabots",
@@ -9811,7 +9655,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Scimitar": {
@@ -9879,7 +9722,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Dagger": {
@@ -9906,7 +9748,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Scimitar": {
@@ -9954,7 +9795,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Amphibious": {
@@ -9999,7 +9839,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Gore": {
                     "name": "",
@@ -10062,7 +9901,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amorphous": {
                     "name": "",
@@ -10094,7 +9932,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Amphibious": {
@@ -10129,7 +9966,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -10356,7 +10192,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -10392,7 +10227,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -10424,7 +10258,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bone Cudgel": {
                     "name": "",
@@ -10436,7 +10269,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spear": {
                     "name": "",
@@ -10455,7 +10287,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Javelin": {
                     "name": "",
@@ -10487,7 +10318,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Celestial Restoration": {
                     "name": "",
@@ -10622,7 +10452,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Draconic Origin": {
                     "name": "",
@@ -10683,7 +10512,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Claw": {
                     "name": "",
@@ -10711,7 +10539,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Talons": {
                     "name": "",
@@ -10723,7 +10550,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Pack Tactics": {
@@ -10754,7 +10580,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Demonic Restoration": {
@@ -10805,7 +10630,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -10842,7 +10666,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Flyby": {
                     "name": "",
@@ -10867,7 +10690,6 @@
         "Hippopotamus": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "items": {
                 "Hold Breath": {
                     "name": "",
@@ -10892,7 +10714,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Greatsword": {
@@ -10932,7 +10753,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Longsword": {
@@ -10961,7 +10781,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Telepathic Bond": {
@@ -10988,7 +10807,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Diabolical Restoration": {
@@ -11038,7 +10856,6 @@
             "name": "Objet animé TG",
             "tokenName": "Objet animé",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
-            "alignment": "Non aligné",
             "languages": "Comprend les langues que vous parlez",
             "items": {
                 "Slam": {
@@ -11051,7 +10868,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Water Breathing": {
                     "name": "",
@@ -11072,7 +10888,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Hold Breath": {
                     "name": "",
@@ -11105,7 +10920,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pack Tactics": {
                     "name": "",
@@ -11122,7 +10936,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Diabolical Restoration": {
@@ -11190,7 +11003,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Death Burst": {
                     "name": "",
@@ -11249,7 +11061,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Magic Resistance": {
@@ -11304,7 +11115,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Succubus Form": {
                     "name": "",
@@ -11440,7 +11250,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Air Form": {
                     "name": "",
@@ -11493,7 +11302,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Fire Absorption": {
@@ -11540,7 +11348,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -11557,7 +11364,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Hold Breath": {
                     "name": "",
@@ -11573,7 +11379,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Greatsword": {
@@ -11613,7 +11418,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Dagger": {
                     "name": "",
@@ -11634,7 +11438,6 @@
         "Kraken": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "subtype": "",
             "languages": "",
             "items": {
@@ -11776,7 +11579,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -11929,7 +11731,6 @@
             "name": "Objet animé G",
             "tokenName": "Objet animé",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
-            "alignment": "Non aligné",
             "languages": "Comprend les langues que vous parlez",
             "items": {
                 "Slam": {
@@ -11942,7 +11743,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "languages": "",
             "items": {
@@ -11966,7 +11766,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Component Pouch": {
@@ -12347,7 +12146,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pack Tactics": {
                     "name": "",
@@ -12400,7 +12198,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spider Climb": {
                     "name": "",
@@ -12421,7 +12218,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "languages": "",
             "items": {
@@ -12631,7 +12427,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Death Burst": {
                     "name": "",
@@ -12657,7 +12452,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Death Burst": {
                     "name": "",
@@ -12688,7 +12482,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -12729,7 +12522,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -12754,7 +12546,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Magic Resistance": {
@@ -12827,7 +12618,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -12845,7 +12635,6 @@
             "name": "Objet animé M",
             "tokenName": "Objet animé",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
-            "alignment": "Non aligné",
             "languages": "Comprend les langues que vous parlez",
             "items": {
                 "Slam": {
@@ -12858,7 +12647,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Multiattack": {
@@ -12911,7 +12699,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -12933,7 +12720,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -12977,7 +12763,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Adhesive (Object Form Only)": {
                     "name": "",
@@ -13039,7 +12824,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Gore": {
@@ -13071,7 +12855,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Abyssal Glaive": {
                     "name": "",
@@ -13103,7 +12886,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Hooves": {
                     "name": "",
@@ -13124,7 +12906,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Multiattack": {
@@ -13173,7 +12954,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "languages": "",
             "items": {
@@ -13370,7 +13150,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Demonic Restoration": {
@@ -13435,7 +13214,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Coven Magic": {
                     "name": "",
@@ -13690,7 +13468,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Confer Fire Resistance": {
@@ -13726,7 +13503,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Rapier": {
@@ -13753,7 +13529,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Claw": {
                     "name": "",
@@ -13792,7 +13567,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amorphous": {
                     "name": "",
@@ -13822,7 +13596,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Compression": {
                     "name": "",
@@ -13875,7 +13648,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Greatclub": {
                     "name": "",
@@ -13891,7 +13663,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Undead Fortitude": {
@@ -13908,7 +13679,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Regeneration": {
                     "name": "",
@@ -14031,7 +13801,6 @@
             "name": "Monture d'outre-monde",
             "tokenName": "Monture d'outre-monde",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFindSteed0 caption=false]</p>",
-            "alignment": "Neutre",
             "customType": "Céleste, Fée ou Fiélon (à votre convenance)",
             "languages": "télépathie 1,5 km (fonctionne uniquement avec vous)",
             "items": {
@@ -14075,7 +13844,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -14139,7 +13907,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Flyby": {
                     "name": "",
@@ -14156,7 +13923,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -14177,7 +13943,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Rend": {
                     "name": "",
@@ -14203,7 +13968,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Hooves": {
                     "name": "",
@@ -14215,7 +13979,6 @@
             "name": "Monture fantôme",
             "tokenName": "Cheval de selle",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplPhantomSte caption=false]</p>",
-            "alignment": "Non alignée",
             "items": {
                 "Hooves": {
                     "name": "Sabots",
@@ -14227,7 +13990,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Ethereal Sight": {
                     "name": "",
@@ -14275,7 +14037,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Water Breathing": {
                     "name": "",
@@ -14296,7 +14057,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Dagger": {
@@ -14336,7 +14096,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Rapier": {
@@ -14393,7 +14152,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Diabolical Restoration": {
@@ -14514,7 +14272,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Divine Awareness": {
                     "name": "",
@@ -14749,7 +14506,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Hold Breath": {
                     "name": "",
@@ -14765,7 +14521,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -14786,7 +14541,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Hooves": {
                     "name": "",
@@ -14798,7 +14552,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "languages": "",
             "items": {
@@ -14912,7 +14665,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Mace": {
@@ -15011,7 +14763,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Magic Resistance": {
@@ -15050,7 +14801,6 @@
         "Pteranodon": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "items": {
                 "Flyby": {
                     "name": "",
@@ -15066,7 +14816,6 @@
         "Purple Worm": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -15136,7 +14885,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Magic Resistance": {
@@ -15207,7 +14955,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Greater Magic Resistance": {
                     "name": "",
@@ -15395,7 +15142,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Agile": {
                     "name": "",
@@ -15411,7 +15157,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Mimicry": {
                     "name": "",
@@ -15427,7 +15172,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Multiattack": {
@@ -15453,7 +15197,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pack Tactics": {
                     "name": "",
@@ -15474,7 +15217,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Heat Aura": {
                     "name": "",
@@ -15531,7 +15273,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Gore": {
                     "name": "",
@@ -15558,7 +15299,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Hooves": {
                     "name": "",
@@ -15570,7 +15310,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -15619,7 +15358,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spider Climb": {
                     "name": "",
@@ -15668,7 +15406,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Iron Scent": {
                     "name": "",
@@ -15734,7 +15471,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Running Leap": {
                     "name": "",
@@ -15773,7 +15509,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Blood Frenzy": {
@@ -15822,7 +15557,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Fire Aura": {
                     "name": "",
@@ -15865,7 +15599,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Magic Resistance": {
                     "name": "",
@@ -15890,7 +15623,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Sting": {
                     "name": "",
@@ -15902,7 +15634,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Shortsword": {
@@ -15931,7 +15662,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -16106,7 +15836,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Water Breathing": {
                     "name": "",
@@ -16134,7 +15863,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amorphous": {
                     "name": "",
@@ -16200,7 +15928,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Lightning Absorption": {
                     "name": "",
@@ -16249,7 +15976,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bound": {
                     "name": "",
@@ -16303,7 +16029,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Shriek": {
                     "name": "",
@@ -16320,7 +16045,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Multiattack": {
@@ -16365,7 +16089,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Shortsword": {
@@ -16382,7 +16105,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Magic Resistance": {
                     "name": "",
@@ -16398,7 +16120,6 @@
             "name": "Objet animé P",
             "tokenName": "Objet animé",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
-            "alignment": "Non aligné",
             "languages": "Comprend les langues que vous parlez",
             "items": {
                 "Slam": {
@@ -16411,7 +16132,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Divine Awareness": {
                     "name": "",
@@ -16634,7 +16354,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Incorporeal Movement": {
@@ -16656,7 +16375,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Inscrutable": {
                     "name": "",
@@ -16889,7 +16607,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Inscrutable": {
                     "name": "",
@@ -17090,7 +16807,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Magic Resistance": {
                     "name": "",
@@ -17110,7 +16826,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spider Climb": {
                     "name": "",
@@ -17130,7 +16845,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Fiendish Restoration": {
                     "name": "",
@@ -17294,7 +17008,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Needle Sword": {
                     "name": "",
@@ -17343,7 +17056,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Shortsword": {
@@ -17369,7 +17081,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Blurred Form": {
                     "name": "",
@@ -17410,7 +17121,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Proboscis": {
                     "name": "",
@@ -17427,7 +17137,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -17471,7 +17180,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Immutable Form": {
@@ -17523,7 +17231,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Amphibious": {
                     "name": "",
@@ -17624,7 +17331,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Incubus Form": {
                     "name": "",
@@ -17696,7 +17402,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Swarm": {
                     "name": "",
@@ -17717,7 +17422,6 @@
         "Swarm of Crawling Claws": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "items": {
                 "Swarm": {
                     "name": "",
@@ -17745,7 +17449,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spider Climb": {
                     "name": "",
@@ -17771,7 +17474,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Swarm": {
                     "name": "",
@@ -17800,7 +17502,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Swarm": {
                     "name": "",
@@ -17822,7 +17523,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Swarm": {
                     "name": "",
@@ -17857,7 +17557,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Swarm": {
                     "name": "",
@@ -17879,7 +17578,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Legendary Resistance": {
@@ -18021,7 +17719,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Rend": {
                     "name": "",
@@ -18053,7 +17750,6 @@
             "name": "Objet animé TP",
             "tokenName": "Objet animé",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
-            "alignment": "Non aligné",
             "languages": "Comprend les langues que vous parlez",
             "items": {
                 "Slam": {
@@ -18066,7 +17762,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Mace": {
                     "name": "",
@@ -18090,7 +17785,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Warhammer": {
@@ -18124,7 +17818,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Siege Monster": {
                     "name": "",
@@ -18168,7 +17861,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -18204,7 +17896,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Loathsome Limbs": {
                     "name": "",
@@ -18284,7 +17975,6 @@
         "Troll Limb": {
             "name": "",
             "tokenName": "",
-            "alignment": "",
             "items": {
                 "Regeneration": {
                     "name": "",
@@ -18315,7 +18005,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -18357,7 +18046,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Legendary Resistance": {
                     "name": "",
@@ -18574,7 +18262,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Legendary Resistance": {
@@ -18723,7 +18410,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Vampiric Connection": {
@@ -18764,7 +18450,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Spider Climb": {
@@ -18837,7 +18522,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -18849,7 +18533,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -18870,7 +18553,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Demonic Restoration": {
@@ -18930,7 +18612,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pack Tactics": {
                     "name": "",
@@ -18947,7 +18628,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Hooves": {
                     "name": "",
@@ -18970,7 +18650,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Hooves": {
                     "name": "",
@@ -18993,7 +18672,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Spear": {
                     "name": "",
@@ -19010,7 +18688,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Greatsword": {
@@ -19055,7 +18732,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Freeze": {
                     "name": "",
@@ -19118,7 +18794,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Bite": {
                     "name": "",
@@ -19130,7 +18805,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "languages": "",
             "items": {
@@ -19199,7 +18873,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "languages": "",
             "items": {
@@ -19274,7 +18947,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "languages": "",
             "items": {
@@ -19325,7 +18997,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "languages": "",
             "items": {
@@ -19385,7 +19056,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "languages": "",
             "items": {
@@ -19446,7 +19116,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Ice Walk": {
@@ -19476,7 +19145,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Studded Leather Armor": {
@@ -19519,7 +19187,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Ephemeral": {
@@ -19578,7 +19245,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pack Tactics": {
                     "name": "",
@@ -19605,7 +19271,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Pack Tactics": {
                     "name": "",
@@ -19628,7 +19293,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Bite": {
@@ -19641,7 +19305,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Incorporeal Movement": {
@@ -19677,7 +19340,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Multiattack": {
                     "name": "",
@@ -19708,7 +19370,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "items": {
                 "Earth Glide": {
                     "name": "",
@@ -19750,7 +19411,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Amphibious": {
@@ -19780,7 +19440,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Multiattack": {
@@ -19806,7 +19465,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Multiattack": {
@@ -19855,7 +19513,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Amphibious": {
@@ -19900,7 +19557,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Multiattack": {
@@ -19936,7 +19592,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Multiattack": {
@@ -19981,7 +19636,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Amphibious": {
@@ -20016,7 +19670,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Multiattack": {
@@ -20042,7 +19695,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Multiattack": {
@@ -20087,7 +19739,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "subtype": "",
             "items": {
                 "Ice Walk": {
@@ -20117,7 +19768,6 @@
             "name": "",
             "tokenName": "",
             "description": "",
-            "alignment": "",
             "languages": "",
             "items": {
                 "Undead Fortitude": {
