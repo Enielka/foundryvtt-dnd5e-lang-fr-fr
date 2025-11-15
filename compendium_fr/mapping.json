@@ -1,92 +1,96 @@
 {
-    "Actor": {
-        "alignment": "system.details.alignment",
-        "subtype": "system.details.type.subtype",
-        "languages": "system.traits.languages.custom",
-        "specialSenses": "system.attributes.senses.special",
-        "dr": "system.traits.dr.custom",
-        "dv": "system.traits.dv.custom",
-        "ci": "system.traits.ci.custom",
-        "armorProf": "system.traits.armorProf.custom",
-        "tokenName": "prototypeToken.name",
-        "habitat": "system.details.habitat.custom",
-        "senses": {
-            "path": "system.attributes.senses",
-            "converter": "senses"
-        },
-        "movement": {
-            "path": "system.attributes.movement",
-            "converter": "movement"
-        },
-        "token": {
-            "path": "prototypeToken.sight.range",
-            "converter": "sightRange"
-        },
-        "items": {
-            "converter": "items",
-            "path": "items"
-        },
-        "effects": {
-            "path": "effects",
-            "converter": "effects"
-        },
-        "communication": {
-            "path": "system.traits.languages.communication",
-            "converter": "communication"
-        }
+  "Actor": {
+    "tokenName": "prototypeToken.name",
+    "subtype": "system.details.type.subtype",
+    "customType": "system.details.type.custom",
+    "dimensions": "system.traits.dimensions",
+    "languages": "system.traits.languages.custom",
+    "dv": "system.traits.dv.custom",
+    "alignment": {
+      "path": "system.details.alignment",
+      "converter": "alignment"
     },
-    "Item": {
-        "subtype": "system.type.subtype",
-        "requirements": "system.requirements",
-        "materials": "system.materials.value",
-        "chat": "system.description.chat",
-        "movement": {
-            "path": "system.movement",
-            "converter": "movement"
-        },
-        "senses": {
-            "path": "system.senses",
-            "converter": "senses"
-        },
-        "advancement": {
-            "path": "system.advancement",
-            "converter": "advancement"
-        },
-        "distanceAdvancement": {
-            "path": "system.advancement",
-            "converter": "distanceAdvancement"
-        },
-        "rangeActivities": {
-            "path": "system.activities",
-            "converter": "rangeActivities"
-        },
-        "effects": {
-            "path": "effects",
-            "converter": "effects"
-        },
-        "activities": {
-            "path": "system.activities",
-            "converter": "activities"
-        },
-        "weight": {
-            "path": "system.weight",
-            "converter": "weight"
-        },
-        "range": {
-            "path": "system.range",
-            "converter": "range"
-        },
-        "target": {
-            "path": "system.target",
-            "converter": "target"
-        },
-        "volume": {
-            "path": "system.capacity.volume",
-            "converter": "volume"
-        },
-        "capacityWeight": {
-            "path": "system.capacity.weight",
-            "converter": "weight"
-        }
+    "movement": {
+      "path": "system.attributes.movement",
+      "converter": "movement"
+    },
+    "items": {
+      "path": "items",
+      "converter": "items"
+    },
+    "effects": {
+      "path": "effects",
+      "converter": "effects"
+    },
+    "senses": {
+      "path": "system.attributes.senses",
+      "converter": "senses"
+    },
+    "planarSubtype": {
+      "path": "system.details.habitat.value",
+      "converter": "planarSubtype"
+    },
+    "tokenLight": {
+      "path": "prototypeToken.light",
+      "converter": "tokenLight"
+    },
+    "communication": {
+      "path": "system.traits.languages.communication",
+      "converter": "communication"
+    },
+    "token": {
+      "path": "prototypeToken.sight.range",
+      "converter": "sightRange"
     }
+  },
+  "Item": {
+    "requirements": "system.requirements",
+    "subtype": "system.type.subtype",
+    "materials": "system.materials.value",
+    "specialTarget": "system.target.affects.special",
+    "condition": "system.activation.condition",
+    "specialRange": "system.range.special",
+    "uname": "system.unidentified.name",
+    "udescription": "system.unidentified.description",
+    "chat": "system.description.chat",
+    "activities": {
+      "path": "system.activities",
+      "converter": "activities"
+    },
+    "effects": {
+      "path": "effects",
+      "converter": "effects"
+    },
+    "rangeActivities": {
+      "path": "system.activities",
+      "converter": "rangeActivities"
+    },
+    "advancement": {
+      "path": "system.advancement",
+      "converter": "advancement"
+    },
+    "distanceAdvancement": {
+      "path": "system.advancement",
+      "converter": "distanceAdvancement"
+    },
+    "target": {
+      "path": "system.target",
+      "converter": "target"
+    },
+    "range": {
+      "path": "system.range",
+      "converter": "range"
+    },
+    "weight": {
+      "path": "system.weight",
+      "converter": "weight"
+    },
+    "capacityWeight": {
+      "path": "system.capacity.weight",
+      "converter": "weight"
+    }
+  },
+  "JournalEntry": {
+    "flagsTitle": "flags.dnd5e.title"
+  }
 }

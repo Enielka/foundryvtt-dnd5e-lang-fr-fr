@@ -32,7 +32,6 @@
       "name": "Aboleth",
       "tokenName": "Aboleth",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "languages": "telepathy 120 ft.",
       "items": {
         "Amphibious": {
@@ -147,7 +146,6 @@
       "name": "Adult Black Dragon",
       "tokenName": "Adult Black Dragon",
       "description": "<h1>Black Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.EZn4p80bsBA4HbN8 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -295,7 +293,6 @@
       "name": "Adult Blue Dragon",
       "tokenName": "Adult Blue Dragon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "items": {
         "Legendary Resistance": {
           "name": "Legendary Resistance",
@@ -461,7 +458,6 @@
       "name": "Adult Brass Dragon",
       "tokenName": "Adult Brass Dragon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Good",
       "items": {
         "Legendary Resistance": {
           "name": "Legendary Resistance",
@@ -662,7 +658,6 @@
       "name": "Adult Bronze Dragon",
       "tokenName": "Adult Bronze Dragon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -850,7 +845,6 @@
       "name": "Adult Copper Dragon",
       "tokenName": "Adult Copper Dragon",
       "description": "<h1>Copper Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.1gZk82d5dqtIeB4K caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Good",
       "items": {
         "Legendary Resistance": {
           "name": "Legendary Resistance",
@@ -1015,7 +1009,6 @@
       "name": "Adult Gold Dragon",
       "tokenName": "Adult Gold Dragon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
       "items": {
         "Legendary Resistance": {
           "name": "Legendary Resistance",
@@ -1170,7 +1163,6 @@
       "name": "Adult Green Dragon",
       "tokenName": "Adult Green Dragon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -1289,7 +1281,6 @@
       "name": "Adult Red Dragon",
       "tokenName": "Adult Red Dragon",
       "description": "<h1>Red Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Rx08X1mW6m5uYldI caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Legendary Resistance": {
           "name": "Legendary Resistance",
@@ -1320,7 +1311,8 @@
         },
         "Commanding Presence": {
           "name": "Commanding Presence",
-          "description": "<p class=\"feature\">The [[lookup @name lowercase]] uses [[/item Spellcasting]] to cast <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCommand000]{Command}</em> (level 2 version). The [[lookup @name lowercase]] can't take this action again until the start of its next turn.</p>"
+          "description": "<p class=\"feature\">The [[lookup @name lowercase]] uses [[/item Spellcasting]] to cast <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCommand000]{Command}</em> (level 2 version). The [[lookup @name lowercase]] can't take this action again until the start of its next turn.</p>",
+          "chat": "<p class=\"feature\">The [[lookup @name lowercase]] uses Spellcasting to cast <em>Command</em> (level 2 version). The [[lookup @name lowercase]] can’t take this action again until the start of its next turn.</p>"
         },
         "Command": {
           "name": "Command",
@@ -1390,7 +1382,6 @@
       "name": "Adult Silver Dragon",
       "tokenName": "Adult Silver Dragon",
       "description": "<h1>Silver Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.REGxFxNrTLFswtA1 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
       "items": {
         "Legendary Resistance": {
           "name": "Legendary Resistance",
@@ -1555,7 +1546,6 @@
       "name": "Adult White Dragon",
       "tokenName": "Adult White Dragon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Ice Walk": {
           "name": "Ice Walk",
@@ -1636,7 +1626,7 @@
       "name": "Air Elemental",
       "tokenName": "Air Elemental",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
+      "planarSubtype": "elementalplane of air",
       "items": {
         "Air Form": {
           "name": "Air Form",
@@ -1682,7 +1672,6 @@
     "Allosaurus": {
       "name": "Allosaurus",
       "tokenName": "Allosaurus",
-      "alignment": "Unaligned",
       "subtype": "Dinosaur",
       "items": {
         "Bite": {
@@ -1706,7 +1695,6 @@
       "name": "Ancient Black Dragon",
       "tokenName": "Ancient Black Dragon",
       "description": "<h1>Black Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.EZn4p80bsBA4HbN8 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -1877,7 +1865,6 @@
       "name": "Ancient Blue Dragon",
       "tokenName": "Ancient Blue Dragon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "items": {
         "Legendary Resistance": {
           "name": "Legendary Resistance",
@@ -2036,7 +2023,6 @@
     "Ancient Brass Dragon": {
       "name": "Ancient Brass Dragon",
       "tokenName": "Ancient Brass Dragon",
-      "alignment": "Chaotic Good",
       "items": {
         "Legendary Resistance": {
           "name": "Legendary Resistance",
@@ -2240,7 +2226,6 @@
     "Ancient Bronze Dragon": {
       "name": "Ancient Bronze Dragon",
       "tokenName": "Ancient Bronze Dragon",
-      "alignment": "Lawful Good",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -2491,7 +2476,6 @@
       "name": "Ancient Copper Dragon",
       "tokenName": "Ancient Copper Dragon",
       "description": "<h1>Copper Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.1gZk82d5dqtIeB4K caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Chaotic Good",
       "items": {
         "Legendary Resistance": {
           "name": "Legendary Resistance",
@@ -2670,7 +2654,6 @@
     "Ancient Gold Dragon": {
       "name": "Ancient Gold Dragon",
       "tokenName": "Ancient Gold Dragon",
-      "alignment": "Lawful Good",
       "subtype": "Metallic",
       "items": {
         "Amphibious": {
@@ -2844,7 +2827,6 @@
       "name": "Ancient Green Dragon",
       "tokenName": "Ancient Green Dragon",
       "description": "<h1>Green Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.HxHIj9RZWeGNXKxV caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Ancient Green Dragon</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.f6FP49T1ELv3aASd caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Green Dragon Lairs</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.kjE0Ff31hZsDdeye caption=false cite=false]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Chromatic",
       "items": {
         "Amphibious": {
@@ -2977,7 +2959,6 @@
       "name": "Ancient Red Dragon",
       "tokenName": "Ancient Red Dragon",
       "description": "<h1>Red Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Rx08X1mW6m5uYldI caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Chromatic",
       "items": {
         "Legendary Resistance": {
@@ -3013,7 +2994,8 @@
         },
         "Commanding Presence": {
           "name": "Commanding Presence",
-          "description": "<p class=\"feature\">The [[lookup @name lowercase]] uses [[/item Spellcasting]] to cast <em>[[/item .mmSpellcasting00.Activity.yT3FKrXFGNmp9LYe]]</em> (level 2 version). The [[lookup @name lowercase]] can't take this action again until the start of its next turn.</p>"
+          "description": "<p class=\"feature\">The [[lookup @name lowercase]] uses [[/item Spellcasting]] to cast <em>[[/item .mmSpellcasting00.Activity.yT3FKrXFGNmp9LYe]]</em> (level 2 version). The [[lookup @name lowercase]] can't take this action again until the start of its next turn.</p>",
+          "chat": "<p class=\"feature\">The [[lookup @name lowercase]] uses Spellcasting to cast <em>Command</em> (level 2 version). The [[lookup @name lowercase]] can’t take this action again until the start of its next turn.</p>"
         },
         "Command": {
           "name": "Command",
@@ -3123,7 +3105,6 @@
       "name": "Ancient Silver Dragon",
       "tokenName": "Ancient Silver Dragon",
       "description": "<h1>Silver Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.REGxFxNrTLFswtA1 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Lawful Good",
       "subtype": "Metallic",
       "items": {
         "Multiattack": {
@@ -3324,7 +3305,6 @@
       "name": "Ancient White Dragon",
       "tokenName": "Ancient White Dragon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Chromatic",
       "items": {
         "Ice Walk": {
@@ -3406,7 +3386,6 @@
       "name": "Animated Armor",
       "tokenName": "Animated Armor",
       "description": "<h1>Animated Objects</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.YKvIouWZhOP2prWL caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Slam": {
           "name": "Slam",
@@ -3427,7 +3406,6 @@
       "name": "Animated Flying Sword",
       "tokenName": "Animated Flying Sword",
       "description": "<h1>Animated Objects</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.YKvIouWZhOP2prWL caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Animated Flying Sword</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.hOHBUNv71AbHmuOU caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Slash": {
           "name": "Slash",
@@ -3439,7 +3417,6 @@
       "name": "Animated Rug of Smothering",
       "tokenName": "Animated Rug of Smothering",
       "description": "<h1>Animated Objects</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.YKvIouWZhOP2prWL caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Smother": {
           "name": "Smother",
@@ -3462,7 +3439,6 @@
       "name": "Ankheg",
       "tokenName": "Ankheg",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Tunneler": {
           "name": "Tunneler",
@@ -3496,7 +3472,6 @@
     "Ankylosaurus": {
       "name": "Ankylosaurus",
       "tokenName": "Ankylosaurus",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -3523,7 +3498,6 @@
       "name": "Ape",
       "tokenName": "Ape",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -3548,6 +3522,7 @@
       "name": "Apparatus of the Crab",
       "tokenName": "Apparatus of the Crab",
       "description": "<p>To be used as a vehicle, the @UUID[Compendium.dnd5e.equipment24.Item.dmgApparatusOfKw]{apparatus} requires one pilot. While the apparatus’s hatch is closed, the compartment is airtight and watertight. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.</p><p>The apparatus floats on water. It can also go underwater to a depth of 900 feet. Below that, the vehicle takes 2d6 Bludgeoning damage each minute from pressure.</p><p>A creature in the compartment can take a Utilize action to move as many as two of the apparatus’s levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Crab <span class=\"no-break\">Levers</span> table.</p><table><caption>Apparatus of the Crab Levers</caption><thead><tr><td>Lever</td><td>Up</td><td>Down</td></tr></thead><tbody><tr><td>1</td><td>Legs extend, allowing the apparatus to walk and swim.</td><td>Legs retract, reducing the apparatus’s Speed and Swim Speed to 0 and making it unable to benefit from bonuses to speed.</td></tr><tr><td>2</td><td>Forward window shutter opens.</td><td>Forward window shutter closes.</td></tr><tr><td>3</td><td>Side window shutters open (two per side).</td><td>Side window shutters close (two per side).</td></tr><tr><td>4</td><td>Two claws extend from the front side of the apparatus.</td><td>The claws retract.</td></tr><tr><td>5</td><td>Each extended claw makes the following [[/item fmdWz6RQsUCHneZF]]{melee attack}: +8 to hit, reach 5 ft. <em>Hit:</em> 7 (2d6) Bludgeoning damage.</td><td>Each extended claw makes the following [[/item tgIjCBtGCZvMu8ij]]{melee attack}: +8 to hit, reach 5 ft. <em>Hit:</em> The target has the Grappled condition (escape DC 15).</td></tr><tr><td>6</td><td>The apparatus walks or swims forward provided its legs are extended.</td><td>The apparatus walks or swims backward provided its legs are extended.</td></tr><tr><td>7</td><td>The apparatus turns 90 degrees counterclockwise provided its legs are extended.</td><td>The apparatus turns 90 degrees clockwise provided its legs are extended.</td></tr><tr><td>8</td><td>Eyelike fixtures emit Bright Light in a 30-foot radius and Dim Light for an additional 30 feet.</td><td>The light turns off.</td></tr><tr><td>9</td><td>The apparatus sinks up to 20 feet if it’s in liquid.</td><td>The apparatus rises up to 20 feet if it’s in liquid.</td></tr><tr><td>10</td><td>The rear hatch unseals and opens.</td><td>The rear hatch closes and seals.</td></tr></tbody></table>",
+      "dimensions": "10 x 5 x 5 feet",
       "items": {
         "Claw Attack": {
           "name": "Claw Attack",
@@ -3674,7 +3649,6 @@
     "Archelon": {
       "name": "Archelon",
       "tokenName": "Archelon",
-      "alignment": "Unaligned",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -3700,7 +3674,6 @@
       "name": "Archmage",
       "tokenName": "Archmage",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbafcWand000000]{Wand}</p></div><h1>Mages</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.BRPgUa1VGeHBz5BR caption=false cite=false classes=\"no-embed mm\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "subtype": "Wizard",
       "languages": "Common plus five other languages",
       "items": {
@@ -4020,7 +3993,6 @@
       "name": "Assassin",
       "tokenName": "Assassin",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepLightCross]{Light Crossbow}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{Shortsword}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{Studded Leather Armor}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Shortsword": {
           "name": "Shortsword",
@@ -4067,7 +4039,6 @@
       "name": "Avatar of Death",
       "tokenName": "Avatar of Death",
       "description": "<p>@Embed[Compendium.dnd5e.equipment24.Item.dmgDmtSkull00000]{Skull (Deck of Many Things)}</p>",
-      "alignment": "Neutral Evil",
       "languages": "All languages known to its summoner",
       "items": {
         "Incorporeal Movement": {
@@ -4105,7 +4076,6 @@
       "name": "Awakened Shrub",
       "tokenName": "Awakened Shrub",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "languages": "plus one other language;",
       "items": {
         "Rake": {
@@ -4117,7 +4087,6 @@
     "Awakened Tree": {
       "name": "Awakened Tree",
       "tokenName": "Awakened Tree",
-      "alignment": "Neutral",
       "languages": "plus one other language;",
       "items": {
         "Slam": {
@@ -4130,7 +4099,6 @@
       "name": "Axe Beak",
       "tokenName": "Axe Beak",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Beak": {
           "name": "Beak",
@@ -4142,7 +4110,7 @@
       "name": "Azer Sentinel",
       "tokenName": "Azer Sentinel",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Neutral",
+      "planarSubtype": "elemental plane of fire",
       "items": {
         "Fire Aura": {
           "name": "Fire Aura",
@@ -4167,7 +4135,6 @@
       "name": "Baboon",
       "tokenName": "Baboon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Pack Tactics": {
           "name": "Pack Tactics",
@@ -4185,7 +4152,6 @@
       "name": "Badger",
       "tokenName": "Badger",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -4198,8 +4164,8 @@
       "name": "Balor",
       "tokenName": "Balor",
       "description": "<h1>Balor</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.dstDspmI7LdrCsxy caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Demon",
+      "planarSubtype": "abyss",
       "items": {
         "Death Throes": {
           "name": "Death Throes",
@@ -4267,7 +4233,6 @@
       "name": "Bandit",
       "tokenName": "Bandit",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{Leather Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLightCross]{Light Crossbow}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{Scimitar}</p></div><h1>Bandits</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.ORyQoMthsD5YZa49 caption=false cite=false classes=\"no-embed mm\"]</p><h2>Bandit</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.BOqXIilnnBRsQabZ caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Scimitar": {
           "name": "Scimitar",
@@ -4286,7 +4251,6 @@
       "name": "Bandit Captain",
       "tokenName": "Bandit Captain",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepPistol0000]{Pistol}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{Scimitar}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{Studded Leather Armor}</p></div><h1>Bandits</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.ORyQoMthsD5YZa49 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Scimitar": {
           "name": "Scimitar",
@@ -4325,8 +4289,8 @@
       "name": "Barbed Devil",
       "tokenName": "Barbed Devil",
       "description": "<h1>Barbed Devil</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.95Oeqtw6UgtSLiO1 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Devil",
+      "planarSubtype": "nine hells",
       "items": {
         "Barbed Hide": {
           "name": "Barbed Hide",
@@ -4385,7 +4349,6 @@
       "name": "Basilisk",
       "tokenName": "Basilisk",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -4421,7 +4384,6 @@
       "name": "Bat",
       "tokenName": "Bat",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -4434,8 +4396,8 @@
       "name": "Bearded Devil",
       "tokenName": "Bearded Devil",
       "description": "<h1>Bearded Devil</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.PTpNAXCUpaUdNbcx caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Devil",
+      "planarSubtype": "nine hells",
       "items": {
         "Magic Resistance": {
           "name": "Magic Resistance",
@@ -4478,7 +4440,6 @@
       "name": "Behir",
       "tokenName": "Behir",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -4549,7 +4510,6 @@
       "name": "Berserker",
       "tokenName": "Berserker",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreataxe00]{Greataxe}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmHideArmor0]{Hide Armor}</p></div><h1>Berserkers</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.rCW1BWWOS7a0ibg1 caption=false cite=false classes=\"no-embed mm\"]</p><h2>Berserker</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.W16gTtESSKym2RPY caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Greataxe": {
           "name": "Greataxe",
@@ -4569,7 +4529,6 @@
       "name": "Black Bear",
       "tokenName": "Black Bear",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -4590,7 +4549,6 @@
       "name": "Black Dragon Wyrmling",
       "tokenName": "Black Dragon Wyrmling",
       "description": "<h1>Black Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.EZn4p80bsBA4HbN8 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Black Dragon Wyrmling</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.iE49waOfpKA4oHnC caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Chromatic",
       "items": {
         "Amphibious": {
@@ -4620,7 +4578,6 @@
       "name": "Black Pudding",
       "tokenName": "Black Pudding",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Amorphous": {
           "name": "Amorphous",
@@ -4671,8 +4628,8 @@
       "name": "Blink Dog",
       "tokenName": "Blink Dog",
       "description": "<h1>Blink Dog</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.mI5uYW2EOiR5fIG6 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
       "languages": "Blink Dog; understands Elvish and Sylvan but can’t speak them",
+      "planarSubtype": "feywild",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -4694,7 +4651,6 @@
       "name": "Blood Hawk",
       "tokenName": "Blood Hawk",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Pack Tactics": {
           "name": "Pack Tactics",
@@ -4716,7 +4672,6 @@
       "name": "Blue Dragon Wyrmling",
       "tokenName": "Blue Dragon Wyrmling",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Chromatic",
       "items": {
         "Multiattack": {
@@ -4742,7 +4697,6 @@
       "name": "Boar",
       "tokenName": "Boar",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bloodied Fury": {
           "name": "Bloodied Fury",
@@ -4775,8 +4729,8 @@
       "name": "Bone Devil",
       "tokenName": "Bone Devil",
       "description": "<h1>Bone Devil</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.LhlUSSOMbbHHTi5e caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Devil",
+      "planarSubtype": "nine hells",
       "items": {
         "Diabolical Restoration": {
           "name": "Diabolical Restoration",
@@ -4816,7 +4770,6 @@
       "name": "Brass Dragon Wyrmling",
       "tokenName": "Brass Dragon Wyrmling",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Good",
       "subtype": "Metallic",
       "items": {
         "Fire Breath": {
@@ -4856,7 +4809,6 @@
       "name": "Bronze Dragon Wyrmling",
       "tokenName": "Bronze Dragon Wyrmling",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
       "subtype": "Metallic",
       "items": {
         "Multiattack": {
@@ -4901,7 +4853,6 @@
       "name": "Brown Bear",
       "tokenName": "Brown Bear",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -4933,8 +4884,8 @@
       "name": "Bugbear Stalker",
       "tokenName": "Bugbear Stalker",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainShirt]{Chain Shirt}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{Javelins (6)}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepMorningsta]{Morningstar}</p></div><h1>Bugbears</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.gzTUYPi9wHg0WMP0 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Bugbear Stalker</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.lMvm5fxnuHBDhxD2 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Goblinoid",
+      "planarSubtype": "feywild",
       "items": {
         "Javelin": {
           "name": "Javelin",
@@ -4990,8 +4941,8 @@
       "name": "Bugbear Warrior",
       "tokenName": "Bugbear Warrior",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmHideArmor0]{Hide Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLightHamme]{Light Hammers (3)}</p></div><h1>Bugbears</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.gzTUYPi9wHg0WMP0 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Bugbear Warrior</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.aZNE3q6npBVVLIa1 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Goblinoid",
+      "planarSubtype": "feywild",
       "items": {
         "Light Hammer": {
           "name": "Light Hammer",
@@ -5030,7 +4981,6 @@
       "name": "Bulette",
       "tokenName": "Bulette",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -5078,7 +5028,6 @@
       "name": "Bullywug Bog Sage",
       "tokenName": "Bullywug Bog Sage",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbagComponentPo]{Component Pouch}</p></div><h1>Bullywugs</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.PMD05f22oIhFXfR1 caption=false cite=false classes=\"no-embed mm\"]</p><h2>Bullywug Bog Sage</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.pkcKu5qmduJzTjMl caption=false cite=false classes=\"no-embed mm\"]</p>",
-      "alignment": "Neutral",
       "languages": "Bullywug",
       "items": {
         "Component Pouch": {
@@ -5198,7 +5147,6 @@
       "name": "Bullywug Warrior",
       "tokenName": "Bullywug Warrior",
       "description": "<h1>Bullywugs</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.PMD05f22oIhFXfR1 caption=false cite=false classes=\"no-embed mm\"]</p><h2>Bullywug Warrior</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.H5vEeQNCOqMvmsSt caption=false cite=false classes=\"no-embed mm\"]</p>",
-      "alignment": "Neutral",
       "languages": "Bullywug",
       "items": {
         "Amphibious": {
@@ -5229,7 +5177,6 @@
       "name": "Camel",
       "tokenName": "Camel",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -5309,7 +5256,6 @@
       "name": "Carrion Crawler",
       "tokenName": "Carrion Crawler",
       "description": "<h1>Carrion Crawler</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.NTrXiS2nr1jrYq0F caption=false cite=false classes=\"no-embed mm\"]</p>",
-      "alignment": "Unaligned",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb",
@@ -5350,7 +5296,6 @@
       "name": "Cat",
       "tokenName": "Cat",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Jumper": {
           "name": "Jumper",
@@ -5366,7 +5311,6 @@
       "name": "Celestial Steed",
       "tokenName": "Otherworldly Steed",
       "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFindSteed0 caption=false]</p>",
-      "alignment": "Neutral",
       "subtype": "Otherworldly Steed",
       "customType": "Celestial, Fey, or Fiend (Your Choice)",
       "languages": "Telepathy 1 mile (works only with you)",
@@ -5390,7 +5334,7 @@
       "name": "Centaur Trooper",
       "tokenName": "Centaur Trooper",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmBreastplat]{Breastplate}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{Longbow}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepPike000000]{Pike}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Good",
+      "planarSubtype": "feywild",
       "items": {
         "Pike": {
           "name": "Pike",
@@ -5434,8 +5378,8 @@
       "name": "Chain Devil",
       "tokenName": "Chain Devil",
       "description": "<h1>Chain Devil</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.ZshK0GnbqU7TpaWe caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Devil",
+      "planarSubtype": "nine hells",
       "items": {
         "Diabolical Restoration": {
           "name": "Diabolical Restoration",
@@ -5507,7 +5451,6 @@
       "name": "Chimera",
       "tokenName": "Chimera",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "languages": "Understands Draconic but can’t speak",
       "items": {
         "Multiattack": {
@@ -5553,7 +5496,6 @@
       "name": "Chuul",
       "tokenName": "Chuul",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -5608,7 +5550,6 @@
       "name": "Clay Golem",
       "tokenName": "Clay Golem",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "languages": "plus one other language;",
       "items": {
         "Acid Absorption": {
@@ -5669,7 +5610,6 @@
       "name": "Cloaker",
       "tokenName": "Cloaker",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Neutral",
       "items": {
         "Light Sensitivity": {
           "name": "Light Sensitivity",
@@ -5748,7 +5688,6 @@
       "name": "Cloud Giant",
       "tokenName": "Cloud Giant",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -5881,7 +5820,6 @@
       "name": "Cockatrice",
       "tokenName": "Cockatrice",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Petrifying Bite": {
           "name": "Petrifying Bite",
@@ -5911,7 +5849,6 @@
       "name": "Commoner",
       "tokenName": "Commoner",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepClub000000]{Club}</p></div><h1>Commoner</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.M7bvUVFcncRjraJP caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Club": {
           "name": "Club",
@@ -6082,7 +6019,6 @@
       "name": "Constrictor Snake",
       "tokenName": "Constrictor Snake",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -6113,7 +6049,6 @@
       "name": "Copper Dragon Wyrmling",
       "tokenName": "Copper Dragon Wyrmling",
       "description": "<h1>Copper Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.1gZk82d5dqtIeB4K caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Copper Dragon Wyrmling</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.lTZn2r3AIookCsvp caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Good",
       "subtype": "Metallic",
       "items": {
         "Rend": {
@@ -6140,7 +6075,6 @@
       "name": "Couatl",
       "tokenName": "Couatl",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
       "items": {
         "Shielded Mind": {
           "name": "Shielded Mind",
@@ -6343,7 +6277,6 @@
       "name": "Crab",
       "tokenName": "Crab",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -6359,7 +6292,6 @@
       "name": "Crocodile",
       "tokenName": "Crocodile",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Hold Breath": {
           "name": "Hold Breath",
@@ -6387,7 +6319,6 @@
       "name": "Cultist",
       "tokenName": "Cultist",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{Leather Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{Sickle}</p></div><h1>Cultists</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.VICfYukXoYkWJ1yn caption=false cite=false classes=\"no-embed mm\"]</p><h2>Cultist</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.7OEqZFJzetIk928C caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Leather Armor": {
           "name": "Leather Armor"
@@ -6402,7 +6333,6 @@
       "name": "Cultist Fanatic",
       "tokenName": "Cultist Fanatic",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbagHolySymbolV]{Holy Symbol (Varies)}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{Leather Armor}</p></div><h1>Cultists</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.VICfYukXoYkWJ1yn caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Cultist Fanatic</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.DHw4tAz06WzLz07b caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Pact Blade": {
           "name": "Pact Blade",
@@ -6552,7 +6482,6 @@
       "name": "Darkmantle",
       "tokenName": "Darkmantle",
       "description": "<h1>Darkmantle</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.DmKKsAs8j6WW7lQ2 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Crush": {
           "name": "Crush",
@@ -6578,7 +6507,6 @@
       "name": "Death Dog",
       "tokenName": "Death Dog",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -6612,7 +6540,6 @@
       "name": "Deer",
       "tokenName": "Deer",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Agile": {
           "name": "Agile",
@@ -6634,7 +6561,7 @@
       "name": "Deva",
       "tokenName": "Deva",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
+      "planarSubtype": "upper planes",
       "items": {
         "Exalted Restoration": {
           "name": "Exalted Restoration",
@@ -6741,7 +6668,6 @@
       "name": "Dire Wolf",
       "tokenName": "Dire Wolf",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Pack Tactics": {
           "name": "Pack Tactics",
@@ -6765,8 +6691,8 @@
       "name": "Djinni",
       "tokenName": "Djinni",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "subtype": "Genie",
+      "planarSubtype": "elemental plane of air",
       "items": {
         "Elemental Restoration": {
           "name": "Elemental Restoration",
@@ -6780,6 +6706,7 @@
         "Wishes": {
           "name": "Wishes",
           "description": "<p class=\"feature\">The [[lookup @name lowercase]] has a [[/r 1d100cs&lt;31#Knows Wish on 1]]{30 percent} chance of knowing the <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplWish000000]{Wish}</em> spell. If the [[lookup @name lowercase]] knows it, the [[lookup @name lowercase]] can cast it only on behalf of a non-genie creature who communicates a wish in a way the [[lookup @name lowercase]] can understand. If the [[lookup @name lowercase]] casts the spell for the creature, the [[lookup @name lowercase]] suffers none of the spell's stress. Once the [[lookup @name lowercase]] has cast it three times, the [[lookup @name lowercase]] can't do so again for 365 days.</p>",
+          "chat": "<p>[[/r 1d100cs&lt;31#Knows Wish on 1]]{30 percent}</p>",
           "activities": {
             "Cast Wish": {
               "name": "Cast Wish"
@@ -6997,7 +6924,6 @@
       "name": "Doppelganger",
       "tokenName": "Doppelganger",
       "description": "<h1>Doppelganger</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.1HjQuidJ5OdJh2Nd caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "languages": "Common plus three other languages",
       "items": {
         "Multiattack": {
@@ -7071,7 +6997,6 @@
       "name": "Draconic Spirit",
       "tokenName": "Draconic Spirit",
       "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplSummonDrag caption=false]</p>",
-      "alignment": "Neutral",
       "languages": "understands the languages you know",
       "items": {
         "Shared Resistances": {
@@ -7140,7 +7065,6 @@
       "name": "Draft Horse",
       "tokenName": "Draft Horse",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Hooves": {
           "name": "Hooves",
@@ -7152,7 +7076,6 @@
       "name": "Dragon Turtle",
       "tokenName": "Dragon Turtle",
       "description": "<h1></h1>",
-      "alignment": "Neutral",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -7197,8 +7120,8 @@
       "name": "Dretch",
       "tokenName": "Dretch",
       "description": "<h1>Dretches</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Tp3r2uMnilo9SUIu caption=false cite=false classes=\"no-embed mm\"]</p><h2>Dretch</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.YeZoNZxhdDHR3iC2 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Demon",
+      "planarSubtype": "abyss",
       "items": {
         "Rend": {
           "name": "Rend",
@@ -7220,7 +7143,6 @@
       "name": "Drider",
       "tokenName": "Drider",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb",
@@ -7295,7 +7217,6 @@
       "name": "Druid",
       "tokenName": "Druid",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{Studded Leather Armor}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "subtype": "Druid",
       "items": {
         "Studded Leather Armor": {
@@ -7419,7 +7340,6 @@
       "name": "Dryad",
       "tokenName": "Dryad",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Magic Resistance": {
           "name": "Magic Resistance",
@@ -7538,7 +7458,7 @@
       "name": "Dust Mephit",
       "tokenName": "Dust Mephit",
       "description": "<h1>Mephits</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.C5AnYUB2Vhu0urqS caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
+      "planarSubtype": "elemental planes",
       "items": {
         "Death Burst": {
           "name": "Death Burst",
@@ -7588,7 +7508,6 @@
       "name": "Eagle",
       "tokenName": "Eagle",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Talons": {
           "name": "Talons",
@@ -7600,7 +7519,7 @@
       "name": "Earth Elemental",
       "tokenName": "Earth Elemental",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
+      "planarSubtype": "elemental plane of earth",
       "items": {
         "Earth Glide": {
           "name": "Earth Glide",
@@ -7639,8 +7558,8 @@
       "name": "Efreeti",
       "tokenName": "Efreeti",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "subtype": "Genie",
+      "planarSubtype": "elemental plane of fire",
       "items": {
         "Elemental Restoration": {
           "name": "Elemental Restoration",
@@ -7654,6 +7573,7 @@
         "Wishes": {
           "name": "Wishes",
           "description": "<p class=\"feature\">The [[lookup @name lowercase]] has a [[/r 1d100cs&lt;31#Knows Wish on 1]]{30 percent} chance of knowing the <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplWish000000]{Wish}</em> spell. If the [[lookup @name lowercase]] knows it, the [[lookup @name lowercase]] can cast it only on behalf of a non-genie creature who communicates a wish in a way the [[lookup @name lowercase]] can understand. If the [[lookup @name lowercase]] casts the spell for the creature, the [[lookup @name lowercase]] suffers none of the spell's stress. Once the [[lookup @name lowercase]] has cast it three times, the [[lookup @name lowercase]] can't do so again for 365 days.</p>",
+          "chat": "<p>[[/r 1d100cs&lt;31#Knows Wish on 1]]{30 percent}</p>",
           "activities": {
             "Cast Wish": {
               "name": "Cast Wish"
@@ -7827,7 +7747,6 @@
       "name": "Elephant",
       "tokenName": "Elephant",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -7869,7 +7788,6 @@
       "name": "Elk",
       "tokenName": "Elk",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Ram": {
           "name": "Ram",
@@ -7896,8 +7814,8 @@
       "name": "Erinyes",
       "tokenName": "Erinyes",
       "description": "<h1>Erinyes</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.YXZP2A00UrCViGCe caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Devil",
+      "planarSubtype": "nine hells",
       "items": {
         "Diabolical Restoration": {
           "name": "Diabolical Restoration",
@@ -7953,7 +7871,6 @@
       "name": "Ettercap",
       "tokenName": "Ettercap",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb",
@@ -8017,7 +7934,6 @@
       "name": "Ettin",
       "tokenName": "Ettin",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepBattleaxe0]{Battleaxe}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepMorningsta]{Morningstar}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Battleaxe": {
           "name": "Battleaxe",
@@ -8071,7 +7987,6 @@
       "name": "Fey Steed",
       "tokenName": "Otherworldly Steed",
       "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFindSteed0 caption=false]</p>",
-      "alignment": "Neutral",
       "subtype": "Otherworldly Steed",
       "customType": "Celestial, Fey, or Fiend (Your Choice)",
       "languages": "Telepathy 1 mile (works only with you)",
@@ -8100,7 +8015,6 @@
       "name": "Fiend Steed",
       "tokenName": "Otherworldly Steed",
       "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFindSteed0 caption=false]</p>",
-      "alignment": "Neutral",
       "subtype": "Otherworldly Steed",
       "customType": "Celestial, Fey, or Fiend (Your Choice)",
       "languages": "Telepathy 1 mile (works only with you)",
@@ -8129,7 +8043,7 @@
       "name": "Fire Elemental",
       "tokenName": "Fire Elemental",
       "description": "<h1>Fire Elemental</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.M6gKJjmLDllg2rjI caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
+      "planarSubtype": "elemental plane of fire",
       "items": {
         "Fire Aura": {
           "name": "Fire Aura",
@@ -8177,7 +8091,6 @@
       "name": "Fire Giant",
       "tokenName": "Fire Giant",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -8238,7 +8151,6 @@
       "name": "Flesh Golem",
       "tokenName": "Flesh Golem",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "languages": "plus one other language;",
       "items": {
         "Aversion to Fire": {
@@ -8329,7 +8241,6 @@
       "name": "Flying Snake",
       "tokenName": "Flying Snake",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Flyby": {
           "name": "Flyby",
@@ -8347,7 +8258,6 @@
       "name": "Frog",
       "tokenName": "Frog",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -8368,7 +8278,6 @@
       "name": "Frost Giant",
       "tokenName": "Frost Giant",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -8420,7 +8329,6 @@
       "name": "Gargoyle",
       "tokenName": "Gargoyle",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Flyby": {
           "name": "Flyby",
@@ -8446,7 +8354,6 @@
       "name": "Gelatinous Cube",
       "tokenName": "Gelatinous Cube",
       "description": "<h1>Gelatinous Cube</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.LmJS4wMt04wihw1Q caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Ooze Cube": {
           "name": "Ooze Cube",
@@ -8501,7 +8408,6 @@
       "name": "Ghast",
       "tokenName": "Ghast",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Stench": {
           "name": "Stench",
@@ -8534,7 +8440,6 @@
       "name": "Ghost",
       "tokenName": "Ghost",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "languages": "Common plus one other language",
       "items": {
         "Ethereal Sight": {
@@ -8620,7 +8525,6 @@
       "name": "Ghoul",
       "tokenName": "Ghoul",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -8657,7 +8561,6 @@
       "name": "Giant Ape",
       "tokenName": "Giant Ape",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -8692,7 +8595,6 @@
       "name": "Giant Badger",
       "tokenName": "Giant Badger",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -8705,7 +8607,6 @@
       "name": "Giant Bat",
       "tokenName": "Giant Bat",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -8718,7 +8619,6 @@
       "name": "Giant Boar",
       "tokenName": "Giant Boar",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bloodied Fury": {
           "name": "Bloodied Fury",
@@ -8750,7 +8650,6 @@
       "name": "Giant Centipede",
       "tokenName": "Giant Centipede",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb",
@@ -8796,7 +8695,6 @@
       "name": "Giant Constrictor Snake",
       "tokenName": "Giant Constrictor Snake",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -8836,7 +8734,6 @@
       "name": "Giant Crab",
       "tokenName": "Giant Crab",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -8866,7 +8763,6 @@
       "name": "Giant Crocodile",
       "tokenName": "Giant Crocodile",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Hold Breath": {
           "name": "Hold Breath",
@@ -8916,7 +8812,6 @@
       "name": "Giant Eagle",
       "tokenName": "Giant Eagle",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Good",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -8937,7 +8832,6 @@
       "name": "Giant Elk",
       "tokenName": "Giant Elk",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Good",
       "items": {
         "Ram": {
           "name": "Ram",
@@ -8960,7 +8854,6 @@
       "name": "Giant Fire Beetle",
       "tokenName": "Giant Fire Beetle",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -8975,14 +8868,12 @@
     },
     "Giant Fly": {
       "name": "Giant Fly",
-      "tokenName": "Giant Fly",
-      "alignment": "Unaligned"
+      "tokenName": "Giant Fly"
     },
     "Giant Frog": {
       "name": "Giant Frog",
       "tokenName": "Giant Frog",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -9038,7 +8929,6 @@
       "name": "Giant Goat",
       "tokenName": "Giant Goat",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Ram": {
           "name": "Ram",
@@ -9065,7 +8955,6 @@
       "name": "Giant Hyena",
       "tokenName": "Giant Hyena",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -9087,7 +8976,6 @@
       "name": "Giant Insect",
       "tokenName": "Giant Insect",
       "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplGiantInsec caption=false]</p>",
-      "alignment": "Unaligned",
       "languages": "Understands the languages you know",
       "items": {
         "Spider Climb": {
@@ -9135,7 +9023,6 @@
       "name": "Giant Lizard",
       "tokenName": "Giant Lizard",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb",
@@ -9152,7 +9039,6 @@
       "name": "Giant Octopus",
       "tokenName": "Giant Octopus",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Water Breathing": {
           "name": "Water Breathing",
@@ -9188,7 +9074,6 @@
       "name": "Giant Owl",
       "tokenName": "Giant Owl",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Flyby": {
           "name": "Flyby",
@@ -9253,7 +9138,6 @@
       "name": "Giant Rat",
       "tokenName": "Giant Rat",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Pack Tactics": {
           "name": "Pack Tactics",
@@ -9271,7 +9155,6 @@
       "name": "Giant Scorpion",
       "tokenName": "Giant Scorpion",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -9307,7 +9190,6 @@
       "name": "Giant Seahorse",
       "tokenName": "Giant Seahorse",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Ram": {
           "name": "Ram",
@@ -9343,7 +9225,6 @@
       "name": "Giant Shark",
       "tokenName": "Giant Shark",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Water Breathing": {
           "name": "Water Breathing",
@@ -9374,7 +9255,6 @@
       "name": "Giant Spider",
       "tokenName": "Giant Spider",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb",
@@ -9410,7 +9290,6 @@
       "name": "Giant Toad",
       "tokenName": "Giant Toad",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -9462,7 +9341,6 @@
       "name": "Giant Venomous Snake",
       "tokenName": "Giant Venomous Snake",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -9475,7 +9353,6 @@
       "name": "Giant Vulture",
       "tokenName": "Giant Vulture",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "items": {
         "Pack Tactics": {
           "name": "Pack Tactics",
@@ -9498,7 +9375,6 @@
       "name": "Giant Wasp",
       "tokenName": "Giant Wasp",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb",
@@ -9532,7 +9408,6 @@
       "name": "Giant Weasel",
       "tokenName": "Giant Weasel",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -9545,7 +9420,6 @@
       "name": "Giant Wolf Spider",
       "tokenName": "Giant Wolf Spider",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb",
@@ -9562,7 +9436,6 @@
       "name": "Gibbering Mouther",
       "tokenName": "Gibbering Mouther",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Neutral",
       "items": {
         "Aberrant Ground": {
           "name": "Aberrant Ground",
@@ -9610,8 +9483,8 @@
       "name": "Glabrezu",
       "tokenName": "Glabrezu",
       "description": "<h1>Glabrezu</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.ywxoKSaj2hlvewVQ caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Demon",
+      "planarSubtype": "abyss",
       "items": {
         "Demonic Restoration": {
           "name": "Demonic Restoration",
@@ -9751,7 +9624,6 @@
       "name": "Gladiator",
       "tokenName": "Gladiator",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{Shield}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSpear00000]{Spears (3)}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{Studded Leather Armor}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Spear": {
           "name": "Spear",
@@ -9805,7 +9677,6 @@
       "name": "Gnoll Warrior",
       "tokenName": "Gnoll Warrior",
       "description": "<h1>Gnolls</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.1uUpd2TSpFjkisSO caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Gnoll Warrior</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.LKcAv2xpFiGs8zUr caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Rend": {
           "name": "Rend",
@@ -9821,7 +9692,6 @@
       "name": "Goat",
       "tokenName": "Goat",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Ram": {
           "name": "Ram",
@@ -9840,7 +9710,6 @@
     "Goat of Traveling": {
       "name": "Goat of Traveling",
       "tokenName": "Goat of Traveling",
-      "alignment": "Unaligned",
       "items": {
         "Hooves": {
           "name": "Hooves",
@@ -9852,8 +9721,8 @@
       "name": "Goblin Boss",
       "tokenName": "Goblin Boss",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainShirt]{Chain Shirt}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{Scimitar}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{Shield}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{Shortbow}</p></div><h1>Goblins</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.TwMrfWrYo0ZAnWB3 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Goblin Boss</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.bgTL13d21Sxf05VY caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Chaotic Neutral",
       "subtype": "Goblinoid",
+      "planarSubtype": "acheron",
       "items": {
         "Scimitar": {
           "name": "Scimitar",
@@ -9920,8 +9789,8 @@
       "name": "Goblin Minion",
       "tokenName": "Goblin Minion",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{Daggers (3)}</p></div><h1>Goblins</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.TwMrfWrYo0ZAnWB3 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Goblin Minion</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.x4VLvBATmEBnTTxK caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Chaotic Neutral",
       "subtype": "Goblinoid",
+      "planarSubtype": "acheron",
       "items": {
         "Dagger": {
           "name": "Dagger",
@@ -9947,8 +9816,8 @@
       "name": "Goblin Warrior",
       "tokenName": "Goblin Warrior",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{Leather Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{Scimitar}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{Shield}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{Shortbow}</p></div><h1>Goblins</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.TwMrfWrYo0ZAnWB3 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Goblin Warrior</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.ktLVwvt2KkJVB9eS caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Neutral",
       "subtype": "Goblinoid",
+      "planarSubtype": "acheron",
       "items": {
         "Scimitar": {
           "name": "Scimitar",
@@ -9995,7 +9864,6 @@
       "name": "Gold Dragon Wyrmling",
       "tokenName": "Gold Dragon Wyrmling",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
       "subtype": "Metallic",
       "items": {
         "Amphibious": {
@@ -10040,7 +9908,6 @@
       "name": "Gorgon",
       "tokenName": "Gorgon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Gore": {
           "name": "Gore",
@@ -10103,7 +9970,6 @@
       "name": "Gray Ooze",
       "tokenName": "Gray Ooze",
       "description": "<h1>Gray Oozes</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.IMrvogdwbM9y1eDJ caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Gray Ooze</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.3CtaZvXT0QtPFi3T caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Amorphous": {
           "name": "Amorphous",
@@ -10135,7 +10001,6 @@
       "name": "Green Dragon Wyrmling",
       "tokenName": "Green Dragon Wyrmling",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Chromatic",
       "items": {
         "Amphibious": {
@@ -10170,7 +10035,6 @@
       "name": "Green Hag",
       "tokenName": "Green Hag",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -10397,7 +10261,6 @@
       "name": "Grick",
       "tokenName": "Grick",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -10433,7 +10296,6 @@
       "name": "Griffon",
       "tokenName": "Griffon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -10465,7 +10327,6 @@
       "name": "Grimlock",
       "tokenName": "Grimlock",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "items": {
         "Bone Cudgel": {
           "name": "Bone Cudgel",
@@ -10477,7 +10338,6 @@
       "name": "Guard",
       "tokenName": "Guard",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainShirt]{Chain Shirt}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{Shield}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSpear00000]{Spear}</p></div><h1>Guards</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Zh9j3VBgGnsvq9x4 caption=false cite=false classes=\"no-embed mm\"]</p><h2>Guard</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.IzCvcbHgZ8uPj9TU caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Spear": {
           "name": "Spear",
@@ -10496,7 +10356,6 @@
       "name": "Guard Captain",
       "tokenName": "Guard Captain",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmBreastplat]{Breastplate}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{Javelins (6)}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongsword0]{Longsword}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{Shield}</p></div><h1>Guards</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Zh9j3VBgGnsvq9x4 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Guard Captain</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.vTvxvndvzT5NYBJi caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Neutral",
       "items": {
         "Javelin": {
           "name": "Javelin",
@@ -10528,7 +10387,7 @@
       "name": "Guardian Naga",
       "tokenName": "Guardian Naga",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
+      "planarSubtype": "upper planes",
       "items": {
         "Celestial Restoration": {
           "name": "Celestial Restoration",
@@ -10664,7 +10523,6 @@
       "name": "Half-Dragon",
       "tokenName": "Half-Dragon",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Draconic Origin": {
           "name": "Draconic Origin",
@@ -10725,7 +10583,6 @@
       "name": "Harpy",
       "tokenName": "Harpy",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Claw": {
           "name": "Claw",
@@ -10753,7 +10610,6 @@
       "name": "Hawk",
       "tokenName": "Hawk",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Talons": {
           "name": "Talons",
@@ -10765,8 +10621,8 @@
       "name": "Hell Hound",
       "tokenName": "Hell Hound",
       "description": "<h1>Hell Hound</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.sTelJLU6cHPQ8gzx caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "languages": "Understands Infernal but can’t speak",
+      "planarSubtype": "lower planes",
       "items": {
         "Pack Tactics": {
           "name": "Pack Tactics",
@@ -10797,8 +10653,8 @@
       "name": "Hezrou",
       "tokenName": "Hezrou",
       "description": "<h1>Hezrou</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.GK0Mj5JDYx9OSir8 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Demon",
+      "planarSubtype": "abyss",
       "items": {
         "Demonic Restoration": {
           "name": "Demonic Restoration",
@@ -10848,7 +10704,6 @@
       "name": "Hill Giant",
       "tokenName": "Hill Giant",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -10885,7 +10740,6 @@
       "name": "Hippogriff",
       "tokenName": "Hippogriff",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Flyby": {
           "name": "Flyby",
@@ -10910,7 +10764,6 @@
     "Hippopotamus": {
       "name": "Hippopotamus",
       "tokenName": "Hippopotamus",
-      "alignment": "Unaligned",
       "items": {
         "Hold Breath": {
           "name": "Hold Breath",
@@ -10936,8 +10789,8 @@
       "name": "Hobgoblin Captain",
       "tokenName": "Hobgoblin Captain",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{Greatsword}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmHalfPlateA]{Half Plate Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{Longbow}</p></div><h1>Hobgoblins</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.eFGs6u803PtWG5k7 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Hobgoblin Captain</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.kr2tx1DFAcwGmzKR caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Lawful Evil",
       "subtype": "Goblinoid",
+      "planarSubtype": "acheron",
       "items": {
         "Greatsword": {
           "name": "Greatsword",
@@ -10976,8 +10829,8 @@
       "name": "Hobgoblin Warrior",
       "tokenName": "Hobgoblin Warrior",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmHalfPlateA]{Half Plate Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{Longbow}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongsword0]{Longsword}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{Shield}</p></div><h1>Hobgoblins</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.eFGs6u803PtWG5k7 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Hobgoblin Warrior</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.qn7hUk5eNskZNKk9 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Goblinoid",
+      "planarSubtype": "acheron",
       "items": {
         "Longsword": {
           "name": "Longsword",
@@ -11005,7 +10858,6 @@
       "name": "Homunculus",
       "tokenName": "Homunculus",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "languages": "plus one other language;",
       "items": {
         "Telepathic Bond": {
@@ -11033,8 +10885,8 @@
       "name": "Horned Devil",
       "tokenName": "Horned Devil",
       "description": "<h1>Horned Devil</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.zZ2RDYRFRDDrRizJ caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Devil",
+      "planarSubtype": "nine hells",
       "items": {
         "Diabolical Restoration": {
           "name": "Diabolical Restoration",
@@ -11083,7 +10935,6 @@
       "name": "Huge Animated Object",
       "tokenName": "Animated Object",
       "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
-      "alignment": "Unaligned",
       "languages": "Understands the languages you know",
       "items": {
         "Slam": {
@@ -11096,7 +10947,6 @@
       "name": "Hunter Shark",
       "tokenName": "Hunter Shark",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Water Breathing": {
           "name": "Water Breathing",
@@ -11118,7 +10968,6 @@
       "name": "Hydra",
       "tokenName": "Hydra",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Hold Breath": {
           "name": "Hold Breath",
@@ -11152,7 +11001,6 @@
       "name": "Hyena",
       "tokenName": "Hyena",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Pack Tactics": {
           "name": "Pack Tactics",
@@ -11170,8 +11018,8 @@
       "name": "Ice Devil",
       "tokenName": "Ice Devil",
       "description": "<h1>Ice Devil</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.sA9Jx5SXPoQvmnOO caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Devil",
+      "planarSubtype": "nine hells",
       "items": {
         "Diabolical Restoration": {
           "name": "Diabolical Restoration",
@@ -11238,7 +11086,7 @@
       "name": "Ice Mephit",
       "tokenName": "Ice Mephit",
       "description": "<h1>Mephits</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.C5AnYUB2Vhu0urqS caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
+      "planarSubtype": "elemental planes",
       "items": {
         "Death Burst": {
           "name": "Death Burst",
@@ -11297,7 +11145,6 @@
       "name": "Imp",
       "tokenName": "Imp",
       "description": "<h1>Imp</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.6c0Aa15WAeqtY3hl caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Devil",
       "items": {
         "Magic Resistance": {
@@ -11352,7 +11199,7 @@
       "name": "Incubus",
       "tokenName": "Incubus",
       "description": "<h1>Incubus</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Eqctro3hPZWecGfP caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Neutral Evil",
+      "planarSubtype": "lower planes",
       "items": {
         "Succubus Form": {
           "name": "Succubus Form",
@@ -11488,7 +11335,6 @@
       "name": "Invisible Stalker",
       "tokenName": "Invisible Stalker",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Air Form": {
           "name": "Air Form",
@@ -11541,7 +11387,6 @@
       "name": "Iron Golem",
       "tokenName": "Iron Golem",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "languages": "plus two other languages;",
       "items": {
         "Fire Absorption": {
@@ -11588,7 +11433,6 @@
       "name": "Jackal",
       "tokenName": "Jackal",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -11606,7 +11450,6 @@
       "name": "Killer Whale",
       "tokenName": "Killer Whale",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Hold Breath": {
           "name": "Hold Breath",
@@ -11623,7 +11466,6 @@
       "name": "Knight",
       "tokenName": "Knight",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{Greatsword}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepHeavyCross]{Heavy Crossbow}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmPlateArmor]{Plate Armor}</p></div><h1>Knights</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.G5uYpVQgKpPIkFQY caption=false cite=false classes=\"no-embed mm\"]</p><h2>Knight</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.8ypc00V48Je5p3JY caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "languages": "Common plus one other language",
       "items": {
         "Greatsword": {
@@ -11663,7 +11505,6 @@
       "name": "Kobold Warrior",
       "tokenName": "Kobold Warrior",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{Daggers (3)}</p></div><h1>Kobolds</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.NC8c3St0SoWBP6K8 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Kobold Warrior</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.khL20BavkkD4YZGY caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Dagger": {
           "name": "Dagger",
@@ -11684,7 +11525,6 @@
     "Kraken": {
       "name": "Kraken",
       "tokenName": "Kraken",
-      "alignment": "Chaotic Evil",
       "subtype": "Titan",
       "languages": "Understands Abyssal, Celestial, Infernal, and Primordial but can’t speak",
       "items": {
@@ -11826,7 +11666,6 @@
       "name": "Lamia",
       "tokenName": "Lamia",
       "description": "<h1>Lamia</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Lawk1h1Wf49rxX8U caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -11979,7 +11818,6 @@
       "name": "Large Animated Object",
       "tokenName": "Animated Object",
       "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
-      "alignment": "Unaligned",
       "languages": "Understands the languages you know",
       "items": {
         "Slam": {
@@ -11992,9 +11830,9 @@
       "name": "Lemure",
       "tokenName": "Lemure",
       "description": "<h1>Lemures</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.StGSoy9GntE0mCiY caption=false cite=false classes=\"no-embed mm\"]</p><h2>Lemure</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.HJOkVF1j68fs3m7Y caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Devil",
       "languages": "Understands Infernal but can’t speak",
+      "planarSubtype": "nine hells",
       "items": {
         "Hellish Restoration": {
           "name": "Hellish Restoration",
@@ -12016,7 +11854,6 @@
       "name": "Lich",
       "tokenName": "Lich",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbagComponentPo]{Component Pouch}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "subtype": "Wizard",
       "items": {
         "Component Pouch": {
@@ -12397,7 +12234,6 @@
       "name": "Lion",
       "tokenName": "Lion",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Pack Tactics": {
           "name": "Pack Tactics",
@@ -12450,7 +12286,6 @@
       "name": "Lizard",
       "tokenName": "Lizard",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb",
@@ -12472,7 +12307,6 @@
       "name": "Mage",
       "tokenName": "Mage",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbafcWand000000]{Wand}</p></div><h1>Mages</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.BRPgUa1VGeHBz5BR caption=false cite=false classes=\"no-embed mm\"]</p><h2>Mage</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.G2fA16d9pkedAKnr caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "subtype": "Wizard",
       "languages": "Common plus three other languages",
       "items": {
@@ -12682,7 +12516,7 @@
       "name": "Magma Mephit",
       "tokenName": "Magma Mephit",
       "description": "<h1>Mephits</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.C5AnYUB2Vhu0urqS caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
+      "planarSubtype": "elemental planes",
       "items": {
         "Death Burst": {
           "name": "Death Burst",
@@ -12708,7 +12542,7 @@
       "name": "Magmin",
       "tokenName": "Magmin",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Neutral",
+      "planarSubtype": "elemental plane of fire",
       "items": {
         "Death Burst": {
           "name": "Death Burst",
@@ -12739,7 +12573,6 @@
       "name": "Mammoth",
       "tokenName": "Mammoth",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -12780,7 +12613,6 @@
       "name": "Manticore",
       "tokenName": "Manticore",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -12805,8 +12637,8 @@
       "name": "Marilith",
       "tokenName": "Marilith",
       "description": "<h1>Marilith</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.I4KPmOfsuEucKfST caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Demon",
+      "planarSubtype": "abyss",
       "items": {
         "Magic Resistance": {
           "name": "Magic Resistance",
@@ -12878,7 +12710,6 @@
       "name": "Mastiff",
       "tokenName": "Mastiff",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -12897,7 +12728,6 @@
       "name": "Medium Animated Object",
       "tokenName": "Animated Object",
       "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
-      "alignment": "Unaligned",
       "languages": "Understands the languages you know",
       "items": {
         "Slam": {
@@ -12910,7 +12740,6 @@
       "name": "Medusa",
       "tokenName": "Medusa",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "languages": "Common plus one other language",
       "items": {
         "Multiattack": {
@@ -12963,7 +12792,6 @@
       "name": "Merfolk Skirmisher",
       "tokenName": "Merfolk Skirmisher",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -12985,7 +12813,6 @@
       "name": "Merrow",
       "tokenName": "Merrow",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -13030,7 +12857,6 @@
       "name": "Mimic",
       "tokenName": "Mimic",
       "description": "<h1>Mimic</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.lLRnYAv64F7SfrJd caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Adhesive (Object Form Only)": {
           "name": "Adhesive (Object Form Only)",
@@ -13093,8 +12919,8 @@
       "name": "Minotaur Skeleton",
       "tokenName": "Minotaur Skeleton",
       "description": "<h1>Skeletons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.w1RMyPzpjolhQMVX caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "languages": "Understands Abyssal but can’t speak",
+      "planarSubtype": "shadowfell",
       "items": {
         "Gore": {
           "name": "Gore",
@@ -13125,7 +12951,6 @@
       "name": "Minotaur of Baphomet",
       "tokenName": "Minotaur of Baphomet",
       "description": "<h1>Minotaur of Baphomet</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.jqKn0BtJJlHPShTp caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Abyssal Glaive": {
           "name": "Abyssal Glaive",
@@ -13157,7 +12982,6 @@
       "name": "Mule",
       "tokenName": "Mule",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Hooves": {
           "name": "Hooves",
@@ -13178,7 +13002,6 @@
       "name": "Mummy",
       "tokenName": "Mummy",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "languages": "Common plus two other languages",
       "items": {
         "Multiattack": {
@@ -13227,7 +13050,6 @@
       "name": "Mummy Lord",
       "tokenName": "Mummy Lord",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Cleric",
       "languages": "Common plus three other languages",
       "items": {
@@ -13424,8 +13246,8 @@
       "name": "Nalfeshnee",
       "tokenName": "Nalfeshnee",
       "description": "<h1>Nalfeshnee</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.bG2lzFCLqlpghJF8 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Demon",
+      "planarSubtype": "abyss",
       "items": {
         "Demonic Restoration": {
           "name": "Demonic Restoration",
@@ -13489,7 +13311,7 @@
       "name": "Night Hag",
       "tokenName": "Night Hag",
       "description": "<h1>Night Hag</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.OZ4pczqo9wAgj4CD caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
+      "planarSubtype": "lower planes",
       "items": {
         "Coven Magic": {
           "name": "Coven Magic",
@@ -13657,7 +13479,10 @@
               "description": "<p><span style=\"font-family:Signika, sans-serif\">While in the trance, the messenger is Incapacitated and has a Speed of 0.</span></p>"
             },
             "Spell Changes": {
-              "name": "Spell Changes"
+              "name": "Spell Changes",
+              "changes": {
+                "system.target": "{\"template\":{\"contiguous\":false,\"units\":\"ft\",\"type\":\"\"},\"affects\":{\"choice\":false,\"count\":\"1\",\"type\":\"creature\",\"special\":\"on the Material Plane\"},\"prompt\":true}"
+              }
             }
           }
         },
@@ -13744,8 +13569,8 @@
       "name": "Nightmare",
       "tokenName": "Nightmare",
       "description": "<h1>Nightmare</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.TEIsR6Zs2MO6qtpO caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "languages": "Understands Abyssal, Common, and Infernal but can’t speak",
+      "planarSubtype": "lower planes",
       "items": {
         "Confer Fire Resistance": {
           "name": "Confer Fire Resistance",
@@ -13780,7 +13605,6 @@
       "name": "Noble",
       "tokenName": "Noble",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmBreastplat]{Breastplate}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepRapier0000]{Rapier}</p></div><h1>Nobles</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.TVskfAu471arcBTq caption=false cite=false classes=\"no-embed mm\"]</p><h2>Noble</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.mZUN05Y3B77gCkk6 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "languages": "Common plus two other languages",
       "items": {
         "Rapier": {
@@ -13807,7 +13631,6 @@
       "name": "Nothic",
       "tokenName": "Nothic",
       "description": "<h1>Nothic</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.zAlhxCv4MtiSnQ3r caption=false cite=false classes=\"no-embed mm\"]</p>",
-      "alignment": "Neutral Evil",
       "items": {
         "Claw": {
           "name": "Claw",
@@ -13846,7 +13669,6 @@
       "name": "Ochre Jelly",
       "tokenName": "Ochre Jelly",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Amorphous": {
           "name": "Amorphous",
@@ -13876,7 +13698,6 @@
       "name": "Octopus",
       "tokenName": "Octopus",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Compression": {
           "name": "Compression",
@@ -13929,7 +13750,6 @@
       "name": "Ogre",
       "tokenName": "Ogre",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatclub0]{Greatclub}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{Javelins (3)}</p></div><h1>Ogres</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.1Hp2MOUaAODie8ex caption=false cite=false classes=\"no-embed mm\"]</p><h2>Ogre</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.kqE5GUlHs8pLCwvw caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Greatclub": {
           "name": "Greatclub",
@@ -13945,8 +13765,8 @@
       "name": "Ogre Zombie",
       "tokenName": "Ogre Zombie",
       "description": "<h1>Zombies</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.2xCqDBEM46bLXD4q caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Ogre Zombie</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.0T8giAslc7JILSGC caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "languages": "Understands Common and Giant but can’t speak",
+      "planarSubtype": "shadowfell",
       "items": {
         "Undead Fortitude": {
           "name": "Undead Fortitude",
@@ -13962,7 +13782,6 @@
       "name": "Oni",
       "tokenName": "Oni",
       "description": "<h1>Oni</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Z00uEF13gQr3y7sl caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "items": {
         "Regeneration": {
           "name": "Regeneration",
@@ -14085,7 +13904,6 @@
       "name": "Otherworldly Steed",
       "tokenName": "Otherworldly Steed",
       "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplFindSteed0 caption=false]</p>",
-      "alignment": "Neutral",
       "customType": "Celestial, Fey, or Fiend (Your Choice)",
       "languages": "Telepathy 1 mile (works only with you)",
       "items": {
@@ -14129,7 +13947,6 @@
       "name": "Otyugh",
       "tokenName": "Otyugh",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -14194,7 +14011,6 @@
       "name": "Owl",
       "tokenName": "Owl",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Flyby": {
           "name": "Flyby",
@@ -14211,7 +14027,6 @@
       "name": "Owlbear",
       "tokenName": "Owlbear",
       "description": "<h1>Owlbears</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.3OaVYG2opAydAD8R caption=false cite=false classes=\"no-embed mm\"]</p><h2>Owlbear</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.vYZwsyU9V1RdbFAm caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -14232,7 +14047,6 @@
       "name": "Panther",
       "tokenName": "Panther",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Rend": {
           "name": "Rend",
@@ -14258,7 +14072,7 @@
       "name": "Pegasus",
       "tokenName": "Pegasus",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Good",
+      "planarSubtype": "upper planes",
       "items": {
         "Hooves": {
           "name": "Hooves",
@@ -14270,7 +14084,6 @@
       "name": "Phantom Steed",
       "tokenName": "Riding Horse",
       "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplPhantomSte caption=false]</p>",
-      "alignment": "Unaligned",
       "items": {
         "Hooves": {
           "name": "Hooves",
@@ -14282,7 +14095,7 @@
       "name": "Phase Spider",
       "tokenName": "Phase Spider",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
+      "planarSubtype": "ethereal plane",
       "items": {
         "Ethereal Sight": {
           "name": "Ethereal Sight",
@@ -14331,7 +14144,6 @@
       "name": "Piranha",
       "tokenName": "Piranha",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Water Breathing": {
           "name": "Water Breathing",
@@ -14353,7 +14165,6 @@
       "name": "Pirate",
       "tokenName": "Pirate",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{Daggers (6)}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{Leather Armor}</p></div><h1>Pirates</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.quXy2WM17LbbHjxu caption=false cite=false classes=\"no-embed mm\"]</p><h2>Pirate</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.0wZfG9paOUWsIK3C caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Neutral",
       "languages": "Common plus one other language",
       "items": {
         "Dagger": {
@@ -14393,7 +14204,6 @@
       "name": "Pirate Captain",
       "tokenName": "Pirate Captain",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepPistol0000]{Pistol}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepRapier0000]{Rapier}</p></div><h1>Pirates</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.quXy2WM17LbbHjxu caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Pirate Captain</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.OI716HLJMqdzlKdZ caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Neutral",
       "languages": "Common plus one other language",
       "items": {
         "Rapier": {
@@ -14450,8 +14260,8 @@
       "name": "Pit Fiend",
       "tokenName": "Pit Fiend",
       "description": "<h1>Pit Fiend</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.bBzXVjiSjkZzn8oA caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Devil",
+      "planarSubtype": "nine hells",
       "items": {
         "Diabolical Restoration": {
           "name": "Diabolical Restoration",
@@ -14572,7 +14382,7 @@
       "name": "Planetar",
       "tokenName": "Planetar",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
+      "planarSubtype": "upper planes",
       "items": {
         "Divine Awareness": {
           "name": "Divine Awareness",
@@ -14807,7 +14617,6 @@
       "name": "Plesiosaurus",
       "tokenName": "Plesiosaurus",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Hold Breath": {
           "name": "Hold Breath",
@@ -14824,7 +14633,6 @@
       "name": "Polar Bear",
       "tokenName": "Polar Bear",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -14845,7 +14653,6 @@
       "name": "Pony",
       "tokenName": "Pony",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Hooves": {
           "name": "Hooves",
@@ -14857,7 +14664,6 @@
       "name": "Priest",
       "tokenName": "Priest",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainShirt]{Chain Shirt}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepMace000000]{Mace}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "subtype": "Cleric",
       "languages": "Common plus one other language",
       "items": {
@@ -14971,7 +14777,6 @@
       "name": "Priest Acolyte",
       "tokenName": "Priest Acolyte",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainShirt]{Chain Shirt}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepMace000000]{Mace}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "subtype": "Cleric",
       "items": {
         "Mace": {
@@ -15070,7 +14875,6 @@
       "name": "Pseudodragon",
       "tokenName": "Pseudodragon",
       "description": "<h1>Pseudodragon</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.NhqYPD69TqlVJpKV caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Good",
       "languages": "Understands Common and Draconic but can’t speak",
       "items": {
         "Magic Resistance": {
@@ -15110,7 +14914,6 @@
     "Pteranodon": {
       "name": "Pteranodon",
       "tokenName": "Pteranodon",
-      "alignment": "Unaligned",
       "items": {
         "Flyby": {
           "name": "Flyby",
@@ -15127,7 +14930,6 @@
     "Purple Worm": {
       "name": "Purple Worm",
       "tokenName": "Purple Worm",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -15198,8 +15000,8 @@
       "name": "Quasit",
       "tokenName": "Quasit",
       "description": "<h1>Quasit</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.5VW4pbLF5nwdO7II caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Demon",
+      "planarSubtype": "abyss",
       "items": {
         "Magic Resistance": {
           "name": "Magic Resistance",
@@ -15269,7 +15071,8 @@
       "name": "Rakshasa",
       "tokenName": "Rakshasa",
       "description": "<h1>Rakshasa</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.DMYEpWr3wvK4RLih caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
+      "dv": "Piercing damage from weapons wielded by creatures under the effect of a Bless spell",
+      "planarSubtype": "nine hells",
       "items": {
         "Greater Magic Resistance": {
           "name": "Greater Magic Resistance",
@@ -15457,7 +15260,6 @@
       "name": "Rat",
       "tokenName": "Rat",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Agile": {
           "name": "Agile",
@@ -15474,7 +15276,6 @@
       "name": "Raven",
       "tokenName": "Raven",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Mimicry": {
           "name": "Mimicry",
@@ -15490,7 +15291,6 @@
       "name": "Red Dragon Wyrmling",
       "tokenName": "Red Dragon Wyrmling",
       "description": "<h1>Red Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Rx08X1mW6m5uYldI caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Red Dragon Wyrmling</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.u7L682ldreJy4PlC caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Chromatic",
       "items": {
         "Multiattack": {
@@ -15516,7 +15316,6 @@
       "name": "Reef Shark",
       "tokenName": "Reef Shark",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Pack Tactics": {
           "name": "Pack Tactics",
@@ -15538,7 +15337,6 @@
       "name": "Remorhaz",
       "tokenName": "Remorhaz",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Heat Aura": {
           "name": "Heat Aura",
@@ -15596,7 +15394,6 @@
       "name": "Rhinoceros",
       "tokenName": "Rhinoceros",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Gore": {
           "name": "Gore",
@@ -15623,7 +15420,6 @@
       "name": "Riding Horse",
       "tokenName": "Riding Horse",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Hooves": {
           "name": "Hooves",
@@ -15635,7 +15431,6 @@
       "name": "Roc",
       "tokenName": "Roc",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -15684,7 +15479,6 @@
       "name": "Roper",
       "tokenName": "Roper",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb",
@@ -15734,7 +15528,6 @@
       "name": "Rust Monster",
       "tokenName": "Rust Monster",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Iron Scent": {
           "name": "Iron Scent",
@@ -15801,7 +15594,6 @@
       "name": "Saber-Toothed Tiger",
       "tokenName": "Saber-Toothed Tiger",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Running Leap": {
           "name": "Running Leap",
@@ -15840,7 +15632,6 @@
       "name": "Sahuagin Warrior",
       "tokenName": "Sahuagin Warrior",
       "description": "<h1>Sahuagin</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.6GoEsoHTiVUdeAKu caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Sahuagin Warrior</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.e7E1JhVR2AaUl70T caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "languages": "Sahuagin",
       "items": {
         "Blood Frenzy": {
@@ -15889,7 +15680,7 @@
       "name": "Salamander",
       "tokenName": "Salamander",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
+      "planarSubtype": "elemental plane of fire",
       "items": {
         "Fire Aura": {
           "name": "Fire Aura",
@@ -15932,7 +15723,7 @@
       "name": "Satyr",
       "tokenName": "Satyr",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Neutral",
+      "planarSubtype": "feywild",
       "items": {
         "Magic Resistance": {
           "name": "Magic Resistance",
@@ -15957,7 +15748,6 @@
       "name": "Scorpion",
       "tokenName": "Scorpion",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Sting": {
           "name": "Sting",
@@ -15969,7 +15759,6 @@
       "name": "Scout",
       "tokenName": "Scout",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{Leather Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{Longbow}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{Shortsword}</p></div><h1>Scouts</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Ia0dhEMIJJ7PVLVn caption=false cite=false classes=\"no-embed mm\"]</p><h2>Scout</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.AXb6rgRnpN7qGWWX caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "languages": "Common plus one other language",
       "items": {
         "Shortsword": {
@@ -15998,7 +15787,6 @@
       "name": "Sea Hag",
       "tokenName": "Sea Hag",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -16173,7 +15961,6 @@
       "name": "Seahorse",
       "tokenName": "Seahorse",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Water Breathing": {
           "name": "Water Breathing",
@@ -16201,7 +15988,7 @@
       "name": "Shadow",
       "tokenName": "Shadow",
       "description": "<h1>Shadow</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.VYmVmSUznIAKRkCf caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
+      "planarSubtype": "shadowfell",
       "items": {
         "Amorphous": {
           "name": "Amorphous",
@@ -16267,7 +16054,6 @@
       "name": "Shambling Mound",
       "tokenName": "Shambling Mound",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Lightning Absorption": {
           "name": "Lightning Absorption",
@@ -16316,7 +16102,6 @@
       "name": "Shield Guardian",
       "tokenName": "Shield Guardian",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bound": {
           "name": "Bound",
@@ -16370,7 +16155,6 @@
       "name": "Shrieker Fungus",
       "tokenName": "Shrieker Fungus",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Shriek": {
           "name": "Shriek",
@@ -16387,7 +16171,6 @@
       "name": "Silver Dragon Wyrmling",
       "tokenName": "Silver Dragon Wyrmling",
       "description": "<h1>Silver Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.REGxFxNrTLFswtA1 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Silver Dragon Wyrmling</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.HwVckgQCUMSXFgQx caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
       "subtype": "Metallic",
       "items": {
         "Multiattack": {
@@ -16432,8 +16215,8 @@
       "name": "Skeleton",
       "tokenName": "Skeleton",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{Shortbow}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{Shortsword}</p></div><h1>Skeletons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.w1RMyPzpjolhQMVX caption=false cite=false classes=\"no-embed mm\"]</p><h2>Skeleton</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.pm1ZyudVsOl0ve5C caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "languages": "Understands Common plus one other language but can’t speak",
+      "planarSubtype": "shadowfell",
       "items": {
         "Shortsword": {
           "name": "Shortsword",
@@ -16449,7 +16232,7 @@
       "name": "Slaad Tadpole",
       "tokenName": "Slaad Tadpole",
       "description": "<h1>Slaadi</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.AXXqca9xNbd6xnJ6 caption=false cite=false classes=\"no-embed mm\"]</p><h2>Slaad Tadpole</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.b21ZhbjLPDZojvRz caption=false cite=false classes=\"no-embed mm\"]</p>",
-      "alignment": "Chaotic Neutral",
+      "planarSubtype": "limbo",
       "items": {
         "Magic Resistance": {
           "name": "Magic Resistance",
@@ -16466,7 +16249,6 @@
       "name": "Small Animated Object",
       "tokenName": "Animated Object",
       "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
-      "alignment": "Unaligned",
       "languages": "Understands the languages you know",
       "items": {
         "Slam": {
@@ -16479,7 +16261,7 @@
       "name": "Solar",
       "tokenName": "Solar",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
+      "planarSubtype": "upper planes",
       "items": {
         "Divine Awareness": {
           "name": "Divine Awareness",
@@ -16702,7 +16484,6 @@
       "name": "Specter",
       "tokenName": "Specter",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "languages": "Understands Common plus one other language but can’t speak",
       "items": {
         "Incorporeal Movement": {
@@ -16724,7 +16505,7 @@
       "name": "Sphinx of Lore",
       "tokenName": "Sphinx of Lore",
       "description": "<h1>Sphinxes</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.JPdmXY7WGZdIPlJo caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Neutral",
+      "planarSubtype": "upper planes",
       "items": {
         "Inscrutable": {
           "name": "Inscrutable",
@@ -16957,7 +16738,7 @@
       "name": "Sphinx of Valor",
       "tokenName": "Sphinx of Valor",
       "description": "<h1>Sphinxes</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.JPdmXY7WGZdIPlJo caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Neutral",
+      "planarSubtype": "upper planes",
       "items": {
         "Inscrutable": {
           "name": "Inscrutable",
@@ -17158,7 +16939,7 @@
       "name": "Sphinx of Wonder",
       "tokenName": "Sphinx of Wonder",
       "description": "<h1>Sphinxes</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.JPdmXY7WGZdIPlJo caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Sphinx of Wonder</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.knvt7pCk5slbRRf0 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Lawful Good",
+      "planarSubtype": "upper planes",
       "items": {
         "Magic Resistance": {
           "name": "Magic Resistance",
@@ -17178,7 +16959,6 @@
       "name": "Spider",
       "tokenName": "Spider",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb",
@@ -17199,7 +16979,7 @@
       "name": "Spirit Naga",
       "tokenName": "Spirit Naga",
       "description": "<h1>Spirit Naga</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.SYPUI0R76sVilXaV caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
+      "planarSubtype": "lower planes underdark",
       "items": {
         "Fiendish Restoration": {
           "name": "Fiendish Restoration",
@@ -17364,7 +17144,7 @@
       "name": "Sprite",
       "tokenName": "Sprite",
       "description": "<h1>Sprite</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.V6OhuMIts22zPe8X caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Good",
+      "planarSubtype": "feywild",
       "items": {
         "Needle Sword": {
           "name": "Needle Sword",
@@ -17413,7 +17193,6 @@
       "name": "Spy",
       "tokenName": "Spy",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepHandCrossb]{Hand Crossbow}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{Shortsword}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulThievesToo]{Thieves' Tools}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "languages": "Common plus one other language",
       "items": {
         "Shortsword": {
@@ -17439,7 +17218,7 @@
       "name": "Steam Mephit",
       "tokenName": "Steam Mephit",
       "description": "<h1>Mephits</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.C5AnYUB2Vhu0urqS caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Steam Mephit</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.G3d4GDT0FWo30AdL caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
+      "planarSubtype": "elemental planes",
       "items": {
         "Blurred Form": {
           "name": "Blurred Form",
@@ -17480,7 +17259,6 @@
       "name": "Stirge",
       "tokenName": "Stirge",
       "description": "<h1>Stirges</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.XvhPdtq14MUqgYVO caption=false cite=false classes=\"no-embed mm\"]</p><h2>Stirge</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.1FyvNuYRqfEBdGNl caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Proboscis": {
           "name": "Proboscis",
@@ -17497,7 +17275,6 @@
       "name": "Stone Giant",
       "tokenName": "Stone Giant",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -17541,7 +17318,6 @@
       "name": "Stone Golem",
       "tokenName": "Stone Golem",
       "description": "<h1>Stone Golem</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.XW2WF8vjTcmnKF17 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "languages": "plus two other languages;",
       "items": {
         "Immutable Form": {
@@ -17593,7 +17369,6 @@
       "name": "Storm Giant",
       "tokenName": "Storm Giant",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Good",
       "items": {
         "Amphibious": {
           "name": "Amphibious",
@@ -17694,7 +17469,7 @@
       "name": "Succubus",
       "tokenName": "Succubus",
       "description": "<h1>Succubus</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Kzvd8PBUBkJG5zSg caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
+      "planarSubtype": "lower planes",
       "items": {
         "Incubus Form": {
           "name": "Incubus Form",
@@ -17766,7 +17541,6 @@
       "name": "Swarm of Bats",
       "tokenName": "Swarm of Bats",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Swarm": {
           "name": "Swarm",
@@ -17787,7 +17561,6 @@
     "Swarm of Crawling Claws": {
       "name": "Swarm of Crawling Claws",
       "tokenName": "Swarm of Crawling Claws",
-      "alignment": "Neutral Evil",
       "items": {
         "Swarm": {
           "name": "Swarm",
@@ -17815,7 +17588,6 @@
       "name": "Swarm of Insects",
       "tokenName": "Swarm of Insects",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb",
@@ -17841,7 +17613,6 @@
       "name": "Swarm of Piranhas",
       "tokenName": "Swarm of Piranhas",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Swarm": {
           "name": "Swarm",
@@ -17870,7 +17641,6 @@
       "name": "Swarm of Rats",
       "tokenName": "Swarm of Rats",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Swarm": {
           "name": "Swarm",
@@ -17892,7 +17662,6 @@
       "name": "Swarm of Ravens",
       "tokenName": "Swarm of Ravens",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Swarm": {
           "name": "Swarm",
@@ -17927,7 +17696,6 @@
       "name": "Swarm of Venomous Snakes",
       "tokenName": "Swarm of Venomous Snakes",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Swarm": {
           "name": "Swarm",
@@ -17949,7 +17717,6 @@
       "name": "Tarrasque",
       "tokenName": "Tarrasque",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "subtype": "Titan",
       "items": {
         "Legendary Resistance": {
@@ -18092,7 +17859,6 @@
       "name": "Tiger",
       "tokenName": "Tiger",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Rend": {
           "name": "Rend",
@@ -18124,7 +17890,6 @@
       "name": "Tiny Animated Object",
       "tokenName": "Animated Object",
       "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplAnimateObj caption=false]</p>",
-      "alignment": "Unaligned",
       "languages": "Understands the languages you know",
       "items": {
         "Slam": {
@@ -18137,7 +17902,6 @@
       "name": "Tough",
       "tokenName": "Tough",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepHeavyCross]{Heavy Crossbow}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{Leather Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepMace000000]{Mace}</p></div><h1>Toughs</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.UqOqk409VNapbgEM caption=false cite=false classes=\"no-embed mm\"]</p><h2>Tough</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.vQksq6TlqGNyyl5l caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Mace": {
           "name": "Mace",
@@ -18161,7 +17925,6 @@
       "name": "Tough Boss",
       "tokenName": "Tough Boss",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainMail0]{Chain Mail}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepHeavyCross]{Heavy Crossbow}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepWarhammer0]{Warhammer}</p></div><h1>Toughs</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.UqOqk409VNapbgEM caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Tough Boss</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.T47eTnRd4tadGFU9 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Neutral",
       "languages": "Common plus one other language",
       "items": {
         "Warhammer": {
@@ -18195,7 +17958,6 @@
       "name": "Treant",
       "tokenName": "Treant",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Good",
       "items": {
         "Siege Monster": {
           "name": "Siege Monster",
@@ -18239,7 +18001,6 @@
       "name": "Triceratops",
       "tokenName": "Triceratops",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -18275,7 +18036,6 @@
       "name": "Troll",
       "tokenName": "Troll",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "items": {
         "Loathsome Limbs": {
           "name": "Loathsome Limbs",
@@ -18355,7 +18115,6 @@
     "Troll Limb": {
       "name": "Troll Limb",
       "tokenName": "Troll Limb",
-      "alignment": "Chaotic Evil",
       "items": {
         "Regeneration": {
           "name": "Regeneration",
@@ -18386,7 +18145,6 @@
       "name": "Tyrannosaurus Rex",
       "tokenName": "Tyrannosaurus Rex",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -18429,7 +18187,7 @@
       "name": "Unicorn",
       "tokenName": "Unicorn",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
+      "planarSubtype": "feywild",
       "items": {
         "Legendary Resistance": {
           "name": "Legendary Resistance",
@@ -18646,7 +18404,6 @@
       "name": "Vampire",
       "tokenName": "Vampire",
       "description": "<h1>Vampires</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.y4ooBM6PNZfWH3Tv caption=false cite=false classes=\"no-embed mm\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "languages": "Common plus two other languages",
       "items": {
         "Legendary Resistance": {
@@ -18796,7 +18553,6 @@
       "name": "Vampire Familiar",
       "tokenName": "Vampire Familiar",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{Daggers (10)}</p></div><h1>Vampires</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.y4ooBM6PNZfWH3Tv caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Vampire Familiar</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.iWbAQD1GN6bn7JeU caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
-      "alignment": "Neutral Evil",
       "languages": "Common plus one other language",
       "items": {
         "Vampiric Connection": {
@@ -18837,7 +18593,6 @@
       "name": "Vampire Spawn",
       "tokenName": "Vampire Spawn",
       "description": "<h1>Vampires</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.y4ooBM6PNZfWH3Tv caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "languages": "Common plus one other language",
       "items": {
         "Spider Climb": {
@@ -18911,7 +18666,6 @@
       "name": "Venomous Snake",
       "tokenName": "Venomous Snake",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -18924,7 +18678,6 @@
       "name": "Violet Fungus",
       "tokenName": "Violet Fungus",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -18945,8 +18698,8 @@
       "name": "Vrock",
       "tokenName": "Vrock",
       "description": "<h1>Vrock</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.yqpU1D8Hjb3YzIHu caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Demon",
+      "planarSubtype": "abyss",
       "items": {
         "Demonic Restoration": {
           "name": "Demonic Restoration",
@@ -19005,7 +18758,6 @@
       "name": "Vulture",
       "tokenName": "Vulture",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Pack Tactics": {
           "name": "Pack Tactics",
@@ -19022,7 +18774,6 @@
       "name": "Warhorse",
       "tokenName": "Warhorse",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Hooves": {
           "name": "Hooves",
@@ -19045,7 +18796,7 @@
       "name": "Warhorse Skeleton",
       "tokenName": "Warhorse Skeleton",
       "description": "<h1>Skeletons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.w1RMyPzpjolhQMVX caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
+      "planarSubtype": "shadowfell",
       "items": {
         "Hooves": {
           "name": "Hooves",
@@ -19068,7 +18819,6 @@
       "name": "Warrior Infantry",
       "tokenName": "Warrior Infantry",
       "description": "<h1>Warriors</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.3Il3CvacAVpf6Rch caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Warrior Infantry</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Tg6q9tEwUMz6alIf caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "items": {
         "Spear": {
           "name": "Spear",
@@ -19085,7 +18835,6 @@
       "name": "Warrior Veteran",
       "tokenName": "Warrior Veteran",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{Greatsword}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepHeavyCross]{Heavy Crossbow}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmSplintArmo]{Splint Armor}</p></div><h1>Warriors</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.3Il3CvacAVpf6Rch caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "languages": "Common plus one other language",
       "items": {
         "Greatsword": {
@@ -19130,7 +18879,7 @@
       "name": "Water Elemental",
       "tokenName": "Water Elemental",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
+      "planarSubtype": "elemental plane of water",
       "items": {
         "Freeze": {
           "name": "Freeze",
@@ -19193,7 +18942,6 @@
       "name": "Weasel",
       "tokenName": "Weasel",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -19206,7 +18954,6 @@
       "name": "Werebear",
       "tokenName": "Werebear",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepHandaxe000]{Handaxes (4)}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Good",
       "subtype": "Lycanthrope",
       "languages": "can’t speak in bear form",
       "items": {
@@ -19276,7 +19023,6 @@
       "name": "Wereboar",
       "tokenName": "Wereboar",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{Javelins (6)}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "subtype": "Lycanthrope",
       "languages": "Can’t speak in boar form",
       "items": {
@@ -19351,7 +19097,6 @@
       "name": "Wererat",
       "tokenName": "Wererat",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepHandCrossb]{Hand Crossbow}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Lycanthrope",
       "languages": "Can't speak in rat form",
       "items": {
@@ -19403,7 +19148,6 @@
       "name": "Weretiger",
       "tokenName": "Weretiger",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{Longbow}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
       "subtype": "Lycanthrope",
       "languages": "can’t speak in tiger form",
       "items": {
@@ -19464,7 +19208,6 @@
       "name": "Werewolf",
       "tokenName": "Werewolf",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{Longbow}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Lycanthrope",
       "languages": "can’t speak in wolf form",
       "items": {
@@ -19526,7 +19269,6 @@
       "name": "White Dragon Wyrmling",
       "tokenName": "White Dragon Wyrmling",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Chromatic",
       "items": {
         "Ice Walk": {
@@ -19556,8 +19298,8 @@
       "name": "Wight",
       "tokenName": "Wight",
       "description": "<div class=\"gear\"><p><strong>Gear:</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{Studded Leather Armor}</p></div><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "languages": "Common plus one other language",
+      "planarSubtype": "shadowfell",
       "items": {
         "Studded Leather Armor": {
           "name": "Studded Leather Armor"
@@ -19599,7 +19341,6 @@
       "name": "Will-o'-Wisp",
       "tokenName": "Will-o'-Wisp",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "languages": "Common plus one other language",
       "items": {
         "Ephemeral": {
@@ -19658,7 +19399,6 @@
       "name": "Winter Wolf",
       "tokenName": "Winter Wolf",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "items": {
         "Pack Tactics": {
           "name": "Pack Tactics",
@@ -19686,7 +19426,6 @@
       "name": "Wolf",
       "tokenName": "Wolf",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Pack Tactics": {
           "name": "Pack Tactics",
@@ -19710,8 +19449,8 @@
       "name": "Worg",
       "tokenName": "Worg",
       "description": "<h1>Worgs</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.9wPwyBWpNGzAL7yb caption=false cite=false classes=\"no-embed mm\"]</p><h2>Worg</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.KQj16GboSsgX6Jhe caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "languages": "Worg",
+      "planarSubtype": "feywild",
       "items": {
         "Bite": {
           "name": "Bite",
@@ -19724,8 +19463,8 @@
       "name": "Wraith",
       "tokenName": "Wraith",
       "description": "<h1>Wraith</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.MjPLUclFHalyuLor caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "languages": "Common plus two other languages",
+      "planarSubtype": "shadowfell",
       "items": {
         "Incorporeal Movement": {
           "name": "Incorporeal Movement",
@@ -19760,7 +19499,6 @@
       "name": "Wyvern",
       "tokenName": "Wyvern",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Unaligned",
       "items": {
         "Multiattack": {
           "name": "Multiattack",
@@ -19792,7 +19530,7 @@
       "name": "Xorn",
       "tokenName": "Xorn",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral",
+      "planarSubtype": "elemental plane of earth",
       "items": {
         "Earth Glide": {
           "name": "Earth Glide",
@@ -19835,7 +19573,6 @@
       "name": "Young Black Dragon",
       "tokenName": "Young Black Dragon",
       "description": "<h1>Black Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.EZn4p80bsBA4HbN8 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Chromatic",
       "items": {
         "Amphibious": {
@@ -19865,7 +19602,6 @@
       "name": "Young Blue Dragon",
       "tokenName": "Young Blue Dragon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Chromatic",
       "items": {
         "Multiattack": {
@@ -19891,7 +19627,6 @@
       "name": "Young Brass Dragon",
       "tokenName": "Young Brass Dragon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Good",
       "subtype": "Metallic",
       "items": {
         "Multiattack": {
@@ -19940,7 +19675,6 @@
       "name": "Young Bronze Dragon",
       "tokenName": "Young Bronze Dragon",
       "description": "<p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
       "subtype": "Metallic",
       "items": {
         "Amphibious": {
@@ -19985,7 +19719,6 @@
       "name": "Young Copper Dragon",
       "tokenName": "Young Copper Dragon",
       "description": "<h1>Copper Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.1gZk82d5dqtIeB4K caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Good",
       "subtype": "Metallic",
       "items": {
         "Multiattack": {
@@ -20021,7 +19754,6 @@
       "name": "Young Gold Dragon",
       "tokenName": "Young Gold Dragon",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
       "subtype": "Metallic",
       "items": {
         "Multiattack": {
@@ -20066,7 +19798,6 @@
       "name": "Young Green Dragon",
       "tokenName": "Young Green Dragon",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Evil",
       "subtype": "Chromatic",
       "items": {
         "Amphibious": {
@@ -20101,7 +19832,6 @@
       "name": "Young Red Dragon",
       "tokenName": "Young Red Dragon",
       "description": "<h1>Red Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Rx08X1mW6m5uYldI caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Chromatic",
       "items": {
         "Multiattack": {
@@ -20127,7 +19857,6 @@
       "name": "Young Silver Dragon",
       "tokenName": "Young Silver Dragon",
       "description": "<h1>Silver Dragons</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.REGxFxNrTLFswtA1 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Lawful Good",
       "subtype": "Metallic",
       "items": {
         "Multiattack": {
@@ -20172,7 +19901,6 @@
       "name": "Young White Dragon",
       "tokenName": "Young White Dragon",
       "description": "<h1></h1><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Chaotic Evil",
       "subtype": "Chromatic",
       "items": {
         "Ice Walk": {
@@ -20202,8 +19930,8 @@
       "name": "Zombie",
       "tokenName": "Zombie",
       "description": "<h1>Zombies</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.2xCqDBEM46bLXD4q caption=false cite=false classes=\"no-embed mm\"]</p><h2>Zombie</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.WuSY8kEg0E7DusN5 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Token artwork by <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
-      "alignment": "Neutral Evil",
       "languages": "Understands Common plus one other language but can’t speak",
+      "planarSubtype": "shadowfell",
       "items": {
         "Undead Fortitude": {
           "name": "Undead Fortitude",
