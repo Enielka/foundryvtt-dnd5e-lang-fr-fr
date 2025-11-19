@@ -2702,7 +2702,7 @@
         },
         "Standing Leap": {
             "name": "Saut sans élan",
-            "description": "<p class=\"feature\">Les sauts en longueur de la [[lookup @name lowercase]] peuvent atteindre 3 m et ses sauts en hauteur 1,50 m, avec ou sans élan.</p>"
+            "description": "<p class=\"feature\">Les sauts en longueur de la [[lookup @name lowercase]] peuvent atteindre 6 m et ses sauts en hauteur 3 m, avec ou sans élan.</p>"
         },
         "Steam Breath": {
             "name": "Souffle de vapeur",
