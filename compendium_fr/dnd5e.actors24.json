@@ -8629,7 +8629,7 @@
                 },
                 "Bite": {
                     "name": "Morsure",
-                    "description": "<p><em>Attaque d'arme au corps à corps ou à distance :</em> [[/attack]], allonge 1,50 m, une cible. <em>Touché :</em> 4 ([[/damage]]{1d4 + 2}) dégâts perforants, et la cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant du [[lookup @name lowercase]].</p>",
+                    "description": "<p>[[/attack extended]]. [[/damage average extended]], et la cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant du mille-pattes.</p>",
                     "effects": {
                         "Poisoned": {
                             "name": "Empoisonné",
