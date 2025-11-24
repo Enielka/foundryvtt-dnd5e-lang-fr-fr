@@ -80,7 +80,7 @@
         },
         "Animate Trees": {
             "name": "Animation des arbres",
-            "description": "<p>Le [[lookup @name lowercase]] anime magiquement [[lookup @target.affects.special activity=EceTNjzjKWdrMNAy]] qu'il voit dans un rayon de [[lookup @range.value activity=EceTNjzjKWdrMNAy]] [[lookup @range.units activity=EceTNjzjKWdrMNAy]]. Chaque arbre reprend le profil du @UUID[Compendium.dnd-monster-manual.actors.Actor.mmTreant00000000]{sylvanien}, si ce n'est que ses valeurs d'Intelligence et de Charisme sont de 1, qu'il ne parle pas et ne dispose pas de la présente action. L'arbre joue son tour juste après le [[lookup @name lowercase]], au même rang d'initiative, et obéit à celui-ci. Cette animation dure 1 jour, mais prend fin prématurément si l'arbre ou le [[lookup @name lowercase]] meurt, ou si les deux se retrouvent éloignés de plus de 36 m. L'arbre prend alors racine, si possible.</p>",
+            "description": "<p>Le [[lookup @name lowercase]] anime magiquement [[lookup @target.affects.special activity=EceTNjzjKWdrMNAy]] qu'il voit dans un rayon de [[lookup @range.value activity=EceTNjzjKWdrMNAy]] [[lookup @range.units activity=EceTNjzjKWdrMNAy]]. Chaque arbre reprend le profil du @UUID[Compendium.dnd5e.actors24.Actor.mmTreant00000000]{sylvanien}, si ce n'est que ses valeurs d'Intelligence et de Charisme sont de 1, qu'il ne parle pas et ne dispose pas de la présente action. L'arbre joue son tour juste après le [[lookup @name lowercase]], au même rang d'initiative, et obéit à celui-ci. Cette animation dure 1 jour, mais prend fin prématurément si l'arbre ou le [[lookup @name lowercase]] meurt, ou si les deux se retrouvent éloignés de plus de 36 m. L'arbre prend alors racine, si possible.</p>",
             "activities": {
                 "summon": {
                     "target": "un ou deux arbres"
@@ -392,7 +392,7 @@
         },
         "Burst of Ingenuity": {
             "name": "Accès d'ingéniosité",
-            "description": "<p><em>Déclencheur :</em> le [[lookup @name lowercase]] ou une autre créature dans un rayon de [[lookup @range.value activity=AyYipNx3cFaXA0LU]] [[lookup @range.units activity=AyYipNx3cFaXA0LU]] effectue un jet de sauvegarde ou un test de caractéristique. <em>Conséquences :</em> le sphinx ajoute 2 au jet.</p>"
+            "description": "<p><em>Déclencheur :</em> le [[lookup @name lowercase]] ou une autre créature dans un rayon de [[lookup @range.value activity=AyYipNx3cFaXA0LU]] [[lookup @range.units activity=AyYipNx3cFaXA0LU]] effectue un jet de sauvegarde ou un test de caractéristique. <em>Conséquences :</em> le [[lookup @name lowercase]] ajoute 2 au jet.</p>"
         },
         "Cacophony": {
             "name": "Cacophonie",
@@ -1082,7 +1082,7 @@
         },
         "Fire Breath": {
             "name": "Souffle de feu",
-            "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=bDqgmtLG3zcVuqdi]], chaque créature dans une Ligne de [[lookup @target.template.size activity=bDqgmtLG3zcVuqdi]] [[lookup @target.template.units activity=bDqgmtLG3zcVuqdi]] de long sur [[lookup @target.template.width activity=bDqgmtLG3zcVuqdi]] [[lookup @target.template.units activity=bDqgmtLG3zcVuqdi]] de large.</p><p><em>Échec : </em>[[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
+            "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=bDqgmtLG3zcVuqdi]], chaque créature dans une Ligne de [[lookup @target.template.size activity=bDqgmtLG3zcVuqdi]] [[lookup @target.template.units activity=bDqgmtLG3zcVuqdi]] de long sur [[lookup @target.template.width activity=bDqgmtLG3zcVuqdi]] [[lookup @target.template.units activity=bDqgmtLG3zcVuqdi]] de large.</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
         },
         "Fire Form": {
             "name": "Corps de feu",
@@ -2320,7 +2320,7 @@
         },
         "Repulsion Breath": {
             "name": "Souffle répulsif",
-            "description": "<p class=\"feature\"><em>JS Force :</em> DD [[lookup @save.dc.value activity=zuf9EEVj4nI1joaH]], chaque créature dans un Cône de [[lookup @target.template.size activity=zuf9EEVj4nI1joaH]] [[lookup @target.template.units activity=zuf9EEVj4nI1joaH]]. </p><p class=\"feature\"><em>Échec :</em> la cible est repoussée du [[lookup @name lowercase]] sur 9 m en ligne droite et subit l'état &Reference[Prone apply=false].</p>",
+            "description": "<p class=\"feature\"><em>JS Force :</em> DD [[lookup @save.dc.value activity=zuf9EEVj4nI1joaH]], chaque créature dans un Cône de [[lookup @target.template.size activity=zuf9EEVj4nI1joaH]] [[lookup @target.template.units activity=zuf9EEVj4nI1joaH]].</p><p class=\"feature\"><em>Échec :</em> la cible est repoussée du [[lookup @name lowercase]] sur 9 m en ligne droite et subit l'état &Reference[Prone apply=false].</p>",
             "activities": {
                 "Save": {
                     "name": "Sauvegarde"
@@ -2591,7 +2591,7 @@
                 },
                 "Unconscious": {
                     "name": "Inconscient",
-                    "description": "<p>La cible subit l'état &Reference[Unconscious apply=false] pendant toute la durée (voir l'objet source pour la durée). </p>"
+                    "description": "<p>La cible subit l'état &Reference[Unconscious apply=false] pendant toute la durée (voir l'objet source pour la durée).</p>"
                 }
             }
         },
