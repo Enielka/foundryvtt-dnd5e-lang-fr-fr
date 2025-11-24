@@ -512,7 +512,8 @@
         },
         "Commanding Presence": {
             "name": "Autorité naturelle",
-            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] recourt à [[/item Incantation]] pour lancer <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCommand000]{injonction}</em> (au 2<sup>e</sup> niveau). Le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>"
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] recourt à [[/item Incantation]] pour lancer <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCommand000]{injonction}</em> (au 2<sup>e</sup> niveau). Le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>",
+            "chat": "<p class=\"feature\">Le [[lookup @name lowercase]] recourt à Incantation pour lancer <em>injonction</em> (au 2<sup>e</sup> niveau). Le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>"
         },
         "Compression": {
             "name": "Compression",
@@ -3419,7 +3420,8 @@
                 "Cast Wish": {
                     "name": "Incanter Souhait"
                 }
-            }
+            },
+            "chat": "<p>[[/r 1d100cs<31#Connaît Souhait sur 1]]{30 %}</p>"
         },
         "Withering Sword": {
             "name": "Épée flétrissante",
