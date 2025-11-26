@@ -1,6 +1,5 @@
 {
   "Actor": {
-    "tokenName": "prototypeToken.name",
     "subtype": "system.details.type.subtype",
     "customType": "system.details.type.custom",
     "dimensions": "system.traits.dimensions",
