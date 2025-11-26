@@ -15903,20 +15903,20 @@
             }
         },
         "Solar": {
-            "name": "",
+            "name": "Solar",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "items": {
                 "Divine Awareness": {
-                    "name": "",
-                    "description": ""
+                    "name": "Vigilance divine",
+                    "description": "<p class=\"feature\">Le [[lookup @name lowercase]] reconnaît un mensonge quand il en entend un.</p>"
                 },
                 "Exalted Restoration": {
-                    "name": "",
-                    "description": ""
+                    "name": "Restauration exaltée",
+                    "description": "<p class=\"feature\">Si le [[lookup @name lowercase]] meurt hors du Mont Céleste, son corps disparaît et il en acquiert aussitôt un nouveau en revenant à la vie avec tous ses pv, quelque part sur le Mont Céleste.</p>"
                 },
                 "Legendary Resistance": {
                     "name": "Résistance légendaire",
-                    "description": "",
+                    "description": "<p>Si le [[lookup @name lowercase]] rate un jet de sauvegarde, il peut décider de le réussir tout de même.</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation",
@@ -15926,11 +15926,11 @@
                 },
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
-                    "description": ""
+                    "description": "<p>Le [[lookup @name lowercase]] a l'Avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le [[lookup @name lowercase]] effectue deux attaques d'[[/item Épée volante]]. Il peut remplacer l'une de ces attaques par une utilisation d'[[/item Arc tueur]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -15938,8 +15938,8 @@
                     }
                 },
                 "Slaying Bow": {
-                    "name": "",
-                    "description": "",
+                    "name": "Arc tueur",
+                    "description": "<p class=\"feature\"><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=C7BMf8hIfCjxRSWC]], une créature que le [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=C7BMf8hIfCjxRSWC]] [[lookup @range.units activity=C7BMf8hIfCjxRSWC]].</p><p><em>Échec :</em> si la créature est dotée de 100 points de vie ou moins, elle meurt. Sinon, elle subit [[/damage average]].</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde"
@@ -15947,12 +15947,12 @@
                     }
                 },
                 "Flying Sword": {
-                    "name": "",
-                    "description": ""
+                    "name": "Épée volante",
+                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]]. <em>Touché ou raté :</em> aussitôt après une attaque à distance, l'épée retourne magiquement dans la main du [[lookup @name lowercase]] ou flotte dans un rayon de 1,50 m de lui.</p>"
                 },
                 "Spellcasting": {
                     "name": "Incantation",
-                    "description": ""
+                    "description": "<p class=\"feature\">Le [[lookup @name lowercase]] lance l'un des sorts suivants sans composantes matérielles, le Charisme étant sa caractéristique d'incantation (DD de sauvegarde [[lookup @attributes.spell.dc]]) :</p><p class=\"feature-trait\"><strong>À volonté :</strong> <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectEvil]{détection du mal et du bien}</em></p><p class=\"feature-trait\"><strong>1/jour chacun :</strong> <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCommune000]{communion}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplControlWea]{contrôle du climat}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDispelEvil]{dissipation du mal et du bien}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplResurrecti]{résurrection}</em></p>"
                 },
                 "Detect Evil and Good": {
                     "name": "Détection du mal et du bien",
@@ -16030,37 +16030,37 @@
                     }
                 },
                 "Resurrection": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Résurrection",
+                    "description": "<p>D'un contact, vous ramenez à la vie une créature dont la mort ne remonte pas à plus d'un siècle, qui n'est pas morte de vieillesse et n'était pas un Mort-vivant au moment de mourir.</p><p>La créature revient à la vie avec tous ses points de vie. Ce sort neutralise également tous les poisons qui affectaient la créature au moment de mourir. Ce sort referme toutes les blessures mortelles et restitue l'anatomie manquante.</p><p>Revenir d'entre les morts demeure une épreuve. La cible subit un malus de -4 aux Tests d20. Chaque fois qu'elle termine un Repos long, ce malus diminue de 1, jusqu'à ce qu'il tombe à 0.</p><p>L'incantation de ce sort s'avère éreintante lorsqu'il s'agit de ramener à la vie une créature morte depuis 365 jours ou plus. Tant que vous n'avez pas terminé de Repos long, vous ne pouvez plus lancer de sort et vous avez le Désavantage aux Tests d20.</p>",
+                    "materials": "un diamant d'une valeur minimale de 1 000 po, que le sort détruit",
                     "activities": {
                         "Cast": {
                             "name": "Incanter"
                         },
                         "Taxing Cast": {
-                            "name": ""
+                            "name": "Tribut d'incantation"
                         }
                     },
                     "effects": {
                         "Resurrection Sickness (Day 1)": {
-                            "name": "",
-                            "description": ""
+                            "name": "Mal de résurrection (Jour 1)",
+                            "description": "<p>Revenir d'entre les morts demeure une épreuve. La cible subit un malus de -4 aux Tests d20. Chaque fois qu'elle termine un Repos long, ce malus diminue de 1, jusqu'à ce qu'il tombe à 0.</p>"
                         },
                         "Resurrection Sickness (Day 2)": {
-                            "name": "",
-                            "description": ""
+                            "name": "Mal de résurrection (Jour 2)",
+                            "description": "<p>Revenir d'entre les morts demeure une épreuve. La cible subit un malus de -4 aux Tests d20. Chaque fois qu'elle termine un Repos long, ce malus diminue de 1, jusqu'à ce qu'il tombe à 0.</p>"
                         },
                         "Resurrection Sickness (Day 3)": {
-                            "name": "",
-                            "description": ""
+                            "name": "Mal de résurrection (Jour 3)",
+                            "description": "<p>Revenir d'entre les morts demeure une épreuve. La cible subit un malus de -4 aux Tests d20. Chaque fois qu'elle termine un Repos long, ce malus diminue de 1, jusqu'à ce qu'il tombe à 0.</p>"
                         },
                         "Resurrection Sickness (Day 4)": {
-                            "name": "",
-                            "description": ""
+                            "name": "Mal de résurrection (Jour 4)",
+                            "description": "<p>Revenir d'entre les morts demeure une épreuve. La cible subit un malus de -4 aux Tests d20. Chaque fois qu'elle termine un Repos long, ce malus diminue de 1, jusqu'à ce qu'il tombe à 0.</p>"
                         },
                         "Spell Taxed": {
-                            "name": "",
-                            "description": ""
+                            "name": "Sort épuisant",
+                            "description": "<p>Tant que vous n'avez pas terminé de Repos long, vous ne pouvez plus lancer de sort et vous avez le Désavantage aux Tests d20.</p>"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -16068,8 +16068,8 @@
                     }
                 },
                 "Blinding Gaze": {
-                    "name": "",
-                    "description": "",
+                    "name": "Regard aveuglant",
+                    "description": "<p><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=B6xM8C2pABIb5o7y]], une créature que le [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=B6xM8C2pABIb5o7y]] [[lookup @range.units activity=B6xM8C2pABIb5o7y]].</p><p><em>Échec :</em> la cible subit l'état &Reference[Blinded apply=false] pendant 1 minute.</p><p><em>Échec ou réussite :</em> le [[lookup @name lowercase]] ne peut alors plus entreprendre cette action jusqu'au début de son tour suivant.</p>",
                     "effects": {
                         "Blinded": {
                             "name": "Aveuglé"
@@ -16077,8 +16077,8 @@
                     }
                 },
                 "Radiant Teleport": {
-                    "name": "",
-                    "description": "",
+                    "name": "Téléportation radiante",
+                    "description": "<p class=\"feature\">Le [[lookup @name lowercase]] se téléporte d'un maximum de [[lookup @range.value activity=HtsFBK1PYKjvy9mn]] [[lookup @range.units activity=HtsFBK1PYKjvy9mn]] vers un espace inoccupé qu'il voit.</p><p class=\"feature\"><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=HtsFBK1PYKjvy9mn]], chaque créature dans une Émanation de [[lookup @target.template.size activity=HtsFBK1PYKjvy9mn]] [[lookup @target.template.units activity=HtsFBK1PYKjvy9mn]] centrée sur le [[lookup @name lowercase]] à son espace de destination.</p><p class=\"feature\"><em>Échec :</em> [[/damage average]].</p><p class=\"feature\"><em>Réussite :</em> demi-dégâts.</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde"
@@ -16086,8 +16086,8 @@
                     }
                 },
                 "Divine Aid": {
-                    "name": "",
-                    "description": ""
+                    "name": "Soutien divin",
+                    "description": "<p class=\"feature\">Le [[lookup @name lowercase]] lance <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplRemoveCurs]{délivrance des malédictions}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplLesserRest]{restauration partielle}</em> ou <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCureWounds]{soins}</em> (au 2<sup>e</sup> niveau), avec la même caractéristique d'incantation que pour Incantation.</p>"
                 },
                 "Cure Wounds": {
                     "name": "Soins",
