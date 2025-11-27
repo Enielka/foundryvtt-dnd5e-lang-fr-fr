@@ -37,6 +37,7 @@
     "Scrolls": "Scrolls",
     "Simple Melee": "Simple Melee",
     "Simple Ranged": "Simple Ranged",
+    "Spell Scrolls": "Spell Scrolls",
     "Spellcasting Focuses": "Spellcasting Focuses",
     "Staff": "Staff",
     "Supplemental": "Supplemental",
@@ -2504,7 +2505,7 @@
     },
     "Gloves of Swimming and Climbing": {
       "name": "Gloves of Swimming and Climbing",
-      "description": "<p><em>Wondrous Item, Uncommon (Requires Attunement)</em></p><p>While wearing these gloves, you have a Climb Speed and a Swim Speed equal to your Speed, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.</p><section class=\"secret\" id=\"secret-9sClXeq4AMq44GSR\"><p><strong>Foundry Note</strong></p><p>The <strong>Gloves On</strong> Active Effect increases your Climb and Swim speed by 1 to indicate its equivalence to your Speed.  The +5 bonus to checks made to climb or swim should be added as a situational bonus when applicable.</p></section>",
+      "description": "<p><em>Wondrous Item, Uncommon (Requires Attunement)</em></p><p>While wearing these gloves, you have a Climb Speed and a Swim Speed equal to your Speed, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.</p><section class=\"secret\" id=\"secret-9sClXeq4AMq44GSR\"><p><strong>Foundry Note</strong></p><p>The +5 bonus to checks made to climb or swim should be added as a situational bonus when applicable.</p></section>",
       "effects": {
         "Gloves On": {
           "name": "Gloves On",
@@ -4060,7 +4061,7 @@
     },
     "Potion of Flying": {
       "name": "Potion of Flying",
-      "description": "<p><em>Potion, Very Rare</em></p><p>When you drink this potion, you gain a Fly Speed equal to your Speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.</p><p>This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.</p><section id=\"secret-ZF077WzsqCDJpGtS\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>The <strong>Flyer</strong> Active Effect can be used for tracking but can not automate the Speed adjustments.</p></section>",
+      "description": "<p><em>Potion, Very Rare</em></p><p>When you drink this potion, you gain a Fly Speed equal to your Speed for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.</p><p>This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.</p>",
       "activities": {
         "Drink": {
           "name": "Drink"
@@ -5209,9 +5210,45 @@
       "name": "Spell Scroll",
       "description": "<section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"icons/vtt-512.png\" /></figure><article><h3>Create Scrolls from Spells</h3><p>You can easily create a Scroll for a Spell by right clicking on the spell and selecting the <span class=\"reference\"><em class=\"fa-solid fa-scroll fa-fw\"> </em> Create Scroll</span> option.</p></article></section><p>A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost.</p><p>If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect.</p><p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table.</p><table><thead><tr><th><p>Spell Level</p></th><th><p>Rarity</p></th><th><p>Save DC</p></th><th><p>Attack Bonus</p></th></tr></thead><tbody><tr><td><p>Cantrip</p></td><td><p>Common</p></td><td><p>13</p></td><td><p>+5</p></td></tr><tr><td><p>1</p></td><td><p>Common</p></td><td><p>13</p></td><td><p>+5</p></td></tr><tr><td><p>2</p></td><td><p>Uncommon</p></td><td><p>13</p></td><td><p>+5</p></td></tr><tr><td><p>3</p></td><td><p>Uncommon</p></td><td><p>15</p></td><td><p>+7</p></td></tr><tr><td><p>4</p></td><td><p>Rare</p></td><td><p>15</p></td><td><p>+7</p></td></tr><tr><td><p>5</p></td><td><p>Rare</p></td><td><p>17</p></td><td><p>+9</p></td></tr><tr><td><p>6</p></td><td><p>Very Rare</p></td><td><p>17</p></td><td><p>+9</p></td></tr><tr><td><p>7</p></td><td><p>Very Rare</p></td><td><p>18</p></td><td><p>+10</p></td></tr><tr><td><p>8</p></td><td><p>Very Rare</p></td><td><p>18</p></td><td><p>+10</p></td></tr><tr><td><p>9</p></td><td><p>Legendary</p></td><td><p>19</p></td><td><p>+11</p></td></tr></tbody></table><p><em><strong>Copying a Scroll into a Spellbook.</strong></em> A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.</p>"
     },
+    "Spell Scroll, 1st Level": {
+      "name": "Spell Scroll, 1st Level",
+      "description": "<p>@Embed[Compendium.dnd5e.equipment24.Item.dmgSpellScroll00 inline]</p>"
+    },
+    "Spell Scroll, 2nd Level": {
+      "name": "Spell Scroll, 2nd Level",
+      "description": "<p>@Embed[Compendium.dnd5e.equipment24.Item.dmgSpellScroll00 inline]</p>"
+    },
+    "Spell Scroll, 3rd Level": {
+      "name": "Spell Scroll, 3rd Level",
+      "description": "<p>@Embed[Compendium.dnd5e.equipment24.Item.dmgSpellScroll00 inline]</p>"
+    },
+    "Spell Scroll, 4th Level": {
+      "name": "Spell Scroll, 4th Level",
+      "description": "<p>@Embed[Compendium.dnd5e.equipment24.Item.dmgSpellScroll00 inline]</p>"
+    },
+    "Spell Scroll, 5th Level": {
+      "name": "Spell Scroll, 5th Level",
+      "description": "<p>@Embed[Compendium.dnd5e.equipment24.Item.dmgSpellScroll00 inline]</p>"
+    },
+    "Spell Scroll, 6th Level": {
+      "name": "Spell Scroll, 6th Level",
+      "description": "<p>@Embed[Compendium.dnd5e.equipment24.Item.dmgSpellScroll00 inline]</p>"
+    },
+    "Spell Scroll, 7th Level": {
+      "name": "Spell Scroll, 7th Level",
+      "description": "<p>@Embed[Compendium.dnd5e.equipment24.Item.dmgSpellScroll00 inline]</p>"
+    },
+    "Spell Scroll, 8th Level": {
+      "name": "Spell Scroll, 8th Level",
+      "description": "<p>@Embed[Compendium.dnd5e.equipment24.Item.dmgSpellScroll00 inline]</p>"
+    },
+    "Spell Scroll, 9th Level": {
+      "name": "Spell Scroll, 9th Level",
+      "description": "<p>@Embed[Compendium.dnd5e.equipment24.Item.dmgSpellScroll00 inline]</p>"
+    },
     "Spell Scroll, Cantrip": {
       "name": "Spell Scroll, Cantrip",
-      "description": "<p>A <em>Spell Scroll</em> (Cantrip) or @UUID[Compendium.dnd5e.equipment24.Item.phbagSpellScroll]{Spell Scroll (Level 1)} is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll's creator. If the spell is on your class's spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.</p><p>If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.</p>"
+      "description": "<section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"icons/vtt-512.png\" /></figure><article><h3>Create Scrolls from Spells</h3><p>You can easily create a Scroll for a Spell by right clicking on the spell and selecting the <span class=\"reference\"><em class=\"fa-solid fa-scroll fa-fw\"> </em> Create Scroll</span> option.</p></article></section><p>A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost.</p><p>If the spell is on your spell list but of a higher level than you can normally cast, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the spell's level. On a failed check, the spell disappears from the scroll with no other effect.</p><p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the following table.</p><table><thead><tr><th><p>Spell Level</p></th><th><p>Rarity</p></th><th><p>Save DC</p></th><th><p>Attack Bonus</p></th></tr></thead><tbody><tr><td><p>Cantrip</p></td><td><p>Common</p></td><td><p>13</p></td><td><p>+5</p></td></tr><tr><td><p>1</p></td><td><p>Common</p></td><td><p>13</p></td><td><p>+5</p></td></tr><tr><td><p>2</p></td><td><p>Uncommon</p></td><td><p>13</p></td><td><p>+5</p></td></tr><tr><td><p>3</p></td><td><p>Uncommon</p></td><td><p>15</p></td><td><p>+7</p></td></tr><tr><td><p>4</p></td><td><p>Rare</p></td><td><p>15</p></td><td><p>+7</p></td></tr><tr><td><p>5</p></td><td><p>Rare</p></td><td><p>17</p></td><td><p>+9</p></td></tr><tr><td><p>6</p></td><td><p>Very Rare</p></td><td><p>17</p></td><td><p>+9</p></td></tr><tr><td><p>7</p></td><td><p>Very Rare</p></td><td><p>18</p></td><td><p>+10</p></td></tr><tr><td><p>8</p></td><td><p>Very Rare</p></td><td><p>18</p></td><td><p>+10</p></td></tr><tr><td><p>9</p></td><td><p>Legendary</p></td><td><p>19</p></td><td><p>+11</p></td></tr></tbody></table><p><em><strong>Copying a Scroll into a Spellbook.</strong></em> A Wizard spell on a Spell Scroll can be copied into a spellbook. When a spell is copied in this way, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 plus the spell's level. On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.</p>"
     },
     "Spell Scroll, Level 1": {
       "name": "Spell Scroll, Level 1",
@@ -6069,6 +6106,9 @@
       "effects": {
         "Charmed": {
           "name": "Charmed"
+        },
+        "Water Focus": {
+          "name": "Water Focus"
         }
       }
     },
@@ -6235,10 +6275,11 @@
     },
     "phbUnarmedStrike": {
       "name": "Unarmed Strike",
-      "description": "<p>@UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.xJjJ4lhymAYXAOvO]{Unarmed Strike Rules}</p>",
+      "description": "<p><em>See: &amp;Reference[unarmedstrike]</em></p>",
       "activities": {
         "Grapple/Shove": {
-          "name": "Grapple/Shove"
+          "name": "Grapple/Shove",
+          "chatFlavor": "Grapple or Shove attempt"
         }
       },
       "effects": {
@@ -6253,6 +6294,10 @@
     "phbagBedroll0000": {
       "name": "Bedroll",
       "description": "<p>A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see @UUID[Compendium.dnd5e.content24.JournalEntry.dmgDmsToolbox000]{Gameplay Toolbox}).</p>"
+    },
+    "phbagCantripScro": {
+      "name": "Spell Scroll, Cantrip",
+      "description": "<p>A <em>Spell Scroll</em> (Cantrip) or @UUID[Compendium.dnd5e.equipment24.Item.phbagSpellScroll]{Spell Scroll (Level 1)} is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll's creator. If the spell is on your class's spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.</p><p>If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.</p>"
     },
     "phbagPotionofHea": {
       "name": "Potion of Healing",

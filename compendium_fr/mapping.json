@@ -9,6 +9,10 @@
       "path": "system.details.alignment",
       "converter": "alignment"
     },
+    "capacityCargo": {
+      "path": "system.attributes.capacity.cargo",
+      "converter": "weight"
+    },
     "movement": {
       "path": "system.attributes.movement",
       "converter": "movement"
@@ -20,6 +24,10 @@
     "effects": {
       "path": "effects",
       "converter": "effects"
+    },
+    "travel": {
+      "path": "system.attributes.travel",
+      "converter": "travel"
     },
     "senses": {
       "path": "system.attributes.senses",

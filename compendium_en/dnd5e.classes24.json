@@ -290,7 +290,13 @@
     "Blessed Warrior": {
       "name": "Blessed Warrior",
       "description": "<p>You learn two @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj#cantrip]{Cleric cantrips} of your choice. <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplGuidance00]{Guidance}</em> and <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplSacredFlam]{Sacred Flame}</em> are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.</p>",
-      "requirements": "Paladin"
+      "requirements": "Paladin",
+      "advancement": {
+        "Choose Cantrips": {
+          "title": "Choose Cantrips",
+          "hint": "You learn two Cleric cantrips of your choice. Guidance and Sacred Flame are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip."
+        }
+      }
     },
     "Body and Mind": {
       "name": "Body and Mind",
@@ -360,7 +366,13 @@
       },
       "effects": {
         "Turned": {
-          "name": "Turned"
+          "name": "Turned",
+          "description": "<p>For that duration, it tries to move as far from you as it can on its turns. This effect ends early on the creature if it takes any damage, if you have the Incapacitated condition, or if you die.</p>"
+        }
+      },
+      "advancement": {
+        "Divine Spark Die Count": {
+          "title": "Divine Spark Die Count"
         }
       }
     },
@@ -517,8 +529,14 @@
     },
     "Danger Sense": {
       "name": "Danger Sense",
-      "description": "<p>You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have Advantage on Dexterity saving throws unless you have the &amp;Reference[Incapacitated] condition.</p>",
-      "requirements": "Barbarian"
+      "description": "<p>You gain an uncanny sense of when things aren't as they should be, giving you an edge when you dodge perils. You have Advantage on Dexterity saving throws unless you have the &amp;Reference[Incapacitated] condition.</p><section id=\"secret-gIJELszWrIqRFCxF\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>This feature automates the Advantage on Dexterity saving throws but is not automatically disabled when Incapacitated. It can be temporarily deactivated in the Effects tab.</p></section>",
+      "requirements": "Barbarian",
+      "effects": {
+        "Danger Sense": {
+          "name": "Danger Sense",
+          "description": "<p>You have Advantage on Dexterity saving throws unless you have the &amp;Reference[Incapacitated] condition.</p>"
+        }
+      }
     },
     "Dark One's Blessing": {
       "name": "Dark One's Blessing",
@@ -652,6 +670,12 @@
       "activities": {
         "Consume Focus Point": {
           "name": "Consume Focus Point"
+        }
+      },
+      "effects": {
+        "Disciplined Survivor": {
+          "name": "Disciplined Survivor",
+          "description": "<p>Your physical and mental discipline grant you proficiency in all saving throws.</p><p>Additionally, whenever you make a saving throw and fail, you can expend 1 Focus Point to reroll it, and you must use the new roll.</p>"
         }
       }
     },
@@ -818,7 +842,13 @@
     "Druidic Warrior": {
       "name": "Druidic Warrior",
       "description": "<p>You learn two @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU]{Druid cantrips} of your choice. @UUID[Compendium.dnd5e.spells24.Item.phbsplGuidance00]{Guidance} and @UUID[Compendium.dnd5e.spells24.Item.phbsplStarryWisp]{Starry Wisp} are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.</p>",
-      "requirements": "Ranger"
+      "requirements": "Ranger",
+      "advancement": {
+        "Choose Cantrips": {
+          "title": "Choose Cantrips",
+          "hint": "You learn two Druid cantrips of your choice. Guidance and Starry Wisp are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip."
+        }
+      }
     },
     "Eldritch Invocations": {
       "name": "Eldritch Invocations",
@@ -1109,7 +1139,7 @@
     },
     "Fighter": {
       "name": "Fighter",
-      "description": "<h3>Core Fighter Traits</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>Primary Ability</strong></p></th><td><p>Strength or Dexterity</p></td></tr><tr><th scope=\"row\"><p><strong>Hit Point Die</strong></p></th><td><p>D10 per Fighter level</p></td></tr><tr><th scope=\"row\"><p><strong>Saving Throw Proficiencies</strong></p></th><td><p>Strength and Constitution</p></td></tr><tr><th scope=\"row\"><p><strong>Skill Proficiencies</strong></p></th><td><p><em>Choose 2:</em> Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival</p></td></tr><tr><th scope=\"row\"><p><strong>Weapon Proficiencies</strong></p></th><td><p>Simple and Martial weapons</p></td></tr><tr><th scope=\"row\"><p><strong>Armor Training</strong></p></th><td><p>Light, Medium, and Heavy armor and Shields</p></td></tr><tr><th scope=\"row\"><p><strong>Starting Equipment</strong></p></th><td><p><em>Choose A, B, or C:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainMail0]{Chain Mail}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{Greatsword}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepFlail00000]{Flail}, 8 @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{Javelins}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{Dungeoneer's Pack}, and 4 GP; (B) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{Studded Leather Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{Scimitar}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{Short­sword}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{Longbow}, 20 @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{Arrows}, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{Quiver}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{Dungeoneer's Pack}, and [[/award 11GP]]; or (C) [[/award 155GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbftrFighter000 inline classes=\"free-rules-embed\"]</p><h2>Becoming a Fighter …</h2><h3>As a Level 1 Character</h3><ul><li>Gain all the traits in the Core Fighter Traits table.</li><li>Gain the Fighter's level 1 features, which are listed in the Fighter Features table.</li></ul><h3>As a Multiclass Character</h3><ul><li>Gain the following traits from the Core Fighter Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.</li><li>Gain the Fighter's level 1 features, which are listed in the Fighter Features table.</li></ul>",
+      "description": "<h3>Core Fighter Traits</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>Primary Ability</strong></p></th><td><p>Strength or Dexterity</p></td></tr><tr><th scope=\"row\"><p><strong>Hit Point Die</strong></p></th><td><p>D10 per Fighter level</p></td></tr><tr><th scope=\"row\"><p><strong>Saving Throw Proficiencies</strong></p></th><td><p>Strength and Constitution</p></td></tr><tr><th scope=\"row\"><p><strong>Skill Proficiencies</strong></p></th><td><p><em>Choose 2:</em> Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Persuasion, Perception, or Survival</p></td></tr><tr><th scope=\"row\"><p><strong>Weapon Proficiencies</strong></p></th><td><p>Simple and Martial weapons</p></td></tr><tr><th scope=\"row\"><p><strong>Armor Training</strong></p></th><td><p>Light, Medium, and Heavy armor and Shields</p></td></tr><tr><th scope=\"row\"><p><strong>Starting Equipment</strong></p></th><td><p><em>Choose A, B, or C:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainMail0]{Chain Mail}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{Greatsword}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepFlail00000]{Flail}, 8 @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{Javelins}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{Dungeoneer's Pack}, and [[/award 4GP]]; (B) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{Studded Leather Armor}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{Scimitar}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{Short­sword}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{Longbow}, 20 @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{Arrows}, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{Quiver}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{Dungeoneer's Pack}, and [[/award 11GP]]; or (C) [[/award 155GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbftrFighter000 inline classes=\"free-rules-embed\"]</p><h2>Becoming a Fighter …</h2><h3>As a Level 1 Character</h3><ul><li>Gain all the traits in the Core Fighter Traits table.</li><li>Gain the Fighter's level 1 features, which are listed in the Fighter Features table.</li></ul><h3>As a Multiclass Character</h3><ul><li>Gain the following traits from the Core Fighter Traits table: Hit Point Die, proficiency with Martial weapons, and training with Light and Medium armor and Shields.</li><li>Gain the Fighter's level 1 features, which are listed in the Fighter Features table.</li></ul>",
       "advancement": {
         "Class Features": {
           "title": "Class Features"
@@ -1583,14 +1613,15 @@
         },
         "Master Light Martial Weapon": {
           "name": "Master Light Martial Weapon"
-        },
-        "Monk Attack": {
-          "name": "Monk Attack"
         }
       },
       "effects": {
-        "Martial Arts": {
-          "name": "Martial Arts"
+        "Dexterous Attacks & Martial Arts Damage": {
+          "name": "Dexterous Attacks & Martial Arts Damage",
+          "description": "<p><strong>Martial Arts Die.</strong> You can roll [[lookup @scale.monk.die]] in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.</p><p><strong>Dexterous Attacks.</strong> You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.</p><p></p>",
+          "changes": {
+            "name": "{} (Martial Arts)"
+          }
         }
       }
     },
@@ -1679,9 +1710,6 @@
         "Unarmored Movement": {
           "title": "Unarmored Movement"
         },
-        "Disciplined Survivor": {
-          "title": "Disciplined Survivor"
-        },
         "Saving Throw Proficiencies": {
           "title": "Saving Throw Proficiencies"
         },
@@ -1705,7 +1733,8 @@
       "requirements": "Monk",
       "activities": {
         "Flurry of Blows": {
-          "name": "Flurry of Blows"
+          "name": "Flurry of Blows",
+          "chatFlavor": "Make two [[/item Unarmed Strike]]{Unarmed Strikes}"
         },
         "Patient Defense (Focus Point)": {
           "name": "Patient Defense (Focus Point)"
@@ -2301,7 +2330,7 @@
     },
     "Roving": {
       "name": "Roving",
-      "description": "<p>Your Speed increases by 10 feet while you aren't wearing Heavy armor. You also have a Climb Speed and a Swim Speed equal to your Speed.</p><section class=\"secret\" id=\"secret-XnQYiG0fJWJSHkQw\"><p><strong>Foundry Note</strong></p><p>This feature includes an Active Effect which increases your Speed by 10 feet. It does not automatically grant an equivalent Climb and Swim Speed though. It can be disabled if you choose to wear Heavy armor.</p></section>",
+      "description": "<p>Your Speed increases by 10 feet while you aren't wearing Heavy armor. You also have a Climb Speed and a Swim Speed equal to your Speed.</p>",
       "effects": {
         "Roving": {
           "name": "Roving"
@@ -2756,7 +2785,7 @@
     },
     "Unarmored Movement": {
       "name": "Unarmored Movement",
-      "description": "<p>Your speed increases by 10 feet while you aren't wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.</p><p><strong>Current Increase:</strong> [[lookup @scale.monk.unarmored-movement]]</p><section id=\"secret-2fH97uVacHRVqDCo\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>This feature includes an Unarmored Movement Active Effect which adds 10 feet to your Movement. It can not automatically update as you level up though. You can edit the value to match your current increase.</p></section>",
+      "description": "<p>Your speed increases by 10 feet while you aren't wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.</p><p><strong>Current Increase:</strong> [[lookup @scale.monk.unarmored-movement]]</p>",
       "effects": {
         "Unarmored Movement": {
           "name": "Unarmored Movement"
@@ -3015,9 +3044,11 @@
     },
     "phbmnkUnarmedStr": {
       "name": "Unarmed Strike",
+      "description": "<p><em>See: @UUID[Compendium.dnd5e.classes24.Item.phbmnkMartialArt]{Martial Arts (Monk)}</em></p>",
       "activities": {
         "Grapple/Shove": {
-          "name": "Grapple/Shove"
+          "name": "Grapple/Shove",
+          "chatFlavor": "Grapple or Shove attempt"
         }
       },
       "effects": {

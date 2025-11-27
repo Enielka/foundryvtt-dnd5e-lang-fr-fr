@@ -346,7 +346,13 @@
     "Gnomish Cunning": {
       "name": "Gnomish Cunning",
       "description": "<p>You have Advantage on Intelligence, Wisdom, and Charisma saving throws.</p>",
-      "requirements": "Gnome"
+      "requirements": "Gnome",
+      "effects": {
+        "Gnomish Cunning": {
+          "name": "Gnomish Cunning",
+          "description": "<p>You have Advantage on Intelligence, Wisdom, and Charisma saving throws.</p>"
+        }
+      }
     },
     "Gnomish Lineage, Forest": {
       "name": "Gnomish Lineage, Forest",
@@ -391,7 +397,12 @@
     "Halfling Nimbleness": {
       "name": "Halfling Nimbleness",
       "description": "<p>You can move through the space of any creature that is a size larger than you, but you can't stop in the same space.</p>",
-      "requirements": "Halfling"
+      "requirements": "Halfling",
+      "effects": {
+        "Halfling Nimbleness": {
+          "name": "Halfling Nimbleness"
+        }
+      }
     },
     "Hill's Tumble": {
       "name": "Hill's Tumble",
@@ -432,7 +443,7 @@
     },
     "Large Form": {
       "name": "Large Form",
-      "description": "<p>Starting at character level 5, you can change your size to Large as a Bonus Action if you're in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can't use it again until you finish a Long Rest.</p><section class=\"secret\" id=\"secret-MnS2QCGjgh6nXxEa\"><p><strong>Foundry Note</strong></p><p>This feature includes an Active Effect which automatically increases your walking Speed but does not automate the Advantage.</p></section>",
+      "description": "<p>Starting at character level 5, you can change your size to Large as a Bonus Action if you're in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can't use it again until you finish a Long Rest.</p><section class=\"secret\" id=\"secret-MnS2QCGjgh6nXxEa\"><p><strong>Foundry Note</strong></p><p>This feature includes an Active Effect which automates the increase to your Speed and the Advantage on Strength checks.</p></section>",
       "requirements": "Goliath",
       "activities": {
         "Enlarge": {
@@ -441,7 +452,8 @@
       },
       "effects": {
         "Large Form": {
-          "name": "Large Form"
+          "name": "Large Form",
+          "description": "<p>For the duration, you have Advantage on Strength checks, and your Speed increases by 10 feet. Once you use this trait, you can’t use it again until you finish a Long Rest.</p>"
         }
       }
     },
