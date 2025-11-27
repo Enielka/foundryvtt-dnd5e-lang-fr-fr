@@ -346,7 +346,13 @@
         "Gnomish Cunning": {
             "name": "Ruse gnome",
             "description": "<p>Vous avez l'Avantage aux jets de sauvegarde d'Intelligence, de Sagesse et de Charisme.</p>",
-            "requirements": "Gnome"
+            "requirements": "Gnome",
+            "effects": {
+                "Gnomish Cunning": {
+                    "name": "Ruse gnome",
+                    "description": "<p>Vous avez l'Avantage aux jets de sauvegarde d'Intelligence, de Sagesse et de Charisme.</p>"
+                }
+            }
         },
         "Gnomish Lineage, Forest": {
             "name": "Lignage gnome, des forêts",
@@ -391,7 +397,12 @@
         "Halfling Nimbleness": {
             "name": "Agilité halfeline",
             "description": "<p>Vous pouvez vous déplacer dans l'espace de toute créature d'une catégorie de taille supérieure à la vôtre, mais ne pouvez pas vous arrêter dans le même espace que celle-ci.</p>",
-            "requirements": "Halfelin"
+            "requirements": "Halfelin",
+            "effects": {
+                "Halfling Nimbleness": {
+                    "name": "Agilité halfeline"
+                }
+            }
         },
         "Hill's Tumble": {
             "name": "Renversement des coteaux",
@@ -432,7 +443,7 @@
         },
         "Large Form": {
             "name": "Forme de géant",
-            "description": "<p>À partir du niveau de personnage 5, vous pouvez changer de catégorie de taille et devenir de taille G par une action Bonus, à condition que l'espace que vous occupez soit suffisamment vaste. Cette transformation dure 10 minutes ou jusqu'à ce que vous y mettiez un terme (pas d'action requise). Pour toute la durée, vous avez l'Avantage aux tests de Force et votre Vitesse augmente de 3 m. Une fois ce trait utilisé, vous devez terminer un Repos long pour pouvoir y recourir de nouveau.</p><strong>Note Foundry</strong></p><p>Cette aptitude inclut un effet actif qui augmente automatiquement votre Vitesse mais n'automatise pas l'Avantage.</p></section>",
+            "description": "<p>À partir du niveau de personnage 5, vous pouvez changer de catégorie de taille et devenir de taille G par une action Bonus, à condition que l'espace que vous occupez soit suffisamment vaste. Cette transformation dure 10 minutes ou jusqu'à ce que vous y mettiez un terme (pas d'action requise). Pour toute la durée, vous avez l'Avantage aux tests de Force et votre Vitesse augmente de 3 m. Une fois ce trait utilisé, vous devez terminer un Repos long pour pouvoir y recourir de nouveau.</p><section class=\"secret\" id=\"secret-MnS2QCGjgh6nXxEa\"><p><strong>Note Foundry</strong></p><p>Cette aptitude inclut un effet actif qui automatise l'augmentation de votre Vitesse et l'Avantage aux tests de Force.</p></section>",
             "requirements": "Goliath",
             "activities": {
                 "Enlarge": {
@@ -441,7 +452,8 @@
             },
             "effects": {
                 "Large Form": {
-                    "name": "Forme de géant"
+                    "name": "Forme de géant",
+                    "description": "<p>Pour toute la durée, vous avez l'Avantage aux tests de Force et votre Vitesse augmente de 3 m. Une fois ce trait utilisé, vous devez terminer un Repos long pour pouvoir y recourir de nouveau.</p>"
                 }
             }
         },
