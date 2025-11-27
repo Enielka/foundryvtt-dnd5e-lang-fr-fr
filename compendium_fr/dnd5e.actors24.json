@@ -6928,7 +6928,7 @@
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "<p>L'esprit effectue autant d'attaques de [[/item Saignée]] que la moitié du niveau de ce sort (arrondir à l'inférieur) et il recourt à [[/item Souffle]].</p><p>[[floor(@flags.dnd5e.summon.level / 2)]]{Nombre d'attaques }</p>",
+                    "description": "<p>L'esprit effectue autant d'attaques de [[/item Saignée]] que la moitié du niveau de ce sort (arrondir à l'inférieur) et il recourt à [[/item Souffle]].</p><p class=\"hide-in-embed\">[[floor(@flags.dnd5e.summon.level / 2)]]{Nombre d'attaques }</p>",
                     "activities": {
                         "Activate": {
                             "name": "Activer"
@@ -13354,11 +13354,11 @@
             "items": {
                 "Compression": {
                     "name": "Compression",
-                    "description": "<p>La pieuvre peut se déplacer dans un espace étroit d'une largeur minimale de 2,5 cm sans devoir dépenser de déplacement supplémentaire.</p>"
+                    "description": "<p class=\"feature\">La [[lookup @name lowercase]] peut se déplacer dans un espace étroit d'une largeur minimale de 2,5 cm sans devoir dépenser de déplacement supplémentaire.</p>"
                 },
                 "Water Breathing": {
                     "name": "Respiration aquatique",
-                    "description": "<p>La pieuvre ne peut respirer que sous l'eau.</p>"
+                    "description": "<p>La [[lookup @name lowercase]] ne peut respirer que sous l'eau.</p>"
                 },
                 "Ink Cloud": {
                     "name": "Nuage d'encre",
@@ -13372,7 +13372,7 @@
                 },
                 "Tentacles": {
                     "name": "Tentacules",
-                    "description": "<p><em>Corps à corps :</em> +4, allonge 1,50 m. <em>Touché :</em> 1 dégât contondant.</p>"
+                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]].</p>"
                 }
             }
         },
