@@ -1583,14 +1583,6 @@
                 },
                 "Master Light Martial Weapon": {
                     "name": "Maître en arme de guerre légère"
-                },
-                "Monk Attack": {
-                    "name": "Attaque de Moine"
-                }
-            },
-            "effects": {
-                "Martial Arts": {
-                    "name": "Arts martiaux"
                 }
             }
         },
@@ -1678,9 +1670,6 @@
                 },
                 "Unarmored Movement": {
                     "title": "Déplacement sans armure"
-                },
-                "Disciplined Survivor": {
-                    "title": "Survivant discipliné"
                 },
                 "Saving Throw Proficiencies": {
                     "title": "Maîtrise des jets de sauvegarde"
