@@ -696,7 +696,7 @@
         },
         "Death Burst": {
             "name": "Explosion finale",
-            "description": "<p>Le [[lookup @name lowercase]] explose [[lookup @activation.condition activity=1SfqWSp7RSyHgG4b]]. <em>JS Dextérité : </em>DD [[lookup @save.dc.value activity=1SfqWSp7RSyHgG4b]], chaque créature dans une Émanation de [[lookup @target.template.size activity=1SfqWSp7RSyHgG4b]] [[lookup @target.template.units activity=1SfqWSp7RSyHgG4b]] centrée sur le [[lookup @name lowercase]]. <em>Échec : </em>[[/damage average]]. <em>Réussite :</em> demi-dégâts.</p>",
+            "description": "<p>Le [[lookup @name lowercase]] explose [[lookup @activation.condition activity=1SfqWSp7RSyHgG4b]]. <em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=1SfqWSp7RSyHgG4b]], chaque créature dans une Émanation de [[lookup @target.template.size activity=1SfqWSp7RSyHgG4b]] [[lookup @target.template.units activity=1SfqWSp7RSyHgG4b]] centrée sur le [[lookup @name lowercase]]. <em>Échec :</em> [[/damage average]]. <em>Réussite :</em> demi-dégâts.</p>",
             "requirements": "Quand il meurt",
             "activities": {
                 "save": {
