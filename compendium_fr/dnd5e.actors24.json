@@ -13372,7 +13372,18 @@
                 },
                 "Tentacles": {
                     "name": "Tentacules",
-                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]].</p>"
+                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]].</p>",
+                    "activities": {
+                        "Escape Check": {
+                            "name": "Test de libération"
+                        }
+                    },
+                    "effects": {
+                        "Grappled": {
+                            "name": "Agrippé",
+                            "description": "<p>Si la cible est une créature de taille M ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[/check ability=str skill=ath format=long]], voir l'objet source pour le DD) par les quatre tentacules.</p>"
+                        }
+                    }
                 }
             }
         },
