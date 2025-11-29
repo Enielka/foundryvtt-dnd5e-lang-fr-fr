@@ -1864,6 +1864,9 @@
                 },
                 "Place Curse": {
                     "name": "Maudire"
+                },
+                "Curse New Creature": {
+                    "name": "Maudire une nouvelle créature"
                 }
             },
             "effects": {
@@ -1957,6 +1960,16 @@
                 },
                 "Mark Creature": {
                     "name": "Marquer une créature"
+                },
+                "Move Mark": {
+                    "name": "Déplacer la marque",
+                    "condition": "lorsque la cible marquée tombe à 0 point de vie"
+                }
+            },
+            "effects": {
+                "Hunter's Mark": {
+                    "name": "Marque du chasseur",
+                    "description": "<p>Jusqu'à la fin du sort, l'incantateur inflige [[/damage 1d6 force]] à la cible chaque fois qu'il la touche avec un jet d'attaque.</p>"
                 }
             }
         },
@@ -3182,12 +3195,12 @@
         },
         "Slow": {
             "name": "Lenteur",
-            "description": "<p>Vous altérez le temps autour d'un maximum de six créatures de votre choix dans un Cube de 12 m à portée. Chaque cible doit réussir un jet de sauvegarde de Sagesse sous peine d'être affectée par ce sort pour toute la durée.</p><p>Une cible affectée voit sa Vitesse réduite de moitié, subit un malus de -2 à la CA et aux jets de sauvegarde de Dextérité, et ne peut pas jouer de Réactions. À ses tours, elle peut entreprendre une action ou une action Bonus, mais pas les deux, et elle ne peut effectuer qu'une attaque dans le cadre de l'action Attaque. Si elle lance un sort avec une composante somatique, il y a [[/r 1d100cs<=25#Réussite de l'Incantation d'un sort ralenti]]{25 %} de chances que le sort échoue en raison de la torpeur de sa gestuelle.</p><p>Une cible affectée réitère le JS à la fin de chacun de ses tours et met un terme au sort sur elle-même en cas de réussite.</p><section id=\"secret-2RobIVhv3tn7gmU7\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Le jet ci-dessus renverra 1 en cas de succès ou 0 en cas d'échec.</p></section>",
+            "description": "<p>Vous altérez le temps autour d'un maximum de six créatures de votre choix dans un Cube de 12 m à portée. Chaque cible doit réussir un jet de sauvegarde de Sagesse sous peine d'être affectée par ce sort pour toute la durée.</p><p>Une cible affectée voit sa Vitesse réduite de moitié, subit un malus de -2 à la CA et aux jets de sauvegarde de Dextérité, et ne peut pas jouer de Réactions. À ses tours, elle peut entreprendre une action ou une action Bonus, mais pas les deux, et elle ne peut effectuer qu'une attaque dans le cadre de l'action Attaque. Si elle lance un sort avec une composante somatique, il y a [[/r 1d100cs>25#Sort lancé avec succès sur 1]]{25 %} de chances que le sort échoue en raison de la torpeur de sa gestuelle.</p><p>Une cible affectée réitère le JS à la fin de chacun de ses tours et met un terme au sort sur elle-même en cas de réussite.</p><section class=\"secret\" id=\"secret-2RobIVhv3tn7gmU7\"><p><strong>Note Foundry</strong></p><p>Le jet ci-dessus renverra 1 en cas de succès ou 0 en cas d'échec.</p></section>",
             "materials": "une goutte de mélasse",
             "effects": {
                 "Slowed": {
                     "name": "Ralenti",
-                    "description": "<p>Une cible affectée voit sa Vitesse réduite de moitié, subit un malus de -2 à la CA et aux jets de sauvegarde de Dextérité, et ne peut pas jouer de Réactions. À ses tours, elle peut entreprendre une action ou une action Bonus, mais pas les deux, et elle ne peut effectuer qu'une attaque dans le cadre de l'action Attaque. Si elle lance un sort avec une composante somatique, il y a [[/r 1d100cs<=25#Réussite de l'Incantation d'un sort ralenti]]{25 %} de chances que le sort échoue en raison de la torpeur de sa gestuelle.</p><p>Une cible affectée réitère le JS [[/save ability=wis]] à la fin de chacun de ses tours et met un terme au sort sur elle-même en cas de réussite.</p>"
+                    "description": "<p>Une cible affectée voit sa Vitesse réduite de moitié, subit un malus de -2 à la CA et aux jets de sauvegarde de Dextérité, et ne peut pas jouer de Réactions. À ses tours, elle peut entreprendre une action ou une action Bonus, mais pas les deux, et elle ne peut effectuer qu'une attaque dans le cadre de l'action Attaque. Si elle lance un sort avec une composante somatique, il y a [[/r 1d100cs>25#Sort lancé avec succès sur 1]]{25 %} de chances que le sort échoue en raison de la torpeur de sa gestuelle.</p><p>Une cible affectée réitère le JS [[/save ability=wis]] à la fin de chacun de ses tours et met un terme au sort sur elle-même en cas de réussite.</p>"
                 }
             }
         },
@@ -3357,7 +3370,7 @@
         },
         "Summon Dragon": {
             "name": "Convocation de dragon",
-            "description": "<p>Vous invoquez un esprit draconique. Il se manifeste en un espace inoccupé que vous voyez à portée en reprenant le profil de l'<strong>@UUID[Compendium.dnd5e.actors24.Actor.phbmobDraconicSp]{esprit draconique}</strong>. La créature disparaît quand le sort prend fin, mais également si elle tombe à 0 point de vie.</p><p>La créature constitue un allié pour vous et vos alliés. Au combat, la créature partage votre rang d'Initiative, mais elle joue son tour juste après vous. Elle obéit à vos instructions verbales (pas d'action requise de votre part). Sans ordre de votre part, elle entreprend l'action Esquive et consacre son déplacement à se mettre à l'abri du danger.</p><p><strong>Emplacement de niveau supérieur.</strong> Le niveau de l'emplacement s'applique chaque fois que le profil de jeu y fait référence.</p><section class=\"fvtt advice\" style=\"margin:0.5rem;padding:0.5rem\"><article><p>En plus de l'utilisation notée du niveau du sort dans les Traits et Actions de l'esprit, les attributs suivants sont également affectés.</p><table><caption>Esprit draconique</caption><tbody><tr><td><strong>CA</strong></td><td>14 + niveau du sort</td></tr><tr><td><strong>Pv</strong></td><td>50 + 10 par niveau du sort au-delà du 5<sup>e</sup></td></tr><tr><td><strong>BM</strong></td><td>égal à votre bonus de maîtrise</td></tr></tbody></table></article></section>",
+            "description": "<p>Vous invoquez un esprit draconique. Il se manifeste en un espace inoccupé que vous voyez à portée en reprenant le profil de l'<strong>@UUID[Compendium.dnd5e.actors24.Actor.phbmobDraconicSp]{esprit draconique}</strong>. La créature disparaît quand le sort prend fin, mais également si elle tombe à 0 point de vie.</p><p>La créature constitue un allié pour vous et vos alliés. Au combat, la créature partage votre rang d'Initiative, mais elle joue son tour juste après vous. Elle obéit à vos instructions verbales (pas d'action requise de votre part). Sans ordre de votre part, elle entreprend l'action Esquive et consacre son déplacement à se mettre à l'abri du danger.</p><p><strong>Emplacement de niveau supérieur.</strong> Le niveau de l'emplacement s'applique chaque fois que le profil de jeu y fait référence.</p><p>@Embed[Compendium.dnd5e.actors24.Actor.phbmobDraconicSp caption=false statblock]</p>",
             "materials": "un objet gravé d'une représentation de dragon, d'une valeur minimale de 500 po"
         },
         "Sunbeam": {
@@ -3469,7 +3482,13 @@
         },
         "Thaumaturgy": {
             "name": "Thaumaturgie",
-            "description": "<p>Vous engendrez une manifestation surnaturelle mineure. Vous créez l'un des effets magiques suivants à portée. Si vous lancez ce sort plusieurs fois, vous pouvez faire coexister jusqu'à trois de ces effets d'une minute.</p><p><strong>Bruit fantôme.</strong> Vous faites émaner un son bref d'un point que vous choisissez à portée, comme un grondement de tonnerre, un croassement ou des murmures inquiétants.</p><p><strong>Jeu avec le feu.</strong> Vous manipulez des flammes pendant 1 minute : elles vacillent, s'intensifient, s'atténuent ou changent de couleur.</p><p><strong>Main invisible.</strong> Vous provoquez l'ouverture soudaine d'une porte ou fenêtre non verrouillée ou la faites claquer.</p><p><strong>Secousse.</strong> Vous provoquez un léger tremblement de terre inoffensif pendant 1 minute.</p><p><strong>Voix retentissante.</strong> Votre voix retentit jusqu'à trois fois plus fort que la normale pendant 1 minute. Pour toute la durée, vous avez l'Avantage aux tests de [[/check ability=cha skill=itm]].</p><p><strong>Yeux modifiés.</strong> Vous altérez l'aspect de vos yeux pendant 1 minute.</p>"
+            "description": "<p>Vous engendrez une manifestation surnaturelle mineure. Vous créez l'un des effets magiques suivants à portée. Si vous lancez ce sort plusieurs fois, vous pouvez faire coexister jusqu'à trois de ces effets d'une minute.</p><p><strong>Bruit fantôme.</strong> Vous faites émaner un son bref d'un point que vous choisissez à portée, comme un grondement de tonnerre, un croassement ou des murmures inquiétants.</p><p><strong>Jeu avec le feu.</strong> Vous manipulez des flammes pendant 1 minute : elles vacillent, s'intensifient, s'atténuent ou changent de couleur.</p><p><strong>Main invisible.</strong> Vous provoquez l'ouverture soudaine d'une porte ou fenêtre non verrouillée ou la faites claquer.</p><p><strong>Secousse.</strong> Vous provoquez un léger tremblement de terre inoffensif pendant 1 minute.</p><p><strong>Voix retentissante.</strong> Votre voix retentit jusqu'à trois fois plus fort que la normale pendant 1 minute. Pour toute la durée, vous avez l'Avantage aux tests de [[/check ability=cha skill=itm]].</p><p><strong>Yeux modifiés.</strong> Vous altérez l'aspect de vos yeux pendant 1 minute.</p>",
+            "effects": {
+                "Booming Voice": {
+                    "name": "Voix retentissante",
+                    "description": "<p>Votre voix retentit jusqu'à trois fois plus fort que la normale pendant 1 minute. Pour toute la durée, vous avez l'Avantage aux tests de [[/check ability=cha skill=itm]].</p>"
+                }
+            }
         },
         "Thunderwave": {
             "name": "Vague tonnante",
@@ -3807,6 +3826,16 @@
                 "Cannot Lie": {
                     "name": "Ne peut mentir",
                     "description": "<p>En cas d'échec, elle ne peut mentir sciemment tant qu'elle est dans la zone. Vous savez si une telle créature a raté ou réussi son jet de sauvegarde.</p><p>Une créature affectée a conscience du sort et peut éluder les questions auxquelles elle répondrait normalement par un mensonge. Elle peut se montrer évasive, mais ce qu'elle dit doit rester vrai dans son esprit.</p>"
+                }
+            }
+        },
+        "Ice Knife": {
+            "name": "Couteau de glace",
+            "description": "<p>Vous créez un fragment de glace que vous lancez sur une créature à portée. Effectuez une attaque de sort à distance contre la cible. Si l'attaque touche, la cible subit 1d10 dégâts perforants. Que l'attaque touche ou rate, le fragment explose alors. La cible et toutes les créatures situées dans un rayon de 1,50 m d'elle doivent réussir un jet de sauvegarde de Dextérité, sous peine de subir 2d6 dégâts de froid.</p><p><strong>Emplacement de niveau supérieur.</strong> Les dégâts de froid augmentent de 1d6 par niveau d'emplacement au-delà du 1<sup>er</sup>.</p>",
+            "materials": "une goutte d'eau ou un morceau de glace",
+            "activities": {
+                "Shard Explosion": {
+                    "name": "Explosion du fragment"
                 }
             }
         }
