@@ -290,7 +290,13 @@
         "Blessed Warrior": {
             "name": "Combattant béni",
             "description": "<p>Vous apprenez deux @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj#sorts-mineurs]{sorts mineurs de Clerc} de votre choix. <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplGuidance00]{Assistance}</em> et <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplSacredFlam]{flamme sacrée}</em> sont recommandés. Les sorts mineurs choisis sont considérés pour vous comme des sorts de Paladin, et le Charisme est la caractéristique d'incantation associée. Chaque fois que vous gagnez un niveau de Paladin, vous pouvez remplacer l'un de ces sorts mineurs par un autre sort mineur de Clerc.</p>",
-            "requirements": "Paladin"
+            "requirements": "Paladin",
+            "advancement": {
+                "Choose Cantrips": {
+                    "title": "Choisir sorts mineurs",
+                    "hint": "Vous apprenez deux sorts mineurs de Clerc de votre choix. Assistance et flamme sacrée sont recommandés. Les sorts mineurs choisis sont considérés pour vous comme des sorts de Paladin, et le Charisme est la caractéristique d'incantation associée. Chaque fois que vous gagnez un niveau de Paladin, vous pouvez remplacer l'un de ces sorts mineurs par un autre sort mineur de Clerc."
+                }
+            }
         },
         "Body and Mind": {
             "name": "Esprit et corps",
@@ -360,7 +366,13 @@
             },
             "effects": {
                 "Turned": {
-                    "name": "Renvoyé"
+                    "name": "Renvoyé",
+                    "description": "<p>Pour toute la durée, elle s'efforce de s'éloigner de vous autant que possible à chacun de ses tours. Cet effet prend fin prématurément si la créature subit des dégâts, si vous subissez l'état Neutralisé ou si vous mourez.</p>"
+                }
+            },
+            "advancement": {
+                "Divine Spark Die Count": {
+                    "title": "Nombre de dés de Étincelle divine"
                 }
             }
         },
@@ -517,8 +529,14 @@
         },
         "Danger Sense": {
             "name": "Sens du danger",
-            "description": "<p>Vous acquérez un talent surnaturel qui vous permet d'esquiver plus aisément les dangers que d'autres remarqueraient trop tard. Vous avez l'Avantage aux jets de sauvegarde de Dextérité, sauf si vous subissez l'état &Reference[Incapacitated].</p>",
-            "requirements": "Barbare"
+            "description": "<p>Vous acquérez un talent surnaturel qui vous permet d'esquiver plus aisément les dangers que d'autres remarqueraient trop tard. Vous avez l'Avantage aux jets de sauvegarde de Dextérité, sauf si vous subissez l'état &Reference[Incapacitated].</p><section id=\"secret-gIJELszWrIqRFCxF\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Cette aptitude automatise l'Avantage aux jets de sauvegarde de Dextérité, mais n'est pas automatiquement désactivée lorsqu'il est Neutralisé. Elle peut être temporairement désactivée dans l'onglet Effets.</p></section>",
+            "requirements": "Barbare",
+            "effects": {
+                "Danger Sense": {
+                    "name": "Sens du danger",
+                    "description": "<p>Vous avez l'Avantage aux jets de sauvegarde de Dextérité, sauf si vous subissez l'état &Reference[Incapacitated].</p>"
+                }
+            }
         },
         "Dark One's Blessing": {
             "name": "Bénédiction du ténébreux",
@@ -652,6 +670,12 @@
             "activities": {
                 "Consume Focus Point": {
                     "name": "Dépenser point de Credo"
+                }
+            },
+            "effects": {
+                "Disciplined Survivor": {
+                    "name": "Survivant discipliné",
+                    "description": "<p>Votre discipline physique et mentale vous octroie la maîtrise de tous les jets de sauvegarde.</p><p>De plus, chaque fois que vous effectuez un jet de sauvegarde et ratez, vous pouvez dépenser 1 point de Credo pour le rejouer et conserver le nouveau jet.</p>"
                 }
             }
         },
@@ -818,7 +842,13 @@
         "Druidic Warrior": {
             "name": "Combattant druidique",
             "description": "<p>Vous apprenez deux @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU]{sorts mineurs de Druide} de votre choix. @UUID[Compendium.dnd5e.spells24.Item.phbsplGuidance00]{Assistance} et @UUID[Compendium.dnd5e.spells24.Item.phbsplStarryWisp]{poussière d'étoile} sont recommandés. Les sorts mineurs choisis sont considérés pour vous comme des sorts de Rôdeur, et la Sagesse est la caractéristique d'incantation associée. Chaque fois que vous recevez un niveau de Rôdeur, vous pouvez remplacer l'un de ces sorts mineurs par un autre sort mineur de Druide.</p>",
-            "requirements": "Rôdeur"
+            "requirements": "Rôdeur",
+            "advancement": {
+                "Choose Cantrips": {
+                    "title": "Choisir sorts mineurs",
+                    "hint": "Vous apprenez deux sorts mineurs de Druide de votre choix. Assistance et poussière d'étoile sont recommandés. Les sorts mineurs choisis sont considérés pour vous comme des sorts de Rôdeur, et la Sagesse est la caractéristique d'incantation associée. Chaque fois que vous recevez un niveau de Rôdeur, vous pouvez remplacer l'un de ces sorts mineurs par un autre sort mineur de Druide."
+                }
+            }
         },
         "Eldritch Invocations": {
             "name": "Manifestations occultes",
@@ -1584,6 +1614,15 @@
                 "Master Light Martial Weapon": {
                     "name": "Maître en arme de guerre légère"
                 }
+            },
+            "effects": {
+                "Dexterous Attacks & Martial Arts Damage": {
+                    "name": "Attaques lestes et dégâts de Arts martiaux",
+                    "description": "<p><strong>Dé d'Arts martiaux.</strong> Vous pouvez lancer 1[[lookup @scale.monk.die]] à la place des dégâts normaux de votre attaque à mains nues et de vos armes de Moine. Ce dé évolue à mesure que vous gagnez des niveaux de Moine, comme indiqué dans la colonne Dé d'Arts martiaux de la table Aptitudes du Moine.</p><p><strong>Attaques lestes.</strong> Vous pouvez appliquer votre modificateur de Dextérité au lieu de celui de Force pour les jets d'attaque et de dégâts si vous attaquez à mains nues ou avec des armes de Moine. De plus, lorsque vous recourez à l'option Bousculade ou Lutte de votre attaque à mains nues, vous pouvez appliquer votre modificateur de Dextérité au lieu de celui de Force pour en déterminer le DD de sauvegarde.</p>",
+                    "changes": {
+                        "name": "{} (Arts martiaux)"
+                    }
+                }
             }
         },
         "Mask of Many Faces": {
@@ -1694,7 +1733,8 @@
             "requirements": "Moine",
             "activities": {
                 "Flurry of Blows": {
-                    "name": "Déluge de coups"
+                    "name": "Déluge de coups",
+                    "chatFlavor": "Effectuer deux [[/item Attaque à mains nues]]{attaques à mains nues}"
                 },
                 "Patient Defense (Focus Point)": {
                     "name": "Patience défensive (point de Credo)"
@@ -2290,7 +2330,7 @@
         },
         "Roving": {
             "name": "Arpenteur",
-            "description": "<p>Votre Vitesse augmente de 3 m tant que vous ne portez pas d'armure lourde. Vous disposez en outre d'une Vitesse d'escalade et de nage égales à votre valeur de Vitesse.</p><section class=\"secret\" id=\"secret-XnQYiG0fJWJSHkQw\"><p><strong>Note Foundry</strong></p><p>Cette aptitude comprend un effet actif qui augmente votre Vitesse de 3 m. Cependant, elle n'accorde pas automatiquement une Vitesse d'escalade et de nage équivalente. Elle peut être désactivé si vous choisissez de porter une armure lourde.</p></section>",
+            "description": "<p>Votre Vitesse augmente de 3 m tant que vous ne portez pas d'armure lourde. Vous disposez en outre d'une Vitesse d'escalade et de nage égales à votre valeur de Vitesse.</p>",
             "effects": {
                 "Roving": {
                     "name": "Arpenteur"
@@ -2745,7 +2785,7 @@
         },
         "Unarmored Movement": {
             "name": "Déplacement sans armure",
-            "description": "<p>Votre Vitesse augmente de 3 m tant que vous ne portez ni armure ni bouclier. Ce bonus évolue à mesure que vous gagnez des niveaux de Moine, comme indiqué dans la table Aptitudes du Moine.</p><p><strong>Augmentation actuelle :</strong> [[lookup @scale.monk.unarmored-movement]]</p><section id=\"secret-2fH97uVacHRVqDCo\" class=\"secret\"><p><strong>Note Foundry</strong></p><p>Cette aptitude inclut un effet actif Déplacement sans armure qui ajoute 3 m à votre déplacement. Il ne peut cependant pas être mis à jour automatiquement lorsque vous montez en niveau. Vous pouvez modifier la valeur pour qu'elle corresponde à votre augmentation actuelle.</p></section>",
+            "description": "<p>Votre Vitesse augmente de 3 m tant que vous ne portez ni armure ni bouclier. Ce bonus évolue à mesure que vous gagnez des niveaux de Moine, comme indiqué dans la table Aptitudes du Moine.</p><p><strong>Augmentation actuelle :</strong> [[lookup @scale.monk.unarmored-movement]]</p>",
             "effects": {
                 "Unarmored Movement": {
                     "name": "Déplacement sans armure"
@@ -3006,7 +3046,8 @@
             "name": "Attaque à mains nues",
             "activities": {
                 "Grapple/Shove": {
-                    "name": "Bousculade/Lutte"
+                    "name": "Bousculade/Lutte",
+                    "chatFlavor": "Tentative de bousculade ou de lutte"
                 }
             },
             "effects": {
@@ -3016,7 +3057,8 @@
                 "Prone": {
                     "name": "À terre"
                 }
-            }
+            },
+            "description": "<p><em>Voir : @UUID[Compendium.dnd5e.classes24.Item.phbmnkMartialArt]{Arts martiaux (Moine)}</em></p>"
         },
         "phbmnkUnarmoredD": {
             "name": "Défense sans armure",
