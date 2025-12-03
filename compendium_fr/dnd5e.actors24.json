@@ -3692,7 +3692,7 @@
                     }
                 },
                 "Shield": {
-                    "name": "",
+                    "name": "Bouclier",
                     "description": "",
                     "condition": "",
                     "activities": {
@@ -3750,8 +3750,8 @@
                     }
                 },
                 "Disguise Self": {
-                    "name": "",
-                    "description": "",
+                    "name": "Déguisement",
+                    "description": "<p>Vous vous donnez un aspect différent jusqu'à la fin du sort ; vous pouvez ainsi altérer l'apparence de vos vêtements, de votre armure, de vos armes et autres biens portés. Vous pouvez paraître jusqu'à 30 cm plus grand ou plus petit, sembler plus léger ou plus lourd. Vous devez adopter une forme présentant la même répartition de membres que vous. Pour le reste, les détails de l'illusion vous appartiennent.</p><p>Les changements apportés par le sort ne résistent pas à un examen physique. Exemple : si le sort ajoute un chapeau à votre accoutrement, ce couvre-chef n'est pas tangible, si bien que quiconque cherche à le toucher ne sentira sous ses doigts que de l'air.</p><p>Pour comprendre que vous êtes déguisé, une créature doit consacrer l'action Étude à vous examiner et réussir un test d'[[/check ability=int skill=inv dc=@attributes.spell.dc]] assorti de votre DD de sauvegarde des sorts.</p>",
                     "activities": {
                         "Cast": {
                             "name": "Incanter"
@@ -3759,8 +3759,8 @@
                     },
                     "effects": {
                         "Disguised": {
-                            "name": "",
-                            "description": ""
+                            "name": "Déguisé",
+                            "description": "<p>Pour comprendre que vous êtes déguisé, une créature doit consacrer l'action Étude à vous examiner et réussir un test d'[[/check ability=int skill=inv]] assorti de votre DD de sauvegarde des sorts.</p>"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -4119,21 +4119,21 @@
             }
         },
         "Balor": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Balor",
+            "description": "<h1>Balor</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.dstDspmI7LdrCsxy caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "subtype": "Démon",
             "items": {
                 "Death Throes": {
-                    "name": "",
-                    "description": ""
+                    "name": "Spasmes d'agonie",
+                    "description": "<p class=\"feature\">Le [[lookup @name lowercase]] explose quand il meurt.</p><p class=\"feature\"><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=jTq2czA8KQITUK4c]], chaque créature dans une Émanation de [[lookup @target.template.size activity=jTq2czA8KQITUK4c]] [[lookup @target.template.units activity=jTq2czA8KQITUK4c]] centrée sur le [[lookup @name lowercase]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]].</p><p class=\"feature\"><em>Réussite :</em> demi-dégâts.</p><p class=\"feature\"><em>Échec ou réussite :</em> si le [[lookup @name lowercase]] meurt hors des Abysses, il acquiert aussitôt un nouveau corps et revient à la vie avec tous ses pv quelque part dans les Abysses.</p>"
                 },
                 "Fire Aura": {
-                    "name": "",
-                    "description": ""
+                    "name": "Aura de feu",
+                    "description": "<p>À la fin de chacun des tours du [[lookup @name lowercase]], chaque créature dans une Émanation de [[lookup @target.template.size activity=15VgJKVXwYBOFSqJ]] [[lookup @target.template.units activity=15VgJKVXwYBOFSqJ]] centrée sur le [[lookup @name lowercase]] subit [[/damage average]].</p>"
                 },
                 "Legendary Resistance": {
                     "name": "Résistance légendaire",
-                    "description": "",
+                    "description": "<p>Si le [[lookup @name lowercase]] rate un jet de sauvegarde, il peut décider de le réussir tout de même.</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation",
@@ -4143,11 +4143,11 @@
                 },
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
-                    "description": ""
+                    "description": "<p>Le [[lookup @name lowercase]] a l'Avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le [[lookup @name lowercase]] effectue une attaque de [[/item .mmFlameWhip00000]] et une de [[/item .mmLightningBlade]].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
@@ -4155,42 +4155,43 @@
                     }
                 },
                 "Flame Whip": {
-                    "name": "",
-                    "description": "",
+                    "name": "Fouet embrasé",
+                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature de taille TG ou inférieure, le [[lookup @name lowercase]] la tire directement vers lui d'un maximum de 7,50 m, et la cible subit l'état &amp;Reference[Prone apply=false].</p>",
                     "activities": {
                         "attack": {
-                            "chatFlavor": ""
+                            "chatFlavor": "Au toucher : Les créatures de taille TG ou inférieure, ont été tirées d'un maximum de 7,50 m vers la créature attaquante."
                         }
                     },
                     "effects": {
                         "Prone": {
                             "name": "À terre",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Prone apply=false].</p>"
                         }
                     }
                 },
                 "Teleport": {
                     "name": "Téléportation",
-                    "description": "",
+                    "description": "<p>Le [[lookup @name lowercase]] téléporte [[lookup @target.affects.special activity=dnoRMdFzhUUku26D]] d'un maximum de [[lookup @range.value activity=dnoRMdFzhUUku26D]] [[lookup @range.units activity=dnoRMdFzhUUku26D]] vers un espace inoccupé qu'il voit.</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation",
-                            "target": ""
+                            "target": "un démon consentant situé dans un rayon de 3 m (ou lui-même)"
                         }
                     }
                 },
                 "Lightning Blade": {
-                    "name": "",
-                    "description": ""
+                    "name": "Lame de foudre",
+                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]], et la cible ne peut pas jouer de &Reference[Reaction]{Réaction} jusqu'au début du tour suivant du [[lookup @name lowercase]].</p>"
                 }
-            }
+            },
+            "planarSubtype": "Abysses"
         },
         "Bandit": {
             "name": "",
             "description": "",
             "items": {
                 "Scimitar": {
-                    "name": "",
+                    "name": "Cimeterre",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Light Crossbow": {
@@ -4198,7 +4199,7 @@
                     "description": ""
                 },
                 "Leather Armor": {
-                    "name": ""
+                    "name": "Armure de cuir"
                 }
             }
         },
@@ -4207,7 +4208,7 @@
             "description": "",
             "items": {
                 "Scimitar": {
-                    "name": "",
+                    "name": "Cimeterre",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Pistol": {
@@ -4462,7 +4463,7 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Hide Armor": {
-                    "name": ""
+                    "name": "Armure de peaux"
                 },
                 "Bloodied Frenzy": {
                     "name": "",
@@ -4815,33 +4816,33 @@
             }
         },
         "Bugbear Stalker": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Traqueur gobelours",
+            "description": "<div class=\"gear\"><p><strong>Équipement :</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainShirt]{chemise de mailles}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{javelines} (6), @UUID[Compendium.dnd5e.equipment24.Item.phbwepMorningsta]{morgenstern}</p></div><h1>Gobelours</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.gzTUYPi9wHg0WMP0 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Traqueur gobelours</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.lMvm5fxnuHBDhxD2 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
+            "subtype": "Gobelinoïde",
             "items": {
                 "Javelin": {
-                    "name": "",
+                    "name": "Javeline",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Morningstar": {
-                    "name": "",
-                    "description": "",
+                    "name": "Morgenstern",
+                    "description": "<p><em>Corps à corps :</em> [[/attack]] ([[lookup @activation.condition activity=QIpweawAzbt4xw5h]]), allonge [[lookup @range.value activity=QIpweawAzbt4xw5h]] [[lookup @range.units activity=QIpweawAzbt4xw5h]]. [[/damage average extended]]</p>",
                     "activities": {
                         "attack": {
-                            "condition": ""
+                            "condition": "avec Avantage si la cible est Agrippée par le gobelours"
                         }
                     }
                 },
                 "Chain Shirt": {
-                    "name": ""
+                    "name": "Chemise de mailles"
                 },
                 "Abduct": {
-                    "name": "",
-                    "description": ""
+                    "name": "Rapt",
+                    "description": "<p>Le gobelours n'a pas besoin de dépenser de déplacement supplémentaire pour déplacer une créature qu'il agrippe.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le gobelours effectue deux attaques de [[/item .dN1CML4smcRrUkzD]] ou de [[/item .YFpjAATelvlz5oyb]].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
@@ -4849,12 +4850,12 @@
                     }
                 },
                 "Quick Grapple": {
-                    "name": "",
-                    "description": "",
+                    "name": "Lutte rapide",
+                    "description": "<p class=\"feature\"><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=aDWVHpJgsNPPNrDs]], [[lookup @target.affects.special activity=aDWVHpJgsNPPNrDs]] que le gobelours voit dans un rayon de [[lookup @target.template.size activity=aDWVHpJgsNPPNrDs]] [[lookup @target.template.units activity=aDWVHpJgsNPPNrDs]].</p><p><em>Échec :</em> la cible subit l'état &Reference[Grappled apply=false] (évasion DD [[lookup @skills.ath.passive]]).</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde",
-                            "target": ""
+                            "target": "une créature de taille M ou inférieure"
                         },
                         "Escape Check": {
                             "name": "Test de libération"
@@ -4863,7 +4864,7 @@
                     "effects": {
                         "Grappled": {
                             "name": "Agrippé",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Grappled apply=false] (évasion DD [[/check ability=str skill=ath format=long]], voir l'objet source pour le DD).</p>"
                         }
                     }
                 }
@@ -4871,29 +4872,29 @@
             "planarSubtype": "Féerie"
         },
         "Bugbear Warrior": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Combattant gobelours",
+            "description": "<div class=\"gear\"><p><strong>Équipement :</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbarmHideArmor0]{armure de peaux}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLightHamme]{marteaux légers} (3)</p></div><h1>Gobelours</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.gzTUYPi9wHg0WMP0 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Combattant gobelours</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.aZNE3q6npBVVLIa1 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "subtype": "Gobelinoïde",
             "items": {
                 "Light Hammer": {
-                    "name": "",
-                    "description": "",
+                    "name": "Marteau léger",
+                    "description": "<p><em>Corps à corps ou à distance :</em> [[/attack]] ([[lookup @activation.condition activity=FHmD55OJjrFoBkHr]]), allonge [[lookup @item.range.reach item=ST0XpSUdRn52jAF0]] [[lookup @item.range.units item=ST0XpSUdRn52jAF0]] ou portée [[lookup @item.range.value item=ST0XpSUdRn52jAF0]]/[[lookup @item.range.long item=ST0XpSUdRn52jAF0]] [[lookup @item.range.units item=ST0XpSUdRn52jAF0]]. [[/damage average extended]]</p>",
                     "activities": {
                         "attack": {
-                            "condition": ""
+                            "condition": "avec Avantage si la cible est Agrippée par le gobelours"
                         }
                     }
                 },
                 "Hide Armor": {
-                    "name": ""
+                    "name": "Armure de peaux"
                 },
                 "Abduct": {
-                    "name": "",
-                    "description": ""
+                    "name": "Rapt",
+                    "description": "<p>Le gobelours n'a pas besoin de dépenser de déplacement supplémentaire pour déplacer une créature qu'il agrippe.</p>"
                 },
                 "Grab": {
-                    "name": "",
-                    "description": "",
+                    "name": "Empoignade",
+                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature de taille M ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[lookup @skills.ath.passive]]).</p>",
                     "activities": {
                         "Escape Check": {
                             "name": "Test de libération"
@@ -4902,7 +4903,7 @@
                     "effects": {
                         "Grappled": {
                             "name": "Agrippé",
-                            "description": ""
+                            "description": "<p>Si la cible est une créature de taille M ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[/check ability=str skill=ath format=long]], voir l'objet source pour le DD).</p>"
                         }
                     }
                 }
@@ -4956,25 +4957,25 @@
             }
         },
         "Bullywug Bog Sage": {
-            "name": "",
-            "description": "",
-            "languages": "",
+            "name": "Sage du marais brutacien",
+            "description": "<div class=\"gear\"><p><strong>Équipement :</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbagComponentPo]{Sacoche à composantes}</p></div><h1>Brutaciens</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.PMD05f22oIhFXfR1 caption=false cite=false classes=\"no-embed mm\"]</p><h2>Sage du marais brutacien</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.pkcKu5qmduJzTjMl caption=false cite=false classes=\"no-embed mm\"]</p>",
+            "languages": "brutacien",
             "items": {
                 "Component Pouch": {
-                    "name": "",
-                    "description": ""
+                    "name": "Sacoche à composantes",
+                    "description": "<p>Une sacoche à composantes est étanche et divisée en compartiments qui permettent d'y ranger toutes les composantes matérielles gratuites de vos sorts.</p>"
                 },
                 "Amphibious": {
                     "name": "Amphibie",
-                    "description": ""
+                    "description": "<p>Le brutacien peut respirer sous l'eau comme à l'air libre.</p>"
                 },
                 "Speak with Frogs and Toads": {
-                    "name": "",
-                    "description": ""
+                    "name": "Communication avec les grenouilles et les crapauds",
+                    "description": "<p class=\"feature\">Le brutacien peut communiquer des idées simples aux grenouilles et aux crapauds lorsqu'il s'exprime en brutacien.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le brutacien effectue deux attaques de [[/item .mmBogStaff000000]]. Il peut remplacer l’une de ces attaques par une utilisation d’incantation pour lancer <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplRayofSickn]{rayon empoisonné}</em>.</p>",
                     "activities": {
                         "Expand Use": {
                             "name": "Dépenser utilisation"
@@ -4982,33 +4983,33 @@
                     }
                 },
                 "Bog Staff": {
-                    "name": "",
+                    "name": "Bâton du marais",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Spellcasting": {
                     "name": "Incantation",
-                    "description": ""
+                    "description": "<p class=\"feature\">Le brutacien lance l'un des sorts suivants, la Sagesse étant sa caractéristique d'incantation (DD de sauvegarde [[lookup @attributes.spell.dc]], +5 pour toucher) :</p><p class=\"feature-trait\"><strong>À volonté :</strong> <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{druidisme}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{lumières dansantes}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplRayofSickn]{rayon empoisonné}</em></p><p class=\"feature-trait\"><strong>1/jour chacun :</strong> <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplSpeakwithP]{communication avec les plantes}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplVitriolicS]{sphère de vitriol}</em></p>"
                 },
                 "Leap": {
-                    "name": "",
-                    "description": "",
+                    "name": "Bond",
+                    "description": "<p>Le brutacien effectue un saut d'un maximum de [[lookup @range.value activity=C28C43DeD8iFtZMe]] [[lookup @range.units activity=C28C43DeD8iFtZMe]] en [[lookup @activation.condition activity=C28C43DeD8iFtZMe]].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation",
-                            "condition": ""
+                            "condition": "dépensant 3 m de déplacement"
                         }
                     }
                 },
                 "Dancing Lights": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Lumières dansantes",
+                    "description": "<p>Vous créez jusqu'à quatre lumières de la taille d'une torche, à portée ; pour toute la durée, elles ont l'aspect de torches, de lanternes ou de globes luisants qui flottent dans les airs. Au lieu de cela, vous pouvez fusionner les quatre lumières en forme luisante vaguement humaine, de taille M. Quelle que soit la forme choisie, chaque lueur émet une Lumière faible dans un rayon de 3 m.</p><p>Par une action Bonus, vous pouvez déplacer les lueurs d'un maximum de 18 m vers un nouvel espace à portée. Chaque lueur du sort, à sa création, doit se situer dans un rayon de 6 m d'une autre, et s'évanouit si jamais elle quitte la portée du sort.</p>",
+                    "materials": "un peu de phosphore",
                     "activities": {
                         "Create Lights": {
-                            "name": ""
+                            "name": "Créer des lumières"
                         },
                         "Move Lights": {
-                            "name": ""
+                            "name": "Déplacer des lumières"
                         }
                     },
                     "effects": {
@@ -5032,8 +5033,8 @@
                     }
                 },
                 "Ray of Sickness": {
-                    "name": "",
-                    "description": "",
+                    "name": "Rayon empoisonné",
+                    "description": "<p>Vous dardez un rayon verdâtre vers une créature à portée. Effectuez une attaque de sort à distance contre la cible. Si l'attaque touche, la cible subit 2d8 dégâts de poison, ainsi que l'état &Reference[poisoned] jusqu'à la fin de votre tour suivant.</p><p><strong>Emplacement de niveau supérieur.</strong> Les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du 1<sup>er</sup>.</p>",
                     "effects": {
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -5041,11 +5042,11 @@
                     }
                 },
                 "Speak with Plants": {
-                    "name": "",
-                    "description": "",
+                    "name": "Communication avec les plantes",
+                    "description": "<p>Vous investissez la flore comprise dans une Émanation immobile de 9 m d'une conscience limitée et de mouvements, de quoi lui permettre de communiquer avec vous et de suivre vos instructions rudimentaires. Vous pouvez interroger ces plantes sur ce qui s'est passé dans la zone du sort depuis un jour, notamment la nature des créatures qui l'ont traversée, le temps qu'il a fait et autres détails.</p><p>Vous pouvez également transformer tout &Reference[difficultterrain] engendré par la végétation (buissons et sous-bois, par exemple) en terrain ordinaire qui persiste pour toute la durée. Ou bien transformer un terrain ordinaire pourvu de végétation en Terrain difficile qui persiste pour toute la durée.</p><p>Le sort ne permet pas aux plantes de se déraciner pour se déplacer, mais elles peuvent agiter leurs branches, leurs vrilles et leurs pédoncules.</p><p>Si une créature de type Plante se trouve dans la zone, vous pouvez communiquer avec elle comme si vous parliez une langue commune.</p>",
                     "effects": {
                         "Speaking with Plants": {
-                            "name": ""
+                            "name": "Communication avec les plantes"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -5074,29 +5075,29 @@
             }
         },
         "Bullywug Warrior": {
-            "name": "",
-            "description": "",
-            "languages": "",
+            "name": "Combattant brutacien",
+            "description": "<h1>Brutaciens</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.PMD05f22oIhFXfR1 caption=false cite=false classes=\"no-embed mm\"]</p><h2>Combattant brutacien</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.H5vEeQNCOqMvmsSt caption=false cite=false classes=\"no-embed mm\"]</p>",
+            "languages": "brutacien",
             "items": {
                 "Amphibious": {
                     "name": "Amphibie",
-                    "description": ""
+                    "description": "<p>Le brutacien peut respirer sous l'eau comme à l'air libre.</p>"
                 },
                 "Speak with Frogs and Toads": {
-                    "name": "",
-                    "description": ""
+                    "name": "Communication avec les grenouilles et les crapauds",
+                    "description": "<p class=\"feature\">Le brutacien peut communiquer des idées simples aux grenouilles et aux crapauds lorsqu'il s'exprime en brutacien.</p>"
                 },
                 "Insectile Rapier": {
-                    "name": "",
+                    "name": "Rapière venimeuse",
                     "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Leap": {
-                    "name": "",
-                    "description": "",
+                    "name": "Bond",
+                    "description": "<p>Le brutacien effectue un saut d'un maximum de [[lookup @range.value activity=C28C43DeD8iFtZMe]] [[lookup @range.units activity=C28C43DeD8iFtZMe]] en [[lookup @activation.condition activity=C28C43DeD8iFtZMe]].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation",
-                            "condition": ""
+                            "condition": "dépensant 3 m de déplacement"
                         }
                     }
                 }
@@ -5257,23 +5258,23 @@
             }
         },
         "Centaur Trooper": {
-            "name": "",
-            "description": "",
+            "name": "Soldat centaure",
+            "description": "<div class=\"gear\"><p><strong>Équipement :</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{arc long}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmBreastplat]{cuirasse}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepPike000000]{pique}</p></div><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "items": {
                 "Pike": {
-                    "name": "",
+                    "name": "Pique",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Longbow": {
-                    "name": "",
+                    "name": "Arc long",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Breastplate": {
-                    "name": ""
+                    "name": "Cuirasse"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le centaure effectue deux attaques, réparties à sa guise entre [[/item .XMKFiS5XUEC4fLCr]] et [[/item .4C5jy0VkmoTdrbTC]].</p>",
                     "activities": {
                         "Expand Use": {
                             "name": "Dépenser utilisation"
@@ -5281,18 +5282,18 @@
                     }
                 },
                 "Trampling Charge": {
-                    "name": "",
-                    "description": "",
+                    "name": "Charge écrasante",
+                    "description": "<p class=\"feature\">Le centaure se déplace dans les limites de sa Vitesse sans provoquer d'&Reference[OpportunityAttacks]{attaques d'Opportunité} et peut traverser les espaces des [[lookup @target.affects.special activity=FG9rAj3Q8UTxbGLF]]. Chaque créature dont l'espace est traversé par le centaure est la cible de l'effet suivant.</p><p class=\"feature\"><em>JS Force :</em> DD [[lookup @save.dc.value activity=FG9rAj3Q8UTxbGLF]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]], et la cible subit l'état &Reference[Prone apply=false].</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde",
-                            "target": ""
+                            "target": "créatures de taille M ou inférieure"
                         }
                     },
                     "effects": {
                         "Prone": {
                             "name": "À terre",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Prone apply=false].</p>"
                         }
                     }
                 }
@@ -6225,7 +6226,7 @@
             "description": "",
             "items": {
                 "Leather Armor": {
-                    "name": ""
+                    "name": "Armure de cuir"
                 },
                 "Ritual Sickle": {
                     "name": "",
@@ -7011,7 +7012,7 @@
         "Dretch": {
             "name": "",
             "description": "",
-            "subtype": "",
+            "subtype": "Démon",
             "items": {
                 "Rend": {
                     "name": "Saignée",
@@ -7027,7 +7028,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Abysses"
         },
         "Drider": {
             "name": "",
@@ -7225,20 +7227,20 @@
             }
         },
         "Dryad": {
-            "name": "",
+            "name": "Dryade",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "items": {
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
-                    "description": ""
+                    "description": "<p>La [[lookup @name lowercase]] a l'Avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>"
                 },
                 "Speak with Beasts and Plants": {
-                    "name": "",
-                    "description": ""
+                    "name": "Communication avec les bêtes et les plantes",
+                    "description": "<p class=\"feature\">La [[lookup @name lowercase]] peut communiquer avec les Bêtes et les Plantes comme si elles parlaient la même langue.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>La [[lookup @name lowercase]] effectue une attaque de [[/item .mmVineLash000000]] ou de [[/item .mmThornBurst0000]], et peut recourir à Incantation pour lancer <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplCharmMonst]{charme-monstre}</em>.</p>",
                     "activities": {
                         "Expand Use": {
                             "name": "Dépenser utilisation"
@@ -7246,35 +7248,35 @@
                     }
                 },
                 "Vine Lash": {
-                    "name": "",
+                    "name": "Vrille cinglante",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Thorn Burst": {
-                    "name": "",
+                    "name": "Décharge d'épines",
                     "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Spellcasting": {
                     "name": "Incantation",
-                    "description": ""
+                    "description": "<p class=\"feature\">La [[lookup @name lowercase]] lance l'un des sorts suivants sans composantes matérielles, le Charisme étant sa caractéristique d'incantation (DD de sauvegarde [[lookup @attributes.spell.dc]]) :</p><p class=\"feature-trait\"><strong>À volonté :</strong> <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplAnimalFrie]{amitié avec les animaux}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplCharmMonst]{charme-monstre}</em> (dure 24 heures, termine prématurément si la dryade relance le sort), <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{druidisme}</em></p><p class=\"feature-trait\"><strong>1/jour chacun :</strong> <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplEntangle00]{enchevêtrement}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{passage sans trace}</em></p>"
                 },
                 "Tree Stride": {
-                    "name": "",
-                    "description": "",
+                    "name": "Passage par les arbres",
+                    "description": "<p>Si elle est dans un rayon de [[lookup @range.value activity=8av8Lh1jNLCrOJny]] [[lookup @range.units activity=8av8Lh1jNLCrOJny]] d'un [[lookup @range.special activity=8av8Lh1jNLCrOJny]], la [[lookup @name lowercase]] se téléporte en un espace inoccupé à [[lookup @range.value activity=8av8Lh1jNLCrOJny]] [[lookup @range.units activity=8av8Lh1jNLCrOJny]] ou moins d'un autre [[lookup @range.special activity=8av8Lh1jNLCrOJny]], dans un rayon de 18 m du premier.</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation",
-                            "range": ""
+                            "range": "arbre de taille G ou supérieure"
                         }
                     }
                 },
                 "Animal Friendship": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Amitié avec les animaux",
+                    "description": "<p>Ciblez une Bête que vous voyez à portée. La cible doit réussir un jet de sauvegarde de Sagesse sous peine de subir l'état &Reference[charmed apply=false] pour toute la durée du sort. Si vous ou l'un de vos alliés infligez des dégâts à la cible, le sort prend fin.</p><p><strong>Emplacement de niveau supérieur.</strong> Vous pouvez affecter une Bête supplémentaire par niveau d'emplacement au-delà du 1<sup>er</sup>.</p>",
+                    "materials": "un peu de nourriture",
                     "effects": {
                         "Charmed": {
-                            "name": "",
-                            "description": ""
+                            "name": "Charmé",
+                            "description": "<p>La cible subit l'état &Reference[charmed apply=false] pour toute la durée du sort. Si vous ou l'un de vos alliés infligez des dégâts à la cible, le sort prend fin.</p>"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -7282,12 +7284,12 @@
                     }
                 },
                 "Charm Monster": {
-                    "name": "",
-                    "description": "",
+                    "name": "Charme-monstre",
+                    "description": "<p>Une créature que vous voyez à portée effectue un jet de sauvegarde de Sagesse. Ce jet s'effectue avec l'Avantage si vous ou vos alliés êtes en train de l'affronter. En cas d'échec, la cible subit l'état &Reference[Charmed apply=false] jusqu'à la fin du sort ou que vous ou vos alliés lui infligiez des dégâts. La créature ainsi Charmée vous est Amicale. Lorsque le sort prend fin, la cible sait que vous l'avez Charmée.</p><p><strong>Emplacement de niveau supérieur.</strong> Vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du 4<sup>e</sup>.</p>",
                     "effects": {
                         "Charmed": {
-                            "name": "",
-                            "description": ""
+                            "name": "Charmé",
+                            "description": "<p>La cible subit l'état &Reference[Charmed apply=false] jusqu'à la fin du sort ou que vous ou vos alliés lui infligiez des dégâts. La créature ainsi Charmée vous est Amicale. Lorsque le sort prend fin, la cible sait que vous l'avez Charmée.</p>"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -9267,7 +9269,7 @@
         "Glabrezu": {
             "name": "",
             "description": "",
-            "subtype": "",
+            "subtype": "Démon",
             "items": {
                 "Demonic Restoration": {
                     "name": "",
@@ -9401,7 +9403,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Abysses"
         },
         "Gladiator": {
             "name": "",
@@ -9412,8 +9415,8 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Shield": {
-                    "name": "",
-                    "description": ""
+                    "name": "Bouclier",
+                    "description": "<p>Vous ne recevez le bénéfice Classe d'armure d'un bouclier que si vous êtes formé à le porter.</p>"
                 },
                 "Studded Leather Armor": {
                     "name": ""
@@ -9497,38 +9500,38 @@
             }
         },
         "Goblin Boss": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Chef gobelin",
+            "description": "<div class=\"gear\"><p><strong>Équipement :</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{arc court}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{bouclier}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainShirt]{chemise de mailles}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{cimeterre}</p></div><h1>Gobelins</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.TwMrfWrYo0ZAnWB3 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Chef gobelin</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.bgTL13d21Sxf05VY caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
+            "subtype": "Gobelinoïde",
             "items": {
                 "Scimitar": {
-                    "name": "",
-                    "description": "",
+                    "name": "Cimeterre",
+                    "description": "<p>[[/attack extended]]. [[/damage average extended]], plus [[/damage 1d4 slashing average]] si le jet d'attaque avait l'Avantage.</p>",
                     "activities": {
                         "Attack at Advantage": {
-                            "name": ""
+                            "name": "Attaquer avec Avantage"
                         }
                     }
                 },
                 "Shortbow": {
-                    "name": "",
-                    "description": "",
+                    "name": "Arc court",
+                    "description": "<p>[[/attack extended]]. [[/damage average extended]], plus [[/damage 1d4 piercing average]] si le jet d'attaque avait l'Avantage.</p>",
                     "activities": {
                         "Attack at Advantage": {
-                            "name": ""
+                            "name": "Attaquer avec Avantage"
                         }
                     }
                 },
                 "Chain Shirt": {
-                    "name": ""
+                    "name": "Chemise de mailles"
                 },
                 "Shield": {
-                    "name": "",
-                    "description": ""
+                    "name": "Bouclier",
+                    "description": "<p>Vous ne recevez le bénéfice Classe d'armure d'un bouclier que si vous êtes formé à le porter.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le gobelin effectue deux attaques, réparties à sa guise entre [[/item .8gwXLDcYj3mk6Kr3]] et [[/item .XbNHC5OBGT6VQF40]].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
@@ -9536,8 +9539,8 @@
                     }
                 },
                 "Nimble Escape": {
-                    "name": "",
-                    "description": "",
+                    "name": "Fuite agile",
+                    "description": "<p class=\"feature\">Le gobelin entreprend l'action &Reference[Disengage] ou &Reference[Hide].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
@@ -9545,35 +9548,36 @@
                     },
                     "effects": {
                         "Apply Hide Action to Target": {
-                            "name": ""
+                            "name": "Appliquer l'action Furtivité à la cible"
                         }
                     }
                 },
                 "Redirect Attack": {
-                    "name": "",
-                    "description": "",
+                    "name": "Attaque redirigée",
+                    "description": "<p class=\"feature\"><em>Déclencheur :</em> une créature que le gobelin voit effectue un jet d'attaque contre lui.</p><p class=\"feature\"><em>Conséquences :</em> le gobelin choisit [[lookup @target.affects.special activity=pIlCmuPw8YUqAISY]] dans un rayon de [[lookup @range.value activity=pIlCmuPw8YUqAISY]] [[lookup @range.units activity=pIlCmuPw8YUqAISY]]. Le gobelin et cet allié échangent leurs places ; l'allié devient la nouvelle cible de l'attaque.</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation",
-                            "condition": "",
-                            "target": ""
+                            "condition": "Une créature que le gobelin voit effectue un jet d'attaque contre lui.",
+                            "target": "un allié de taille P ou M"
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Achéron, Féerie"
         },
         "Goblin Minion": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Sbire gobelin",
+            "description": "<div class=\"gear\"><p><strong>Équipement :</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{dagues} (3)</p></div><h1>Gobelins</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.TwMrfWrYo0ZAnWB3 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Sbire gobelin</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.x4VLvBATmEBnTTxK caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
+            "subtype": "Gobelinoïde",
             "items": {
                 "Dagger": {
                     "name": "Dague",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Nimble Escape": {
-                    "name": "",
-                    "description": "",
+                    "name": "Fuite agile",
+                    "description": "<p class=\"feature\">Le gobelin entreprend l'action &Reference[Disengage] ou &Reference[Hide].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
@@ -9581,45 +9585,46 @@
                     },
                     "effects": {
                         "Apply Hide Action to Target": {
-                            "name": ""
+                            "name": "Appliquer l'action Furtivité à la cible"
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Achéron, Féerie"
         },
         "Goblin Warrior": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Combattant gobelin",
+            "description": "<div class=\"gear\"><p><strong>Équipement :</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{arc court}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{armure de cuir}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{bouclier}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{cimeterre}</p></div><h1>Gobelins</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.TwMrfWrYo0ZAnWB3 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Combattant gobelin</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.ktLVwvt2KkJVB9eS caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "subtype": "Gobelinoïde",
             "items": {
                 "Scimitar": {
-                    "name": "",
-                    "description": "",
+                    "name": "Cimeterre",
+                    "description": "<p>[[/attack extended]]. [[/damage average extended]], plus [[/damage 1d4 slashing average]] si le jet d'attaque avait l'Avantage.</p>",
                     "activities": {
                         "Attack with Advantage": {
-                            "name": ""
+                            "name": "Attaquer avec Avantage"
                         }
                     }
                 },
                 "Shortbow": {
-                    "name": "",
-                    "description": "",
+                    "name": "Arc court",
+                    "description": "<p>[[/attack extended]]. [[/damage average extended]], plus [[/damage 1d4 piercing average]] si le jet d'attaque avait l'Avantage.</p>",
                     "activities": {
                         "Attack with Advantage": {
-                            "name": ""
+                            "name": "Attaquer avec Avantage"
                         }
                     }
                 },
                 "Leather Armor": {
-                    "name": ""
+                    "name": "Armure de cuir"
                 },
                 "Shield": {
-                    "name": "",
-                    "description": ""
+                    "name": "Bouclier",
+                    "description": "<p>Vous ne recevez le bénéfice Classe d'armure d'un bouclier que si vous êtes formé à le porter.</p>"
                 },
                 "Nimble Escape": {
-                    "name": "",
-                    "description": "",
+                    "name": "Fuite agile",
+                    "description": "<p class=\"feature\">Le gobelin entreprend l'action &Reference[Disengage] ou &Reference[Hide].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
@@ -9627,24 +9632,25 @@
                     },
                     "effects": {
                         "Apply Hide Action to Target": {
-                            "name": ""
+                            "name": "Appliquer l'action Furtivité à la cible"
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Achéron, Féerie"
         },
         "Gold Dragon Wyrmling": {
-            "name": "",
+            "name": "Dragonnet d'or",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Métallique",
             "items": {
                 "Amphibious": {
                     "name": "Amphibie",
-                    "description": ""
+                    "description": "<p>Le dragon peut respirer sous l'eau comme à l'air libre.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue deux attaques de [[/item .mmRend0000000000]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -9656,12 +9662,12 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Fire Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle de feu",
+                    "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=bDqgmtLG3zcVuqdi]], chaque créature dans une Ligne de [[lookup @target.template.size activity=bDqgmtLG3zcVuqdi]] [[lookup @target.template.units activity=bDqgmtLG3zcVuqdi]] de long sur [[lookup @target.template.width activity=bDqgmtLG3zcVuqdi]] [[lookup @target.template.units activity=bDqgmtLG3zcVuqdi]] de large.</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 },
                 "Weakening Breath": {
-                    "name": "",
-                    "description": "",
+                    "name": "Souffle affaiblissant",
+                    "description": "<p class=\"feature\"><em>JS Force :</em> DD [[lookup @save.dc.value activity=EGZ4bS4HpJkfNG9s]], chaque créature non encore affectée par ce souffle dans un Cône de [[lookup @target.template.size activity=EGZ4bS4HpJkfNG9s]] [[lookup @target.template.units activity=EGZ4bS4HpJkfNG9s]].</p><p class=\"feature\"><em>Échec :</em> la cible subit le Désavantage aux Tests d20 basés sur la Force et soustrait 2 ([[/r 1d4]]) à ses jets de dégâts. Elle réitère le JS à la fin de chacun de ses tours, et met un terme à l'effet sur elle-même en cas de réussite. Au bout de [[lookup @duration.value activity=EGZ4bS4HpJkfNG9s]] [[lookup @duration.units activity=EGZ4bS4HpJkfNG9s]], elle réussit automatiquement ce JS.</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde"
@@ -9669,8 +9675,8 @@
                     },
                     "effects": {
                         "Weakened": {
-                            "name": "",
-                            "description": ""
+                            "name": "Affaibli",
+                            "description": "<p>La cible subit le Désavantage aux Tests d20 basés sur la Force et soustrait 2 (1d4) à ses jets de dégâts. Elle réitère le JS à la fin de chacun de ses tours, et met un terme à l'effet sur elle-même en cas de réussite. Au bout de 1 minute, elle réussit automatiquement ce JS.</p>"
                         }
                     }
                 }
@@ -9756,17 +9762,17 @@
             }
         },
         "Green Dragon Wyrmling": {
-            "name": "",
+            "name": "Dragonnet vert",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Chromatique",
             "items": {
                 "Amphibious": {
                     "name": "Amphibie",
-                    "description": ""
+                    "description": "<p>Le dragon peut respirer sous l'eau comme à l'air libre.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue deux attaques de [[/item .mmRend0000000000]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -9778,8 +9784,8 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Poison Breath": {
-                    "name": "",
-                    "description": "",
+                    "name": "Souffle empoisonné",
+                    "description": "<p class=\"feature\"><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=lnabW9bM51HoluPp]], chaque créature dans un Cône de [[lookup @target.template.size activity=lnabW9bM51HoluPp]] [[lookup @target.template.units activity=lnabW9bM51HoluPp]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]].</p><p class=\"feature\"><em>Réussite :</em> demi-dégâts.</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde"
@@ -9789,21 +9795,21 @@
             }
         },
         "Green Hag": {
-            "name": "",
+            "name": "Guenaude verte",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "items": {
                 "Amphibious": {
                     "name": "Amphibie",
-                    "description": ""
+                    "description": "<p>La guenaude peut respirer sous l'eau comme à l'air libre.</p>"
                 },
                 "Coven Magic": {
-                    "name": "",
-                    "description": ""
+                    "name": "Magie d'assemblée",
+                    "description": "<p class=\"feature\">Tant qu'elle se trouve dans un rayon de 9 m d'au moins deux alliés guenaudes, la guenaude peut lancer l'un des sorts suivants sans composantes matérielles, avec le temps d'incantation normal, l'Intelligence étant sa caractéristique d'incantation (DD de sauvegarde [[lookup @abilities.int.dc]]) : <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplFindFamili]{appel de familier}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplAugury0000]{augure}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplIdentify00]{identification}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplLocateObje]{localisation d'objet}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplScrying000]{scrutation}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplUnseenServ]{serviteur invisible}</em>. La guenaude doit terminer un Repos long avant de pouvoir relancer ce sort par ce trait.</p>"
                 },
                 "Augury": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Augure",
+                    "description": "<p>Vous recevez un présage d'une entité surnaturelle vous renseignant sur l'issue d'une opération que vous comptez mener dans les 30 minutes. Le MD choisit une option de la table Présages :</p><table><thead><tr><td>Présages</td><td>Pour une issue qui s'annonce…</td></tr></thead><tbody><tr><td>Fortune</td><td>favorable</td></tr><tr><td>Misère</td><td>défavorable</td></tr><tr><td>Fortune et misère</td><td>favorable et défavorable</td></tr><tr><td>Indifférence</td><td>ni favorable ni défavorable</td></tr></tbody></table><p>Le sort ne tient pas compte des conjonctures qui pourraient peser dans la balance, comme l'incantation de nouveaux sorts.</p><p>Si vous lancez le sort plus d'une fois avant de terminer votre prochain Repos long, vous courez dès la deuxième incantation 25 % de risques cumulatifs qu'il ne vous livre aucune réponse.</p>",
+                    "materials": "cartes, os ou bâtonnets gravés spécialement, ou objets divinatoires comparables, d'une valeur minimale de 25 po",
                     "effects": {
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -9811,14 +9817,14 @@
                     }
                 },
                 "Find Familiar": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Appel de familier",
+                    "description": "<p>Vous recevez les services d'un familier, esprit qui prend la forme animale de votre choix : <strong>araignée</strong>, <strong>belette</strong>, <strong>chat</strong>, <strong>chauve-souris</strong>, <strong>chouette</strong> , <strong>corbeau</strong>, <strong>faucon</strong>, <strong>grenouille</strong>, <strong>lézard</strong>, <strong>pieuvre</strong>, <strong>rat</strong> ou une autre Bête dont le facteur de puissance est de 0. Le familier se présente en un espace inoccupé à portée, avec le profil de jeu de la forme retenue (cf. annexe B), si ce n'est qu'il s'agit d'un Céleste, d'une Fée ou d'un Fiélon (à votre convenance) et non d'une Bête. Votre familier agit indépendamment de vous, mais il obéit à vos instructions.</p><p><strong>Lien télépathique.</strong> Tant que votre familier se trouve dans un rayon de 30 m de vous, vous pouvez communiquer avec lui par télépathie. De plus, par une action Bonus, vous pouvez voir par ses yeux et entendre par son ouïe jusqu'au début de votre tour suivant, en bénéficiant de ses éventuels sens spéciaux.</p><p>Enfin, si vous lancez un sort dont la portée est « contact », votre familier peut appliquer ce contact. Il doit se trouver dans un rayon de 30 m de vous et doit jouer sa Réaction pour appliquer le contact lors de l'incantation.</p><p><strong>Combat.</strong> Le familier est votre allié, ainsi que celui de vos alliés. Il joue sa propre Initiative et agit à son tour. Un familier ne peut pas attaquer, mais il peut entreprendre normalement d'autres actions.</p><p><strong>Disparition du familier.</strong> Quand le familier tombe à 0 point de vie, il disparaît. Il réapparaît si vous relancez ce sort. Au prix de l'action Magie, vous pouvez provisoirement révoquer le familier dans une niche dimensionnelle. Vous pouvez également le révoquer à tout jamais. Au prix de l'action Magie, tant qu'il est provisoirement révoqué, vous pouvez le faire réapparaître en un espace inoccupé dans un rayon de 9 m de vous. Quand le familier tombe à 0 point de vie ou disparaît dans une niche dimensionnelle, il laisse tout ce qu'il porte sur lui dans son espace.</p><p><strong>Un seul familier.</strong> Vous ne pouvez pas disposer de plus d'un familier à la fois. Si vous lancez ce sort alors que vous disposez déjà d'un familier, ce dernier adopte en fait une nouvelle forme adaptée.</p>",
+                    "materials": "de l'encens qui brûle d'une valeur minimale de 10 po, que le sort détruit",
                     "activities": {
                         "summon": {
                             "profiles": {
                                 "CR 0 Beast": {
-                                    "name": ""
+                                    "name": "Bête FP 0"
                                 }
                             }
                         }
@@ -9899,9 +9905,9 @@
                     }
                 },
                 "Unseen Servant": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Serviteur invisible",
+                    "description": "<p>Le sort crée une force de taille M, Invisible, dépourvue de conscience et de forme, qui accomplit des tâches rudimentaires sous vos ordres jusqu'à la fin du sort. Le serviteur se matérialise au sol, en un espace inoccupé à portée. Il est doté d'un CA de 10, de 1 point de vie, d'une Force de 2, et ne peut pas effectuer d'attaques. S'il tombe à 0 point de vie, le sort prend fin.</p><p>À chacun de vos tours, vous pouvez par une action Bonus ordonner mentalement au serviteur de se déplacer d'un maximum de 4,50 m et d'interagir avec un objet. Le serviteur peut accomplir des tâches rudimentaires à la portée d'un humain, comme aller chercher des objets, nettoyer, réparer, repasser les vêtements, allumer un feu ou servir les repas et la boisson. Une fois l'instruction reçue, le serviteur s'attèle à la tâche de son mieux jusqu'à l'avoir accomplie, puis attend vos prochaines directives.</p><p>Si vous lui assignez une tâche qui lui demande de s'éloigner de plus de 18 m de vous, le sort prend fin.</p>",
+                    "materials": "un bout de ficelle et un morceau de bois",
                     "effects": {
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -9909,12 +9915,12 @@
                     }
                 },
                 "Mimicry": {
-                    "name": "",
-                    "description": ""
+                    "name": "Imitation",
+                    "description": "<p class=\"feature\">La guenaude imite à merveille les bruits des animaux et les voix humanoïdes. Une créature qui l'entend se rend compte qu'il s'agit d'une imitation si elle réussit un [[/check format=long]].</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>La guenaude effectue deux attaques de [[/item .mmClaw0000000000]].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
@@ -9922,23 +9928,23 @@
                     }
                 },
                 "Claw": {
-                    "name": "",
+                    "name": "Griffe",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Spellcasting": {
                     "name": "Incantation",
-                    "description": ""
+                    "description": "<p class=\"feature\">La guenaude lance l'un des sorts suivants sans composantes matérielles, la Sagesse étant sa caractéristique d'incantation (DD de sauvegarde [[lookup @attributes.spell.dc]], +4 pour toucher) :</p><p class=\"feature-trait\"><strong>À volonté :</strong> <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDisguiseSe]{déguisement}</em> (durée : 24 heures), <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplMinorIllus]{illusion mineure}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplInvisibili]{invisibilité}</em> (soi-même uniquement ; la guenaude ne laisse aucune trace tant qu'elle est Invisible), <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{lumières dansantes}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplRayofSickn]{rayon empoisonné}</em> (au 3<sup>e</sup> niveau)</p>"
                 },
                 "Dancing Lights": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Lumières dansantes",
+                    "description": "<p>Vous créez jusqu'à quatre lumières de la taille d'une torche, à portée ; pour toute la durée, elles ont l'aspect de torches, de lanternes ou de globes luisants qui flottent dans les airs. Au lieu de cela, vous pouvez fusionner les quatre lumières en forme luisante vaguement humaine, de taille M. Quelle que soit la forme choisie, chaque lueur émet une Lumière faible dans un rayon de 3 m.</p><p>Par une action Bonus, vous pouvez déplacer les lueurs d'un maximum de 18 m vers un nouvel espace à portée. Chaque lueur du sort, à sa création, doit se situer dans un rayon de 6 m d'une autre, et s'évanouit si jamais elle quitte la portée du sort.</p>",
+                    "materials": "un peu de phosphore",
                     "activities": {
                         "Create Lights": {
-                            "name": ""
+                            "name": "Créer des lumières"
                         },
                         "Move Lights": {
-                            "name": ""
+                            "name": "Déplacer des lumières"
                         }
                     },
                     "effects": {
@@ -9948,8 +9954,8 @@
                     }
                 },
                 "Disguise Self": {
-                    "name": "",
-                    "description": "",
+                    "name": "Déguisement",
+                    "description": "<p>Vous vous donnez un aspect différent jusqu'à la fin du sort ; vous pouvez ainsi altérer l'apparence de vos vêtements, de votre armure, de vos armes et autres biens portés. Vous pouvez paraître jusqu'à 30 cm plus grand ou plus petit, sembler plus léger ou plus lourd. Vous devez adopter une forme présentant la même répartition de membres que vous. Pour le reste, les détails de l'illusion vous appartiennent.</p><p>Les changements apportés par le sort ne résistent pas à un examen physique. Exemple : si le sort ajoute un chapeau à votre accoutrement, ce couvre-chef n'est pas tangible, si bien que quiconque cherche à le toucher ne sentira sous ses doigts que de l'air.</p><p>Pour comprendre que vous êtes déguisé, une créature doit consacrer l'action Étude à vous examiner et réussir un test d'[[/check ability=int skill=inv dc=@attributes.spell.dc]] assorti de votre DD de sauvegarde des sorts.</p>",
                     "activities": {
                         "Cast": {
                             "name": "Incanter"
@@ -9957,8 +9963,8 @@
                     },
                     "effects": {
                         "Disguised": {
-                            "name": "",
-                            "description": ""
+                            "name": "Déguisé",
+                            "description": "<p>Pour comprendre que vous êtes déguisé, une créature doit consacrer l'action Étude à vous examiner et réussir un test d'[[/check ability=int skill=inv]] assorti de votre DD de sauvegarde des sorts.</p>"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -10003,8 +10009,8 @@
                     }
                 },
                 "Ray of Sickness": {
-                    "name": "",
-                    "description": "",
+                    "name": "Rayon empoisonné",
+                    "description": "<p>Vous dardez un rayon verdâtre vers une créature à portée. Effectuez une attaque de sort à distance contre la cible. Si l'attaque touche, la cible subit 2d8 dégâts de poison, ainsi que l'état &Reference[poisoned] jusqu'à la fin de votre tour suivant.</p><p><strong>Emplacement de niveau supérieur.</strong> Les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du 1<sup>er</sup>.</p>",
                     "effects": {
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -10096,11 +10102,11 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Chain Shirt": {
-                    "name": ""
+                    "name": "Chemise de mailles"
                 },
                 "Shield": {
-                    "name": "",
-                    "description": ""
+                    "name": "Bouclier",
+                    "description": "<p>Vous ne recevez le bénéfice Classe d'armure d'un bouclier que si vous êtes formé à le porter.</p>"
                 }
             }
         },
@@ -10109,19 +10115,19 @@
             "description": "",
             "items": {
                 "Javelin": {
-                    "name": "",
+                    "name": "Javeline",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Longsword": {
-                    "name": "",
+                    "name": "Épée longue",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Breastplate": {
-                    "name": ""
+                    "name": "Cuirasse"
                 },
                 "Shield": {
-                    "name": "",
-                    "description": ""
+                    "name": "Bouclier",
+                    "description": "<p>Vous ne recevez le bénéfice Classe d'armure d'un bouclier que si vous êtes formé à le porter.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
@@ -10396,7 +10402,7 @@
         "Hezrou": {
             "name": "",
             "description": "",
-            "subtype": "",
+            "subtype": "Démon",
             "items": {
                 "Demonic Restoration": {
                     "name": "",
@@ -10440,7 +10446,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Abysses"
         },
         "Hill Giant": {
             "name": "Géant des collines",
@@ -10525,69 +10532,71 @@
             }
         },
         "Hobgoblin Captain": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Capitaine hobgobelin",
+            "description": "<div class=\"gear\"><p><strong>Équipement :</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{arc long}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmHalfPlateA]{demi-plate}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{épée à deux mains}</p></div><h1>Hobgobelins</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.eFGs6u803PtWG5k7 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Capitaine hobgobelin</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.kr2tx1DFAcwGmzKR caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p>",
+            "subtype": "Gobelinoïde",
             "items": {
                 "Greatsword": {
-                    "name": "",
+                    "name": "Épée à deux mains",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Longbow": {
-                    "name": "",
+                    "name": "Arc long",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Half Plate Armor": {
-                    "name": ""
+                    "name": "Demi-plate"
                 },
                 "Aura of Authority": {
-                    "name": "",
-                    "description": "",
-                    "requirements": "",
+                    "name": "Aura d'autorité",
+                    "description": "<p>Tant qu'ils se trouvent dans une Émanation de [[lookup @target.template.size activity=dE4lg9tZyXtoCb5x]] [[lookup @target.template.units activity=dE4lg9tZyXtoCb5x]] centrée sur le hobgobelin et à condition que celui-ci ne subisse pas l'état &Reference[Incapacitated apply=false], le hobgobelin et ses alliés ont l'Avantage aux jets d'attaque et jets de sauvegarde.</p>",
+                    "requirements": "Pas Neutralisé",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation",
-                            "condition": ""
+                            "condition": "ne subisse pas l'état Neutralisé"
                         }
                     }
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le hobgobelin effectue deux attaques, réparties à sa guise entre [[/item .OZvhmmUFMgHZWnGB]] et [[/item .cryc72bvanyjmNdX]].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Achéron"
         },
         "Hobgoblin Warrior": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Combattant hobgobelin",
+            "description": "<div class=\"gear\"><p><strong>Équipement :</strong> @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{arc long}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{bouclier}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmHalfPlateA]{demi-plate}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongsword0]{épée longue}</p></div><h1>Hobgobelins</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.eFGs6u803PtWG5k7 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Combattant hobgobelin</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.qn7hUk5eNskZNKk9 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "subtype": "Gobelinoïde",
             "items": {
                 "Longsword": {
-                    "name": "",
+                    "name": "Épée longue",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Longbow": {
-                    "name": "",
+                    "name": "Arc long",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Half Plate Armor": {
-                    "name": ""
+                    "name": "Demi-plate"
                 },
                 "Shield": {
-                    "name": "",
-                    "description": ""
+                    "name": "Bouclier",
+                    "description": "<p>Vous ne recevez le bénéfice Classe d'armure d'un bouclier que si vous êtes formé à le porter.</p>"
                 },
                 "Pack Tactics": {
-                    "name": "",
-                    "description": "",
+                    "name": "Tactique de meute",
+                    "description": "<p>Quand au moins un de ses alliés non Neutralisés se situe dans un rayon de 1,50 m de la créature qu'il cible, le hobgobelin a l'Avantage au jet d'attaque correspondant contre cette créature.</p>",
                     "requirements": "Allié dans un rayon de 1,50 m de la cible de l'attaque"
                 }
-            }
+            },
+            "planarSubtype": "Achéron"
         },
         "Homunculus": {
             "name": "Homoncule",
@@ -10974,8 +10983,8 @@
                     }
                 },
                 "Disguise Self": {
-                    "name": "",
-                    "description": "",
+                    "name": "Déguisement",
+                    "description": "<p>Vous vous donnez un aspect différent jusqu'à la fin du sort ; vous pouvez ainsi altérer l'apparence de vos vêtements, de votre armure, de vos armes et autres biens portés. Vous pouvez paraître jusqu'à 30 cm plus grand ou plus petit, sembler plus léger ou plus lourd. Vous devez adopter une forme présentant la même répartition de membres que vous. Pour le reste, les détails de l'illusion vous appartiennent.</p><p>Les changements apportés par le sort ne résistent pas à un examen physique. Exemple : si le sort ajoute un chapeau à votre accoutrement, ce couvre-chef n'est pas tangible, si bien que quiconque cherche à le toucher ne sentira sous ses doigts que de l'air.</p><p>Pour comprendre que vous êtes déguisé, une créature doit consacrer l'action Étude à vous examiner et réussir un test d'[[/check ability=int skill=inv dc=@attributes.spell.dc]] assorti de votre DD de sauvegarde des sorts.</p>",
                     "activities": {
                         "Cast": {
                             "name": "Incanter"
@@ -10983,8 +10992,8 @@
                     },
                     "effects": {
                         "Disguised": {
-                            "name": "",
-                            "description": ""
+                            "name": "Déguisé",
+                            "description": "<p>Pour comprendre que vous êtes déguisé, une créature doit consacrer l'action Étude à vous examiner et réussir un test d'[[/check ability=int skill=inv]] assorti de votre DD de sauvegarde des sorts.</p>"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -11182,7 +11191,7 @@
             "languages": "",
             "items": {
                 "Greatsword": {
-                    "name": "",
+                    "name": "Épée à deux mains",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Heavy Crossbow": {
@@ -11415,8 +11424,8 @@
                     }
                 },
                 "Disguise Self": {
-                    "name": "",
-                    "description": "",
+                    "name": "Déguisement",
+                    "description": "<p>Vous vous donnez un aspect différent jusqu'à la fin du sort ; vous pouvez ainsi altérer l'apparence de vos vêtements, de votre armure, de vos armes et autres biens portés. Vous pouvez paraître jusqu'à 30 cm plus grand ou plus petit, sembler plus léger ou plus lourd. Vous devez adopter une forme présentant la même répartition de membres que vous. Pour le reste, les détails de l'illusion vous appartiennent.</p><p>Les changements apportés par le sort ne résistent pas à un examen physique. Exemple : si le sort ajoute un chapeau à votre accoutrement, ce couvre-chef n'est pas tangible, si bien que quiconque cherche à le toucher ne sentira sous ses doigts que de l'air.</p><p>Pour comprendre que vous êtes déguisé, une créature doit consacrer l'action Étude à vous examiner et réussir un test d'[[/check ability=int skill=inv dc=@attributes.spell.dc]] assorti de votre DD de sauvegarde des sorts.</p>",
                     "activities": {
                         "Cast": {
                             "name": "Incanter"
@@ -11424,8 +11433,8 @@
                     },
                     "effects": {
                         "Disguised": {
-                            "name": "",
-                            "description": ""
+                            "name": "Déguisé",
+                            "description": "<p>Pour comprendre que vous êtes déguisé, une créature doit consacrer l'action Étude à vous examiner et réussir un test d'[[/check ability=int skill=inv]] assorti de votre DD de sauvegarde des sorts.</p>"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -11862,7 +11871,7 @@
                     }
                 },
                 "Shield": {
-                    "name": "",
+                    "name": "Bouclier",
                     "description": "",
                     "condition": "",
                     "activities": {
@@ -12061,7 +12070,7 @@
                     }
                 },
                 "Shield": {
-                    "name": "",
+                    "name": "Bouclier",
                     "description": "",
                     "condition": "",
                     "activities": {
@@ -12333,7 +12342,7 @@
         "Marilith": {
             "name": "",
             "description": "",
-            "subtype": "",
+            "subtype": "Démon",
             "items": {
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
@@ -12399,7 +12408,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Abysses"
         },
         "Mastiff": {
             "name": "Molosse",
@@ -12929,7 +12939,7 @@
         "Nalfeshnee": {
             "name": "",
             "description": "",
-            "subtype": "",
+            "subtype": "Démon",
             "items": {
                 "Demonic Restoration": {
                     "name": "",
@@ -12987,7 +12997,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Abysses"
         },
         "Night Hag": {
             "name": "",
@@ -12998,9 +13009,9 @@
                     "description": ""
                 },
                 "Augury": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Augure",
+                    "description": "<p>Vous recevez un présage d'une entité surnaturelle vous renseignant sur l'issue d'une opération que vous comptez mener dans les 30 minutes. Le MD choisit une option de la table Présages :</p><table><thead><tr><td>Présages</td><td>Pour une issue qui s'annonce…</td></tr></thead><tbody><tr><td>Fortune</td><td>favorable</td></tr><tr><td>Misère</td><td>défavorable</td></tr><tr><td>Fortune et misère</td><td>favorable et défavorable</td></tr><tr><td>Indifférence</td><td>ni favorable ni défavorable</td></tr></tbody></table><p>Le sort ne tient pas compte des conjonctures qui pourraient peser dans la balance, comme l'incantation de nouveaux sorts.</p><p>Si vous lancez le sort plus d'une fois avant de terminer votre prochain Repos long, vous courez dès la deuxième incantation 25 % de risques cumulatifs qu'il ne vous livre aucune réponse.</p>",
+                    "materials": "cartes, os ou bâtonnets gravés spécialement, ou objets divinatoires comparables, d'une valeur minimale de 25 po",
                     "effects": {
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -13008,14 +13019,14 @@
                     }
                 },
                 "Find Familiar": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Appel de familier",
+                    "description": "<p>Vous recevez les services d'un familier, esprit qui prend la forme animale de votre choix : <strong>araignée</strong>, <strong>belette</strong>, <strong>chat</strong>, <strong>chauve-souris</strong>, <strong>chouette</strong> , <strong>corbeau</strong>, <strong>faucon</strong>, <strong>grenouille</strong>, <strong>lézard</strong>, <strong>pieuvre</strong>, <strong>rat</strong> ou une autre Bête dont le facteur de puissance est de 0. Le familier se présente en un espace inoccupé à portée, avec le profil de jeu de la forme retenue (cf. annexe B), si ce n'est qu'il s'agit d'un Céleste, d'une Fée ou d'un Fiélon (à votre convenance) et non d'une Bête. Votre familier agit indépendamment de vous, mais il obéit à vos instructions.</p><p><strong>Lien télépathique.</strong> Tant que votre familier se trouve dans un rayon de 30 m de vous, vous pouvez communiquer avec lui par télépathie. De plus, par une action Bonus, vous pouvez voir par ses yeux et entendre par son ouïe jusqu'au début de votre tour suivant, en bénéficiant de ses éventuels sens spéciaux.</p><p>Enfin, si vous lancez un sort dont la portée est « contact », votre familier peut appliquer ce contact. Il doit se trouver dans un rayon de 30 m de vous et doit jouer sa Réaction pour appliquer le contact lors de l'incantation.</p><p><strong>Combat.</strong> Le familier est votre allié, ainsi que celui de vos alliés. Il joue sa propre Initiative et agit à son tour. Un familier ne peut pas attaquer, mais il peut entreprendre normalement d'autres actions.</p><p><strong>Disparition du familier.</strong> Quand le familier tombe à 0 point de vie, il disparaît. Il réapparaît si vous relancez ce sort. Au prix de l'action Magie, vous pouvez provisoirement révoquer le familier dans une niche dimensionnelle. Vous pouvez également le révoquer à tout jamais. Au prix de l'action Magie, tant qu'il est provisoirement révoqué, vous pouvez le faire réapparaître en un espace inoccupé dans un rayon de 9 m de vous. Quand le familier tombe à 0 point de vie ou disparaît dans une niche dimensionnelle, il laisse tout ce qu'il porte sur lui dans son espace.</p><p><strong>Un seul familier.</strong> Vous ne pouvez pas disposer de plus d'un familier à la fois. Si vous lancez ce sort alors que vous disposez déjà d'un familier, ce dernier adopte en fait une nouvelle forme adaptée.</p>",
+                    "materials": "de l'encens qui brûle d'une valeur minimale de 10 po, que le sort détruit",
                     "activities": {
                         "summon": {
                             "profiles": {
                                 "CR 0 Beast": {
-                                    "name": ""
+                                    "name": "Bête FP 0"
                                 }
                             }
                         }
@@ -13096,9 +13107,9 @@
                     }
                 },
                 "Unseen Servant": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Serviteur invisible",
+                    "description": "<p>Le sort crée une force de taille M, Invisible, dépourvue de conscience et de forme, qui accomplit des tâches rudimentaires sous vos ordres jusqu'à la fin du sort. Le serviteur se matérialise au sol, en un espace inoccupé à portée. Il est doté d'un CA de 10, de 1 point de vie, d'une Force de 2, et ne peut pas effectuer d'attaques. S'il tombe à 0 point de vie, le sort prend fin.</p><p>À chacun de vos tours, vous pouvez par une action Bonus ordonner mentalement au serviteur de se déplacer d'un maximum de 4,50 m et d'interagir avec un objet. Le serviteur peut accomplir des tâches rudimentaires à la portée d'un humain, comme aller chercher des objets, nettoyer, réparer, repasser les vêtements, allumer un feu ou servir les repas et la boisson. Une fois l'instruction reçue, le serviteur s'attèle à la tâche de son mieux jusqu'à l'avoir accomplie, puis attend vos prochaines directives.</p><p>Si vous lui assignez une tâche qui lui demande de s'éloigner de plus de 18 m de vous, le sort prend fin.</p>",
+                    "materials": "un bout de ficelle et un morceau de bois",
                     "effects": {
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -13286,7 +13297,7 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Breastplate": {
-                    "name": ""
+                    "name": "Cuirasse"
                 },
                 "Parry": {
                     "name": "",
@@ -13507,7 +13518,7 @@
                     "description": "",
                     "effects": {
                         "Charmed": {
-                            "name": "",
+                            "name": "Charmé",
                             "description": ""
                         },
                         "Spell Changes": {
@@ -13817,7 +13828,7 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Leather Armor": {
-                    "name": ""
+                    "name": "Armure de cuir"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
@@ -13838,7 +13849,7 @@
                     },
                     "effects": {
                         "Charmed": {
-                            "name": "",
+                            "name": "Charmé",
                             "description": ""
                         }
                     }
@@ -13878,7 +13889,7 @@
                     "description": "",
                     "effects": {
                         "Charmed": {
-                            "name": "",
+                            "name": "Charmé",
                             "description": ""
                         }
                     }
@@ -14632,7 +14643,7 @@
         "Quasit": {
             "name": "",
             "description": "",
-            "subtype": "",
+            "subtype": "Démon",
             "items": {
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
@@ -14696,7 +14707,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Abysses"
         },
         "Rakshasa": {
             "name": "",
@@ -14780,8 +14792,8 @@
                     }
                 },
                 "Disguise Self": {
-                    "name": "",
-                    "description": "",
+                    "name": "Déguisement",
+                    "description": "<p>Vous vous donnez un aspect différent jusqu'à la fin du sort ; vous pouvez ainsi altérer l'apparence de vos vêtements, de votre armure, de vos armes et autres biens portés. Vous pouvez paraître jusqu'à 30 cm plus grand ou plus petit, sembler plus léger ou plus lourd. Vous devez adopter une forme présentant la même répartition de membres que vous. Pour le reste, les détails de l'illusion vous appartiennent.</p><p>Les changements apportés par le sort ne résistent pas à un examen physique. Exemple : si le sort ajoute un chapeau à votre accoutrement, ce couvre-chef n'est pas tangible, si bien que quiconque cherche à le toucher ne sentira sous ses doigts que de l'air.</p><p>Pour comprendre que vous êtes déguisé, une créature doit consacrer l'action Étude à vous examiner et réussir un test d'[[/check ability=int skill=inv dc=@attributes.spell.dc]] assorti de votre DD de sauvegarde des sorts.</p>",
                     "activities": {
                         "Cast": {
                             "name": "Incanter"
@@ -14789,8 +14801,8 @@
                     },
                     "effects": {
                         "Disguised": {
-                            "name": "",
-                            "description": ""
+                            "name": "Déguisé",
+                            "description": "<p>Pour comprendre que vous êtes déguisé, une créature doit consacrer l'action Étude à vous examiner et réussir un test d'[[/check ability=int skill=inv]] assorti de votre DD de sauvegarde des sorts.</p>"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -14914,13 +14926,13 @@
             }
         },
         "Red Dragon Wyrmling": {
-            "name": "",
-            "description": "",
+            "name": "Dragonnet rouge",
+            "description": "<h1>Dragons rouges</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Rx08X1mW6m5uYldI caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Dragonnet rouge</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.u7L682ldreJy4PlC caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Chromatique",
             "items": {
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue deux attaques de [[/item .mmRend0000000000]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -14932,8 +14944,8 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Fire Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle de feu",
+                    "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=bDqgmtLG3zcVuqdi]], chaque créature dans un Cône de [[lookup @target.template.size activity=bDqgmtLG3zcVuqdi]] [[lookup @target.template.units activity=bDqgmtLG3zcVuqdi]].</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 }
             }
         },
@@ -15333,20 +15345,20 @@
             "planarSubtype": "Plan Élémentaire du Feu"
         },
         "Satyr": {
-            "name": "",
+            "name": "Satyre",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "items": {
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
-                    "description": ""
+                    "description": "<p>Le [[lookup @name lowercase]] a l'Avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>"
                 },
                 "Hooves": {
-                    "name": "",
-                    "description": ""
+                    "name": "Sabots",
+                    "description": "<p>[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature de taille M ou inférieure, le [[lookup @name lowercase]] la repousse en ligne droite d'un maximum de 3 m.</p>"
                 },
                 "Mockery": {
-                    "name": "",
-                    "description": "",
+                    "name": "Moquerie",
+                    "description": "<p class=\"feature\"><em>JS Sagesse :</em> DD [[lookup @save.dc.value activity=s5CMus4LOXBkt1Wn]], [[lookup @target.affects.labels.statblock activity=s5CMus4LOXBkt1Wn]] que le [[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=s5CMus4LOXBkt1Wn]] [[lookup @range.units activity=s5CMus4LOXBkt1Wn]].</p><p><em>Échec :</em> [[/damage average]].</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde"
@@ -15376,11 +15388,11 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Longbow": {
-                    "name": "",
+                    "name": "Arc long",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Leather Armor": {
-                    "name": ""
+                    "name": "Armure de cuir"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
@@ -15394,21 +15406,21 @@
             }
         },
         "Sea Hag": {
-            "name": "",
+            "name": "Guenaude marine",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "items": {
                 "Amphibious": {
                     "name": "Amphibie",
-                    "description": ""
+                    "description": "<p>La guenaude peut respirer sous l'eau comme à l'air libre.</p>"
                 },
                 "Coven Magic": {
-                    "name": "",
-                    "description": ""
+                    "name": "Magie d'assemblée",
+                    "description": "<p class=\"feature\">Tant qu'elle se trouve dans un rayon de 9 m d'au moins deux alliés guenaudes, la guenaude peut lancer l'un des sorts suivants sans composantes matérielles, avec le temps d'incantation normal, l'Intelligence étant sa caractéristique d'incantation (DD de sauvegarde [[lookup @abilities.int.dc]]) : <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplFindFamili]{appel de familier}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplAugury0000]{augure}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplIdentify00]{identification}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplLocateObje]{localisation d'objet}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplScrying000]{scrutation}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplUnseenServ]{serviteur invisible}</em>. La guenaude doit terminer un Repos long avant de pouvoir relancer ce sort par ce trait.</p>"
                 },
                 "Augury": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Augure",
+                    "description": "<p>Vous recevez un présage d'une entité surnaturelle vous renseignant sur l'issue d'une opération que vous comptez mener dans les 30 minutes. Le MD choisit une option de la table Présages :</p><table><thead><tr><td>Présages</td><td>Pour une issue qui s'annonce…</td></tr></thead><tbody><tr><td>Fortune</td><td>favorable</td></tr><tr><td>Misère</td><td>défavorable</td></tr><tr><td>Fortune et misère</td><td>favorable et défavorable</td></tr><tr><td>Indifférence</td><td>ni favorable ni défavorable</td></tr></tbody></table><p>Le sort ne tient pas compte des conjonctures qui pourraient peser dans la balance, comme l'incantation de nouveaux sorts.</p><p>Si vous lancez le sort plus d'une fois avant de terminer votre prochain Repos long, vous courez dès la deuxième incantation 25 % de risques cumulatifs qu'il ne vous livre aucune réponse.</p>",
+                    "materials": "cartes, os ou bâtonnets gravés spécialement, ou objets divinatoires comparables, d'une valeur minimale de 25 po",
                     "effects": {
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -15416,14 +15428,14 @@
                     }
                 },
                 "Find Familiar": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Appel de familier",
+                    "description": "<p>Vous recevez les services d'un familier, esprit qui prend la forme animale de votre choix : <strong>araignée</strong>, <strong>belette</strong>, <strong>chat</strong>, <strong>chauve-souris</strong>, <strong>chouette</strong> , <strong>corbeau</strong>, <strong>faucon</strong>, <strong>grenouille</strong>, <strong>lézard</strong>, <strong>pieuvre</strong>, <strong>rat</strong> ou une autre Bête dont le facteur de puissance est de 0. Le familier se présente en un espace inoccupé à portée, avec le profil de jeu de la forme retenue (cf. annexe B), si ce n'est qu'il s'agit d'un Céleste, d'une Fée ou d'un Fiélon (à votre convenance) et non d'une Bête. Votre familier agit indépendamment de vous, mais il obéit à vos instructions.</p><p><strong>Lien télépathique.</strong> Tant que votre familier se trouve dans un rayon de 30 m de vous, vous pouvez communiquer avec lui par télépathie. De plus, par une action Bonus, vous pouvez voir par ses yeux et entendre par son ouïe jusqu'au début de votre tour suivant, en bénéficiant de ses éventuels sens spéciaux.</p><p>Enfin, si vous lancez un sort dont la portée est « contact », votre familier peut appliquer ce contact. Il doit se trouver dans un rayon de 30 m de vous et doit jouer sa Réaction pour appliquer le contact lors de l'incantation.</p><p><strong>Combat.</strong> Le familier est votre allié, ainsi que celui de vos alliés. Il joue sa propre Initiative et agit à son tour. Un familier ne peut pas attaquer, mais il peut entreprendre normalement d'autres actions.</p><p><strong>Disparition du familier.</strong> Quand le familier tombe à 0 point de vie, il disparaît. Il réapparaît si vous relancez ce sort. Au prix de l'action Magie, vous pouvez provisoirement révoquer le familier dans une niche dimensionnelle. Vous pouvez également le révoquer à tout jamais. Au prix de l'action Magie, tant qu'il est provisoirement révoqué, vous pouvez le faire réapparaître en un espace inoccupé dans un rayon de 9 m de vous. Quand le familier tombe à 0 point de vie ou disparaît dans une niche dimensionnelle, il laisse tout ce qu'il porte sur lui dans son espace.</p><p><strong>Un seul familier.</strong> Vous ne pouvez pas disposer de plus d'un familier à la fois. Si vous lancez ce sort alors que vous disposez déjà d'un familier, ce dernier adopte en fait une nouvelle forme adaptée.</p>",
+                    "materials": "de l'encens qui brûle d'une valeur minimale de 10 po, que le sort détruit",
                     "activities": {
                         "summon": {
                             "profiles": {
                                 "CR 0 Beast": {
-                                    "name": ""
+                                    "name": "Bête FP 0"
                                 }
                             }
                         }
@@ -15504,9 +15516,9 @@
                     }
                 },
                 "Unseen Servant": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Serviteur invisible",
+                    "description": "<p>Le sort crée une force de taille M, Invisible, dépourvue de conscience et de forme, qui accomplit des tâches rudimentaires sous vos ordres jusqu'à la fin du sort. Le serviteur se matérialise au sol, en un espace inoccupé à portée. Il est doté d'un CA de 10, de 1 point de vie, d'une Force de 2, et ne peut pas effectuer d'attaques. S'il tombe à 0 point de vie, le sort prend fin.</p><p>À chacun de vos tours, vous pouvez par une action Bonus ordonner mentalement au serviteur de se déplacer d'un maximum de 4,50 m et d'interagir avec un objet. Le serviteur peut accomplir des tâches rudimentaires à la portée d'un humain, comme aller chercher des objets, nettoyer, réparer, repasser les vêtements, allumer un feu ou servir les repas et la boisson. Une fois l'instruction reçue, le serviteur s'attèle à la tâche de son mieux jusqu'à l'avoir accomplie, puis attend vos prochaines directives.</p><p>Si vous lui assignez une tâche qui lui demande de s'éloigner de plus de 18 m de vous, le sort prend fin.</p>",
+                    "materials": "un bout de ficelle et un morceau de bois",
                     "effects": {
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -15514,41 +15526,41 @@
                     }
                 },
                 "Vile Appearance": {
-                    "name": "",
-                    "description": "",
+                    "name": "Laideur effroyable",
+                    "description": "<p class=\"feature\"><em>JS Sagesse :</em> DD [[lookup @save.dc.value activity=FR0ETDHBas1Z5LfF]], tout [[lookup @target.affects.special activity=FR0ETDHBas1Z5LfF]] qui commence son tour dans un rayon de [[lookup @range.value activity=FR0ETDHBas1Z5LfF]] [[lookup @range.units activity=FR0ETDHBas1Z5LfF]] de la guenaude et qui voit sa forme véritable.</p><p class=\"feature\"><em>Échec :</em> la cible subit l'état &Reference[Frightened apply=false] jusqu'au début de son tour suivant.</p><p class=\"feature\"><em>Réussite :</em> la cible est immunisée contre la Laideur effroyable de cette guenaude pendant 24 heures.</p>",
                     "activities": {
                         "save": {
-                            "target": ""
+                            "target": "Humanoïde ou Bête"
                         }
                     },
                     "effects": {
                         "Frightened": {
                             "name": "Effrayé",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Frightened apply=false] jusqu'au début de son tour suivant.</p>"
                         }
                     }
                 },
                 "Claw": {
-                    "name": "",
+                    "name": "Griffe",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Death Glare": {
-                    "name": "",
-                    "description": "",
+                    "name": "Regard mortel",
+                    "description": "<p class=\"feature\"><em>JS Sagesse :</em> DD [[lookup @save.dc.value activity=3uA75vqvubgY300I]], [[lookup @target.affects.special activity=3uA75vqvubgY300I]] que la guenaude voit dans un rayon de [[lookup @range.value activity=3uA75vqvubgY300I]] [[lookup @range.units activity=3uA75vqvubgY300I]].</p><p class=\"feature\"><em>Échec :</em> si la cible a 20 points de vie ou moins, elle tombe à 0 point de vie. Sinon, la cible subit [[/damage average]].</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde",
-                            "target": ""
+                            "target": "une créature Effrayée"
                         }
                     }
                 },
                 "Illusory Appearance": {
-                    "name": "",
-                    "description": ""
+                    "name": "Apparence illusoire",
+                    "description": "<p class=\"feature\">La guenaude lance <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDisguiseSe]{déguisement}</em>, la Constitution étant sa caractéristique d'incantation (DD de sauvegarde [[lookup @attributes.spell.dc]]). La durée du sort est de [[lookup @duration.value activity=qY8e7Xm7QYQDXqsd]] heures.</p>"
                 },
                 "Disguise Self": {
-                    "name": "",
-                    "description": "",
+                    "name": "Déguisement",
+                    "description": "<p>Vous vous donnez un aspect différent jusqu'à la fin du sort ; vous pouvez ainsi altérer l'apparence de vos vêtements, de votre armure, de vos armes et autres biens portés. Vous pouvez paraître jusqu'à 30 cm plus grand ou plus petit, sembler plus léger ou plus lourd. Vous devez adopter une forme présentant la même répartition de membres que vous. Pour le reste, les détails de l'illusion vous appartiennent.</p><p>Les changements apportés par le sort ne résistent pas à un examen physique. Exemple : si le sort ajoute un chapeau à votre accoutrement, ce couvre-chef n'est pas tangible, si bien que quiconque cherche à le toucher ne sentira sous ses doigts que de l'air.</p><p>Pour comprendre que vous êtes déguisé, une créature doit consacrer l'action Étude à vous examiner et réussir un test d'[[/check ability=int skill=inv dc=@attributes.spell.dc]] assorti de votre DD de sauvegarde des sorts.</p>",
                     "activities": {
                         "Cast": {
                             "name": "Incanter"
@@ -15556,8 +15568,8 @@
                     },
                     "effects": {
                         "Disguised": {
-                            "name": "",
-                            "description": ""
+                            "name": "Déguisé",
+                            "description": "<p>Pour comprendre que vous êtes déguisé, une créature doit consacrer l'action Étude à vous examiner et réussir un test d'[[/check ability=int skill=inv]] assorti de votre DD de sauvegarde des sorts.</p>"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -15770,13 +15782,13 @@
             }
         },
         "Silver Dragon Wyrmling": {
-            "name": "",
-            "description": "",
+            "name": "Dragonnet d'argent",
+            "description": "<h1>Dragons d'argent</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.REGxFxNrTLFswtA1 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Dragonnet d'argent</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.HwVckgQCUMSXFgQx caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Métallique",
             "items": {
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue deux attaques de [[/item .mmRend0000000000]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -15788,12 +15800,12 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Cold Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle glacial",
+                    "description": "<p><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=8P7hmd3Nron4RAIv]], chaque créature dans un Cône de [[lookup @target.template.size activity=8P7hmd3Nron4RAIv]] [[lookup @target.template.units activity=8P7hmd3Nron4RAIv]].</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 },
                 "Paralyzing Breath": {
-                    "name": "",
-                    "description": "",
+                    "name": "Souffle paralysant",
+                    "description": "<p class=\"feature\"><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=r4MGqEq5U9aaseBh]], chaque créature dans un Cône de [[lookup @target.template.size activity=r4MGqEq5U9aaseBh]] [[lookup @target.template.units activity=r4MGqEq5U9aaseBh]].</p><p class=\"feature\"><em>Premier échec :</em> la cible subit l'état &Reference[Incapacitated apply=false] jusqu'à la fin de son tour suivant, et réitère alors son JS.</p><p class=\"feature\"><em>Deuxième échec :</em> la cible subit l'état &Reference[Paralyzed apply=false] et réitère le JS à la fin de chacun de ses tours ; elle met un terme à l'effet sur elle-même en cas de réussite. Au bout de 1 minute, elle réussit automatiquement ce JS.</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde"
@@ -15802,11 +15814,11 @@
                     "effects": {
                         "Incapacitated": {
                             "name": "Neutralisé",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Incapacitated apply=false] jusqu'à la fin de son tour suivant, et réitère alors son JS.</p>"
                         },
                         "Paralyzed": {
                             "name": "Paralysé",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Paralyzed apply=false] et réitère le JS à la fin de chacun de ses tours ; elle met un terme à l'effet sur elle-même en cas de réussite. Au bout de 1 minute, elle réussit automatiquement ce JS.</p>"
                         }
                     }
                 }
@@ -15822,7 +15834,7 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Shortbow": {
-                    "name": "",
+                    "name": "Arc court",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 }
             }
@@ -16730,26 +16742,26 @@
             }
         },
         "Sprite": {
-            "name": "",
-            "description": "",
+            "name": "Esprit follet",
+            "description": "<h1>Esprit follet</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.V6OhuMIts22zPe8X caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "items": {
                 "Needle Sword": {
-                    "name": "",
+                    "name": "Épée-ingle",
                     "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Enchanting Bow": {
-                    "name": "",
-                    "description": "",
+                    "name": "Arc enchanté",
+                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]], et la cible subit l'état &Reference[Charmed apply=false] jusqu'au début du tour suivant de l'[[lookup @name lowercase]].</p>",
                     "effects": {
                         "Charmed": {
-                            "name": "",
-                            "description": ""
+                            "name": "Charmé",
+                            "description": "<p>La cible subit l'état &Reference[Charmed apply=false] jusqu'au début du tour suivant de la créature attaquante.</p>"
                         }
                     }
                 },
                 "Heart Sight": {
-                    "name": "",
-                    "description": "",
+                    "name": "Perception du for intérieur",
+                    "description": "<p class=\"feature\"><em>JS Charisme :</em> DD [[lookup @save.dc.value activity=NqVrZShDV1L3zBA3]], une créature que l'[[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=NqVrZShDV1L3zBA3]] [[lookup @range.units activity=NqVrZShDV1L3zBA3]] (Célestes, Fiélons et Morts-vivants ratent automatiquement ce JS).</p><p class=\"feature\"><em>Échec :</em> l'[[lookup @name lowercase]] perçoit l'alignement et l'affect actuel de la cible.</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde"
@@ -16758,16 +16770,16 @@
                 },
                 "Invisibility": {
                     "name": "Invisibilité",
-                    "description": ""
+                    "description": "<p class=\"feature\">L'[[lookup @name lowercase]] lance <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplInvisibili]{invisibilité}</em> sur lui-même, sans composante de sort, le Charisme étant sa caractéristique d'incantation.</p>"
                 },
                 "FAek73jM5CyQOO60": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Invisibilité",
+                    "description": "<p>La créature que vous touchez physiquement reçoit l'état &Reference[invisible apply=false] jusqu'à la fin du sort. Le sort prend fin prématurément si la cible effectue un jet d'attaque, inflige des dégâts ou lance un sort.</p><p><strong>Emplacement de niveau supérieur.</strong> Vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du 2<sup>e</sup>.</p>",
+                    "materials": "un cil dans de la sève",
                     "effects": {
                         "Invisible": {
-                            "name": "",
-                            "description": ""
+                            "name": "Invisible",
+                            "description": "<p>Le sort prend fin prématurément si la cible effectue un jet d'attaque, inflige des dégâts ou lance un sort.</p>"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -17482,7 +17494,7 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Leather Armor": {
-                    "name": ""
+                    "name": "Armure de cuir"
                 },
                 "Pack Tactics": {
                     "name": "",
@@ -18046,7 +18058,7 @@
                     "description": "",
                     "effects": {
                         "Charmed": {
-                            "name": "",
+                            "name": "Charmé",
                             "description": ""
                         },
                         "Spell Changes": {
@@ -18254,7 +18266,7 @@
         "Vrock": {
             "name": "",
             "description": "",
-            "subtype": "",
+            "subtype": "Démon",
             "items": {
                 "Demonic Restoration": {
                     "name": "",
@@ -18307,7 +18319,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Abysses"
         },
         "Vulture": {
             "name": "Vautour",
@@ -18387,7 +18400,7 @@
             "languages": "",
             "items": {
                 "Greatsword": {
-                    "name": "",
+                    "name": "Épée à deux mains",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Heavy Crossbow": {
@@ -18753,7 +18766,7 @@
             "languages": "",
             "items": {
                 "Longbow": {
-                    "name": "",
+                    "name": "Arc long",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Pack Tactics": {
@@ -18807,13 +18820,13 @@
             }
         },
         "White Dragon Wyrmling": {
-            "name": "",
+            "name": "Dragonnet blanc",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Chromatique",
             "items": {
                 "Ice Walk": {
-                    "name": "",
-                    "description": ""
+                    "name": "Marche sur la glace",
+                    "description": "<p>Le dragon peut parcourir et gravir toute surface gelée sans passer par le moindre test de caractéristique. En outre, tout &Reference[Difficult Terrain] composé de glace ou de neige ne lui demande aucune dépense de déplacement supplémentaire.</p>"
                 },
                 "Rend": {
                     "name": "Saignée",
@@ -18821,7 +18834,7 @@
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue deux attaques de [[/item .mmRend0000000000]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -18829,8 +18842,8 @@
                     }
                 },
                 "Cold Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle glacial",
+                    "description": "<p><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=8P7hmd3Nron4RAIv]], chaque créature dans un Cône de [[lookup @target.template.size activity=8P7hmd3Nron4RAIv]] [[lookup @target.template.units activity=8P7hmd3Nron4RAIv]].</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 }
             }
         },
@@ -18981,13 +18994,13 @@
             }
         },
         "Worg": {
-            "name": "",
-            "description": "",
-            "languages": "",
+            "name": "Worg",
+            "description": "<h1>Worgs</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.9wPwyBWpNGzAL7yb caption=false cite=false classes=\"no-embed mm\"]</p><h2>Worg</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.KQj16GboSsgX6Jhe caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "languages": "worg",
             "items": {
                 "Bite": {
-                    "name": "",
-                    "description": "",
+                    "name": "Morsure",
+                    "description": "<p>[[/attack extended]]. [[/damage average extended]], et le prochain jet d'attaque effectué contre la cible avant le début du tour suivant du [[lookup @name lowercase]] a l'Avantage.</p>",
                     "uname": "Arme non identifiée"
                 }
             },
@@ -19100,17 +19113,17 @@
             "planarSubtype": "Plan Élémentaire de la Terre"
         },
         "Young Black Dragon": {
-            "name": "",
-            "description": "",
+            "name": "Jeune dragon noir",
+            "description": "<h1>Dragons noirs</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.EZn4p80bsBA4HbN8 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Chromatique",
             "items": {
                 "Amphibious": {
                     "name": "Amphibie",
-                    "description": ""
+                    "description": "<p>Le dragon peut respirer sous l'eau comme à l'air libre.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue trois attaques de [[/item .mmRend0000000000]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -19122,19 +19135,19 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Acid Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle d'acide",
+                    "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=qNI6W02jCUQbPpYE]], chaque créature dans une Ligne de [[lookup @target.template.size activity=qNI6W02jCUQbPpYE]] [[lookup @target.template.units activity=qNI6W02jCUQbPpYE]] de long sur [[lookup @target.template.width activity=qNI6W02jCUQbPpYE]] [[lookup @target.template.units activity=qNI6W02jCUQbPpYE]] de large.</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 }
             }
         },
         "Young Blue Dragon": {
-            "name": "",
+            "name": "Jeune dragon bleu",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Chromatique",
             "items": {
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue trois attaques de [[/item .mmRend0000000000]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -19146,19 +19159,19 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Lightning Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle de foudre",
+                    "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=LpjgVwftzGNMgTUJ]], chaque créature dans une Ligne de [[lookup @target.template.size activity=LpjgVwftzGNMgTUJ]] [[lookup @target.template.units activity=LpjgVwftzGNMgTUJ]] de long sur [[lookup @target.template.width activity=LpjgVwftzGNMgTUJ]] [[lookup @target.template.units activity=LpjgVwftzGNMgTUJ]] de large.</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 }
             }
         },
         "Young Brass Dragon": {
-            "name": "",
+            "name": "Jeune dragon d'airain",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Métallique",
             "items": {
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue trois attaques de [[/item .mmRend0000000000]]. Il peut remplacer deux de ces attaques par une utilisation de [[/item .mmSleepBreath000]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -19170,46 +19183,46 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Fire Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle de feu",
+                    "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=bDqgmtLG3zcVuqdi]], chaque créature dans une Ligne de [[lookup @target.template.size activity=bDqgmtLG3zcVuqdi]] [[lookup @target.template.units activity=bDqgmtLG3zcVuqdi]] de long sur [[lookup @target.template.width activity=bDqgmtLG3zcVuqdi]] [[lookup @target.template.units activity=bDqgmtLG3zcVuqdi]] de large.</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 },
                 "Sleep Breath": {
-                    "name": "",
-                    "description": "",
+                    "name": "Souffle soporifique",
+                    "description": "<p class=\"feature\"><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=6ce9oevQRWomSVSF]], chaque créature dans un Cône de [[lookup @target.template.size activity=6ce9oevQRWomSVSF]] [[lookup @target.template.units activity=6ce9oevQRWomSVSF]].</p><p class=\"feature\"><em>Échec :</em> la cible subit l'état &Reference[Incapacitated apply=false] jusqu'à la fin de son tour suivant, et réitère alors son JS.</p><p class=\"feature\"><em>Deuxième échec :</em> la cible subit l'état &Reference[Unconscious apply=false] pendant [[lookup @duration.value activity=EZma0lCmQeTuVuAL]] [[lookup @duration.units activity=EZma0lCmQeTuVuAL]]. Cet effet prend fin pour la cible si celle-ci subit des dégâts ou si une créature dans un rayon de 1,50 m consacre une action à la réveiller.</p>",
                     "activities": {
                         "1st Save": {
-                            "name": ""
+                            "name": "1ère sauvegarde"
                         },
                         "2nd Save": {
-                            "name": "",
-                            "target": ""
+                            "name": "2ème sauvegarde",
+                            "target": "Créatures ayant échoué à la première sauvegarde"
                         }
                     },
                     "effects": {
                         "Incapacitated": {
                             "name": "Neutralisé",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Incapacitated apply=false] jusqu'à la fin de son tour suivant, et réitère alors son JS.</p>"
                         },
                         "Unconscious": {
                             "name": "Inconscient",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Unconscious apply=false] pendant toute la durée (voir l'objet source pour la durée).</p>"
                         }
                     }
                 }
             }
         },
         "Young Bronze Dragon": {
-            "name": "",
+            "name": "Jeune dragon de bronze",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Métallique",
             "items": {
                 "Amphibious": {
                     "name": "Amphibie",
-                    "description": ""
+                    "description": "<p>Le dragon peut respirer sous l'eau comme à l'air libre.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue trois attaques de [[/item .mmRend0000000000]]. Il peut remplacer l'une de ces attaques par une utilisation de [[/item .mmRepulsionBreat]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -19221,12 +19234,12 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Lightning Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle de foudre",
+                    "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=LpjgVwftzGNMgTUJ]], chaque créature dans une Ligne de [[lookup @target.template.size activity=LpjgVwftzGNMgTUJ]] [[lookup @target.template.units activity=LpjgVwftzGNMgTUJ]] de long sur [[lookup @target.template.width activity=LpjgVwftzGNMgTUJ]] [[lookup @target.template.units activity=LpjgVwftzGNMgTUJ]] de large.</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 },
                 "Repulsion Breath": {
-                    "name": "",
-                    "description": "",
+                    "name": "Souffle répulsif",
+                    "description": "<p class=\"feature\"><em>JS Force :</em> DD [[lookup @save.dc.value activity=zuf9EEVj4nI1joaH]], chaque créature dans un Cône de [[lookup @target.template.size activity=zuf9EEVj4nI1joaH]] [[lookup @target.template.units activity=zuf9EEVj4nI1joaH]].</p><p class=\"feature\"><em>Échec :</em> la cible est repoussée du dragon sur 12 m en ligne droite et subit l'état &Reference[Prone apply=false].</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde"
@@ -19235,20 +19248,20 @@
                     "effects": {
                         "Prone": {
                             "name": "À terre",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Prone apply=false].</p>"
                         }
                     }
                 }
             }
         },
         "Young Copper Dragon": {
-            "name": "",
-            "description": "",
+            "name": "Jeune dragon de cuivre",
+            "description": "<h1>Dragons de cuivre</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.1gZk82d5dqtIeB4K caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Métallique",
             "items": {
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue trois attaques de [[/item .mmRend0000000000]]. Il peut remplacer l'une de ces attaques par une utilisation de [[/item .mmSlowingBreath0]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -19260,29 +19273,29 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Acid Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle d'acide",
+                    "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=qNI6W02jCUQbPpYE]], chaque créature dans une Ligne de [[lookup @target.template.size activity=qNI6W02jCUQbPpYE]] [[lookup @target.template.units activity=qNI6W02jCUQbPpYE]] de long sur [[lookup @target.template.width activity=qNI6W02jCUQbPpYE]] [[lookup @target.template.units activity=qNI6W02jCUQbPpYE]] de large.</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 },
                 "Slowing Breath": {
-                    "name": "",
-                    "description": "",
+                    "name": "Souffle ralentissant",
+                    "description": "<p class=\"feature\"><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=teMMQNDDIE9XkPN3]], chaque créature dans un Cône de [[lookup @target.template.size activity=teMMQNDDIE9XkPN3]] [[lookup @target.template.units activity=teMMQNDDIE9XkPN3]].</p><p class=\"feature\"><em>Échec :</em> la cible voit sa Vitesse réduite de moitié, ne peut pas jouer de Réaction et peut entreprendre une action ou une action Bonus à son tour, mais pas les deuх. L'effet persiste jusqu'à la fin de son tour suivant.</p>",
                     "effects": {
                         "1/2 Speed | Action Restrictions": {
-                            "name": "",
-                            "description": ""
+                            "name": "1/2 Vitesse | Restrictions d'action",
+                            "description": "<p>La cible voit sa Vitesse réduite de moitié, ne peut pas jouer de Réaction et peut entreprendre une action ou une action Bonus à son tour, mais pas les deuх. L'effet persiste jusqu'à la fin de son tour suivant.</p>"
                         }
                     }
                 }
             }
         },
         "Young Gold Dragon": {
-            "name": "",
+            "name": "Jeune dragon d'or",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Métallique",
             "items": {
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue trois attaques de [[/item .mmRend0000000000]]. Il peut remplacer l'une de ces attaques par une utilisation de [[/item .mmWeakeningBreat]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -19291,19 +19304,19 @@
                 },
                 "Amphibious": {
                     "name": "Amphibie",
-                    "description": ""
+                    "description": "<p>Le dragon peut respirer sous l'eau comme à l'air libre.</p>"
                 },
                 "Rend": {
                     "name": "Saignée",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Fire Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle de feu",
+                    "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=bDqgmtLG3zcVuqdi]], chaque créature dans un Cône de [[lookup @target.template.size activity=bDqgmtLG3zcVuqdi]] [[lookup @target.template.units activity=bDqgmtLG3zcVuqdi]].</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 },
                 "Weakening Breath": {
-                    "name": "",
-                    "description": "",
+                    "name": "Souffle affaiblissant",
+                    "description": "<p class=\"feature\"><em>JS Force :</em> DD [[lookup @save.dc.value activity=EGZ4bS4HpJkfNG9s]], chaque créature non encore affectée par ce souffle dans un Cône de [[lookup @target.template.size activity=EGZ4bS4HpJkfNG9s]] [[lookup @target.template.units activity=EGZ4bS4HpJkfNG9s]].</p><p class=\"feature\"><em>Échec :</em> la cible subit le Désavantage aux Tests d20 basés sur la Force et soustrait 3 ([[/r 1d6]]) à ses jets de dégâts. Elle réitère le JS à la fin de chacun de ses tours, et met un terme à l'effet sur elle-même en cas de réussite. Au bout de [[lookup @duration.value activity=EGZ4bS4HpJkfNG9s]] [[lookup @duration.units activity=EGZ4bS4HpJkfNG9s]], elle réussit automatiquement ce JS.</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde"
@@ -19311,25 +19324,25 @@
                     },
                     "effects": {
                         "Weakened": {
-                            "name": "",
-                            "description": ""
+                            "name": "Affaibli",
+                            "description": "<p>La cible subit le Désavantage aux Tests d20 basés sur la Force et soustrait 3 (1d6) à ses jets de dégâts. Elle réitère le JS à la fin de chacun de ses tours, et met un terme à l'effet sur elle-même en cas de réussite. Au bout de 1 minute, elle réussit automatiquement ce JS.</p>"
                         }
                     }
                 }
             }
         },
         "Young Green Dragon": {
-            "name": "",
+            "name": "Jeune dragon vert",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Chromatique",
             "items": {
                 "Amphibious": {
                     "name": "Amphibie",
-                    "description": ""
+                    "description": "<p>Le dragon peut respirer sous l'eau comme à l'air libre.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue trois attaques de [[/item .mmRend0000000000]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -19341,8 +19354,8 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Poison Breath": {
-                    "name": "",
-                    "description": "",
+                    "name": "Souffle empoisonné",
+                    "description": "<p class=\"feature\"><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=lnabW9bM51HoluPp]], chaque créature dans un Cône de [[lookup @target.template.size activity=lnabW9bM51HoluPp]] [[lookup @target.template.units activity=lnabW9bM51HoluPp]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]].</p><p class=\"feature\"><em>Réussite :</em> demi-dégâts.</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde"
@@ -19352,13 +19365,13 @@
             }
         },
         "Young Red Dragon": {
-            "name": "",
-            "description": "",
+            "name": "Jeune dragon rouge",
+            "description": "<h1>Dragons rouges</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Rx08X1mW6m5uYldI caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Chromatique",
             "items": {
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue trois attaques de [[/item .mmRend0000000000]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -19370,19 +19383,19 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Fire Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle de feu",
+                    "description": "<p><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=bDqgmtLG3zcVuqdi]], chaque créature dans un Cône de [[lookup @target.template.size activity=bDqgmtLG3zcVuqdi]] [[lookup @target.template.units activity=bDqgmtLG3zcVuqdi]].</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 }
             }
         },
         "Young Silver Dragon": {
-            "name": "",
-            "description": "",
+            "name": "Jeune dragon d'argent",
+            "description": "<h1>Dragons d'argent</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.REGxFxNrTLFswtA1 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Métallique",
             "items": {
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue trois attaques de [[/item .mmRend0000000000]]. Il peut remplacer l'une de ces attaques par une utilisation de [[/item .mmParalyzingBrea]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -19394,12 +19407,12 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Cold Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle glacial",
+                    "description": "<p><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=8P7hmd3Nron4RAIv]], chaque créature dans un Cône de [[lookup @target.template.size activity=8P7hmd3Nron4RAIv]] [[lookup @target.template.units activity=8P7hmd3Nron4RAIv]].</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 },
                 "Paralyzing Breath": {
-                    "name": "",
-                    "description": "",
+                    "name": "Souffle paralysant",
+                    "description": "<p class=\"feature\"><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=r4MGqEq5U9aaseBh]], chaque créature dans un Cône de [[lookup @target.template.size activity=r4MGqEq5U9aaseBh]] [[lookup @target.template.units activity=r4MGqEq5U9aaseBh]].</p><p class=\"feature\"><em>Premier échec :</em> la cible subit l'état &Reference[Incapacitated apply=false] jusqu'à la fin de son tour suivant, et réitère alors son JS.</p><p class=\"feature\"><em>Deuxième échec :</em> la cible subit l'état &Reference[Paralyzed apply=false] et réitère le JS à la fin de chacun de ses tours ; elle met un terme à l'effet sur elle-même en cas de réussite. Au bout de 1 minute, elle réussit automatiquement ce JS.</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde"
@@ -19408,28 +19421,28 @@
                     "effects": {
                         "Incapacitated": {
                             "name": "Neutralisé",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Incapacitated apply=false] jusqu'à la fin de son tour suivant, et réitère alors son JS.</p>"
                         },
                         "Paralyzed": {
                             "name": "Paralysé",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Paralyzed apply=false] et réitère le JS à la fin de chacun de ses tours ; elle met un terme à l'effet sur elle-même en cas de réussite. Au bout de 1 minute, elle réussit automatiquement ce JS.</p>"
                         }
                     }
                 }
             }
         },
         "Young White Dragon": {
-            "name": "",
+            "name": "Jeune dragon blanc",
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Chromatique",
             "items": {
                 "Ice Walk": {
-                    "name": "",
-                    "description": ""
+                    "name": "Marche sur la glace",
+                    "description": "<p>Le dragon peut parcourir et gravir toute surface gelée sans passer par le moindre test de caractéristique. En outre, tout &Reference[Difficult Terrain] composé de glace ou de neige ne lui demande aucune dépense de déplacement supplémentaire.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le dragon effectue trois attaques de [[/item .mmRend0000000000]].</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser"
@@ -19441,8 +19454,8 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Cold Breath": {
-                    "name": "",
-                    "description": ""
+                    "name": "Souffle glacial",
+                    "description": "<p><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=8P7hmd3Nron4RAIv]], chaque créature dans un Cône de [[lookup @target.template.size activity=8P7hmd3Nron4RAIv]] [[lookup @target.template.units activity=8P7hmd3Nron4RAIv]].</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>"
                 }
             }
         },
