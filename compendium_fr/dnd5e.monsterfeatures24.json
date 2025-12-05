@@ -2265,7 +2265,7 @@
         },
         "Reactive Heads": {
             "name": "Têtes réactives",
-            "description": "<p class=\"feature\">Chaque tête dont est dotée l'[[lookup @name lowercase]] en plus de la première lui octroie une &Reference[Reaction]{Réaction} supplémentaire qu’elle ne peut jouer que pour effectuer une &Reference[OpportunityAttacks]{attaque d'Opportunité}.</p>"
+            "description": "<p class=\"feature\">Chaque tête dont est dotée l'[[lookup @name lowercase]] en plus de la première lui octroie une &Reference[Reaction]{Réaction} supplémentaire qu'elle ne peut jouer que pour effectuer une &Reference[OpportunityAttacks]{attaque d'Opportunité}.</p>"
         },
         "Read Thoughts": {
             "name": "Lecture des pensées",
@@ -3390,7 +3390,7 @@
         },
         "Whirlwind of Sand": {
             "name": "Tourbillon de sable",
-            "description": "<p class=\"feature\"><em>Déclencheur :</em> la [[lookup @name lowercase]] est touchée par un jet d'attaque. <em>Conséquences :</em> la [[lookup @name lowercase]] ajoute 2 à sa CA contre l'attaque, ce qui peut faire rater celle-ci, et se téleporte d'un maximum de [[lookup @range.value activity=EsBmMUQMO4b0g6Yw]] [[lookup @range.units activity=EsBmMUQMO4b0g6Yw]] [[lookup @target.affects.special activity=EsBmMUQMO4b0g6Yw]]. Chaque créature de son choix parmi celles qu'elle voit dans un rayon de [[lookup @target.template.size activity=EsBmMUQMO4b0g6Yw]] [[lookup @target.template.units activity=EsBmMUQMO4b0g6Yw]] de son espace de destination subit l'état &Reference[Blinded apply=false] jusqu'à la fin du tour suivant de la [[lookup @name lowercase]].</p>",
+            "description": "<p class=\"feature\"><em>Déclencheur :</em> la [[lookup @name lowercase]] est touchée par un jet d'attaque. <em>Conséquences :</em> la [[lookup @name lowercase]] ajoute 2 à sa CA contre l'attaque, ce qui peut faire rater celle-ci, et se téléporte d'un maximum de [[lookup @range.value activity=EsBmMUQMO4b0g6Yw]] [[lookup @range.units activity=EsBmMUQMO4b0g6Yw]] [[lookup @target.affects.special activity=EsBmMUQMO4b0g6Yw]]. Chaque créature de son choix parmi celles qu'elle voit dans un rayon de [[lookup @target.template.size activity=EsBmMUQMO4b0g6Yw]] [[lookup @target.template.units activity=EsBmMUQMO4b0g6Yw]] de son espace de destination subit l'état &Reference[Blinded apply=false] jusqu'à la fin du tour suivant de la [[lookup @name lowercase]].</p>",
             "activities": {
                 "Expend Use": {
                     "name": "Dépenser utilisation",
