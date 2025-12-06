@@ -3830,12 +3830,12 @@
                     }
                 },
                 "Fly": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Vol",
+                    "description": "<p>Vous touchez une créature consentante. Pour toute la durée, la cible acquiert une Vitesse de vol de 18 m et bénéficie du vol stationnaire. Lorsque le sort prend fin, la cible tombe si elle est toujours dans les airs, à moins de pouvoir arrêter sa chute.</p><p><strong>Emplacement de niveau supérieur.</strong> Vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du 3<sup>e</sup>.</p>",
+                    "materials": "une plume",
                     "effects": {
                         "Flight": {
-                            "name": ""
+                            "name": "Vol"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -4241,32 +4241,32 @@
             }
         },
         "Barbed Devil": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Diable barbelé",
+            "description": "<h1>Diable barbelé</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.95Oeqtw6UgtSLiO1 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "subtype": "Diable",
             "items": {
                 "Barbed Hide": {
-                    "name": "",
-                    "description": "",
+                    "name": "Peau barbelée",
+                    "description": "<p>Au début de chacun de ses tours, le diable inflige [[/damage average]] à toute créature [[lookup @target.affects.special activity=1O5eyc72vPW0UxYZ]].</p>",
                     "activities": {
                         "damage": {
-                            "condition": "",
-                            "target": ""
+                            "condition": "début de chacun de ses tours",
+                            "target": "qui l'agrippe ou que lui-même agrippe"
                         }
                     }
                 },
                 "Diabolical Restoration": {
-                    "name": "",
-                    "description": "",
-                    "requirements": ""
+                    "name": "Restauration diabolique",
+                    "description": "<p>Si le diable meurt hors des Neuf Enfers, son corps disparaît dans un nuage de fumée sulfureuse et il en acquiert aussitôt un nouveau en revenant à la vie avec tous ses pv, quelque part dans les Neuf Enfers.</p>",
+                    "requirements": "Meurt hors des Neuf Enfers"
                 },
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
-                    "description": ""
+                    "description": "<p>Le diable a l'Avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le diable effectue une attaque de [[/item .mmClaws000000000]] et une de [[/item .mmTail0000000000]], ou bien il effectue deux attaques de [[/item .mmHurlFlame00000]].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
@@ -4274,8 +4274,8 @@
                     }
                 },
                 "Claws": {
-                    "name": "",
-                    "description": "",
+                    "name": "Griffes",
+                    "description": "<p>[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature de taille G ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[lookup @skills.ath.passive]]) par les deux griffes.</p>",
                     "activities": {
                         "Escape Check": {
                             "name": "Test de libération"
@@ -4284,19 +4284,20 @@
                     "effects": {
                         "Grappled": {
                             "name": "Agrippé",
-                            "description": ""
+                            "description": "<p>Si la cible est une créature de taille G ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[/check ability=str skill=ath format=long]], voir l'objet source pour le DD) par les deux griffes.</p><p><strong>Tests d'évasion (voir l'objet source pour le DD)</strong></p><p>[[/check skill=ath ability=str]]</p><p>[[/check skill=acr ability=dex]]</p>"
                         }
                     }
                 },
                 "Tail": {
-                    "name": "",
-                    "description": ""
+                    "name": "Queue",
+                    "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Hurl Flame": {
-                    "name": "",
-                    "description": ""
+                    "name": "Jet de flammes",
+                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]]. Si la cible est un objet inflammable qui n'est porté par personne, elle s'embrase.</p>"
                 }
-            }
+            },
+            "planarSubtype": "Neuf Enfers"
         },
         "Basilisk": {
             "name": "",
@@ -4344,17 +4345,17 @@
             }
         },
         "Bearded Devil": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Diable barbu",
+            "description": "<h1>Diable barbu</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.PTpNAXCUpaUdNbcx caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "subtype": "Diable",
             "items": {
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
-                    "description": ""
+                    "description": "<p>Le diable a l'Avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le diable effectue une attaque de [[/item .mmBeard000000000]] et une de [[/item .mmInfernalGlaive]].</p>",
                     "activities": {
                         "Expand Use": {
                             "name": "Dépenser utilisation"
@@ -4362,28 +4363,29 @@
                     }
                 },
                 "Beard": {
-                    "name": "",
-                    "description": "",
+                    "name": "Barbe",
+                    "description": "<p>[[/attack extended]]. [[/damage average extended]], et la cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant du diable. Tant que persiste l'empoisonnement, la cible ne peut pas récupérer de points de vie.</p>",
                     "effects": {
                         "Poisoned": {
                             "name": "Empoisonné",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant de l'utilisateur. Tant que persiste l'empoisonnement, la cible ne peut pas récupérer de points de vie.</p>"
                         }
                     }
                 },
                 "Infernal Glaive": {
-                    "name": "",
-                    "description": "",
+                    "name": "Coutille infernale",
+                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature et ne souffre pas déjà d'une plaie infernale, elle est soumise à l'effet suivant :</p><p><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=4qy3fKL086OAE1xR]].</p><p><em>Échec :</em> la cible subit une plaie infernale. Ainsi blessée, la cible perd [[/damage average activity=IS4utGV80LpDrjvt]] points de vie au début de chacun de ses tours. La plaie se referme au bout de 1 minute, si un sort lui restitue des points de vie ou si elle-même ou une créature dans un rayon de 1,50 m d'elle consacre une action à panser la plaie et réussit un [[/check format=long activity=KNWa0TFhANjmQCds]].</p>",
                     "activities": {
                         "Damage: Infernal Wound": {
-                            "name": ""
+                            "name": "Dégâts : Plaie infernale"
                         },
                         "Check: Stanch Wound": {
-                            "name": ""
+                            "name": "Test : Panser plaie"
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Neuf Enfers"
         },
         "Behir": {
             "name": "",
@@ -4666,22 +4668,22 @@
             }
         },
         "Bone Devil": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Diable osseux",
+            "description": "<h1>Diable osseux</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.LhlUSSOMbbHHTi5e caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "subtype": "Diable",
             "items": {
                 "Diabolical Restoration": {
-                    "name": "",
-                    "description": "",
-                    "requirements": ""
+                    "name": "Restauration diabolique",
+                    "description": "<p>Si le diable meurt hors des Neuf Enfers, son corps disparaît dans un nuage de fumée sulfureuse et il en acquiert aussitôt un nouveau en revenant à la vie avec tous ses pv, quelque part dans les Neuf Enfers.</p>",
+                    "requirements": "Meurt hors des Neuf Enfers"
                 },
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
-                    "description": ""
+                    "description": "<p>Le diable a l'Avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le diable effectue deux attaques de [[/item .mmClaw0000000000]] et une de [[/item .mmInfernalSting0]].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
@@ -4689,20 +4691,21 @@
                     }
                 },
                 "Claw": {
-                    "name": "",
+                    "name": "Griffe",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Infernal Sting": {
-                    "name": "",
-                    "description": "",
+                    "name": "Dard infernal",
+                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]], et la cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant du diable. Ainsi Empoisonnée, la cible ne peut pas récupérer de points de vie.</p>",
                     "effects": {
                         "Poisoned": {
                             "name": "Empoisonné",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Poisoned apply=false] jusqu'au début du tour suivant de la créature attaquante.</p>"
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Neuf Enfers"
         },
         "Brass Dragon Wyrmling": {
             "name": "Dragonnet d'airain",
@@ -5301,22 +5304,22 @@
             "planarSubtype": "Féerie"
         },
         "Chain Devil": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Diable des chaînes",
+            "description": "<h1>Diable des chaînes</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.ZshK0GnbqU7TpaWe caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "subtype": "Diable",
             "items": {
                 "Diabolical Restoration": {
-                    "name": "",
-                    "description": "",
-                    "requirements": ""
+                    "name": "Restauration diabolique",
+                    "description": "<p>Si le diable meurt hors des Neuf Enfers, son corps disparaît dans un nuage de fumée sulfureuse et il en acquiert aussitôt un nouveau en revenant à la vie avec tous ses pv, quelque part dans les Neuf Enfers.</p>",
+                    "requirements": "Meurt hors des Neuf Enfers"
                 },
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
-                    "description": ""
+                    "description": "<p>Le diable a l'Avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le diable effectue deux attaques de [[/item .mmChain000000000]] et recourt à [[/item .mmConjureInferna]].</p>",
                     "activities": {
                         "Expand Use": {
                             "name": "Dépenser utilisation"
@@ -5324,8 +5327,8 @@
                     }
                 },
                 "Conjure Infernal Chain": {
-                    "name": "",
-                    "description": "",
+                    "name": "Invocation de chaîne infernale",
+                    "description": "<p class=\"feature\">Le diable invoque une chaîne de feu afin d'entraver une créature.</p><p class=\"feature\"><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=9vCVJrzUZL0ra4w2]], [[lookup @target.affects.labels.statblock activity=9vCVJrzUZL0ra4w2]] que le diable voit dans un rayon de [[lookup @range.value activity=9vCVJrzUZL0ra4w2]] [[lookup @range.units activity=9vCVJrzUZL0ra4w2]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]] et la cible subit l'état &Reference[Restrained apply=false] jusqu'à la fin du tour suivant du diable, stade auquel la chaîne disparaît. Si la cible est de taille G ou inférieure, le diable la déplace vers lui d'un maximum de 9 m en ligne droite.</p><p class=\"feature\"><em>Réussite :</em> la chaîne disparaît.</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde"
@@ -5334,29 +5337,29 @@
                     "effects": {
                         "Restrained": {
                             "name": "Entravé",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Restrained apply=false] jusqu'à la fin du tour suivant de la créature attaquante.</p>"
                         }
                     }
                 },
                 "Unnerving Gaze": {
-                    "name": "",
-                    "description": "",
+                    "name": "Regard dérangeant",
+                    "description": "<p class=\"feature\"><em>Déclencheur :</em> une créature que le diable voit commence son tour dans un rayon de [[lookup @target.template.size activity=btp6NZvx465nxWTF]] [[lookup @target.template.units activity=btp6NZvx465nxWTF]] du diable et peut le voir.</p><p class=\"feature\"><em>Conséquences—JS Sagesse :</em> DD [[lookup @save.dc.value activity=btp6NZvx465nxWTF]], la créature ayant déclenché la Réaction.</p><p class=\"feature\"><em>Échec :</em> la cible subit l'état &Reference[Frightened apply=false] jusqu'à la fin de son tour suivant.</p><p class=\"feature\"><em>Réussite :</em> la cible est immunisée contre le Regard dérangeant de ce diable pendant 24 heures.</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde",
-                            "condition": ""
+                            "condition": "Une créature que le diable voit"
                         }
                     },
                     "effects": {
                         "Frightened": {
                             "name": "Effrayé",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Frightened apply=false] jusqu'à la fin de son tour suivant.</p>"
                         }
                     }
                 },
                 "Chain": {
-                    "name": "",
-                    "description": "",
+                    "name": "Chaîne",
+                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature de taille G ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[lookup @skills.ath.passive]]) par l'une des deux chaînes, ainsi que l'état &Reference[Restrained apply=false] tant qu'elle est Agrippée.</p>",
                     "activities": {
                         "Escape Check": {
                             "name": "Test de libération"
@@ -5365,11 +5368,12 @@
                     "effects": {
                         "Grappled & Restrained": {
                             "name": "Agrippé et Entravé",
-                            "description": ""
+                            "description": "<p>Si la cible est une créature de taille G ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[/check ability=str skill=ath format=long]], voir l'objet source pour le DD) par l'une des deux chaînes, ainsi que l'état &Reference[Restrained apply=false] tant qu'elle est Agrippée.</p>"
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Neuf Enfers"
         },
         "Chimera": {
             "name": "",
@@ -7010,8 +7014,8 @@
             }
         },
         "Dretch": {
-            "name": "",
-            "description": "",
+            "name": "Dretch",
+            "description": "<h1>Dretchs</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.Tp3r2uMnilo9SUIu caption=false cite=false classes=\"no-embed mm\"]</p><h2>Dretch</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.YeZoNZxhdDHR3iC2 caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Démon",
             "items": {
                 "Rend": {
@@ -7019,12 +7023,12 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Fetid Cloud": {
-                    "name": "",
-                    "description": "",
+                    "name": "Nuage fétide",
+                    "description": "<p class=\"feature\"><em>JS Constitution :</em> DD [[lookup @save.dc.value activity=vRnhmBCQqIwIlfS4]], chaque créature dans une Émanation de [[lookup @target.template.size activity=vRnhmBCQqIwIlfS4]] [[lookup @target.template.units activity=vRnhmBCQqIwIlfS4]] centrée sur le [[lookup @name lowercase]].</p><p class=\"feature\"><em>Échec :</em> la cible subit l'état &Reference[Poisoned apply=false] jusqu'à la fin de son tour suivant. Tant qu'elle est ainsi Empoisonnée, la créature ne peut pas jouer de Réaction et n'a droit qu'à une action ou une action Bonus lors de son tour (pas les deux).</p>",
                     "effects": {
                         "Poisoned": {
                             "name": "Empoisonné",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Poisoned apply=false] jusqu'à la fin de son tour suivant. Tant qu'elle est ainsi Empoisonnée, la créature ne peut pas jouer de Réaction et n'a droit qu'à une action ou une action Bonus lors de son tour (pas les deux).</p>"
                         }
                     }
                 }
@@ -7070,9 +7074,9 @@
                     "description": ""
                 },
                 "Darkness": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Ténèbres",
+                    "description": "<p>Pour toute la durée, des &Reference[darkness] magiques se déploient depuis un point à portée en remplissant une Sphère de 4,5 m de rayon. La Vision dans le noir ne perce pas ces Ténèbres, et les lumières non magiques n'illuminent pas dans la Sphère.</p><p>Au lieu de ça, vous pouvez lancer le sort sur un objet porté par personne, de manière à ce que les Ténèbres emplissent une Émanation de 4,50 m centrée sur l'objet. Il suffit de recouvrir cet objet d'une surface opaque, comme une gamelle ou un heaume, pour bloquer les Ténèbres.</p><p>Si tout ou partie de ce sort chevauche la zone de Lumière vive ou faible créée par un sort du 2<sup>e</sup> niveau ou inférieur, l'effet qui produit cette lumière est dissipé.</p>",
+                    "materials": "une touffe de fourrure de chauve-souris et un bout de charbon",
                     "effects": {
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -7693,26 +7697,26 @@
             }
         },
         "Erinyes": {
-            "name": "",
-            "description": "",
-            "subtype": "",
+            "name": "Érinye",
+            "description": "<h1>Érinye</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.YXZP2A00UrCViGCe caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "subtype": "Diable",
             "items": {
                 "Diabolical Restoration": {
-                    "name": "",
-                    "description": "",
-                    "requirements": ""
+                    "name": "Restauration diabolique",
+                    "description": "<p>Si l'[[lookup @name lowercase]] meurt hors des Neuf Enfers, son corps disparaît dans un nuage de fumée sulfureuse et elle en acquiert aussitôt un nouveau en revenant à la vie avec tous ses pv, quelque part dans les Neuf Enfers.</p>",
+                    "requirements": "Meurt hors des Neuf Enfers"
                 },
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
-                    "description": ""
+                    "description": "<p>L'[[lookup @name lowercase]] a l'Avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>"
                 },
                 "Magic Rope": {
-                    "name": "",
-                    "description": ""
+                    "name": "Corde magique",
+                    "description": "<p class=\"feature\">L'[[lookup @name lowercase]] possède une corde magique. Tant qu'elle la porte sur elle, elle peut recourir à l'action [[/item .mmEntanglingRope]]. La corde présente le profil suivant : CA 20, 90 pv, Immunité contre les dégâts psychiques et de poison. La corde est réduite en poussière si elle tombe à 0 point de vie, se trouve à 1,50 m ou plus de l'[[lookup @name lowercase]] pendant au moins 1 heure ou si l'[[lookup @name lowercase]] meurt. Si la corde subit des dégâts ou est détruite, l'[[lookup @name lowercase]] peut la restaurer entièrement en terminant un Repos court ou long.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>L'[[lookup @name lowercase]] effectue trois attaques d'[[/item .mmWitheringSword]] et peut recourir à [[/item .mmEntanglingRope]].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
@@ -7720,32 +7724,33 @@
                     }
                 },
                 "Parry": {
-                    "name": "",
-                    "description": "",
+                    "name": "Parade",
+                    "description": "<p><em>Déclencheur :</em> l'[[lookup @name lowercase]] est [[lookup @activation.condition activity=aLG3BRZL7P6OEjwd]]. <em>Conséquences :</em> l'[[lookup @name lowercase]] ajoute [[lookup @prof]] à sa CA contre cette attaque, ce qui peut la faire rater.</p>",
                     "activities": {
                         "Use": {
                             "name": "Utiliser",
-                            "roll": "",
-                            "condition": ""
+                            "roll": "Bonus CA",
+                            "condition": "touchée par un jet d'attaque de corps à corps alors qu'elle tient une arme"
                         }
                     }
                 },
                 "Withering Sword": {
-                    "name": "",
+                    "name": "Épée flétrissante",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Entangling Rope": {
-                    "name": "",
-                    "description": "",
-                    "requirements": "",
+                    "name": "Rets implacables",
+                    "description": "<p class=\"feature\"><em>JS Force :</em> DD [[lookup @save.dc.value activity=n8nEah4vbrEPphNF]], une créature que l'[[lookup @name lowercase]] voit dans un rayon de [[lookup @range.value activity=n8nEah4vbrEPphNF]] [[lookup @range.units activity=n8nEah4vbrEPphNF]].</p><p class=\"feature\"><em>Échec :</em> [[/damage average]], et la cible subit l'état &Reference[Restrained apply=false] jusqu'à ce que la corde soit détruite, que l'[[lookup @name lowercase]] la libère par une action Bonus ou que l'[[lookup @name lowercase]] recoure de nouveau à Rets implacables.</p>",
+                    "requirements": "Corde magique requise",
                     "effects": {
                         "Restrained": {
                             "name": "Entravé",
-                            "description": ""
+                            "description": "<p>La cible subit l'état &Reference[Restrained apply=false] jusqu'à ce que la corde soit détruite.</p>"
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Neuf Enfers"
         },
         "Ettercap": {
             "name": "",
@@ -9163,7 +9168,7 @@
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "items": {
                 "Pack Tactics": {
-                    "name": "",
+                    "name": "Tactique de meute",
                     "description": "",
                     "requirements": "Allié dans un rayon de 1,50 m de la cible de l'attaque"
                 },
@@ -9267,22 +9272,22 @@
             }
         },
         "Glabrezu": {
-            "name": "",
-            "description": "",
+            "name": "Glabrezu",
+            "description": "<h1>Glabrezu</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.ywxoKSaj2hlvewVQ caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "subtype": "Démon",
             "items": {
                 "Demonic Restoration": {
-                    "name": "",
-                    "description": "",
-                    "requirements": ""
+                    "name": "Restauration démoniaque",
+                    "description": "<p>Si le [[lookup @name lowercase]] meurt hors des Abysses, son corps se dissout en ichor et il en acquiert aussitôt un nouveau en revenant à la vie avec tous ses pv, quelque part dans les Abysses.</p>",
+                    "requirements": "Meurt hors des Abysses"
                 },
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
-                    "description": ""
+                    "description": "<p>Le [[lookup @name lowercase]] a l'Avantage aux jets de sauvegarde contre les sorts et autres effets magiques.</p>"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le [[lookup @name lowercase]] effectue deux attaques de [[/item .mmPincer00000000]] et recourt à [[/item .mmSpellcasting00]] ou [[/item .mmPummel00000000]].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
@@ -9290,8 +9295,8 @@
                     }
                 },
                 "Pincer": {
-                    "name": "",
-                    "description": "",
+                    "name": "Pince",
+                    "description": "<p class=\"feature\">[[/attack extended]]. [[/damage average extended]]. Si la cible est une créature de taille M ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[lookup @skills.ath.passive]]) par l'une des deux pinces.</p>",
                     "activities": {
                         "Escape Check": {
                             "name": "Test de libération"
@@ -9300,28 +9305,28 @@
                     "effects": {
                         "Grappled": {
                             "name": "Agrippé",
-                            "description": ""
+                            "description": "<p>Si la cible est une créature de taille M ou inférieure, elle subit l'état &Reference[Grappled apply=false] (évasion DD [[/check ability=str skill=ath format=long]], voir l'objet source pour le DD).</p>"
                         }
                     }
                 },
                 "Pummel": {
-                    "name": "",
-                    "description": "",
+                    "name": "Rincée",
+                    "description": "<p class=\"feature\"><em>JS Dextérité :</em> DD [[lookup @save.dc.value activity=aae828c0Hue0XOMP]], une créature Agrippée par le [[lookup @name lowercase]].</p><p><em>Échec :</em> [[/damage average]].</p><p><em>Réussite :</em> demi-dégâts.</p>",
                     "activities": {
                         "Save": {
                             "name": "Sauvegarde",
-                            "target": ""
+                            "target": "créature Agrippée"
                         }
                     }
                 },
                 "Spellcasting": {
                     "name": "Incantation",
-                    "description": ""
+                    "description": "<p class=\"feature\">Le [[lookup @name lowercase]] lance l'un des sorts suivants sans composantes matérielles, l'Intelligence étant sa caractéristique d'incantation (DD de sauvegarde [[lookup @attributes.spell.dc]]) :</p><p class=\"feature-trait\"><strong>À volonté :</strong> <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{détection de la magie}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDispelMagi]{dissipation de la magie}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{ténèbres}</em></p><p class=\"feature-trait\"><strong>1/jour chacun :</strong> <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplConfusion0]{confusion}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplPowerWordS]{mot de pouvoir étourdissant}</em>, <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplFly0000000]{vol}</em></p>"
                 },
                 "Darkness": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Ténèbres",
+                    "description": "<p>Pour toute la durée, des &Reference[darkness] magiques se déploient depuis un point à portée en remplissant une Sphère de 4,5 m de rayon. La Vision dans le noir ne perce pas ces Ténèbres, et les lumières non magiques n'illuminent pas dans la Sphère.</p><p>Au lieu de ça, vous pouvez lancer le sort sur un objet porté par personne, de manière à ce que les Ténèbres emplissent une Émanation de 4,50 m centrée sur l'objet. Il suffit de recouvrir cet objet d'une surface opaque, comme une gamelle ou un heaume, pour bloquer les Ténèbres.</p><p>Si tout ou partie de ce sort chevauche la zone de Lumière vive ou faible créée par un sort du 2<sup>e</sup> niveau ou inférieur, l'effet qui produit cette lumière est dissipé.</p>",
+                    "materials": "une touffe de fourrure de chauve-souris et un bout de charbon",
                     "effects": {
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -9355,13 +9360,13 @@
                     }
                 },
                 "Confusion": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Confusion",
+                    "description": "<p>Chaque créature prise dans une Sphère de 3 m de rayon centrée sur un point que vous choisissez à portée doit réussir un jet de sauvegarde de Sagesse, sous peine de ne pas pouvoir jouer de Réaction ni entreprendre d'action Bonus et de devoir jeter 1d10 au début de chacun de ses tours pour savoir comment elle se comporte à ce tour, selon la table ci-après.</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.phbsplConfusionB rollable cite=false classes=\"caption-top\"]{Comportement du tour}</p><p>La cible affectée réitère le JS à la fin de chacun de ses tours et met un terme au sort sur elle-même en cas de réussite.</p><p><strong>Emplacement de niveau supérieur.</strong> Le rayon de la Sphère augmente de 1,50 m par niveau d'emplacement au-delà du 4<sup>e</sup>.</p>",
+                    "materials": "trois coquilles de noix",
                     "effects": {
                         "Confused": {
-                            "name": "",
-                            "description": ""
+                            "name": "Confus",
+                            "description": "<p>La cible ne peut pas jouer de Réaction ni entreprendre d'action Bonus et doit jeter 1d10 au début de chacun de ses tours pour savoir comment elle se comporte à ce tour, selon la table ci-après.</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.phbsplConfusionB rollable cite=false classes=\"caption-top\"]{Comportement du tour}</p><p>La cible affectée réitère le JS de [[/save ability=wis]] à la fin de chacun de ses tours et met un terme au sort sur elle-même en cas de réussite.</p>"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -9369,12 +9374,12 @@
                     }
                 },
                 "Fly": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Vol",
+                    "description": "<p>Vous touchez une créature consentante. Pour toute la durée, la cible acquiert une Vitesse de vol de 18 m et bénéficie du vol stationnaire. Lorsque le sort prend fin, la cible tombe si elle est toujours dans les airs, à moins de pouvoir arrêter sa chute.</p><p><strong>Emplacement de niveau supérieur.</strong> Vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du 3<sup>e</sup>.</p>",
+                    "materials": "une plume",
                     "effects": {
                         "Flight": {
-                            "name": ""
+                            "name": "Vol"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -9382,8 +9387,8 @@
                     }
                 },
                 "Power Word Stun": {
-                    "name": "",
-                    "description": "",
+                    "name": "Mot de pouvoir étourdissant",
+                    "description": "<p>Vous assaillez l'esprit d'une créature que vous voyez à portée. Si la cible choisie est dotée de 150 points de vie ou moins, elle subit l'état &Reference[Stunned apply=false]. Dans le cas contraire, sa Vitesse tombe à 0 jusqu'au début de votre tour suivant.</p><p>La cible Étourdie effectue un jet de sauvegarde de [[/save ability=con dc=@attributes.spell.dc]] à la fin de chacun de ses tours et met un terme à l'effet en cas de réussite.</p>",
                     "activities": {
                         "Cast": {
                             "name": "Incanter"
@@ -9392,11 +9397,11 @@
                     "effects": {
                         "Stunned": {
                             "name": "Étourdi",
-                            "description": ""
+                            "description": "<p>La cible &Reference[Stunned apply=false]{Étourdie} effectue un jet de sauvegarde de [[/save ability=con]] à la fin de chacun de ses tours et met un terme à l'effet en cas de réussite.</p>"
                         },
                         "No Movement": {
-                            "name": "",
-                            "description": ""
+                            "name": "Aucun déplacement",
+                            "description": "<p>La Vitesse de la cible tombe à 0 jusqu'au début de votre tour suivant.</p>"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -9459,15 +9464,15 @@
             }
         },
         "Gnoll Warrior": {
-            "name": "",
-            "description": "",
+            "name": "Combattant gnoll",
+            "description": "<h1>Gnolls</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.1uUpd2TSpFjkisSO caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><h2>Combattant gnoll</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.LKcAv2xpFiGs8zUr caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "items": {
                 "Rend": {
                     "name": "Saignée",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Bone Bow": {
-                    "name": "",
+                    "name": "Arc en os",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 }
             }
@@ -10370,18 +10375,18 @@
             }
         },
         "Hell Hound": {
-            "name": "",
-            "description": "",
-            "languages": "",
+            "name": "Molosse infernal",
+            "description": "<h1>Molosse infernal</h1><p>@Embed[Compendium.dnd5e.content24.JournalEntry.mmAppendixMonste.JournalEntryPage.sTelJLU6cHPQ8gzx caption=false cite=false classes=\"no-embed mm free-rules-embed\"]</p><p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
+            "languages": "comprend l'infernal, mais ne parle pas",
             "items": {
                 "Pack Tactics": {
-                    "name": "",
-                    "description": "",
+                    "name": "Tactique de meute",
+                    "description": "<p>Quand au moins un de ses alliés non Neutralisés se situe dans un rayon de 1,50 m de la créature qu'il cible, le molosse a l'Avantage au jet d'attaque correspondant contre cette créature.</p>",
                     "requirements": "Allié dans un rayon de 1,50 m de la cible de l'attaque"
                 },
                 "Multiattack": {
                     "name": "Attaques multiples",
-                    "description": "",
+                    "description": "<p>Le molosse effectue deux attaques de [[/item .mmBite0000000000]].</p>",
                     "activities": {
                         "Expend Use": {
                             "name": "Dépenser utilisation"
@@ -10389,15 +10394,16 @@
                     }
                 },
                 "Bite": {
-                    "name": "",
+                    "name": "Morsure",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>",
                     "uname": "Arme non identifiée"
                 },
                 "Fire Breath": {
-                    "name": "",
+                    "name": "Souffle de feu",
                     "description": ""
                 }
-            }
+            },
+            "planarSubtype": "Plans Inférieurs"
         },
         "Hezrou": {
             "name": "",
@@ -10627,7 +10633,7 @@
         "Horned Devil": {
             "name": "",
             "description": "",
-            "subtype": "",
+            "subtype": "Diable",
             "items": {
                 "Diabolical Restoration": {
                     "name": "",
@@ -10670,7 +10676,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Neuf Enfers"
         },
         "Huge Animated Object": {
             "name": "Objet animé TG",
@@ -10755,7 +10762,7 @@
         "Ice Devil": {
             "name": "",
             "description": "",
-            "subtype": "",
+            "subtype": "Diable",
             "items": {
                 "Diabolical Restoration": {
                     "name": "",
@@ -10777,7 +10784,7 @@
                 },
                 "Tail": {
                     "name": "",
-                    "description": ""
+                    "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Ice Wall": {
                     "name": "",
@@ -10816,7 +10823,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Neuf Enfers"
         },
         "Ice Mephit": {
             "name": "Méphite gelé",
@@ -10876,7 +10884,7 @@
         "Imp": {
             "name": "",
             "description": "",
-            "subtype": "",
+            "subtype": "Diable",
             "items": {
                 "Magic Resistance": {
                     "name": "Résistance à la magie",
@@ -11045,7 +11053,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Plans Inférieurs"
         },
         "Invisible Sensor": {
             "name": "Capteur invisible",
@@ -11548,7 +11557,7 @@
         "Lemure": {
             "name": "",
             "description": "",
-            "subtype": "",
+            "subtype": "Diable",
             "languages": "",
             "items": {
                 "Hellish Restoration": {
@@ -11565,7 +11574,8 @@
                     "name": "",
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 }
-            }
+            },
+            "planarSubtype": "Neuf Enfers"
         },
         "Lich": {
             "name": "",
@@ -12197,12 +12207,12 @@
                     }
                 },
                 "Fly": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Vol",
+                    "description": "<p>Vous touchez une créature consentante. Pour toute la durée, la cible acquiert une Vitesse de vol de 18 m et bénéficie du vol stationnaire. Lorsque le sort prend fin, la cible tombe si elle est toujours dans les airs, à moins de pouvoir arrêter sa chute.</p><p><strong>Emplacement de niveau supérieur.</strong> Vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du 3<sup>e</sup>.</p>",
+                    "materials": "une plume",
                     "effects": {
                         "Flight": {
-                            "name": ""
+                            "name": "Vol"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -13251,7 +13261,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Plans Inférieurs"
         },
         "Nightmare": {
             "name": "",
@@ -13285,7 +13296,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Plans Inférieurs"
         },
         "Noble": {
             "name": "",
@@ -13527,9 +13539,9 @@
                     }
                 },
                 "Darkness": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Ténèbres",
+                    "description": "<p>Pour toute la durée, des &Reference[darkness] magiques se déploient depuis un point à portée en remplissant une Sphère de 4,5 m de rayon. La Vision dans le noir ne perce pas ces Ténèbres, et les lumières non magiques n'illuminent pas dans la Sphère.</p><p>Au lieu de ça, vous pouvez lancer le sort sur un objet porté par personne, de manière à ce que les Ténèbres emplissent une Émanation de 4,50 m centrée sur l'objet. Il suffit de recouvrir cet objet d'une surface opaque, comme une gamelle ou un heaume, pour bloquer les Ténèbres.</p><p>Si tout ou partie de ce sort chevauche la zone de Lumière vive ou faible créée par un sort du 2<sup>e</sup> niveau ou inférieur, l'effet qui produit cette lumière est dissipé.</p>",
+                    "materials": "une touffe de fourrure de chauve-souris et un bout de charbon",
                     "effects": {
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -13914,7 +13926,7 @@
         "Pit Fiend": {
             "name": "",
             "description": "",
-            "subtype": "",
+            "subtype": "Diable",
             "items": {
                 "Diabolical Restoration": {
                     "name": "",
@@ -14029,7 +14041,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Neuf Enfers"
         },
         "Planetar": {
             "name": "Planétar",
@@ -14842,12 +14855,12 @@
                     }
                 },
                 "Fly": {
-                    "name": "",
-                    "description": "",
-                    "materials": "",
+                    "name": "Vol",
+                    "description": "<p>Vous touchez une créature consentante. Pour toute la durée, la cible acquiert une Vitesse de vol de 18 m et bénéficie du vol stationnaire. Lorsque le sort prend fin, la cible tombe si elle est toujours dans les airs, à moins de pouvoir arrêter sa chute.</p><p><strong>Emplacement de niveau supérieur.</strong> Vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du 3<sup>e</sup>.</p>",
+                    "materials": "une plume",
                     "effects": {
                         "Flight": {
-                            "name": ""
+                            "name": "Vol"
                         },
                         "Spell Changes": {
                             "name": "Changements du sort"
@@ -14894,7 +14907,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Neuf Enfers"
         },
         "Rat": {
             "name": "Rat",
@@ -16728,7 +16742,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Plans Inférieurs"
         },
         "Spiritual Weapon": {
             "name": "Arme spirituelle",
@@ -17127,7 +17142,8 @@
                         }
                     }
                 }
-            }
+            },
+            "planarSubtype": "Plans Inférieurs"
         },
         "Swarm of Bats": {
             "name": "Nuée de chauves-souris",
@@ -17497,7 +17513,7 @@
                     "name": "Armure de cuir"
                 },
                 "Pack Tactics": {
-                    "name": "",
+                    "name": "Tactique de meute",
                     "description": "",
                     "requirements": "Allié dans un rayon de 1,50 m de la cible de l'attaque"
                 }
@@ -17520,7 +17536,7 @@
                     "name": ""
                 },
                 "Pack Tactics": {
-                    "name": "",
+                    "name": "Tactique de meute",
                     "description": "",
                     "requirements": "Allié dans un rayon de 1,50 m de la cible de l'attaque"
                 },
@@ -18388,7 +18404,7 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Pack Tactics": {
-                    "name": "",
+                    "name": "Tactique de meute",
                     "description": "",
                     "requirements": "Allié dans un rayon de 1,50 m de la cible de l'attaque"
                 }
@@ -18770,7 +18786,7 @@
                     "description": "<p>[[/attack extended]]. [[/damage average extended]].</p>"
                 },
                 "Pack Tactics": {
-                    "name": "",
+                    "name": "Tactique de meute",
                     "description": "",
                     "requirements": "Allié dans un rayon de 1,50 m de la cible de l'attaque"
                 },
@@ -18950,7 +18966,7 @@
             "description": "<p><em>Illustration du token par <a href=\"https://www.forgotten-adventures.net/\" target=\"_blank\" rel=\"noopener\">Forgotten Adventures</a>.</em></p>",
             "items": {
                 "Pack Tactics": {
-                    "name": "",
+                    "name": "Tactique de meute",
                     "description": "",
                     "requirements": "Allié dans un rayon de 1,50 m de la cible de l'attaque"
                 },
