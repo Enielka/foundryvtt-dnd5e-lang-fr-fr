@@ -1233,7 +1233,7 @@
         },
         "Glare": {
             "name": "Regard de biais",
-            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] recourt à [[/item .mmEyeRays0000000]]{Rayons oculaires}.</p>",
+            "description": "<p class=\"feature\">Le [[lookup @name lowercase]] recourt à [[/item .mmEyeRays0000000]].</p>",
             "activities": {
                 "Expend Use": {
                     "name": "Dépenser utilisation"
