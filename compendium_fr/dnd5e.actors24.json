@@ -3489,8 +3489,8 @@
             }
         },
         "Apparatus of the Crab": {
-            "name": "",
-            "description": "",
+            "name": "Submersible du Crabe",
+            "description": "<p>Pour être utilisé comme véhicule, le @UUID[Compendium.dnd5e.equipment24.Item.dmgApparatusOfKw]{submersible} nécessite un pilote. Tant que la trappe est fermée, le compartiment est étanche à l'air et à l'eau. Le compartiment contient suffisamment d'air pour 10 heures de ventilation, divisées par le nombre de créatures qui respirent à l'intérieur.</p><p>Le submersible flotte sur l'eau. Il peut également être immergé jusqu'à une profondeur de 270 m. Plus profondément, le véhicule, soumis à une trop forte pression, subit chaque minute 2d6 dégâts contondants.</p><p>Une créature dans le compartiment peut consacrer l'action Utilisation à activer un ou deux des leviers du submersible vers le haut ou le bas. Après chaque utilisation, un levier revient en position neutre. Chaque levier, de gauche à droite, fonctionne comme indiqué dans la table « Leviers du submersible ».</p><table><caption>Leviers du submersible</caption><thead><tr><td>Levier</td><td>Haut</td><td>Bas</td></tr></thead><tbody><tr><td>1</td><td>Les pattes se déploient et le submersible est apte à la marche comme à la nage.</td><td>Les pattes se rétractent, ce qui réduit la Vitesse et la Vitesse de nage du submersible à 0 m et l'empêche de bénéficier d'un quelconque bonus de vitesse.</td></tr><tr><td>2</td><td>Le volet du hublot avant s'ouvre.</td><td>Le volet du hublot avant se ferme.</td></tr><tr><td>3</td><td>Les volets des hublots latéraux s'ouvrent (deux par côté).</td><td>Les volets des hublots latéraux se ferment (deux par côté).</td></tr><tr><td>4</td><td>Deux pinces se déploient depuis les côtés, à l'avant du submersible.</td><td>Les pinces se rétractent.</td></tr><tr><td>5</td><td>Chaque pince déployée effectue l'[[/item fmdWz6RQsUCHneZF]]{attaque de corps à corps} suivante : +8 pour toucher, allonge 1,50 m. <em>Touché :</em> 7 (2d6) dégâts contondants.</td><td>Chaque pince déployée effectue l'[[/item tgIjCBtGCZvMu8ij]]{attaque de corps à corps} suivante : +8 pour toucher, allonge 1,50 m. <em>Touché :</em> La cible subit l'état Agrippé (évasion DD 15).</td></tr><tr><td>6</td><td>Le submersible marche ou nage vers l'avant à condition que ses pattes soient déployées.</td><td>Le submersible marche ou nage vers l'arrière à condition que ses pattes soient déployées.</td></tr><tr><td>7</td><td>Le submersible pivote de 90 degrés vers la gauche à condition que ses pattes soient déployées.</td><td>Le submersible pivote de 90 degrés vers la droite à condition que ses pattes soient déployées.</td></tr><tr><td>8</td><td>Des yeux mécaniques émettent une Lumière vive dans un rayon de 9 met une Lumière faible sur 9 m de plus.</td><td>La lumière s'éteint.</td></tr><tr><td>9</td><td>Le submersible descend de 6 m s'il évolue dans l'élément liquide.</td><td>Le submersible remonte de 6 m s'il évolue dans l'élément liquide.</td></tr><tr><td>10</td><td>L'écoutille arrière s'ouvre.</td><td>L'écoutille arrière se ferme hermétiquement.</td></tr></tbody></table>",
             "items": {
                 "Claw Attack": {
                     "name": "Attaque de pince",
@@ -3551,7 +3551,7 @@
             }
         },
         "Arcane Hand": {
-            "name": "",
+            "name": "Main arcanique",
             "tokenName": "Main de Bigby",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbsplBigbysHand caption=false]</p>",
             "customType": "Énergies chatoyantes",
@@ -3603,7 +3603,7 @@
             }
         },
         "Arcane Sword": {
-            "name": "",
+            "name": "Épée arcanique",
             "tokenName": "Épée de Mordenkainen",
             "description": "<p>@Embed[Compendium.dnd5e.spells24.Item.phbswdMordenkain caption=false]</p>",
             "customType": "Épée spectrale",
@@ -4002,7 +4002,7 @@
         },
         "Avatar of Death": {
             "name": "Avatar de la Mort",
-            "description": "",
+            "description": "<p>@Embed[Compendium.dnd5e.equipment24.Item.dmgDmtSkull00000]{Le Crâne (Tarot mystérieux)}</p>",
             "languages": "toutes les langues connues de la créature qui l'a convoqué",
             "items": {
                 "Incorporeal Movement": {
