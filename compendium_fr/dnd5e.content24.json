@@ -10,7 +10,7 @@
         "Chapter 6": "Chapitre 6",
         "Chapter 7": "Chapitre 7",
         "DM's Toolbox": "Boîte à outils du MD",
-        "Gameplay Toolbox": "",
+        "Gameplay Toolbox": "Boîte à outils ludique",
         "Magic Items": "Objets magiques",
         "Monsters": "Monstres"
     },
@@ -20,7 +20,7 @@
             "pages": {
                 "Overview": {
                     "name": "Aperçu",
-                    "text": ""
+                    "text": "<p>Lorsque votre activité ne se limite pas à un déplacement ou une simple communication, vous entreprenez généralement une action. La table Actions dresse la liste des actions principales du jeu, mieux détaillées dans « Glossaire de règles ».</p><table><caption>Actions</caption><thead><tr><th><p>Action</p></th><th><p>Résumé</p></th></tr></thead><tbody><tr><td><p>&Reference[Attack]</p></td><td><p>Attaquer avec une arme ou une attaque à mains nues.</p></td></tr><tr><td><p>&Reference[Disengage]</p></td><td><p>Votre déplacement ne provoque pas d'attaque d'Opportunité pour le reste du tour.</p></td></tr><tr><td><p>&Reference[Dodge]</p></td><td><p>Jusqu'au début de votre tour suivant, les jets d'attaque vous visant ont le Désavantage et vous avez l'Avantage aux JS Dextérité. Vous perdez ce bénéfice si vous subissez l'état Neutralisé ou si votre Vitesse tombe à 0.</p></td></tr><tr><td><p>&Reference[Study]</p></td><td><p>Effectuer un test d'Intelligence (Arcanes, Histoire, Investigation, Nature ou Religion).</p></td></tr><tr><td><p>&Reference[Hide]</p></td><td><p>Effectuer un test de Dextérité (Discrétion).</p></td></tr><tr><td><p>&Reference[Influence]</p></td><td><p>Effectuer un test de Charisme (Intimidation, Persuasion, Représentation ou Tromperie) ou de Sagesse (Dressage) pour faire évoluer l'attitude d'une créature.</p></td></tr><tr><td><p>&Reference[Ready]</p></td><td><p>S'apprêter à entreprendre une action en réponse à un déclencheur que vous définissez.</p></td></tr><tr><td><p>&Reference[Magic]</p></td><td><p>Lancer un sort, utiliser un objet magique ou recourir à une aptitude magique.</p></td></tr><tr><td><p>&Reference[Search]</p></td><td><p>Effectuer un test de Sagesse (Intuition, Médecine, Perception ou Survie).</p></td></tr><tr><td><p>&Reference[Dash]</p></td><td><p>Pour le reste du tour, vous bénéficiez d'un déplacement supplémentaire égal à votre Vitesse.</p></td></tr><tr><td><p>&Reference[Help]</p></td><td><p>Assister une autre créature pour un test de caractéristique ou un jet d'attaque, ou lui administrer les premiers soins.</p></td></tr><tr><td><p>&Reference[Utilize]</p></td><td><p>Utiliser un objet non magique.</p></td></tr></tbody></table><p>Personnages et monstres peuvent tenter d'autres activités que celles couvertes par ces actions. De nombreuses aptitudes de classe et autres capacités vous fournissent d'autres options d'action, et vous pouvez en improviser d'autres. Lorsque vous décrivez une action non détaillée dans les règles, le MJ vous dira si elle est possible et quel genre de &Reference[D20 Test] effectuer, le cas échéant.</p>"
                 },
                 "One Thing at a Time": {
                     "name": "Une chose à la fois",
@@ -28,11 +28,11 @@
                 },
                 "Reactions": {
                     "name": "Réactions",
-                    "text": ""
+                    "text": "<p>Certaines aptitudes spéciales et situations, ainsi que certains sorts vous permettent d'effectuer une action spéciale appelée Réaction. Une Réaction est une réponse instantanée à un déclencheur, qui peut intervenir à votre tour ou à celui de quelqu'un d'autre. L'attaque d'Opportunité, décrite plus loin dans « Comment jouer », est la Réaction la plus courante.</p><p>Lorsque vous jouez votre Réaction, vous devez attendre le début de votre tour suivant pour en jouer une nouvelle. Si la Réaction interrompt le tour d'une autre créature, celle-ci peut reprendre son tour juste après la Réaction.</p><p>En termes de séquence, une Réaction intervient aussitôt après son déclencheur, sauf mention contraire dans la description de la Réaction.</p>"
                 },
                 "Bonus Actions": {
                     "name": "Actions Bonus",
-                    "text": ""
+                    "text": "<p>Divers sorts, aptitudes de classes et autres capacités vous permettent d'entreprendre une action supplémentaire à votre tour, ce qu'on appelle une action Bonus. L'aptitude @UUID[Compendium.dnd5e.classes24.Item.phbrgeCunningAct]{Ruse} du Roublard, par exemple, lui permet d'entreprendre une action Bonus. Vous ne pouvez entreprendre une action Bonus que si une aptitude spéciale, un sort ou autre élément du jeu spécifie que vous pouvez accomplir quelque chose par une action Bonus. Sans cela, vous n'avez tout bonnement pas d'action Bonus à entreprendre.</p><p>Vous ne pouvez entreprendre qu'une seule action Bonus, toujours à votre tour, si bien qu'il vous faut choisir laquelle dans le cas où vous auriez accès à plusieurs actions Bonus.</p><p>Vous choisissez à quel moment de votre tour entreprendre une action Bonus, sauf mention contraire dans la description de celle-ci. Tout ce qui vous prive de la capacité à entreprendre des actions vous empêche également d'entreprendre une action Bonus.</p>"
                 }
             }
         },
@@ -551,7 +551,7 @@
                 },
                 "Initiative": {
                     "name": "Initiative",
-                    "text": ""
+                    "text": "<p>L'Initiative détermine la séquence des tours durant un combat. Les règles de combat (cf. « Comment jouer ») expliquent comment jouer l'Initiative.</p><p>Le MJ préférera parfois demander aux combattants d'utiliser leur valeur d'Initiative au lieu de jouer l'Initiative. Votre valeur d'Initiative est égale à 10 + votre modificateur de Dextérité. Si vous avez l'Avantage au jet d'Initiative, augmentez de 5 votre valeur d'Initiative. Si vous subissez le Désavantage à ce même jet, diminuez cette valeur de 5.</p>"
                 },
                 "Hiding": {
                     "name": "Se cacher",
@@ -1970,11 +1970,11 @@
             "pages": {
                 "Character Backgrounds": {
                     "name": "Historiques de personnage",
-                    "text": ""
+                    "text": "<p>L'historique de votre personnage est un ensemble d'éléments disparates qui symbolise le lieu et l'occupation de votre héros en herbe avant qu'il embrasse la carrière d'aventurier.</p><p>Explorez les @UUID[Compendium.dnd5e.content24.JournalEntry.phbBackgroundDes.JournalEntryPage.lXqvtf9mIp8RYjFr]{historiques} disponibles.</p><h2>Éléments d'historique</h2><p>Chaque historique comprend les éléments ci-après.</p><p><em><strong>Valeurs de caractéristique.</strong></em> L'historique répertorie trois des valeurs de caractéristique de votre personnage. Augmentez l'une d'elles de 2 et une autre de 1, ou augmentez les trois valeurs de 1. Ces augmentations ne peuvent en aucun cas porter une valeur au-dessus de 20.</p><p><em><strong>Don.</strong></em> Chaque historique octroie à votre personnage un don d'origines spécifique (les dons sont détaillés à la section « @UUID[Compendium.dnd5e.content24.JournalEntry.phbFeats00000000]{Dons} »).</p><p><em><strong>Maîtrises de compétence.</strong></em> Chaque historique octroie à votre personnage la maîtrise de deux compétences.</p><p><em><strong>Maîtrise d'outils.</strong></em> Chaque historique confère au personnage la maîtrise d'un outil : soit un outil spécifique, soit un outil choisi dans la panoplie des outils d'artisan. Les outils sont détaillés au chapitre 6.</p><p><em><strong>Équipement.</strong></em> Chaque historique offre le choix entre un ensemble d'équipement ou 50 po.</p>"
                 },
                 "Character Species": {
                     "name": "Espèces des personnages",
-                    "text": ""
+                    "text": "<p>Lorsque vous choisissez l'espèce de votre personnage, vous déterminez s'il est humain ou appartient à une espèce fantastique, comme drakéide ou gnome.</p><p>Les peuples du multivers proviennent de mondes très différents et comprennent maintes formes de vie intelligentes. L'espèce d'un personnage-joueur est l'ensemble des traits de jeu que l'aventurier reçoit en choisissant d'incarner l'une ou l'autre de ces formes de vie.</p><p>Certaines espèces puisent leurs origines dans un seul monde, plan d'existence ou dieu, tandis que d'autres sont apparues simultanément sur plusieurs mondes. Quelle que soit la genèse d'une espèce, ses membres se sont répandus dans le multivers et ont façonné des cultures distinctes.</p><p>Les membres de la plupart des espèces vivent environ 80 ans, sauf exceptions mentionnées dans le texte sur les espèces de la section « @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpeciesDescri]{Origines des personnages} ». Votre personnage peut avoir n'importe quel âge pourvu qu'il ne dépasse pas l'espérance de vie propre à son espèce.</p><h2>Éléments d'une espèce</h2><p>Le fait d'appartenir à une espèce inclut les éléments ci-après.</p><p><em><strong>Type de créature.</strong></em> L'espèce d'un personnage détermine son type de créature, qui est décrit dans « Glossaire de règles ». Toutes les espèces présentées dans « Origines des personnages » sont Humanoïdes ; des espèces non Humanoïdes jouables figurent dans d'autres ouvrages.</p><p><em><strong>Catégorie de taille.</strong></em> L'espèce de votre personnage détermine sa catégorie de taille. Les individus d'une même espèce couvrent un large éventail de tailles, et certaines présentent une telle diversité de gabarits que vous pouvez choisir si votre personnage est de taille P ou de taille M.</p><p><em><strong>Vitesse.</strong></em> L'espèce de votre personnage détermine sa Vitesse.</p><p><em><strong>Traits spéciaux.</strong></em> Chaque espèce confère au personnage des traits spéciaux : des caractéristiques uniques basées sur la physiologie ou la nature magique de l'espèce considérée. Lorsque vous choisissez une espèce, votre personnage reçoit tous les traits spéciaux indiqués pour celle-ci. Certains traits impliquent d'opérer un choix parmi plusieurs options.</p>"
                 }
             }
         },
@@ -3411,23 +3411,23 @@
             "pages": {
                 "Lightly Obscured": {
                     "name": "Visibilité réduite",
-                    "text": ""
+                    "text": "<p>Vous subissez le &Reference[Disadvantage] aux tests de Sagesse (Perception) visant à voir quelque chose dans un espace à Visibilité réduite. <em>Lire aussi</em> « &Reference[Dim Light] et « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{Exploration} »).</p>"
                 },
                 "Heavily Obscured": {
                     "name": "Visibilité nulle",
-                    "text": ""
+                    "text": "<p>Vous subissez l'état &Reference[Blinded] lorsque vous essayez de voir quelque chose dans un espace à Visibilité nulle. <em>Lire aussi</em> « &Reference[Blinded] », « &Reference[Darkness] » et « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{Exploration} ».</p>"
                 },
                 "Bright Light": {
                     "name": "Lumière vive",
-                    "text": ""
+                    "text": "<p>La Lumière vive est synonyme d'éclairage normal. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{Exploration} »).</p>"
                 },
                 "Dim Light": {
                     "name": "Lumière faible",
-                    "text": ""
+                    "text": "<p>Une zone de Lumière faible est à &Reference[Lightly Obscured]. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{Exploration} »).</p>"
                 },
                 "Darkness": {
                     "name": "Ténèbres",
-                    "text": ""
+                    "text": "<p>Une zone de Ténèbres est une zone à @UUID[.YkuKTIH2YaYW8lTS]{Visibilité nulle}. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{Exploration} »).</p>"
                 },
                 "Blindsight": {
                     "name": "Vision aveugle",
@@ -3435,7 +3435,7 @@
                 },
                 "Darkvision": {
                     "name": "Vision dans le noir",
-                    "text": "<p>Si vous avez la Vision dans le noir, vous voyez dans des conditions de &Reference[Dim Light] à la portée indiquée comme s'il s'agissait d'une Lumière vive, et dans les &Reference[Darkness] à cette même portée comme dans une zone de Lumière faible. Dans les Ténèbres, vous discernez les couleurs comme des nuances de gris. <em>Lire aussi</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{Exploration}.</p>"
+                    "text": "<p>Si vous avez la Vision dans le noir, vous voyez dans des conditions de &Reference[Dim Light] à la portée indiquée comme s'il s'agissait d'une Lumière vive, et dans les &Reference[Darkness] à cette même portée comme dans une zone de Lumière faible. Dans les Ténèbres, vous discernez les couleurs comme des nuances de gris. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{Exploration} »).</p>"
                 },
                 "Tremorsense": {
                     "name": "Perception des vibrations",
@@ -3443,163 +3443,163 @@
                 },
                 "Truesight": {
                     "name": "Vision lucide",
-                    "text": ""
+                    "text": "<p>Si vous avez la Vision lucide, vous bénéficiez d'une vision améliorée à une portée spécifiée. À cette portée, votre vision s'affranchit des obstacles suivants :</p><p><strong>Ténèbres.</strong> Vous voyez dans les @UUID[.UY4RGoKw9rOeazur]{Ténèbres} normales comme magiques.</p><p><strong>Invisibilité.</strong> Vous voyez les créatures et objets qui ont l'état @UUID[.MQIZ1zRLWRcNOtPN]{Invisible}.</p><p><strong>Illusions visuelles.</strong> Les illusions visuelles vous paraissent transparentes, et vous réussissez automatiquement vos jets de sauvegarde contre elles.</p><p><strong>Métamorphoses.</strong> Vous distinguez la forme véritable de toute créature ou tout objet transformé par magie que vous voyez.</p><p><strong>Plan Éthéré.</strong> Vous voyez dans le Plan Éthéré.</p>"
                 },
                 "Reaction": {
                     "name": "Réaction",
-                    "text": ""
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.2VqLyxMyMxgXe2wC inline]</p><p><em>Lire aussi</em> « @UUID[.eNvzQabiTqTtfzis]{Attaques d'Opportunité} et « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbActions000000]{Actions} »).</p>"
                 },
                 "Bonus Action": {
-                    "name": "",
-                    "text": ""
+                    "name": "Action Bonus",
+                    "text": "<p>Une action Bonus est une action spéciale que vous pouvez entreprendre au même tour qu'une action. Vous ne pouvez pas entreprendre plus d'une action Bonus par tour, et ne jouissez d'une action Bonus que si une règle le stipule explicitement. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbActions000000]{Actions} »).</p>"
                 },
                 "Action": {
-                    "name": "",
-                    "text": ""
+                    "name": "Action",
+                    "text": "<p>À votre tour, vous pouvez entreprendre une action. Choisissez l'action à entreprendre parmi celles ci-dessous ou parmi les actions spéciales fournies par vos aptitudes.</p><ul><li><p>@UUID[.f4fZHwBvpbpzRyn4]{Attaque}</p></li><li><p>@UUID[.w1AGsemFERfjqWNx]{Désengagement}</p></li><li><p>@UUID[.3YJIuyCMmuUrfmuX]{Esquive}</p></li><li><p>@UUID[.Nuz0Wx4a4aAPcC34]{Étude}</p></li><li><p>@UUID[.rqhOsUY4wWa1oHTy]{Furtivité}</p></li><li><p>@UUID[.4V59Q1dlWjNhpJGo]{Influence}</p></li><li><p>@UUID[.nI9tN6Oq7fCV7hcA]{Intention}</p></li><li><p>@UUID[.iIIDUsmSOkL0xNzF]{Magie}</p></li><li><p>@UUID[.ySj4gYZ4ADZoia7R]{Observation}</p></li><li><p>@UUID[.6l6nBKip4LqB1sCU]{Pointe}</p></li><li><p>@UUID[.5S8i59qskkd9GGcJ]{Soutien}</p></li><li><p>@UUID[.UDlogfdiT2uYEZz4]{Utilisation}</p></li></ul>"
                 },
                 "Attack": {
                     "name": "Attaque",
                     "text": "<p>Lorsque vous entreprenez l'action Attaque, vous effectuez un jet d'attaque avec arme ou une attaque à mains nues.</p><p><em><strong>S'équiper et se déséquiper.</strong></em> Vous pouvez vous équiper ou vous déséquiper d'une arme lorsque vous effectuez une attaque dans le cadre de cette action. Vous pouvez le faire avant ou après l'attaque. Si vous vous équipez d'une arme avant une attaque, vous n'êtes pas tenu de l'utiliser lors de cette attaque. S'équiper d'une arme comprend le fait de la sortir du fourreau ou de la ramasser. Se déséquiper d'une arme consiste à la rengainer, la ranger ou la laisser choir.</p><p><em><strong>Se déplacer entre les attaques.</strong></em> Si vous vous déplacez pendant votre tour et disposez d'une aptitude, telle qu'Attaque supplémentaire, qui vous octroie plusieurs attaques dans le cadre de l'action Attaque, vous pouvez consacrer tout ou partie de ce déplacement à vous mouvoir entre ces attaques.</p>"
                 },
                 "Dash": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pointe",
+                    "text": "<p>Lorsque vous entreprenez l'action Pointe, vous recevez du déplacement supplémentaire pour ce tour. Cette augmentation est égale à votre &Reference[Speed], après application d'éventuels modificateurs. Si vous disposez par exemple d'une Vitesse de 9 m, vous pouvez vous déplacer de 18 m à votre tour en entreprenant l'action Pointe. Si vous disposez d'une Vitesse de 9 m réduite à 4,50 m, vous pouvez vous déplacer de 9 m à votre tour avec l'action Pointe.</p><p>Si vous disposez d'une Vitesse spéciale, de type Vitesse de vol ou Vitesse de nage, vous pouvez utiliser celle-ci à la place de votre Vitesse lorsque vous entreprenez cette action. Vous choisissez la Vitesse à utiliser chaque fois que vous l'entreprenez.</p>"
                 },
                 "Disengage": {
-                    "name": "",
-                    "text": ""
+                    "name": "Désengagement",
+                    "text": "<p>Si vous entreprenez l'action Désengagement, votre déplacement ne provoque pas d'&Reference[Opportunity Attacks]{attaque d'Opportunité} jusqu'à la fin du tour.</p>"
                 },
                 "Dodge": {
-                    "name": "",
-                    "text": ""
+                    "name": "Esquive",
+                    "text": "<p>Si vous entreprenez l'action Esquive, vous recevez les bénéfices suivants : jusqu'au début de votre tour suivant, tout jet d'attaque effectué contre vous par un assaillant que vous voyez subit le &Reference[Disadvantage], et vos jets de sauvegarde de Dextérité ont l'&Reference[Advantage].</p><p>Vous perdez ces bénéfices si vous subissez l'état Neutralisé ou si votre Vitesse tombe à 0.</p>"
                 },
                 "Help": {
-                    "name": "",
-                    "text": ""
+                    "name": "Soutien",
+                    "text": "<p>Lorsque vous entreprenez l'action Soutien, vous faites l'une ou l'autre des deux choses ci-après.</p><p><em><strong>Assister un test de caractéristique.</strong></em> Choisissez l'une de vos maîtrises de compétence ou d'outil, ainsi qu'un allié suffisamment proche pour que vous puissiez l'assister verbalement ou physiquement lorsqu'il entreprend un test de caractéristique. Cet allié a l'&Reference[Advantage] au prochain test de caractéristique qu'il entreprend avec la compétence ou l'outil choisi. Ce bénéfice expire si l'allié n'y recourt pas avant le début de votre tour suivant. C'est le MJ qui décide si votre assistance est possible ou non.</p><p><em><strong>Assister un jet d'attaque.</strong></em> Vous distrayez momentanément un ennemi dans un rayon de 1,50 m, ce qui octroie l'Avantage au jet d'attaque suivant de l'un de vos alliés contre cet ennemi. Ce bénéfice expire au début de votre tour suivant.</p>"
                 },
                 "Influence": {
-                    "name": "",
-                    "text": ""
+                    "name": "Influence",
+                    "text": "<p>Par l'action Influence, vous incitez un monstre à faire quelque chose. Décrivez ou incarnez la façon dont vous communiquez avec le monstre. Essayez-vous de tromper, d'intimider, d'amuser, de persuader en douceur ? Le MJ détermine alors si le monstre se sent disposé, réticent ou hésitant suite à votre interaction ; ce jugement détermine si un test de caractéristique est nécessaire, comme expliqué ci-dessous.</p><p><em><strong>Disposé.</strong></em> Si votre requête est en accord avec les désirs du monstre, aucun test de caractéristique n'est nécessaire ; il accède à votre demande par la méthode qu'il préfère.</p><p><em><strong>Réticent.</strong></em> Si votre requête répugne au monstre ou est contraire à son alignement, aucun test de caractéristique n'est nécessaire ; il vous oppose un refus.</p><p><em><strong>Hésitant.</strong></em> Si vous incitez le monstre à faire quelque chose et qu'il se montre hésitant, vous devez en passer par un test de caractéristique, lequel est affecté par l'attitude du monstre : Indifférent, Amical ou Hostile, chacun de ces termes étant défini dans le présent glossaire. La table Tests d'Influence suggère quel test de caractéristique entreprendre en fonction de la façon dont vous interagissez avec le monstre. Le MJ choisit le test, dont le DD par défaut est égal à 15 ou à la valeur d'Intelligence du monstre, selon ce qui est le plus élevé. En cas de réussite, le monstre accomplit ce qui lui est demandé. En cas d'échec, vous devez attendre 24 heures (ou une autre durée définie par le MJ) avant de l'exhorter à nouveau de la même manière.</p><table><caption>Tests d'Influence</caption><thead><tr><th><p>Test de caractéristique</p></th><th><p>Interaction</p></th></tr></thead><tbody><tr><td><p>[[/check itm]]</p></td><td><p>Intimider un monstre</p></td></tr><tr><td><p>[[/check per]]</p></td><td><p>Convaincre un monstre qui vous comprend</p></td></tr><tr><td><p>[[/check prf]]</p></td><td><p>Amuser un monstre</p></td></tr><tr><td><p>[[/check dec]]</p></td><td><p>Tromper un monstre qui vous comprend</p></td></tr><tr><td><p>[[/check ani]]</p></td><td><p>Amadouer une Bête ou une Monstruosité</p></td></tr></tbody></table>"
                 },
                 "Magic": {
-                    "name": "",
-                    "text": ""
+                    "name": "Magie",
+                    "text": "<p>Lorsque vous entreprenez l'action Magie, vous lancez un sort dont le temps d'incantation est une action ou recourez à une aptitude ou à un objet magique dont l'activation se fait au prix de l'action Magie.</p><p>Si vous lancez un sort dont le temps d'incantation est de 1 minute ou plus, vous devez entreprendre l'action Magie à chaque tour de l'incantation, et devez maintenir votre &Reference[Concentration] tout du long. Si cette Concentration est rompue, le sort échoue, mais vous ne dépensez aucun emplacement de sort.</p>"
                 },
                 "Ready": {
-                    "name": "",
-                    "text": ""
+                    "name": "Intention",
+                    "text": "<p>L'action Intention consiste à attendre une circonstance particulière avant d'agir. Pour ce faire, vous entreprenez cette action à votre tour, ce qui vous permet de jouer votre @UUID[.OhSIWaQ61dOp7S8M]{Réaction} avant le début de votre tour suivant.</p><p>Commencez par décider quelles circonstances perceptibles déclencheront votre Réaction. Puis choisissez l'action que vous entreprendrez en réponse à ce déclencheur (ou optez pour un déplacement n'excédant pas votre Vitesse). Ce pourrait être par exemple : « Si le fanatique pose le pied sur la trappe, j'active le levier qui l'ouvre », ou « Si le zombi s'approche de moi, je m'en éloigne. »</p><p>Lorsque le déclencheur intervient, vous avez le choix entre jouer votre Réaction juste après la fin du déclencheur et ne pas tenir compte de celui-ci.</p><p>Lorsque votre Intention concerne l'incantation d'un sort, vous le lancez normalement (ce qui requiert de dépenser les éventuelles ressources nécessaires) mais retenez les énergies magiques, que vous ne libérerez qu'à l'intervention du déclencheur en jouant votre Réaction. Pour pouvoir s'anticiper ainsi, le sort doit avoir un temps d'incantation d'une action, sachant que retenir ses énergies vous demande de maintenir votre @UUID[.0a2umg2mJMAzM9Q3]{Concentration}, ce que vous ne pouvez faire que jusqu'au début de votre tour suivant. Si votre Concentration est rompue, le sort se dissipe sans prendre effet.</p>"
                 },
                 "Search": {
-                    "name": "",
-                    "text": ""
+                    "name": "Observation",
+                    "text": "<p>Lorsque vous entreprenez l'action Observation, vous effectuez un test de Sagesse visant à discerner ce qui n'est pas évident. La table « Observation » suggère quelle compétence entre en jeu lorsque vous effectuez cette action, en fonction de ce que vous essayez de détecter.</p><table><caption>Observation</caption><thead><tr><th><p>Compétence</p></th><th><p>Chose à détecter</p></th></tr></thead><tbody><tr><td><p>Intuition</p></td><td><p>État d'esprit d'une créature</p></td></tr><tr><td><p>Médecine</p></td><td><p>Mal dont souffre une créature ou cause de sa mort</p></td></tr><tr><td><p>Perception</p></td><td><p>Créature ou objet dissimulé</p></td></tr><tr><td><p>Survie</p></td><td><p>Traces ou nourriture</p></td></tr></tbody></table>"
                 },
                 "Study": {
-                    "name": "",
-                    "text": ""
+                    "name": "Étude",
+                    "text": "<p>Lorsque vous entreprenez l'action Étude, vous effectuez un test d'Intelligence en consultant votre mémoire, un livre, un indice ou une autre source de savoir, à la recherche d'une information importante sur un sujet donné.</p><p>La table Domaines de savoir suggère quelle compétence s'applique à divers domaines de savoir.</p><table><caption>Domaines de savoir</caption><thead><tr><th><p>Compétence</p></th><th><p>Domaines</p></th></tr></thead><tbody><tr><td><p>Arcanes</p></td><td><p>Sorts, objets magiques, symboles occultes, traditions magiques, plans d'existence et certaines créatures (Aberrations, Artificiels, Élémentaires, Fées et Monstruosités)</p></td></tr><tr><td><p>Histoire</p></td><td><p>Événements et personnages historiques, civilisations anciennes, guerres et certaines créatures (Géants et Humanoïdes)</p></td></tr><tr><td><p>Investigation</p></td><td><p>Pièges, énigmes, messages cryptés et gadgets divers</p></td></tr><tr><td><p>Nature</p></td><td><p>Terrain, flore, climat et certaines créatures (Bêtes, Dragons, Plantes et Vases)</p></td></tr><tr><td><p>Religion</p></td><td><p>Divinités, hiérarchies et rites religieux, symboles sacrés, cultes et certaines créatures (Célestes, Fiélons, Morts-vivants)</p></td></tr></tbody></table>"
                 },
                 "Utilize": {
-                    "name": "",
-                    "text": ""
+                    "name": "Utilisation",
+                    "text": "<p>Vous interagissez souvent avec un objet tout en faisant autre chose, comme lorsque vous dégainez votre épée dans le cadre de l'action @UUID[.f4fZHwBvpbpzRyn4]{Attaque}. Lorsqu'un objet requiert spécifiquement votre action, vous entreprenez l'action Utilisation.</p>"
                 },
                 "Concentration": {
                     "name": "Concentration",
                     "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.ow58p27ctAnr4VPH inline]</p>"
                 },
                 "Hide": {
-                    "name": "",
-                    "text": ""
+                    "name": "Furtivité",
+                    "text": "<p>L'action Furtivité vous permet d'essayer de vous cacher. Pour ce faire, vous effectuez un test de [[/check stealth dc=15]] à condition d'être dans une zone de @UUID[.YkuKTIH2YaYW8lTS]{Visibilité nulle}, ou derrière un &Reference[Three-Quarters Cover] ou un &Reference[Total Cover], et de ne pas être dans le champ de vision d'un ennemi ; si vous voyez une créature, vous savez si celle-ci vous voit ou non.</p><p>En cas de réussite, vous bénéficiez de l'état &Reference[Invisible] tant que vous êtes furtif. Prenez note du résultat de ce test, qui est le DD à atteindre pour qu'une créature vous localise au moyen d'un test de [[/check prc]].</p><p>Cet état prend fin aussitôt après l'un des événements suivants : vous émettez un son plus fort qu'un murmure, un ennemi vous détecte, vous effectuez un jet d'attaque ou lancez un sort à composante verbale.</p>"
                 },
                 "Condition": {
-                    "name": "",
-                    "text": ""
+                    "name": "État",
+                    "text": "<p>Un état est une situation de jeu temporaire qui vous affecte. La définition d'un état indique comment il affecte son destinataire, et diverses règles définissent comment mettre fin à un état. Le présent glossaire définit les états suivants :</p><ul><li>@UUID[.QxCrRcgMdUd3gfzz]{À terre}</li><li>@UUID[.KbQ1k0OIowtZeQgp]{Agrippé}</li><li>@UUID[.qlRw66tJhk0zLnwq]{Assourdi}</li><li>@UUID[.uDogReMO6QtH6NDw]{Aveuglé}</li><li>@UUID[.vLAsIUa0FhZNsyLk]{Charmé}</li><li>@UUID[.93uaingTESo8N1qL]{Effrayé}</li><li>@UUID[.HWs8kEojffqwTSJz]{Empoisonné}</li><li>@UUID[.dqLeGdpHtb8FfcxX]{Entravé}</li><li>@UUID[.jSQtPgNm0i4f3Qi3]{Épuisement}</li><li>@UUID[.EjbXjvyQAMlDyANI]{Étourdi}</li><li>@UUID[.fZCRaKEJd4KoQCqH]{Inconscient}</li><li>@UUID[.MQIZ1zRLWRcNOtPN]{Invisible}</li><li>@UUID[.4i3G895hy99piand]{Neutralisé}</li><li>@UUID[.RnxZoTglPnLc6UPb]{Paralysé}</li><li>@UUID[.6vtLuQT9lwZ9N299]{Pétrifié}</li></ul><p>Un état n'est pas cumulable avec lui-même ; le sujet subit un état ou non. Seul l'état &Reference[Exhaustion] constitue une exception à cette règle.</p>"
                 },
                 "Blinded": {
-                    "name": "",
-                    "text": ""
+                    "name": "Aveuglé",
+                    "text": "<p><em><strong>Incapable de voir.</strong></em> Vous ne voyez rien et ratez automatiquement tout test de caractéristique reposant sur la vue.</p><p><em><strong>Effet sur les attaques.</strong></em> Les jets d'attaque contre vous ont l'Avantage, et vos jets d'attaque subissent le &Reference[Disadvantage].</p>"
                 },
                 "Charmed": {
-                    "name": "",
-                    "text": ""
+                    "name": "Charmé",
+                    "text": "<p>Tant que vous avez l'état Charmé, vous subissez les effets suivants.</p><p><em><strong>Ne pas nuire au charmeur.</strong></em> Vous ne pouvez pas attaquer votre « charmeur » ni le cibler avec des aptitudes ou effets magiques qui infligent des dégâts.</p><p><em><strong>Interaction avec Avantage.</strong></em> Le charmeur a l'Avantage aux tests de caractéristique d'interaction sociale avec vous.</p>"
                 },
                 "Deafened": {
-                    "name": "",
-                    "text": ""
+                    "name": "Assourdi",
+                    "text": "<p><em><strong>Incapable d'entendre.</strong></em> Vous n'entendez rien, et ratez automatiquement tous les tests de caractéristique qui reposent sur l'ouïe.</p>"
                 },
                 "Exhaustion": {
-                    "name": "",
-                    "text": ""
+                    "name": "Épuisement",
+                    "text": "<p>Tant que vous avez l'état Épuisement, vous subissez les effets suivants.</p><p><em><strong>Niveaux d'Épuisement.</strong></em> Cet état est cumulatif. Chaque fois que vous le recevez, vous subissez 1 niveau d'Épuisement. Vous mourez quand votre niveau d'Épuisement atteint 6.</p><p><em><strong>Tests d20 affectés.</strong></em> Lorsque vous effectuez un &Reference[D20 Test], le résultat est réduit de 2 fois votre niveau actuel d'Épuisement.</p><p><em><strong>Vitesse réduite.</strong></em> Votre &Reference[Speed] est réduite de 1,50 m x votre niveau actuel d'Épuisement.</p><p><em><strong>Suppression des niveaux d'Épuisement.</strong></em>Terminer un &Reference[Long Rest] dissipe 1 niveau d'Épuisement. Lorsque votre niveau d'Épuisement atteint 0, l'état prend fin pour vous.</p>"
                 },
                 "Frightened": {
-                    "name": "",
-                    "text": ""
+                    "name": "Effrayé",
+                    "text": "<p>Tant que vous avez l'état Effrayé, vous subissez les effets suivants.</p><p><em><strong>Effet sur les attaques et les tests de caractéristique.</strong></em> Vous subissez le &Reference[Disadvantage] aux tests de caractéristique et aux jets d'attaque tant que la source de votre effroi est dans votre champ de vision.</p><p><em><strong>Impossible d'approcher.</strong></em> Vous ne pouvez pas vous rapprocher volontairement de la source de votre effroi.</p>"
                 },
                 "Grappled": {
-                    "name": "",
-                    "text": ""
+                    "name": "Agrippé",
+                    "text": "<p>Tant que vous avez l'état Agrippé, vous subissez les effets suivants.</p><p><em><strong>Vitesse 0.</strong></em> Votre Vitesse est de 0 et ne peut pas augmenter.</p><p><em><strong>Effet sur les attaques.</strong></em> Vous subissez le &Reference[Disadvantage] aux jets d'attaque contre toute cible hormis l'agrippeur.</p><p><em><strong>Déplaçable.</strong></em> L'agrippeur peut vous tirer ou vous porter lorsqu'il se déplace, mais ses coûts de déplacement sont doublés, sauf si vous êtes de taille TP ou que votre catégorie est inférieure d'au moins deux crans à la sienne.</p>"
                 },
                 "Incapacitated": {
-                    "name": "",
-                    "text": ""
+                    "name": "Neutralisé",
+                    "text": "<p>Tant que vous avez l'état &Reference[incapacitated], vous subissez les effets suivants.</p><p><em><strong>Inactif.</strong></em> Vous ne pouvez entreprendre ni @UUID[.SsIXfzS2ZttwAaKj]{action}, ni @UUID[.EjR3KL7KLTwjWBS0]{action Bonus} ni @UUID[.OhSIWaQ61dOp7S8M]{Réaction}.</p><p><em><strong>Concentration brisée.</strong></em> Votre @UUID[.0a2umg2mJMAzM9Q3]{Concentration} est brisée.</p><p><em><strong>Sans voix.</strong></em> Vous ne pouvez pas parler.</p><p><em><strong>Surpris.</strong></em> Si vous êtes Neutralisé au moment de jouer l'Initiative, vous subissez le &Reference[Disadvantage] à ce jet.</p>"
                 },
                 "Invisible": {
-                    "name": "",
-                    "text": ""
+                    "name": "Invisible",
+                    "text": "<p>Tant que vous avez l'état Invisible, vous subissez les effets suivants.</p><p><em><strong>Surprise.</strong></em> Si vous êtes Invisible au moment de jouer l'Initiative, vous avez l'&Reference[Advantage] à ce jet.</p><p><em><strong>Dissimulé.</strong></em> Vous n'êtes pas affecté par les effets qui exigent que la cible soit vue, sauf si le créateur de l'effet vous « voit » par un biais ou un autre. Tout l'équipement que vous portez est lui aussi dissimulé.</p><p><em><strong>Effet sur les attaques.</strong></em> Les jets d'attaque contre vous subissent le &Reference[Disadvantage], et vos jets d'attaque ont l'Avantage. Si une créature vous voit par un biais ou un autre, vous ne recevez pas ce bénéfice contre elle.</p>"
                 },
                 "Paralyzed": {
-                    "name": "",
-                    "text": ""
+                    "name": "Paralysé",
+                    "text": "<p>Tant que vous avez l'état Paralysé, vous subissez les effets suivants.</p><p><em><strong>Neutralisé.</strong></em> Vous subissez l'état &Reference[Incapacitated].</p><p><em><strong>Vitesse 0.</strong></em> Votre Vitesse est de 0 et ne peut pas augmenter.</p><p><em><strong>Effet sur les jets de sauvegarde.</strong></em> Vous ratez automatiquement vos jets de sauvegarde de Force et de Dextérité.</p><p><em><strong>Effet sur les attaques.</strong></em> Les jets d'attaque contre vous ont l'&Reference[Advantage].</p><p><em><strong>Coups critiques automatiques.</strong></em> Tout jet d'attaque qui vous touche est un Coup critique si l'assaillant qui la porte se trouve dans un rayon de 1,50 m.</p>"
                 },
                 "Petrified": {
-                    "name": "",
-                    "text": ""
+                    "name": "Pétrifié",
+                    "text": "<p>Tant que vous avez l'état Pétrifié, vous subissez les effets suivants.</p><p><em><strong>Transformé en substance inanimée.</strong></em> Vous êtes transformé, ainsi que les objets non magiques que vous portez, en une substance inanimée et dense (généralement de la pierre). Votre poids est décuplé et vous n'êtes plus soumis au vieillissement.</p><p><em><strong>Neutralisé.</strong></em> Vous subissez l'état &Reference[Incapacitated].</p><p><em><strong>Vitesse 0.</strong></em> Votre Vitesse est de 0 et ne peut pas augmenter.</p><p><em><strong>Effet sur les attaques.</strong></em> Les jets d'attaque contre vous ont l'&Reference[Advantage].</p><p><em><strong>Effet sur les jets de sauvegarde.</strong></em> Vous ratez automatiquement vos jets de sauvegarde de Force et de Dextérité.</p><p><em><strong>Résistance aux dégâts.</strong></em> Vous avez la &Reference[Resistance] à tous les dégâts.</p><p><em><strong>Immunité contre le poison.</strong></em> Vous avez l'Immunité contre l'état &Reference[Poisoned].</p>"
                 },
                 "Poisoned": {
-                    "name": "",
-                    "text": ""
+                    "name": "Empoisonné",
+                    "text": "<p>Tant que vous avez l'état Empoisonné, vous subissez l'effet suivant.</p><p><em><strong>Effet sur les attaques et les tests de caractéristique.</strong></em> Vous subissez le &Reference[Disadvantage] aux jets d'attaque et aux tests de caractéristique.</p>"
                 },
                 "Prone": {
-                    "name": "",
-                    "text": ""
+                    "name": "À terre",
+                    "text": "<p>Tant que vous avez l'état À terre, vous subissez les effets suivants.</p><p><em><strong>Déplacement limité.</strong></em> Vos seules possibilités de déplacement sont ramper ou vous relever en dépensant la moitié de votre &Reference[Speed] (arrondie à l'inférieur), ce qui met un terme à l'état. Si votre Vitesse est de 0, vous ne pouvez pas vous relever.</p><p><em><strong>Effet sur les attaques.</strong></em> Vous subissez le &Reference[Disadvantage] aux jets d'attaque. Un jet d'attaque contre vous reçoit l'&Reference[Advantage] si l'assaillant se trouve dans un rayon de 1,50 m de vous. Sans cela, ce jet d'attaque subit le Désavantage.</p>"
                 },
                 "Restrained": {
-                    "name": "",
-                    "text": ""
+                    "name": "Entravé",
+                    "text": "<p>Tant que vous avez l'état Entravé, vous subissez les effets suivants.</p><p><em><strong>Vitesse 0.</strong></em> Votre &Reference[Speed] est de 0 et ne peut pas augmenter.</p><p><em><strong>Effet sur les attaques.</strong></em> Les jets d'attaque contre vous ont l'Avantage, et vos jets d'attaque subissent le &Reference[Disadvantage].</p><p><em><strong>Effet sur les jets de sauvegarde.</strong></em> Vous subissez le Désavantage aux jets de sauvegarde de Dextérité.</p>"
                 },
                 "Stunned": {
-                    "name": "",
-                    "text": ""
+                    "name": "Étourdi",
+                    "text": "<p>Tant que vous avez l'état Étourdi, vous subissez les effets suivants.</p><p><em><strong>Neutralisé.</strong></em> Vous subissez l'état @UUID[.4i3G895hy99piand]{Neutralisé}.</p><p><em><strong>Effet sur les jets de sauvegarde.</strong></em> Vous ratez automatiquement vos jets de sauvegarde de Force et de Dextérité.</p><p><em><strong>Effet sur les attaques.</strong></em> Les jets d'attaque contre vous ont l'&Reference[Advantage].</p>"
                 },
                 "Unconscious": {
-                    "name": "",
-                    "text": ""
+                    "name": "Inconscient",
+                    "text": "<p>Tant que vous avez l'état Inconscient, vous subissez les effets suivants.</p><p><em><strong>Inerte.</strong></em> Vous subissez les états &Reference[Prone] et &Reference[Incapacitated], et laissez choir tout ce que vous teniez. Lorsque cet état prend fin, vous êtes toujours À terre.</p><p><em><strong>Vitesse 0.</strong></em> Votre &Reference[Speed] est de O et ne peut pas augmenter.</p><p><em><strong>Effet sur les attaques.</strong></em> Les jets d'attaque contre vous ont l'&Reference[Advantage].</p><p><em><strong>Effet sur les jets de sauvegarde.</strong></em> Vous ratez automatiquement vos jets de sauvegarde de Force et de Dextérité.</p><p><em><strong>Coups critiques automatiques.</strong></em> Tout jet d'attaque qui vous touche est un Coup critique si l'assaillant qui la porte se trouve dans un rayon de 1,50 m.</p><p><em><strong>Dénué de conscience.</strong></em> Vous n'avez pas conscience de ce qui vous entoure.</p>"
                 },
                 "Hazard": {
-                    "name": "",
-                    "text": ""
+                    "name": "Danger",
+                    "text": "<p>Un danger est un péril lié à l'environnement. <em>Lire aussi</em> « @UUID[.gAvV8TLyS8UGq00x]{Asphyxie} », « @UUID[.lCwPWK4ODxw2IV1x]{Chute} », « @UUID[.FZFvLNOX0lHaHZ1k]{Déshydratation} », « @UUID[.mPBGM1vguT5IPzxT]{Embrasement} » et « @UUID[.earBo4vQPC1ti4g7]{Malnutrition} ».</p>"
                 },
                 "Burning": {
-                    "name": "",
-                    "text": ""
+                    "name": "Embrasement",
+                    "text": "<p>Une créature ou un objet victime d'embrasement subit [[/damage 1d4 type=fire]]{1d4} dégâts de feu au début de chacun de ses tours. Au prix d'une action, vous pouvez éteindre le feu sur vous-même en vous donnant l'état @UUID[.QxCrRcgMdUd3gfzz]{À terre} et en vous roulant au sol. Les flammes s'éteignent également si elles sont suffisamment arrosées ou plongées dans l'eau, ou étouffées d'une autre manière.</p>"
                 },
                 "Dehydration": {
-                    "name": "",
-                    "text": ""
+                    "name": "Déshydratation",
+                    "text": "<p>Une créature a besoin d'une certaine quantité d'eau par jour en fonction de sa catégorie de taille, comme indiqué dans la table « Besoins quotidiens en eau ». Une créature qui boit moins de la moitié de ses besoins quotidiens en eau reçoit 1 niveau d'Épuisement à la fin de la journée considérée. L'@UUID[.jSQtPgNm0i4f3Qi3]{Épuisement} provoqué par la déshydratation ne peut pas être dissipé tant que la créature n'a pas bu son quota d'eau pour une journée.</p><table><caption>Besoins quotidiens en eau</caption><thead><tr><th><p>Cat. de taille</p></th><th><p>Eau</p></th></tr></thead><tbody><tr><td><p>TP</p></td><td><p>1 litre</p></td></tr><tr><td><p>P</p></td><td><p>4 litres</p></td></tr><tr><td><p>M</p></td><td><p>4 litres</p></td></tr><tr><td><p>G</p></td><td><p>16 litres</p></td></tr><tr><td><p>TG</p></td><td><p>64 litres</p></td></tr><tr><td><p>Gig</p></td><td><p>256 litres</p></td></tr></tbody></table>"
                 },
                 "Falling": {
-                    "name": "",
-                    "text": ""
+                    "name": "Chute",
+                    "text": "<p>Au terme d'une chute, une créature subit [[/damage 1d6 type=bludgeoning]]{1d6} dégâts contondants par tranche de 3 m de chute, jusqu'à un maximum de [[/damage 20d6 type=bludgeoning]]{20d6}. La créature subit alors l'état @UUID[.QxCrRcgMdUd3gfzz]{À terre}, sauf si la chute ne lui a infligé aucun dégât.</p><p>Une créature qui tombe à l'eau ou dans un autre liquide peut jouer sa @UUID[.OhSIWaQ61dOp7S8M]{Réaction} pour effectuer un test de [[/check dc=15 ath]] ou de [[/check dc=15 acr]], afin d'y entrer par les pieds ou la tête. Si le test est réussi, les éventuels dégâts de chute sont réduits de moitié.</p>"
                 },
                 "Malnutrition": {
-                    "name": "",
-                    "text": ""
+                    "name": "Malnutrition",
+                    "text": "<p>Une créature a besoin d'une certaine quantité de nourriture par jour en fonction de sa catégorie de taille, comme indiqué dans la table « Besoins quotidiens en nourriture ». Une créature qui s'alimente, mais absorbe moins de la moitié de la nourriture nécessaire pour une journée doit réussir un jet de sauvegarde de [[/save dc=10 con]] sous peine de recevoir 1 niveau d'&Reference[exhaustion] à la fin de la journée. Une créature qui ne mange rien pendant 5 jours reçoit automatiquement 1 niveau d'Épuisement à la fin du cinquième jour, ainsi qu'un niveau supplémentaire à la fin de chaque jour suivant sans nourriture.</p><p>L'Épuisement provoqué par la malnutrition ne peut pas être éliminé tant que le créature n'a pas absorbé la totalité de son quota pour une journée.</p><table><caption>Besoins quotidiens en nourriture</caption><thead><tr><th><p>Cat. de taille</p></th><th><p>Nourriture</p></th><th></th><th><p>Cat. de taille</p></th><th><p>Nourriture</p></th></tr></thead><tbody><tr><td><p>TP</p></td><td><p>125 g</p></td><td></td><td><p>G</p></td><td><p>2 kg</p></td></tr><tr><td><p>P</p></td><td><p>0,5 kg</p></td><td></td><td><p>TG</p></td><td><p>8 kg</p></td></tr><tr><td><p>M</p></td><td><p>0,5 kg</p></td><td></td><td><p>Gig</p></td><td><p>32 kg</p></td></tr></tbody></table>"
                 },
                 "Suffocation": {
-                    "name": "",
-                    "text": ""
+                    "name": "Asphyxie",
+                    "text": "<p>Une créature peut retenir son souffle pendant un nombre de minutes égal à 1 + son modificateur de Constitution (minimum 30 secondes) avant que ne débute l'asphyxie. Lorsqu'une créature à bout de souffle commence à s'asphyxier, elle reçoit 1 niveau d'&Reference[Exhaustion] à la fin de chacun de ses tours. Lorsque la créature peut à nouveau respirer, elle supprime tous les niveaux d'Épuisement entraînés par l'asphyxie.</p>"
                 },
                 "Area of Effect": {
-                    "name": "",
-                    "text": ""
+                    "name": "Zone d'effet",
+                    "text": "<p>Chaque zone d'effet a un point d'origine, position depuis laquelle se déploient les énergies de l'effet. Les règles propres à chaque forme spécifient comment positionner ce point d'origine. Si toutes les lignes droites reliant le point d'origine à un endroit de la zone d'effet sont bloquées, cet endroit n'est pas inclus dans la zone d'effet. Pour bloquer une ligne, un obstacle doit offrir un Abri total. <em>Lire aussi</em> « @UUID[.pGXkTaY8kLgqQuDa]{Abri} ».</p><p>Si le créateur d'une zone d'effet place celle-ci en un point qu'il ne voit pas et qu'une obstruction (comme un mur) se dresse entre lui et ce point, le point d'origine se manifeste en réalité de son côté de l'obstacle.</p><p>Les descriptions de nombreux sorts et aptitudes précisent qu'ils ont une zone d'effet, qui prend en règle générale l'une des six formes ci-après. Ces formes sont définies ailleurs dans le présent glossaire :</p><h3>Cône</h3><p>@Embed[.JwK8XOkGSX9xE5Dc inline]</p><h3>Cube</h3><p>@Embed[.p5qUBMQO7shfNeCD inline]</p><h3>Cylindre</h3><p>@Embed[.i3ijpxEn5LuSO7C0 inline]</p><h3>Émanation</h3><p>@Embed[.eSsITWhcNMkoa9WP inline]</p><h3>Ligne</h3><p>@Embed[.T1ln1l6uKkkMuieP inline]</p><h3>Sphère</h3><p>@Embed[.LgpZdAOhTnSHGCNa inline]</p>"
                 },
                 "Cone": {
                     "name": "Cône",
@@ -3614,8 +3614,8 @@
                     "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.jZFp4R7tXsIqkiG3 inline]</p>"
                 },
                 "Emanation": {
-                    "name": "",
-                    "text": ""
+                    "name": "Émanation",
+                    "text": "<p>Une Émanation est une zone d'effet qui s'étend en ligne droite depuis une créature ou un objet, dans toutes les directions. L'effet qui crée une Émanation précise la distance à laquelle elle s'étend.</p><p>L'Émanation se déplace avec la créature ou l'objet qui est son origine, sauf en cas d'effet spécifié comme instantané ou immobile.</p><p>L'origine d'une Émanation (créature ou objet) n'est pas incluse dans la zone d'effet, sauf si son créateur en décide autrement.</p>"
                 },
                 "Line": {
                     "name": "Ligne",
@@ -3626,24 +3626,24 @@
                     "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.npdEWb2egUPnB5Fa inline]</p>"
                 },
                 "Attitude": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attitude",
+                    "text": "<p>Un monstre présente une attitude initiale envers un personnage joueur : &Reference[Friendly], &Reference[Hostile] ou &Reference[Indifferent]. <em>Lire aussi</em> « &Reference[Influence] ».</p>"
                 },
                 "Friendly": {
-                    "name": "",
-                    "text": ""
+                    "name": "Amicale",
+                    "text": "<p>Une créature Amicale vous considère sous un jour favorable. Vous avez l'Avantage aux tests de caractéristique visant à influencer une créature Amicale. <em>Lire aussi</em> « &Reference[Influence] ».</p>"
                 },
                 "Hostile": {
-                    "name": "",
-                    "text": ""
+                    "name": "Hostile",
+                    "text": "<p>Une créature Hostile vous considère sous un jour défavorable. Vous subissez le Désavantage aux tests de caractéristique visant à influencer une créature Hostile. <em>Lire aussi</em> « &Reference[Influence] ».</p>"
                 },
                 "Indifferent": {
-                    "name": "",
-                    "text": ""
+                    "name": "Indifférent",
+                    "text": "<p>Une créature Indifférente ne souhaite ni vous aider ni vous gêner. Indifférent est l'attitude par défaut des monstres. <em>Lire aussi</em> « &Reference[Influence] ».</p>"
                 },
                 "Speed": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vitesse",
+                    "text": "<p>Chaque créature dispose d'une Vitesse, expression de la distance en mètres qu'elle peut parcourir en se déplaçant pendant son tour. <em>Lire aussi</em> « @UUID[.a4CjDIEMeSbRaEjA]{Escalade} », « @UUID[.53c9JMqckHagYYB5]{Nage} », « @UUID[.zRZl7vdjzjqpazxn]{Reptation} », « @UUID[.aaJOlRhI1H6vAxt9]{Saut} », « @UUID[.ozHhbP8JVHCJAx0b]{Vol} » et « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{Combat} »).</p><p><em><strong>Vitesses spéciales.</strong></em> Certaines créatures ont des Vitesses spéciales de type Vitesse d'escalade, Vitesse de fouissement, Vitesse de nage ou Vitesse de vol, chacune étant définie dans le présent glossaire. Si vous disposez de plus d'un type de Vitesse, choisissez celle à laquelle vous recourez lors de votre déplacement ; vous pouvez passer d'une Vitesse à l'autre au cours du même déplacement. Chaque fois que vous changez de mode, soustrayez la distance déjà parcourue à la nouvelle Vitesse. Vous obtenez ainsi la distance que vous pouvez encore parcourir. Si cette soustraction vous donne 0 ou moins, vous ne pouvez pas recourir à la Vitesse résultante pour le déplacement en cours. Exemple : si vous disposez d'une Vitesse de 9 m et d'une Vitesse de vol de 12 m, vous pourriez voler 3 m, vous poser, marcher 3 m, puis reprendre les airs et voler sur 6 m de plus.</p><p><em><strong>Altérations de vos Vitesses.</strong></em> Si un effet augmente ou diminue momentanément votre Vitesse, toute Vitesse spéciale dont vous disposez augmente ou diminue du même montant pour la même durée. Si, par exemple, votre Vitesse est réduite à 0 et que vous disposez d'une Vitesse d'escalade, celle-ci est également réduite à 0. De même, si votre Vitesse est réduite de moitié et que vous disposez d'une Vitesse de vol, celle-ci est également réduite de moitié.</p>"
                 },
                 "Difficult Terrain": {
                     "name": "Terrain difficile",
@@ -3654,287 +3654,287 @@
                     "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.VWG9qe8PUNtS28Pw inline]</p><p><em>Lire aussi</em> « @UUID[.NSU7TjeJbJ0vVQaZ]{Vitesse} ».</p>"
                 },
                 "Climbing": {
-                    "name": "",
-                    "text": ""
+                    "name": "Escalade",
+                    "text": "<p>Lorsque vous escaladez, toute distance parcourue vous coûte le double de déplacement (le triple en @UUID[.9tzB6KQDTIuw1FlZ]{Terrain difficile}). Ignorez ce coût supplémentaire si vous disposez d'une Vitesse d'escalade et y recourez pour grimper.</p><p>À la discrétion du MD, gravir une surface glissante ou présentant peu de prises peut nécessiter de réussir un test de [[/check dc=15 ath]].</p>"
                 },
                 "Flying": {
                     "name": "Vol",
                     "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.0B1fxfmw0a48tPsc inline]</p><p><em>Lire aussi</em> « &Reference[Falling] » et « @UUID[.pBcRxpYx5FCVGThO]{Vitesse de vol} ».</p>"
                 },
                 "Jumping": {
-                    "name": "",
-                    "text": ""
+                    "name": "Saut",
+                    "text": "<p>Lorsque vous sautez, vous effectuez soit un saut en longueur (horizontal), soit un saut en hauteur (vertical).</p><p>@Embed[.NcSh8lVwlfk58VAO inline]</p><p>@Embed[.sy6xon5AxuIZV1ca inline]</p>"
                 },
                 "Swimming": {
-                    "name": "",
-                    "text": ""
+                    "name": "Nage",
+                    "text": "<p>Lorsque vous nagez, toute distance parcourue vous coûte le double de déplacement (le triple en @UUID[.9tzB6KQDTIuw1FlZ]{Terrain difficile}). Ignorez ce coût supplémentaire si vous disposez d'une Vitesse de nage et y recourez pour nager. Sur décision du MD, se déplacer sur une certaine distance en eau agitée peut nécessiter de réussir un test de [[/check dc=15 ath]].</p>"
                 },
                 "Hover": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vol stationnaire",
+                    "text": "<p>Certaines créatures peuvent rester en vol stationnaire, comme l'indique alors leur profil, et divers sorts et effets octroient cette même capacité. Le vol stationnaire vous empêche de tomber dans certaines circonstances. <em>Lire aussi</em> « @UUID[.ozHhbP8JVHCJAx0b]{Vol} ».</p>"
                 },
                 "Ability Check": {
-                    "name": "",
-                    "text": ""
+                    "name": "Test de caractéristique",
+                    "text": "<p>Un test de caractéristique est un &Reference[D20 Test] qui représente le recours à l'une des six caractéristiques, ou à une compétence spécifique associée à celle-ci, afin de surmonter une épreuve. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbD20Tests00000.JournalEntryPage.zU9fgQbLaVbJvPRX]{Maîtrise} »).</p>"
                 },
                 "Ability Score and Modifier": {
-                    "name": "",
-                    "text": ""
+                    "name": "Valeur et modificateur de caractéristique",
+                    "text": "<p>Toute créature dispose de six valeurs de caractéristique : Force, Dextérité, Constitution, Intelligence, Sagesse et Charisme, chacune dotée du modificateur correspondant. Ajoutez ce modificateur lorsque vous effectuez un &Reference[D20 Test] s'appuyant sur la caractéristique correspondante ou lorsqu'une règle vous demande de le faire. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbPlayingTheGam.JournalEntryPage.sIPPXW1mYE3O4xdc]{Les six caractéristiques} »).</p>"
                 },
                 "Advantage": {
-                    "name": "",
-                    "text": ""
+                    "name": "Avantage",
+                    "text": "<p>Si vous avez l'Avantage à un @UUID[.nxPH59t3iNtWJxnU]{Test d20}, lancez deux d20 et ne retenez que le résultat le plus élevé. Un jet ne peut pas être affecté par plus d'un Avantage, et l'Avantage et le Désavantage sur un même jet s'annulent.</p>"
                 },
                 "D20 Test": {
-                    "name": "",
-                    "text": ""
+                    "name": "Test d20",
+                    "text": "<p>La notion de Test d20 englobe les trois principaux jets de d20 du jeu : tests de caractéristique, jets d'attaque et jets de sauvegarde. Si un quelconque élément du jeu affecte les Tests d20, il affecte ces trois jets. Il appartient au MD de déterminer au cas par cas si un Test d20 se justifie. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbD20Tests00000]{D20 Tests} »).</p>"
                 },
                 "Disadvantage": {
-                    "name": "",
-                    "text": ""
+                    "name": "Désavantage",
+                    "text": "<p>Si vous avez le Désavantage à un &Reference[D20 Test]{Test d20}, lancez deux d20 et ne retenez que le résultat le plus faible. Un jet ne peut pas être affecté par plus d'un Désavantage, et l'Avantage et le Désavantage sur un même jet s'annulent.</p>"
                 },
                 "Adventure": {
-                    "name": "",
-                    "text": ""
+                    "name": "Aventure",
+                    "text": "<p>Une aventure est une succession de @UUID[.JEinwUMBhr5bP8PP]{rencontres}. Une histoire prend corps au fil des rencontres et aventures successives.</p>"
                 },
                 "Encounter": {
-                    "name": "",
-                    "text": ""
+                    "name": "Rencontre",
+                    "text": "<p>AnUne rencontre est une scène, au cours d'une aventure, qui repose sur au moins l'un des trois piliers fondateurs du jeu : interactions sociales, exploration et combat. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbSocialInterac]{Interactions sociales} », « @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{Exploration} » et « @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{Combat} »).</p>"
                 },
                 "Alignment": {
-                    "name": "",
-                    "text": ""
+                    "name": "Alignement",
+                    "text": "<p>L'alignement d'une créature illustre globalement ses valeurs éthiques et ses idéaux. L'alignement combine deux aspects : la moralité (bon, mauvais ou neutre) et le point de vue vis-à-vis de l'ordre (loyal, chaotique ou neutre). Ces deux facteurs autorisent neuf combinaisons, par exemple Loyal Bon et Neutre Mauvais. <em>Lire aussi</em> « Création de personnage » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.l4eqkEUGLVS2jBhO]{Création de votre personnage} »).</p>"
                 },
                 "Ally": {
-                    "name": "",
-                    "text": ""
+                    "name": "Allié",
+                    "text": "<p>Une créature est votre alliée si elle appartient à votre groupe d'aventuriers, si elle est votre amie ou figure dans votre camp lors d'un combat, ou encore s'il s'agit d'une créature que les règles ou le MJ désignent comme votre alliée.</p>"
                 },
                 "Cover": {
                     "name": "Abri",
-                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.W7f7PcRubNUMIq2S inline]</p><p>If behind more than one degree of cover, a target benefits only from the most protective degree. <em>See also</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{Combat}.</p>"
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.W7f7PcRubNUMIq2S inline]</p><p>Une cible qui se trouve derrière plus d'un type d'abri ne bénéficie que du degré le plus protecteur. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{Combat} »).</p>"
                 },
                 "Creature": {
-                    "name": "",
-                    "text": ""
+                    "name": "Créature",
+                    "text": "<p>Toutes les entités du jeu, y compris les personnages joueurs, sont des créatures. <em>Lire aussi</em> « @UUID[.H0gs01OOjU1EJBp9]{Type de créature} ».</p>"
                 },
                 "Creature Type": {
-                    "name": "",
-                    "text": ""
+                    "name": "Type de créature",
+                    "text": "<p>Toutes les créatures, y compris les personnages joueurs, sont associées à un type, catégorie propre au jeu. La plupart des personnages joueurs sont de type Humanoïde. Voici les types de créature du jeu :</p><ul><li><p>Aberration</p></li><li><p>Artificiel</p></li><li><p>Bête</p></li><li><p>Céleste</p></li><li><p>Dragon</p></li><li><p>Élémentaire</p></li><li><p>Fée</p></li><li><p>Fiélon</p></li><li><p>Géant</p></li><li><p>Humanoïde</p></li><li><p>Monstruosité</p></li><li><p>Mort-vivant</p></li><li><p>Plante</p></li><li><p>Vase</p></li></ul><p>Les types n'ont pas de règle en soi, mais certains éléments techniques du jeu affectent distinctement les créatures de types différents.</p>"
                 },
                 "Critical Hit": {
                     "name": "Coup critique",
-                    "text": ""
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.gFL1VhSEljL1zvje inline]</p><p><em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{Dégâts et soins} »).</p>"
                 },
                 "Curses": {
-                    "name": "",
-                    "text": ""
+                    "name": "Malédictions",
+                    "text": "<p>Certains effets du jeu maudissent une créature ou un objet. L'effet qui confère une malédiction définit comment agit celle-ci. Une malédiction peut être levée grâce aux sorts @UUID[Compendium.dnd5e.spells24.Item.phbsplRemoveCurs]{délivrance des malédictions} et @UUID[Compendium.dnd5e.spells24.Item.phbsplGreaterRes]{restauration suprême} ou par toute autre magie qui met explicitement fin aux malédictions.</p>"
                 },
                 "Damage": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dégâts",
+                    "text": "<p>Les dégâts sont la représentation chiffrée des préjudices qui font perdre des points de vie à une créature ou à un objet.</p>"
                 },
                 "Damage Roll": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jet de dégâts",
+                    "text": "<p>Un jet de dégâts est un jet de dés, ajusté par tout modificateur applicable, qui inflige des dégâts à une cible. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{Dégâts et soins} »).</p>"
                 },
                 "Damage Threshold": {
-                    "name": "",
-                    "text": ""
+                    "name": "Seuil de dégâts",
+                    "text": "<p>Une créature ou un objet présentant un seuil de dégâts a l'Immunité contre tous les dégâts, sauf quand une même attaque ou un même effet lui inflige une somme de dégâts supérieure à ce seuil, auquel cas il subit pleinement les dégâts considérés. Les dégâts inférieurs à ce seuil, considérés comme superficiels, ne réduisent en rien les points de vie. Si, par exemple, un objet présente un seuil de dégâts de 10, il ne subit aucun dégât si 9 dégâts lui sont infligés, ces dégâts étant inférieurs au seuil. Si le même objet subit 11 points de dégâts, il les subit intégralement.</p>"
                 },
                 "Damage Types": {
-                    "name": "",
-                    "text": ""
+                    "name": "Types de dégâts",
+                    "text": "<p>Les attaques et autres effets néfastes infligent des types de dégâts différents. En soi, les types de dégâts n'ont pas de règles propres, mais d'autres règles, comme la Résistance aux dégâts, prennent ces types en compte. La table « Types de dégâts » fournit au MJ des exemples lui permettant de déterminer quel type assigner à un nouvel effet.</p><table><caption>Types de dégâts</caption><thead><tr><th><p>Type</p></th><th><p>Exemples</p></th></tr></thead><tbody><tr><td><p>Acide</p></td><td><p>Liquides corrosifs, enzymes digestives</p></td></tr><tr><td><p>Contondants</p></td><td><p>Objets contondants, constriction, chute</p></td></tr><tr><td><p>Feu</p></td><td><p>Flammes, chaleur insupportable</p></td></tr><tr><td><p>Force</p></td><td><p>Énergie magique à l'état pur</p></td></tr><tr><td><p>Foudre</p></td><td><p>Électricité</p></td></tr><tr><td><p>Froid</p></td><td><p>Eau glacée, souffle glacial</p></td></tr><tr><td><p>Nécrotiques</p></td><td><p>Énergie qui siphonne la vie</p></td></tr><tr><td><p>Perforants</p></td><td><p>Crocs, objets pointus</p></td></tr><tr><td><p>Poison</p></td><td><p>Gaz toxique, venin</p></td></tr><tr><td><p>Psychiques</p></td><td><p>Énergie qui attaque l'esprit</p></td></tr><tr><td><p>Radiants</p></td><td><p>Énergie sacrée, radiations brûlantes</p></td></tr><tr><td><p>Tonnerre</p></td><td><p>Son tonitruant</p></td></tr><tr><td><p>Tranchants</p></td><td><p>Griffes, objets coupants</p></td></tr></tbody></table>"
                 },
                 "Death Saving Throw": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jet de sauvegarde contre la mort",
+                    "text": "<p>Un personnage joueur effectue un jet de sauvegarde contre la mort (JS contre la mort en abrégé) s'il débute son tour avec 0 point de vie. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{Dégâts et soins} »).</p>"
                 },
                 "Dead": {
-                    "name": "",
-                    "text": ""
+                    "name": "Mort",
+                    "text": "<p>Une créature morte n'a pas de points de vie et ne peut pas en récupérer à moins d'être au préalable ranimée par une magie telle que le sort rappel à la vie ou retour à la vie. Lorsqu'un tel sort est lancé, l'esprit sait qui en est l'auteur et peut refuser. L'esprit d'une créature défunte a quitté son corps pour s'envoler vers les Plans Extérieurs, et pour ranimer la créature, il faut rappeler cet esprit.</p><p>Si la créature revient à la vie, c'est l'effet employé pour ce faire qui détermine ses points de vie actuels. Sauf mention contraire, la créature revient à la vie avec tous les états, contagions magiques et malédictions qui l'affectaient au moment de sa mort, pour peu que la durée de ces effets coure encore. Si la créature est morte avec des niveaux d'@UUID[.jSQtPgNm0i4f3Qi3]{Épuisement}, elle revient à la vie avec 1 niveau de moins. Si la créature était harmonisée avec un ou plusieurs objets magiques, elle ne l'est plus.</p>"
                 },
                 "Difficulty Class": {
-                    "name": "",
-                    "text": ""
+                    "name": "Degré de difficulté",
+                    "text": "<p>Dans le cadre des tests de caractéristique et des jets de sauvegarde, le nombre cible est appelé degré de difficulté ou DD en abrégé. <em>Lire aussi</em> Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbD20Tests00000]{Tests d20} »).</p>"
                 },
                 "Enemy": {
-                    "name": "",
-                    "text": ""
+                    "name": "Ennemi",
+                    "text": "<p>Une créature est votre ennemie si elle s'oppose à vous lors d'un combat, œuvre activement à vous nuire ou est désignée comme votre ennemie par les règles ou le MJ.</p>"
                 },
                 "Experience Points": {
-                    "name": "",
-                    "text": ""
+                    "name": "Points d'expérience",
+                    "text": "<p>Relever des défis et terminer une aventure permet aux personnages d'engranger des points d'expérience (PX en abrégé), qui leur sont attribués par le maître de jeu. Lorsque le total de PX d'un personnage dépasse un certain seuil, son niveau de personnage augmente. <em>Lire aussi</em> « @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.Vz5QcYKA74tWkDqy]{Progression en niveaux} ».</p>"
                 },
                 "Expertise": {
-                    "name": "",
-                    "text": ""
+                    "name": "Expertise",
+                    "text": "<p>L'Expertise est une aptitude qui améliore l'efficacité d'une maîtrise de compétence. Lorsque vous effectuez un test de caractéristique avec une maîtrise de compétence pour laquelle vous avez l'Expertise, votre bonus de maîtrise est doublé pour ce test, sauf s'il est déjà doublé par une autre aptitude.</p><p>Si vous recevez l'Expertise, vous la recevez pour une compétence dont vous avez la maîtrise. Vous ne pouvez pas avoir l'Expertise plus d'une fois pour une même maîtrise de compétence.</p><p><em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbD20Tests00000.JournalEntryPage.zU9fgQbLaVbJvPRX]{Maîtrise} »).</p>"
                 },
                 "Fly Speed": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vitesse de vol",
+                    "text": "<p>Une Vitesse de vol permet de se déplacer dans les airs. Tant que vous disposez d'une Vitesse de vol, vous restez en l'air jusqu'à ce que vous vous posiez, tombiez ou mouriez. <em>Lire aussi</em> « &Reference[Flying]{Vol} » et « &Reference[Speed] ».</p>"
                 },
                 "Burrow Speed": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vitesse de fouissement",
+                    "text": "<p>Une créature dotée d'une Vitesse de fouissement peut profiter de cette Vitesse pour se mouvoir dans le sable, la terre, la boue ou la glace. La créature ne peut pas évoluer dans le roc, sauf si elle dispose d'un trait spécial qui lui permet de le faire. <em>Lire aussi</em> « &Reference[Speed] ».</p>"
                 },
                 "Climb Speed": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vitesse d'escalade",
+                    "text": "<p>Une Vitesse d'escalade peut remplacer la &reference[Speed] pour traverser une surface verticale sans avoir à dépenser le déplacement supplémentaire ordinairement associé à l'escalade. <em>Lire aussi</em> « @UUID[.a4CjDIEMeSbRaEjA]{Escalade} ».</p>"
                 },
                 "Swim Speed": {
-                    "name": "",
-                    "text": ""
+                    "name": "Vitesse de nage",
+                    "text": "<p>Une Vitesse de nage permet de nager sans la dépense de déplacement supplémentaire ordinairement associée à la nage. <em>Lire aussi</em> « @UUID[.53c9JMqckHagYYB5]{Nage} » et « &Reference[Speed] ».</p>"
                 },
                 "Grappling": {
                     "name": "Lutte",
                     "text": "<p>Une créature peut tenter d'en agripper une autre. Les personnages agrippent généralement au moyen d'une attaque à mains nues. De nombreux monstres sont dotés d'attaques spéciales leur permettant de rapidement agripper leur proie. Quelle que soit la façon dont la lutte est engagée, elle obéit aux règles ci-après. <em>Lire aussi</em> « @UUID[.2Uvc5myrDs18Cf19]{Attaque à mains nues} » et « &Reference[Grappled] ».</p><p><em><strong>État Agrippé.</strong></em> Réussir à agripper une créature lui inflige l'état Agrippé.</p><p><em><strong>Une lutte par « main ».</strong></em> Une créature doit avoir une « main » libre pour en agripper une autre. Certains profils et effets du jeu autorisent une créature à engager la lutte avec un tentacule, ses mâchoires ou une autre partie de son corps. Quelle que soit la partie du corps utilisée par l'agrippeur, il ne peut agripper qu'une seule créature à la fois avec cette partie, et l'agrippeur doit mettre fin à la lutte s'il souhaite utiliser cette partie de son anatomie pour cibler une autre créature.</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.2TZKy9YbMN3ZY3h8 inline]</p>"
                 },
                 "Unarmed Strike": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attaque à mains nues",
+                    "text": "<p>Au lieu d'utiliser une arme pour effectuer une attaque de corps à corps, vous pouvez recourir à un coup de poing, de pied ou de tête, ou autre frappe violente. En termes de jeu, on parle alors d'attaque à mains nues : une attaque de corps à corps qui vous demande d'utiliser votre corps pour infliger des dégâts, agripper ou bousculer une cible située dans un rayon de 1,50 m.</p><p>Chaque fois que vous recourez à votre attaque à mains nues, choisissez l'une des options suivantes pour son effet.</p><p><em><strong>Bousculade.</strong></em> La cible doit réussir un jet de sauvegarde de Force ou de Dextérité (c'est elle qui choisit), faute de quoi vous la poussez sur 1,50 m ou lui infligez l'état @UUID[.QxCrRcgMdUd3gfzz]{À terre}. Le DD du jet de sauvegarde est égal à 8 + votre modificateur de Force + votre bonus de maîtrise. Cette bousculade n'est possible que si la catégorie de taille de la cible n'est pas supérieure à la vôtre de plus d'un cran.</p><p><em><strong>Dégâts.</strong></em> Vous effectuez un jet d'attaque contre la cible. Le bonus au jet est égal à votre modificateur de Force + votre bonus de maîtrise. Si l'attaque touche, la cible subit un montant de dégâts contondants égal à 1 + votre modificateur de Force.</p><p><em><strong>Lutte.</strong></em> La cible doit réussir un jet de sauvegarde de Force ou de Dextérité (c'est elle qui choisit) sous peine de subir l'état @UUID[.KbQ1k0OIowtZeQgp]{Agrippé}. Le DD du jet de sauvegarde et des tentatives d'évasion est égal à 8 + votre modificateur de Force + votre bonus de maîtrise. Cette lutte n'est possible que si la catégorie de taille de la cible n'est pas supérieure à la vôtre de plus d'un cran et si vous disposez d'une main libre pour vous saisir d'elle. <em>Lire aussi</em> « @UUID[.YSLWJcQCP6kzsPql]{Lutte} ».</p>"
                 },
                 "Healing": {
-                    "name": "",
-                    "text": ""
+                    "name": "Soins",
+                    "text": "<p>Les soins permettent de récupérer des points de vie. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{Dégâts et soins} »).</p>"
                 },
                 "Heroic Inspiration": {
-                    "name": "",
-                    "text": ""
+                    "name": "Inspiration héroïque",
+                    "text": "<p>Si vous, personnage joueur, disposez de l'Inspiration héroïque, vous pouvez la dépenser pour rejouer aussitôt tout dé que vous venez de lancer, à condition de conserver ce nouveau jet.</p><p>Si vous recevez l'Inspiration héroïque et l'avez déjà, elle est perdue, sauf si vous la donnez à un personnage joueur qui en est dépourvu.</p>"
                 },
                 "Hit Points": {
                     "name": "Points de vie",
-                    "text": ""
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.PFbzoMBviI2DD9QP inline]</p><p><em>Lire aussi</em> « @UUID[.RXTLVpAwcGm1qtKf]{Bris des objets} » et « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{Dégâts et soins} »).</p>"
                 },
                 "Hit Point Dice": {
-                    "name": "",
-                    "text": ""
+                    "name": "Dés de vie",
+                    "text": "<p>Les dés de vie, ou DV en abrégé, permettent de déterminer le maximum de points de vie d'un personnage joueur, comme expliqué au chapitre 2. La plupart des monstres ont également des DV. Une créature peut dépenser des DV pour récupérer des points de vie pendant un @UUID[.wVuNbEADtC16ejAi]{Repos court}.</p>"
                 },
                 "Short Rest": {
-                    "name": "",
-                    "text": ""
+                    "name": "Repos court",
+                    "text": "<p>Un Repos court est une période d'inactivité d'au moins 1 heure durant laquelle une créature ne fait rien de plus fatigant que se restaurer, discuter, lire ou monter la garde. Pour commencer un Repos court, vous devez avoir au moins 1 point de vie.</p><p><em><strong>Bénéfices du repos.</strong></em>Terminer un Repos court vous permet de recevoir les bénéfices suivants :</p><p><strong>Dépense de dés de vie.</strong> Vous pouvez dépenser un ou plusieurs de vos dés de vie pour récupérer des points de vie. Pour chaque dé de vie ainsi dépensé, jetez le dé et ajoutez-lui votre modificateur de Constitution. Vous récupérez autant de points de vie que le total obtenu (minimum 1). Après chaque dé de vie lancé, vous pouvez décider d'en dépenser d'autres.</p><p><strong>Aptitudes spéciales.</strong> Certaines aptitudes sont rechargées au terme d'un Repos court. Si vous disposez de telles aptitudes, elles se rechargent de la façon stipulée dans leur description.</p><p><em><strong>Repos interrompu.</strong></em> Le Repos court est interrompu par les événements suivants :</p><ul><li>Déterminer l'Initiative</li><li>Lancer un sort autre qu'un sort mineur</li><li>Subir des dégâts</li></ul><p>Un Repos court interrompu n'octroie aucun bénéfice.</p>"
                 },
                 "Long Rest": {
-                    "name": "",
-                    "text": ""
+                    "name": "Repos long",
+                    "text": "<p>Le Repos long est une période prolongée d'inactivité d'au moins 8 heures, disponible pour toute créature. Pendant un Repos long, vous dormez au moins 6 heures et accomplissez de menues tâches pendant un maximum de 2 heures : se restaurer, discuter, lire ou monter la garde.</p><p>Le sommeil vous impose l'état &Reference[Unconscious]. Après avoir terminé un Repos long, vous devez attendre au moins 16 heures avant d'en commencer un autre.</p><p><em><strong>Bénéfices du repos.</strong></em> Pour commencer un Repos long, vous devez avoir au moins 1 point de vie. Terminer un Repos long vous permet de recevoir les bénéfices suivants :</p><p><strong>Récupération de tous les pv.</strong> Vous récupérez tous les points de vie perdus et tous les dés de vie dépensés. Si votre maximum de points de vie avait été réduit, il revient à la normale.</p><p><strong>Récupération des valeurs de caractéristique.</strong> Si une ou plusieurs de vos valeurs de caractéristique avait été réduite, toutes reviennent à la normale.</p><p><strong>Réduction de l'Épuisement.</strong> Si vous subissez l'état &Reference[Exhaustion], le niveau de celui-ci diminue de 1.</p><p><strong>Aptitudes spéciales.</strong> Certaines aptitudes sont rechargées au terme d'un Repos long. Si vous disposez de telles aptitudes, elles se rechargent de la façon stipulée dans leur description.</p><p><em><strong>Repos interrompu.</strong></em> Le Repos long est interrompu par les événements suivants :</p><ul><li>Déterminer l'Initiative</li><li>Lancer un sort autre qu'un sort mineur</li><li>Subir des dégâts</li><li>1 heure de marche ou autre effort physique comparable</li></ul><p>Si vous vous êtes reposé au moins 1 heure avant l'interruption, vous recevez les bénéfices d'un @UUID[.wVuNbEADtC16ejAi]{Repos court}.</p><p>Vous pouvez reprendre un Repos long immédiatement après son interruption. Dans pareil cas, terminer le repos nécessite 1 heure de plus par interruption.</p>"
                 },
                 "Illusions": {
-                    "name": "",
-                    "text": ""
+                    "name": "Illusions",
+                    "text": "<p>Les sorts et certains effets créent parfois des illusions magiques. L'effet considéré définit ce que fait l'illusion, et quels sens ou facultés mentales elle abuse.</p><p>Si une illusion se manifeste dans l'espace, elle a beau être intangible et dénuée de poids, elle paraît affectée par l'environnement comme si elle était réelle, à moins que l'effet qui l'a créée ne spécifie le contraire. L'illusion visuelle d'une créature, par exemple, projette une ombre et des reflets, et le vent semble affecter la créature illusoire. De même, une illusion auditive se réverbère dans un espace avec écho.</p>"
                 },
                 "Immunity": {
-                    "name": "",
-                    "text": ""
+                    "name": "Immunité",
+                    "text": "<p>Si vous bénéficiez de l'Immunité contre un type de dégâts ou un état, celui-ci ne vous affecte en aucune manière.</p>"
                 },
                 "Improvised Weapons": {
-                    "name": "",
-                    "text": ""
+                    "name": "Armes improvisées",
+                    "text": "<p>Une arme improvisée est un objet utilisé pour dépanner comme arme ; bouteille cassée, pied de table, poêle à frire, etc. Une arme courante ou de guerre est elle aussi considérée comme une arme improvisée si l'on s'en sert sans tenir compte de sa conception initiale ; si vous utilisez une arme à distance pour effectuer une attaque de corps à corps ou jetez une arme de corps à corps dépourvue de la propriété Lancer, l'arme est alors considérée comme une arme improvisée. Une arme improvisée obéit aux règles ci-dessous.</p><p><em><strong>Maîtrise.</strong></em> N'ajoutez pas votre bonus de maîtrise aux jets d'attaque avec une arme improvisée.</p><p><em><strong>Dégâts.</strong></em> Si l'attaque touche, l'arme inflige [[/damage 1d4]] dégâts d'un type que le MJ juge adapté à l'objet.</p><p><em><strong>Portée.</strong></em> Si vous lancez l'arme, sa portée normale est de 6 m et sa portée longue de 18 m.</p><p><em><strong>Arme équivalente.</strong></em> Quand une arme improvisée est comparable à une arme courante ou de guerre, le MJ peut statuer qu'elle s'utilise de la même manière et obéit aux mêmes règles. Il peut ainsi considérer qu'un pied de table équivaut à un gourdin.</p>"
                 },
                 "Initiative": {
                     "name": "Initiative",
-                    "text": ""
+                    "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.RcwElV4GAcVXKWxo inline]</p><p><em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{Combat} »).</p>"
                 },
                 "Knocking Out a Creature": {
-                    "name": "",
-                    "text": ""
+                    "name": "Assommer une créature",
+                    "text": "<p>Lorsque vous êtes censé faire tomber une créature à 0 point de vie avec une attaque de corps à corps, vous pouvez en réalité la réduire à 1 point de vie. La créature subit alors l'état @UUID[.fZCRaKEJd4KoQCqH]{Inconscient} et entame un @UUID[.wVuNbEADtC16ejAi]{Repos court}.</p><p>Cette créature subit l'état Inconscient jusqu'à ce qu'elle récupère des points de vie ou que quelqu'un d'autre consacre son action à lui administrer les premiers soins, ce qui nécessite de réussir un test de [[/check dc=10 med]].</p>"
                 },
                 "Magical Effect": {
-                    "name": "",
-                    "text": ""
+                    "name": "Effet magique",
+                    "text": "<p>Un effet est qualifié de magique s'il est créé par un sort, un objet magique ou un phénomène qu'une règle qualifie de magique.</p>"
                 },
                 "Monster": {
-                    "name": "",
-                    "text": ""
+                    "name": "Monstre",
+                    "text": "<p>Toute créature sous le contrôle du MJ est un monstre, même si elle est bien intentionnée. <em>Lire aussi</em> « @UUID[.qt6cd0mBRQhsElwd]{Créature} » et « @UUID[.VNSwzt3GIwcM3Iil]{PNJ} ».</p>"
                 },
                 "Nonplayer Character (NPC)": {
-                    "name": "",
-                    "text": ""
+                    "name": "Personnage non-joueur (PNJ)",
+                    "text": "<p>Un personnage non-joueur (PNJ en abrégé) est un monstre qui possède un nom et une personnalité distincte. <em>Lire aussi</em> « @UUID[.gTBHin4uKrs9cjjW]{Monstre} ».</p>"
                 },
                 "Object": {
-                    "name": "",
-                    "text": ""
+                    "name": "Objet",
+                    "text": "<p>Un objet est une chose qui ne vit pas, mais que l'on peut désigner. Les bâtiments et les assemblages sont faits de plusieurs objets. <em>Lire aussi</em> « @UUID[.RXTLVpAwcGm1qtKf]{Bris des objets} ».</p>"
                 },
                 "Occupied Space": {
-                    "name": "",
-                    "text": ""
+                    "name": "Espace occupé",
+                    "text": "<p>Un espace est qualifié d'occupé si une créature s'y trouve ou s'il est entièrement rempli par des objets.</p>"
                 },
                 "Opportunity Attacks": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attaques d'Opportunité",
+                    "text": "<p>Vous pouvez effectuer une attaque d'Opportunité lorsqu'une créature que vous voyez quitte votre zone d'allonge en recourant à son action, à une action Bonus, à sa Réaction ou à l'une de ses Vitesses. L'attaque d'Opportunité consiste à jouer votre Réaction pour effectuer une attaque de corps à corps avec arme, ou une attaque à mains nues, contre la créature qui l'a provoquée. L'attaque intervient juste avant que la créature soit sortie de votre zone d'allonge. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{Combat} »).</p>"
                 },
                 "Passive Perception": {
-                    "name": "",
-                    "text": ""
+                    "name": "Perception passive",
+                    "text": "<p>La Perception passive est une valeur qui reflète le degré de vigilance d'une créature vis-à-vis de ce qui l'entoure. Le MJ utilise cette valeur pour déterminer si une créature remarque quelque chose sans effectuer consciemment un test de Sagesse (Perception).</p><p>La Perception passive d'une créature est égale à 10 + son bonus aux tests de Sagesse (Perception). Si la créature a l'Avantage à ce test, augmentez la valeur de 5. Si la créature subit le &Reference[Disadvantage], diminuez cette même valeur de 5. La Perception passive d'un personnage de niveau 1 avec une Sagesse de 15 et la maîtrise de la compétence Perception, par exemple, est de 14 (10 + 2 + 2). Si ce personnage a l'Avantage aux tests de Sagesse (Perception), cette valeur passe à 19.</p>"
                 },
                 "Per Day": {
-                    "name": "",
-                    "text": ""
+                    "name": "Par jour",
+                    "text": "<p>Si une règle stipule que vous pouvez recourir à quelque chose un certain nombre de fois par jour, cela signifie que vous devez terminer un @UUID[.NGmwolHLA5ppbIZY]{Repos long} avant de pouvoir y recourir de nouveau une fois épuisé votre quota d'utilisations.</p>"
                 },
                 "Player Character": {
-                    "name": "",
-                    "text": ""
+                    "name": "Personnage joueur",
+                    "text": "<p>Un personnage joueur (PJ en abrégé) est une personnage contrôlé par un joueur. <em>Lire aussi</em> « @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar]{Création de personnage} ».</p>"
                 },
                 "Possession": {
-                    "name": "",
-                    "text": ""
+                    "name": "Possession",
+                    "text": "<p>Certains effets font qu'une créature se retrouve possédée par une autre créature ou entité. Un effet de possession définit le mode de fonctionnement de la possession. La possession est empêchée par le sort @UUID[Compendium.dnd5e.spells24.Item.phbEvilAndGoodPr]{protection contre le mal et le bien} et dissipée par @UUID[Compendium.dnd5e.spells24.Item.phbsplDispelEvil]{dissipation du mal et du bien}.</p>"
                 },
                 "Proficiency": {
-                    "name": "",
-                    "text": ""
+                    "name": "Maîtrise",
+                    "text": "<p>Si vous avez la maîtrise de quelque chose, vous ajoutez votre bonus de maîtrise à tout @UUID[.nxPH59t3iNtWJxnU]{Test d20} effectué pour y recourir. Une créature peut posséder la maîtrise d'une compétence, d'un jet de sauvegarde, d'une arme ou d'un outil. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbD20Tests00000.JournalEntryPage.zU9fgQbLaVbJvPRX]{Maîtrise} »).</p>"
                 },
                 "Resistance": {
-                    "name": "",
-                    "text": ""
+                    "name": "Résistance",
+                    "text": "<p>Si vous bénéficiez de la Résistance à un type de dégâts, ces dégâts sont réduits de moitié contre vous. La Résistance ne s'applique qu'une seule fois à des dégâts donnés. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{Dégâts et soins} »).</p>"
                 },
                 "Ritual": {
-                    "name": "",
-                    "text": ""
+                    "name": "Rituel",
+                    "text": "<p>Si l'un de vos sorts préparés porte la mention « rituel », vous pouvez le lancer sous forme de rituel. Lancer le sort sous forme de rituel nécessite 10 minutes de plus que l'incantation normale. En revanche, cela ne dépense aucun emplacement, c'est pourquoi un sort lancé comme rituel ne peut l'être à un niveau supérieur à la normale. <em>Lire aussi</em> « @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000]{Sorts} ».</p>"
                 },
                 "Round Down": {
-                    "name": "",
-                    "text": ""
+                    "name": "Arrondis à l'inférieur",
+                    "text": "<p>Chaque fois que vous divisez ou multipliez un nombre dans le jeu et que vous obtenez une fraction, arrondissez à l'entier inférieur même si cette fraction est d'un demi ou plus. Certaines règles constituent une exception en vous indiquant d'arrondir à l'entier supérieur.</p>"
                 },
                 "Save": {
-                    "name": "",
-                    "text": ""
+                    "name": "JS",
+                    "text": "<p>JS est l'acronyme de « jet de sauvegarde ». <em>Lire aussi</em> « @UUID[.Vlri6Mp6grn9wt3g]{Jet de sauvegarde} ».</p>"
                 },
                 "Saving Throw": {
-                    "name": "",
-                    "text": ""
+                    "name": "Jet de sauvegarde",
+                    "text": "<p>Un jet de sauvegarde, ou JS en abrégé, représente une tentative d'échapper à une menace ou d'y résister. Vous n'effectuez en temps normal un jet de sauvegarde que lorsqu'une règle vous y contraint, mais vous pouvez décider de rater ce JS sans faire de jet. Le résultat d'un JS est détaillé dans l'effet qui l'a provoqué. Si une cible contrainte d'effectuer un JS ne dispose pas de la valeur de caractéristique associée, elle échoue automatiquement. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbD20Tests00000]{Tests d20} »).</p>"
                 },
                 "Shape-Shifting": {
-                    "name": "",
-                    "text": ""
+                    "name": "Métamorphes",
+                    "text": "<p>Si un effet, tel que @UUID[Compendium.dnd5e.classes24.Item.phbdrdWildShape0]{Forme sauvage} ou le sort @UUID[Compendium.dnd5e.spells24.Item.phbsplPolymorph0]{métamorphose}, vous permet de changer de forme, sa description précise ce qui vous arrive. Sauf indication contraire dans la description, tous les effets continus qui vous affectent (états, sorts, malédictions, etc.) se répercutent d'une forme à l'autre. Si vous mourez, vous reprenez votre forme véritable.</p>"
                 },
                 "Simultaneous Effects": {
-                    "name": "",
-                    "text": ""
+                    "name": "Effets simultanés",
+                    "text": "<p>Si deux événements ou plus se produisent en même temps lors d'un même tour, la personne à la table de jeu (qu'il s'agisse d'un joueur ou du MJ) dont c'est le tour décide de l'ordre dans lequel ces choses se produisent. Si, par exemple, deux effets se produisent au début du tour d'un personnage joueur, le joueur décide lequel des effets se produit en premier.</p>"
                 },
                 "Size": {
-                    "name": "",
-                    "text": ""
+                    "name": "Cat. de taille",
+                    "text": "<p>Une créature ou un objet appartient à une catégorie de taille parmi celles ci-dessous : très petite (taille TP), petite (taille P), moyenne (taille M), grande (taille G), très grande (taille TG) ou gigantesque (taille Gig). La catégorie de taille d'une créature détermine l'espace qu'elle occupe en combat. La taille d'un objet détermine ses points de vie. <em>Lire aussi</em> « @UUID[.RXTLVpAwcGm1qtKf]{Bris des objets} » et « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{Combat} »).</p>"
                 },
                 "Skill": {
-                    "name": "",
-                    "text": ""
+                    "name": "Compétence",
+                    "text": "<p>Une compétence est un domaine de spécialisation associé à un test de caractéristique. Si vous avez la maîtrise d'une compétence, ajoutez votre bonus de maîtrise lorsque vous effectuez un test de caractéristique associé à cette compétence. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbD20Tests00000.JournalEntryPage.zU9fgQbLaVbJvPRX]{Maîtrise} »).</p>"
                 },
                 "Spell": {
-                    "name": "",
-                    "text": ""
+                    "name": "Sort",
+                    "text": "<p>Un sort est un effet magique dont les propriétés sont décrites à « @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.dWVioXxEGjcPsI9Y]{Sorts} ».</p>"
                 },
                 "Spell Attack": {
-                    "name": "",
-                    "text": ""
+                    "name": "Attaque de sort",
+                    "text": "<p>Une attaque de sort est un jet d'attaque effectué dans le cadre d'un sort ou d'un autre effet magique. <em>Lire aussi</em> « Sorts » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.iBFe4NyaCUinDoz3]{Incantation} »).</p>"
                 },
                 "Spellcasting Focus": {
-                    "name": "",
-                    "text": ""
+                    "name": "Focaliseur d'incantation",
+                    "text": "<p>Un focaliseur d'incantation est un objet que certaines créatures peuvent utiliser à la place des composantes matérielles d'un sort, à la condition que ces dernières ne soient pas détruites par le sort et n'aient pas de coût spécifié. Certaines classes autorisent leurs membres à utiliser divers types de focaliseur d'incantation. <em>Lire aussi</em> « Sorts » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.iBFe4NyaCUinDoz3]{Incantation} »).</p>"
                 },
                 "Stable": {
-                    "name": "",
-                    "text": ""
+                    "name": "Stabilisé",
+                    "text": "<p>Une créature est dite « Stabilisée » si elle a O point de vie mais n'a pas à effectuer de @UUID[.VtyVX7M159v6UVqG]{jets de sauvegarde contre la mort}. <em>Lire aussi</em> « Comment jouer » (« @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{Dégâts et soins} »).</p>"
                 },
                 "Stat Block": {
-                    "name": "",
+                    "name": "Profil",
                     "text": ""
                 },
                 "Surprise": {
